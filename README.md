@@ -1,4 +1,4 @@
-# x-web3cave-template
+# 7-Decrypt
 
 
 1. Get data from `flat-data-template`
@@ -7,7 +7,7 @@
 
 3. Open `Github Page` on Settings
 
-4. Visit data on [https://web3cave.github.io/x-web3cave-template](https://web3cave.github.io/x-web3cave-template)
+4. Visit data on [https://web3cave.github.io/7-Decrypt](https://web3cave.github.io/7-Decrypt)
 
 
 
