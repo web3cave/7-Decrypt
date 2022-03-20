@@ -1,2489 +1,909 @@
 {
   "sources": [
     {
-      "title": "Dao Tools RSS",
-      "feedUrl": "https://web3cave.github.io/flat-data-template/data.xml",
-      "siteUrl": "https://web3cave.github.io/flat-data-template/data.xml",
+      "title": "Decrypt",
+      "feedUrl": "https://decrypt.co/feed",
+      "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
-          "id": "https://astrodao.com/",
-          "author": null,
-          "description": "Empower groups on NEAR",
-          "link": "https://astrodao.com/",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 9,
-          "title": "Astro",
-          "imageUrl": null
+          "id": "https://decrypt.co/?p=95519",
+          "author": "Daniel Roberts",
+          "description": "Regulating crypto likely includes painting \"a broader, more holistic, more accurate picture of the community,\" Andrew Yang says on the gm podcast.",
+          "link": "https://decrypt.co/95519/crypto-on-dc-menu-andrewyang-gm-podcast",
+          "publishedOn": "2022-03-20T14:37:12.000Z",
+          "wordCount": 816,
+          "title": "'The Days of Crypto Being Off of DC's Menu Are Very Quickly Coming to an End': Andrew Yang",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2019/10/andrew-yang-crypto-blockchain-date-personal-gID_1.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2019/10/andrew-yang-crypto-blockchain-date-personal-gID_1.jpg"
         },
         {
-          "id": "https://twitter.com/nowdaoit",
+          "id": "https://decrypt.co/videos/interviews/HVAiKHOT/andrew-yang-on-crypto-regulation-in-dc-this-train-is-coming-whats-the-cargo",
           "author": null,
-          "description": "No code platform for launching DAOs",
-          "link": "https://twitter.com/nowdaoit",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "DAOHaus",
-          "imageUrl": null
+          "description": "Andrew Yang, the former presidential and NYC mayoral candidate, talked crypto regulation in DC on Decrypt's gm podcast with Dan Roberts and Jeff Roberts. Yang says the days of little or no crypto regulation in DC are \"very very quickly coming to end\" and that the question now is what the new rules will look like.",
+          "link": "https://decrypt.co/videos/interviews/HVAiKHOT/andrew-yang-on-crypto-regulation-in-dc-this-train-is-coming-whats-the-cargo",
+          "publishedOn": "2022-03-20T13:13:00.000Z",
+          "wordCount": 154,
+          "title": "Andrew Yang on Crypto Regulation in DC: 'This Train Is Coming. What's the Cargo?'",
+          "enclosure": {
+            "url": "https://cdn.jwplayer.com/v2/media/HVAiKHOT/poster.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.jwplayer.com/v2/media/HVAiKHOT/poster.jpg"
         },
         {
-          "id": "https://www.etherize.io/",
-          "author": null,
-          "description": "Hybrid Entity Formation Service",
-          "link": "https://www.etherize.io/",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 310,
-          "title": "Etherize",
-          "imageUrl": null
+          "id": "https://decrypt.co/?p=95513",
+          "author": "Tim Hakki",
+          "description": "A trailer posted to social media suggests a 3D gaming experience powered by Animoca—but that hasn't been officially confirmed.",
+          "link": "https://decrypt.co/95513/yuga-labs-teases-bored-ape-yacht-club-metaverse-with-cryptopunks-cool-cats-nouns-nfts",
+          "publishedOn": "2022-03-19T20:18:12.000Z",
+          "wordCount": 798,
+          "title": "Yuga Labs Teases Bored Ape Yacht Club Metaverse With CryptoPunks, Cool Cats, Nouns NFTs",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/03/apecoin-bored-ape-yacht-club-gID_7.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/03/apecoin-bored-ape-yacht-club-gID_7.png"
         },
         {
-          "id": "https://www.openlaw.io/",
+          "id": "https://decrypt.co/?p=95435",
+          "author": "Liam J. Kelly",
+          "description": "Juno Network's Proposal 16 to dramatically shrink one whale's JUNO holdings passed, adding more nuance to the power of a DAO.",
+          "link": "https://decrypt.co/95435/juno-network-dao-proposal-16-voted-to-revoke-tokens-from-whale",
+          "publishedOn": "2022-03-19T18:23:55.000Z",
+          "wordCount": 1244,
+          "title": "How The Juno Network DAO Voted to Revoke a Whale's Tokens",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/03/juno-network-defi-whale-gID_1.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/03/juno-network-defi-whale-gID_1.png"
+        },
+        {
+          "id": "https://decrypt.co/?p=95503",
+          "author": "Tim Hakki",
+          "description": "Meanwhile, Ethereum gained more than 14%, and Avalanche added over 22% in the last seven days.",
+          "link": "https://decrypt.co/95503/this-week-in-coins-crypto-market-bounces-back-bitcoin-breaches-40k",
+          "publishedOn": "2022-03-19T17:09:18.000Z",
+          "wordCount": 1183,
+          "title": "This Week in Coins: Crypto Market Bounces Back as Bitcoin Breaches 40K—Again",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/01/shutterstock_1012491031-gID_1.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/01/shutterstock_1012491031-gID_1.jpg"
+        },
+        {
+          "id": "https://decrypt.co/?p=95414",
+          "author": "Daniel Roberts",
+          "description": "It pays to be a Bored Ape—with free APE tokens and more rewards to come. But the Ape universe is also a little embarrassing, and has fueled NFT hate.",
+          "link": "https://decrypt.co/95414/bored-ape-yacht-club-ape-coin-nft-haters",
+          "publishedOn": "2022-03-19T16:02:54.000Z",
+          "wordCount": 1184,
+          "title": "The Bored Apes Get Richer—And More Cringey",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/03/Screen-Shot-2022-03-19-at-11.58.48-AM-gID_2.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/03/Screen-Shot-2022-03-19-at-11.58.48-AM-gID_2.png"
+        },
+        {
+          "id": "https://decrypt.co/?p=95446",
+          "author": "Ben Munster",
+          "description": "Every crypto investment cult has its own \"community.\" Is there a real human connection, or is it all just a bunch of coin marketing hokum?",
+          "link": "https://decrypt.co/95446/are-web3-communities-vapid-or-authentic",
+          "publishedOn": "2022-03-19T14:54:05.000Z",
+          "wordCount": 1579,
+          "title": "Are Web3 ‘Communities’ Vapid or Authentic?",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/03/happypeople-1024x679-1-gID_6.jpeg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/03/happypeople-1024x679-1-gID_6.jpeg"
+        },
+        {
+          "id": "https://decrypt.co/?p=95483",
+          "author": "Andrew Throuvalas",
+          "description": "Large outflows from exchanges are considered a signal that traders aren't looking to sell, a potentially bullish sign for Ethereum.",
+          "link": "https://decrypt.co/95483/ethereum-outflows-exchanges-eth-price-surges",
+          "publishedOn": "2022-03-18T21:58:21.000Z",
+          "wordCount": 704,
+          "title": "Ethereum Outflows From Exchanges Hit 2022 Peak as ETH Price Surges",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/07/ethereum-futures-contracts-open-interest-money-gID_4.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/07/ethereum-futures-contracts-open-interest-money-gID_4.jpg"
+        },
+        {
+          "id": "https://decrypt.co/?p=95478",
+          "author": "Andrew Hayward",
+          "description": "South Korean game publisher Com2uS is laying roots on Terra for crypto games with C2X, raising $25 million in a private token sale.",
+          "link": "https://decrypt.co/95478/ftx-animoca-c2x-crypto-gaming-terra",
+          "publishedOn": "2022-03-18T21:26:57.000Z",
+          "wordCount": 781,
+          "title": "FTX, Animoca Back $500M Crypto Gaming Platform on Terra",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/03/summoners-war-chronicles-gID_4.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/03/summoners-war-chronicles-gID_4.png"
+        },
+        {
+          "id": "https://decrypt.co/?p=95470",
+          "author": "Jason Nelson",
+          "description": "Analytics website DeepDAO began tracking data for DAOs built on Solana earlier this week.",
+          "link": "https://decrypt.co/95470/dao-treasuries-ethereum-solana-deepdao",
+          "publishedOn": "2022-03-18T20:38:10.000Z",
+          "wordCount": 762,
+          "title": "DAO Treasuries Top $8.2 Billion on Ethereum, $1.3B on Solana: DeepDAO",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/03/ethereum-solana-coins-gID_6.jpeg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/03/ethereum-solana-coins-gID_6.jpeg"
+        },
+        {
+          "id": "https://decrypt.co/?p=95463",
+          "author": "Andrew Hayward",
+          "description": "The Kingship virtual band gets a new manager as UMG’s 10:22PM label spends nearly $365K on an Ethereum NFT.",
+          "link": "https://decrypt.co/95463/universal-metaverse-band-new-bored-ape-ethereum-nft",
+          "publishedOn": "2022-03-18T19:03:11.000Z",
+          "wordCount": 1033,
+          "title": "Universal Boosts Metaverse Band Plans With New Bored Ape Ethereum NFT",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/03/umg-bored-ape-kingship-manager-gID_4.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/03/umg-bored-ape-kingship-manager-gID_4.png"
+        },
+        {
+          "id": "https://decrypt.co/?p=95428",
+          "author": "Scott Chipolina",
+          "description": "Phishing scammers are using Russia’s Ukraine invasion to masquerade as aid organizations and solicit crypto donations.",
+          "link": "https://decrypt.co/95428/crypto-phishing-groups-solicit-phony-aid-donations-ukraine-conflict",
+          "publishedOn": "2022-03-18T13:35:03.000Z",
+          "wordCount": 633,
+          "title": "Crypto Phishing Groups Solicit Phony Aid Donations Amid Ukraine Conflict",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/09/ukraine-cryptocurrency-gID_4.jpeg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/09/ukraine-cryptocurrency-gID_4.jpeg"
+        },
+        {
+          "id": "https://decrypt.co/?p=95423",
+          "author": "Scott Chipolina",
+          "description": "Binance has confirmed to Canadian regulators that it will no longer open new accounts for users in Ontario.",
+          "link": "https://decrypt.co/95423/crypto-exchange-binance-confirms-shut-down-in-ontario-canada",
+          "publishedOn": "2022-03-18T11:34:39.000Z",
+          "wordCount": 673,
+          "title": "Crypto Exchange Binance Confirms Shutdown in Ontario, Canada",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/07/Binance-Phone-gID_2.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/07/Binance-Phone-gID_2.jpg"
+        },
+        {
+          "id": "https://decrypt.co/?p=95421",
+          "author": "Liam J. Kelly",
+          "description": "GameStop, the video game store beloved of millennials, has made a strong pivot to crypto. Now, it's launching a new NFT marketplace.",
+          "link": "https://decrypt.co/95421/gamestop-announces-launch-nft-marketplace-q2-2022",
+          "publishedOn": "2022-03-18T10:17:08.000Z",
+          "wordCount": 675,
+          "title": "GameStop Announces Launch of NFT Marketplace for Q2 2022",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/01/gamestop-robinhood-sec-gID_1.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/01/gamestop-robinhood-sec-gID_1.jpg"
+        },
+        {
+          "id": "https://decrypt.co/?p=95417",
+          "author": "Jason Nelson",
+          "description": "Gitcoin’s round for Ukraine has attracted participation from NounsDAO, ENS Domains, Filecoin, and other big Web3 names.",
+          "link": "https://decrypt.co/95417/gitcoin-grant-gr13-raised-1-million-in-crypto-for-ukraine",
+          "publishedOn": "2022-03-18T02:29:50.000Z",
+          "wordCount": 794,
+          "title": "Gitcoin Grants Have Raised More Than $1 Million in Ethereum for Ukraine",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/03/gitcoin-grants-ukraine-gID_1.jpeg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/03/gitcoin-grants-ukraine-gID_1.jpeg"
+        },
+        {
+          "id": "https://decrypt.co/videos/interviews/2dXboFy0/gitcoins-scott-moore-talks-ukraine-fundraising-grant",
           "author": null,
-          "description": "See TributeDAO",
-          "link": "https://www.openlaw.io/",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
+          "description": "Gitcoin co-founder Scott Moore tells Decrypt's Jason Nelson all about Gitcoin's GR13 grant, which is raising money for Ukraine and has matching participation from a range of Web3 names like OpenSea, OlympusDAO, NounsDAO, Polygon, Algorand, and more.",
+          "link": "https://decrypt.co/videos/interviews/2dXboFy0/gitcoins-scott-moore-talks-ukraine-fundraising-grant",
+          "publishedOn": "2022-03-18T00:27:00.000Z",
           "wordCount": 119,
-          "title": "OpenLaw",
-          "imageUrl": "https://openlaw-website.netlify.app/ol-logo-black.png"
-        },
-        {
-          "id": "https://twitter.com/OrcaProtocol",
-          "author": null,
-          "description": "Modular DAO implementations",
-          "link": "https://twitter.com/OrcaProtocol",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Orca Protocol",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/SnowConeDAO",
-          "author": null,
-          "description": "DAO as a Service platform",
-          "link": "https://twitter.com/SnowConeDAO",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "SnowConeDAO",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/SputnikDAO",
-          "author": null,
-          "description": "Hub of DAOs empowering NEAR communities",
-          "link": "https://twitter.com/SputnikDAO",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Sputnik DAO",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/squads_dapp",
-          "author": null,
-          "description": "Innovative tools for focused coordination.",
-          "link": "https://twitter.com/squads_dapp",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Squads",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/subdao_network",
-          "author": null,
-          "description": "Cross Chain DAO substrate protocol",
-          "link": "https://twitter.com/subdao_network",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "SubDAO",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/SyndicateDAO",
-          "author": null,
-          "description": "Custom Web3 investing DAOs",
-          "link": "https://twitter.com/SyndicateDAO",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "SyndicateDAO",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/TributeLabsXYZ",
-          "author": null,
-          "description": "Build & Support DAO communities on Ethereum",
-          "link": "https://twitter.com/TributeLabsXYZ",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "TributeDAO",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/joinupstream",
-          "author": null,
-          "description": "A no-code, full-stack, DAO-in-a-Box",
-          "link": "https://twitter.com/joinupstream",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Upstream",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/xdaoapp",
-          "author": null,
-          "description": "Multichain DAO builder",
-          "link": "https://twitter.com/xdaoapp",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "xDAO",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/AragonProject",
-          "author": null,
-          "description": "Suite of DAO templates & apps",
-          "link": "https://twitter.com/AragonProject",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Aragon",
-          "imageUrl": null
-        },
-        {
-          "id": "https://colony.io/",
-          "author": null,
-          "description": "Operating system for internet organizations",
-          "link": "https://colony.io/",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 568,
-          "title": "Colony",
-          "imageUrl": "https://assets.website-files.com/61840fafb9a4c433c1470856/6196245b3c53031ddab08dd2_Screenshot%202021-11-18%20at%2018.59.29.png"
-        },
-        {
-          "id": "https://resources.curve.fi/faq/vote-locking-boost",
-          "author": null,
-          "description": "vesting mechanism to apportion voting power to token holders",
-          "link": "https://resources.curve.fi/faq/vote-locking-boost",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 625,
-          "title": "Curve Voting Escrow",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/daostack",
-          "author": null,
-          "description": "Operating system for decentralized coordination",
-          "link": "https://twitter.com/daostack",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "DAOstack",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/gardensdao",
-          "author": null,
-          "description": "Framework for composable and self improving DAOs",
-          "link": "https://twitter.com/gardensdao",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Gardens",
-          "imageUrl": null
-        },
-        {
-          "id": "https://compound.finance/docs/governance",
-          "author": null,
-          "description": "Governance contract",
-          "link": "https://compound.finance/docs/governance",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 2430,
-          "title": "Govenor Alpha",
-          "imageUrl": "https://compound.finance/images/meta-tag.png"
-        },
-        {
-          "id": "https://compound.finance/docs/governance",
-          "author": null,
-          "description": "Updatable governance contract",
-          "link": "https://compound.finance/docs/governance",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 2430,
-          "title": "Governor Bravo",
-          "imageUrl": "https://compound.finance/images/meta-tag.png"
-        },
-        {
-          "id": "https://twitter.com/MolochDAO",
-          "author": null,
-          "description": "Grant making DAO for Ethereum infrastructure",
-          "link": "https://twitter.com/MolochDAO",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Moloch",
-          "imageUrl": null
-        },
-        {
-          "id": "https://docs.openzeppelin.com/contracts/4.x/api/governance#governor",
-          "author": null,
-          "description": "modular suite of contracts for managing on-chain governance",
-          "link": "https://docs.openzeppelin.com/contracts/4.x/api/governance#governor",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 6955,
-          "title": "OpenZeppilin Governor",
-          "imageUrl": "https://docs.openzeppelin.com/_/images/social.png"
-        },
-        {
-          "id": "https://github.com/solana-labs/solana-program-library",
-          "author": null,
-          "description": "Collection of onchain programs targeting Sealevel",
-          "link": "https://github.com/solana-labs/solana-program-library",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 1237,
-          "title": "SPL Governance",
-          "imageUrl": "https://opengraph.githubassets.com/33e968613633e97c90bfa6ad46a7d12efa47571b0c78067243810cb5ba3d5d32/solana-labs/solana-program-library"
-        },
-        {
-          "id": "https://twitter.com/SpiderDAO",
-          "author": null,
-          "description": "Hardware enabled DAO",
-          "link": "https://twitter.com/SpiderDAO",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "SpiderDAO",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/TribecaDAO",
-          "author": null,
-          "description": "Solana based governance platform",
-          "link": "https://twitter.com/TribecaDAO",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "TribecaDAO",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/101dotxyz",
-          "author": null,
-          "description": "Web3 coursera",
-          "link": "https://twitter.com/101dotxyz",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "101.xyz",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/_buildspace",
-          "author": null,
-          "description": "Onboarding developers to Web3",
-          "link": "https://twitter.com/_buildspace",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Buildspace",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/trygateway",
-          "author": null,
-          "description": "DAO Disovery, Collaboration, and Resume Platform",
-          "link": "https://twitter.com/trygateway",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Gateway",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/kleoverse",
-          "author": null,
-          "description": "Web3 platform for work",
-          "link": "https://twitter.com/kleoverse",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Kleoverse",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/layer3xyz",
-          "author": null,
-          "description": "Earn crypto through various tasks",
-          "link": "https://twitter.com/layer3xyz",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Layer3",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/mycodotspace",
-          "author": null,
-          "description": "Digital Social Clubs for Media",
-          "link": "https://twitter.com/mycodotspace",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Myco",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/questbookapp",
-          "author": null,
-          "description": "University DAO",
-          "link": "https://twitter.com/questbookapp",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "QuestBook",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/pointer_gg",
-          "author": null,
-          "description": "Get paid in crypto to learn web3 development skill",
-          "link": "https://twitter.com/pointer_gg",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Pointer",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/rabbithole_gg",
-          "author": null,
-          "description": "Discover and use dApps",
-          "link": "https://twitter.com/rabbithole_gg",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Rabbithole",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/skillsprotocol",
-          "author": null,
-          "description": "Freelancer coordination infrastructure",
-          "link": "https://twitter.com/skillsprotocol",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Deep Skills",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/0xstation",
-          "author": null,
-          "description": "On-chain infrastructure to empower contributors",
-          "link": "https://twitter.com/0xstation",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Station",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/superdao_co",
-          "author": null,
-          "description": "Start, manage and grow DAOs",
-          "link": "https://twitter.com/superdao_co",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "SuperDAO",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/web3designerz",
-          "author": null,
-          "description": "Connecting talent to Web3",
-          "link": "https://twitter.com/web3designerz",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Web3Designers",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/betterhq",
-          "author": null,
-          "description": "Coordinate users and developers",
-          "link": "https://twitter.com/betterhq",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "BetterHQ",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/coordinape",
-          "author": null,
-          "description": "Decentralized compensation for DAOs",
-          "link": "https://twitter.com/coordinape",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Coordinape",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/gitcoin",
-          "author": null,
-          "description": "Where communities unite to build & fund web",
-          "link": "https://twitter.com/gitcoin",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Gitcoin",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.maptio.com/#",
-          "author": null,
-          "description": "Quick and simple mapping of your circles,",
-          "link": "https://www.maptio.com/#",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 539,
-          "title": "Maptio",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/poapxyz",
-          "author": null,
-          "description": "Curated ecosystem for memory preservation",
-          "link": "https://twitter.com/poapxyz",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "POAP",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/teamsobol?lang=en",
-          "author": null,
-          "description": "DAO accountability protocol",
-          "link": "https://twitter.com/teamsobol?lang=en",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Sobol",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/Sourcecred",
-          "author": null,
-          "description": "Measures DAO value creation and contribution",
-          "link": "https://twitter.com/Sourcecred",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Sourcecred",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.wonderverse.xyz/",
-          "author": null,
-          "description": "DAO project management tool",
-          "link": "https://www.wonderverse.xyz/",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 234,
-          "title": "Wonderverse",
-          "imageUrl": "https://wonderverse.xyz/images/twitter-meta.png"
-        },
-        {
-          "id": "https://twitter.com/BabylonFinance",
-          "author": null,
-          "description": "Invest in DeFi",
-          "link": "https://twitter.com/BabylonFinance",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Babylon Finance",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/enzymefinance",
-          "author": null,
-          "description": "On Chain Asset Management.",
-          "link": "https://twitter.com/enzymefinance",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Enzyme Finance",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/indexcoop",
-          "author": null,
-          "description": "Community led crypto investing",
-          "link": "https://twitter.com/indexcoop",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Index Coop",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/SetProtocol",
-          "author": null,
-          "description": "Asset Management protocol.",
-          "link": "https://twitter.com/SetProtocol",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Set Protocol",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/Coterie_Capital",
-          "author": null,
-          "description": "Launch an investment DAO",
-          "link": "https://twitter.com/Coterie_Capital",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Coterie",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/juiceboxETH",
-          "author": null,
-          "description": "Programmable treasury for community owned projects",
-          "link": "https://twitter.com/juiceboxETH",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "JuiceboxDAO",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/prtyDAO",
-          "author": null,
-          "description": "Building NFT fundraising tools",
-          "link": "https://twitter.com/prtyDAO",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "PrtyDAO",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/furucombo",
-          "author": null,
-          "description": "Cuztomizable DeFi lego blocks for DAOs",
-          "link": "https://twitter.com/furucombo",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Furocombo",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/riftfinance?s=21",
-          "author": null,
-          "description": "Financial tools for DAOs",
-          "link": "https://twitter.com/riftfinance?s=21",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Rift Finance",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/UMAprotocol",
-          "author": null,
-          "description": "Optimistic Oracle for Web3",
-          "link": "https://twitter.com/UMAprotocol",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "UMA",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/llamacommunity_",
-          "author": null,
-          "description": "Economic infrastructure for DAOs",
-          "link": "https://twitter.com/llamacommunity_",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Llama DAO",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/feiprotocol",
-          "author": null,
-          "description": "Employs Turbo to transform idle tokens into productive assets",
-          "link": "https://twitter.com/feiprotocol",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Fei Protocol",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/FujiFinance",
-          "author": null,
-          "description": "DeFi Borrower aggregator",
-          "link": "https://twitter.com/FujiFinance",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "FujiDAO",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/TokenReactor",
-          "author": null,
-          "description": "Liquidity Management Protocol",
-          "link": "https://twitter.com/TokenReactor",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Tokemak",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/ApolloDAO",
-          "author": null,
-          "description": "Yield Protocol w/ Multisig Wallet Solution",
-          "link": "https://twitter.com/ApolloDAO",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Apollo DAO",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/GokiProtocol",
-          "author": null,
-          "description": "Multisig Wallet Solution",
-          "link": "https://twitter.com/GokiProtocol",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Goki Protocol",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/gnosisSafe",
-          "author": null,
-          "description": "Defactor multi-signature wallet for DAOs",
-          "link": "https://twitter.com/gnosisSafe",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Gnosis Safe",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/liquifi_finance",
-          "author": null,
-          "description": "Token vesting and equity solutions for crypto companies and DAOs",
-          "link": "https://twitter.com/liquifi_finance",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "LiquiFi",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/0xCoinshift",
-          "author": null,
-          "description": "Treasury management for DAOs & Companies",
-          "link": "https://twitter.com/0xCoinshift",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Coinshift",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/multisHQ",
-          "author": null,
-          "description": "Crypto wallet for busines",
-          "link": "https://twitter.com/multisHQ",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Multis",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/parcelHQ",
-          "author": null,
-          "description": "Treasury management for DAOs",
-          "link": "https://twitter.com/parcelHQ",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Parcel",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/RequestNetwork",
-          "author": null,
-          "description": "Open network for invoices",
-          "link": "https://twitter.com/RequestNetwork",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Request",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/utopialabs_",
-          "author": null,
-          "description": "Payroll management for DAOs",
-          "link": "https://twitter.com/utopialabs_",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Utopia",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/APWineFinance",
-          "author": null,
-          "description": "Tokenized yield",
-          "link": "https://twitter.com/APWineFinance",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "APWine",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/Barn_Bridge",
-          "author": null,
-          "description": "DeFi risk management",
-          "link": "https://twitter.com/Barn_Bridge",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Barnbridge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/dopex_io",
-          "author": null,
-          "description": "Decentralized max liquidity, min exposure, options protocol",
-          "link": "https://twitter.com/dopex_io",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Dopex",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/fiatdao",
-          "author": null,
-          "description": "Leverage secondary liquidity for fixed income assets",
-          "link": "https://twitter.com/fiatdao",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Fiat DAO",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/friktion_labs",
-          "author": null,
-          "description": "DeFi Option Vault",
-          "link": "https://twitter.com/friktion_labs",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Friktion",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/porterfinance_",
-          "author": null,
-          "description": "Under collateralized bond protocol built for DAOs",
-          "link": "https://twitter.com/porterfinance_",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Porter Finance",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/debitors",
-          "author": null,
-          "description": "Lending marketplace to help growth stage DAOs",
-          "link": "https://twitter.com/debitors",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "DebtDAO",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/GnosisGuild",
-          "author": null,
-          "description": "DAOs can now have cross-chain control",
-          "link": "https://twitter.com/GnosisGuild",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Zodiac",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/fairmintCO",
-          "author": null,
-          "description": "Run and management rolling SAFE offerings",
-          "link": "https://twitter.com/fairmintCO",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Fairmint",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DiagonalFinance",
-          "author": null,
-          "description": "Enabling subscriptions in Web3",
-          "link": "https://twitter.com/DiagonalFinance",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Diagonal",
-          "imageUrl": null
-        },
-        {
-          "id": "https://disperse.app/",
-          "author": null,
-          "description": "Distribute tokens to multiple addresses with lower gas fees",
-          "link": "https://disperse.app/",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 3,
-          "title": "Disperse",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/dripsnetwork",
-          "author": null,
-          "description": "Stream funds to any Ethereum user",
-          "link": "https://twitter.com/dripsnetwork",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Drips Protocol",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/faktorfi",
-          "author": null,
-          "description": "Payments infrastructure for web3",
-          "link": "https://twitter.com/faktorfi",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Faktor Finance",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/opolis",
-          "author": null,
-          "description": "Payroll & Benefits for DAO members",
-          "link": "https://twitter.com/opolis",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Opolis",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/paymagic_",
-          "author": null,
-          "description": "Automate DAO rewards and payments",
-          "link": "https://twitter.com/paymagic_",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Pay Magic",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/roketostream",
-          "author": null,
-          "description": "Streaming money service based on NEAR",
-          "link": "https://twitter.com/roketostream",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Roketo",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/rollfi_xyz",
-          "author": null,
-          "description": "Seamlessly pay your team in cash and crypto",
-          "link": "https://twitter.com/rollfi_xyz",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "RollFi",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/SablierHQ",
-          "author": null,
-          "description": "DAO recurring payments",
-          "link": "https://twitter.com/SablierHQ",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Sablier",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/Superfluid_HQ",
-          "author": null,
-          "description": "Programmable money streams on Ethereum",
-          "link": "https://twitter.com/Superfluid_HQ",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Superfluid",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/SuberraProtocol",
-          "author": null,
-          "description": "Recurring Payments and Automation Infrastructure",
-          "link": "https://twitter.com/SuberraProtocol",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Suberra",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/streamflow_fi",
-          "author": null,
-          "description": "Streams token vesting",
-          "link": "https://twitter.com/streamflow_fi",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Stream Flow",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/WagmiBio",
-          "author": null,
-          "description": "Making web3 payments better",
-          "link": "https://twitter.com/WagmiBio",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Wagmi",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/tryrollhq",
-          "author": null,
-          "description": "Social token infrastructure",
-          "link": "https://twitter.com/tryrollhq",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Roll",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/CoinviseCo",
-          "author": null,
-          "description": "Homepage for Web3 communities",
-          "link": "https://twitter.com/CoinviseCo",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "CoinVise",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/TeamWumbo",
-          "author": null,
-          "description": "Social token infrastructure on Solana",
-          "link": "https://twitter.com/TeamWumbo",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Wumbo",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/creaton_io",
-          "author": null,
-          "description": "Create income as a creator",
-          "link": "https://twitter.com/creaton_io",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Creator",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/github",
-          "author": null,
-          "description": "Code hosting platform",
-          "link": "https://twitter.com/github",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "GitHub",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/radicle",
-          "author": null,
-          "description": "P2P code collaboration",
-          "link": "https://twitter.com/radicle",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Radicle",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/figmadesign",
-          "author": null,
-          "description": "Digital design and prototyping tool",
-          "link": "https://twitter.com/figmadesign",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Figma",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/element_hq",
-          "author": null,
-          "description": "Secure and independent communication",
-          "link": "https://twitter.com/element_hq",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Element",
-          "imageUrl": null
-        },
-        {
-          "id": "http://twitter.com/viamirror",
-          "author": null,
-          "description": "Publishing platform and a creative suite for communities and DAOs",
-          "link": "http://twitter.com/viamirror",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Mirror",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/Medium",
-          "author": null,
-          "description": "Open publishing platform",
-          "link": "https://twitter.com/Medium",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Medium",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/mee6bot",
-          "author": null,
-          "description": "Discord moderation",
-          "link": "https://twitter.com/mee6bot",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "mee6bot",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sesh.fyi/",
-          "author": null,
-          "description": "Calendar bot",
-          "link": "https://sesh.fyi/",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 466,
-          "title": "Sesh",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/Collab_Land_",
-          "author": null,
-          "description": "Verify token gated ownership for DAOs",
-          "link": "https://twitter.com/Collab_Land_",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Collab.Land",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/mintgate_io",
-          "author": null,
-          "description": "Unlock content and gated link for token holders",
-          "link": "https://twitter.com/mintgate_io",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "MintGate",
-          "imageUrl": null
-        },
-        {
-          "id": "http://twitter.com/guildxyz",
-          "author": null,
-          "description": "Digital access, token gated communities",
-          "link": "http://twitter.com/guildxyz",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Guild.xyz",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/grapeprotocol",
-          "author": null,
-          "description": "Toolset for decentralized social networking",
-          "link": "https://twitter.com/grapeprotocol",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Grape Protocol",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wearekickback",
-          "author": null,
-          "description": "Event management service",
-          "link": "https://twitter.com/wearekickback",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "KickBack",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/OmniFlixNetwork",
-          "author": null,
-          "description": "P2P network for creators monetize NFTs & interactions",
-          "link": "https://twitter.com/OmniFlixNetwork",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "OmniFlix Network",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/realMaskNetwork",
-          "author": null,
-          "description": "Portal to open internet",
-          "link": "https://twitter.com/realMaskNetwork",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Mask Network",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/UnlockProtocol",
-          "author": null,
-          "description": "Lets creators monetize their work",
-          "link": "https://twitter.com/UnlockProtocol",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Unlock",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/Paladin_vote",
-          "author": null,
-          "description": "Liquid governance provider",
-          "link": "https://twitter.com/Paladin_vote",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Paladin",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/VotiumProtocol",
-          "author": null,
-          "description": "Reward CVX holders for voting power",
-          "link": "https://twitter.com/VotiumProtocol",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Votium",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/BribeProtocol",
-          "author": null,
-          "description": "dGov by incentivizing protocol participation",
-          "link": "https://twitter.com/BribeProtocol",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Bribe Protocol",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/redactedcartel",
-          "author": null,
-          "description": "Call option on Curve Wars",
-          "link": "https://twitter.com/redactedcartel",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Redacted Cartel",
-          "imageUrl": null
-        },
-        {
-          "id": "https://blog.gnosis.pm/introducing-safesnap-the-first-in-a-decentralized-governance-tool-suite-for-the-gnosis-safe",
-          "author": null,
-          "description": "Enables governance proposal execution",
-          "link": "https://blog.gnosis.pm/introducing-safesnap-the-first-in-a-decentralized-governance-tool-suite-for-the-gnosis-safe",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": null,
-          "title": "SafeSnap",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/project_shutter",
-          "author": null,
-          "description": "Prevent front-running and malicious MEV on Ethereum",
-          "link": "https://twitter.com/project_shutter",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Shutter Protocol",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/element_fi",
-          "author": null,
-          "description": "Fixed and variable yield vaults.",
-          "link": "https://twitter.com/element_fi",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Element Finance",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/Kleros_io",
-          "author": null,
-          "description": "Decentralized arbitration protocol for Web3 disputes",
-          "link": "https://twitter.com/Kleros_io",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Kleros",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/GovrnHQ",
-          "author": null,
-          "description": "Outcome based donations",
-          "link": "https://twitter.com/GovrnHQ",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Govrn",
-          "imageUrl": null
-        },
-        {
-          "id": "https://governance.substack.com/p/this-week-in-daos-august-26-2021?token=eyJ1c2VyX2lkIjoxODc0NzE1LCJwb3N0X2lkIjo0MDUxNzQxNiwiXyI6InFnaXF0IiwiaWF0IjoxNjMwMDc1ODE1LCJleHAiOjE2MzAwNzk0MTUsImlzcyI6InB1Yi0zMjIyMSIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.i451XHEE7K4jM3Q4XlrJSMr_WEQzIIaFAtssEJaRO-w",
-          "author": null,
-          "description": "Aave V3 - Cross Chain Governance Model",
-          "link": "https://governance.substack.com/p/this-week-in-daos-august-26-2021?token=eyJ1c2VyX2lkIjoxODc0NzE1LCJwb3N0X2lkIjo0MDUxNzQxNiwiXyI6InFnaXF0IiwiaWF0IjoxNjMwMDc1ODE1LCJleHAiOjE2MzAwNzk0MTUsImlzcyI6InB1Yi0zMjIyMSIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.i451XHEE7K4jM3Q4XlrJSMr_WEQzIIaFAtssEJaRO-w",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 1056,
-          "title": "Aave (Cross Chain)",
-          "imageUrl": "https://cdn.substack.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd344d309-6d64-429e-9594-d505d5277d9b_1456x484.png"
-        },
-        {
-          "id": "https://twitter.com/boardroom_info",
-          "author": null,
-          "description": "Enables DAOs to standardize common actions",
-          "link": "https://twitter.com/boardroom_info",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Boardroom",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/hicommonwealth",
-          "author": null,
-          "description": "On chain platform for discuss, vote and fund projects",
-          "link": "https://twitter.com/hicommonwealth",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Commonwealth",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/headline_crypto",
-          "author": null,
-          "description": "Governance tool on Algorand",
-          "link": "https://twitter.com/headline_crypto",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Headline",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/voteWithTally",
-          "author": null,
-          "description": "Real time research, analyst and governance tooling",
-          "link": "https://twitter.com/voteWithTally",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Tally",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/MessariCryptoOmsogjts omtp DAPs",
-          "author": null,
-          "description": "Insight into DAO proposals",
-          "link": "https://twitter.com/MessariCryptoOmsogjts omtp DAPs",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Messari",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/AutomataNetwork",
-          "author": null,
-          "description": "Private multichain middleware",
-          "link": "https://twitter.com/AutomataNetwork",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Automata",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sybil.org/#/",
-          "author": null,
-          "description": "Discover DAO delegates",
-          "link": "https://sybil.org/#/",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 9,
-          "title": "Sybil",
-          "imageUrl": null
-        },
-        {
-          "id": "https://realms.today/",
-          "author": null,
-          "description": "Simple governance UI for Solana",
-          "link": "https://realms.today/",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 3,
-          "title": "Realms",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/SnapshotLabs",
-          "author": null,
-          "description": "Off chain fasless multigovernance client",
-          "link": "https://twitter.com/SnapshotLabs",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Snapshot",
-          "imageUrl": null
-        },
-        {
-          "id": "https://tokenlog.xyz/",
-          "author": null,
-          "description": "Governance tool to create token-weighted backlogs",
-          "link": "https://tokenlog.xyz/",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 12,
-          "title": "TokenLog",
-          "imageUrl": "https://tokenlog.xyz/icon.png"
-        },
-        {
-          "id": "https://twitter.com/ceramicnetwork",
-          "author": null,
-          "description": "User centric web3 data network",
-          "link": "https://twitter.com/ceramicnetwork",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Ceramic",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/identityindex",
-          "author": null,
-          "description": "Cross chain idenitty and interoperable data",
-          "link": "https://twitter.com/identityindex",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "iDX",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/ensdomains",
-          "author": null,
-          "description": "Web3 Username",
-          "link": "https://twitter.com/ensdomains",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "ENS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/BrightIDProject",
-          "author": null,
-          "description": "Decentralized proof of unique humanity",
-          "link": "https://twitter.com/BrightIDProject",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "brightID",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/nuggetsPAYandID",
-          "author": null,
-          "description": "Trusted transactions through verified identities",
-          "link": "https://twitter.com/nuggetsPAYandID",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Nuggets",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/proofofhumanity",
-          "author": null,
-          "description": "Sybil-resistant registry of Humans using social verification",
-          "link": "https://twitter.com/proofofhumanity",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Proof of Humanity",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/LensProtocol",
-          "author": null,
-          "description": "Own your digital roots.",
-          "link": "https://twitter.com/LensProtocol",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Lens Protocol",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/SpruceID",
-          "author": null,
-          "description": "Identity protocol",
-          "link": "https://twitter.com/SpruceID",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Spruce ID",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/unstoppableweb",
-          "author": null,
-          "description": "Universal login for Web3",
-          "link": "https://twitter.com/unstoppableweb",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Unstoppable Domains",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/violetprotocol",
-          "author": null,
-          "description": "KYC focused identity marketplace",
-          "link": "https://twitter.com/violetprotocol",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Violet Protocol",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/RocketChat",
-          "author": null,
-          "description": "Fully coustomizable communication platform",
-          "link": "https://twitter.com/RocketChat",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Rocket.Chat",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/epnsproject",
-          "author": null,
-          "description": "Web3 Communication layer",
-          "link": "https://twitter.com/epnsproject",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "EPNS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/signalapp",
-          "author": null,
-          "description": "Cross platform messaging app",
-          "link": "https://twitter.com/signalapp",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Signal",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/CommDotApp",
-          "author": null,
-          "description": "Crypto native messaging",
-          "link": "https://twitter.com/CommDotApp",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Comm",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/discord",
-          "author": null,
-          "description": "Web2 communication platform",
-          "link": "https://twitter.com/discord",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Discord",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/discourse",
-          "author": null,
-          "description": "Open source discussion platform",
-          "link": "https://twitter.com/discourse",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Discourse",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/telegram",
-          "author": null,
-          "description": "Simple. fast, secure messaging",
-          "link": "https://twitter.com/telegram",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Telegram",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/Twitter",
-          "author": null,
-          "description": "Online news and social media app",
-          "link": "https://twitter.com/Twitter",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Twitter",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/GitBookIO",
-          "author": null,
-          "description": "Documentation & knowledge management for teams",
-          "link": "https://twitter.com/GitBookIO",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Gitbook",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/bip_so",
-          "author": null,
-          "description": "Git engabled document workspace",
-          "link": "https://twitter.com/bip_so",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Bip",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/hackmdio",
-          "author": null,
-          "description": "Open community collaboration",
-          "link": "https://twitter.com/hackmdio",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "HackMD",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/CharmVerse",
-          "author": null,
-          "description": "Web3 native all in one workspace",
-          "link": "https://twitter.com/CharmVerse",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "CharmVerse",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/deworkxyz",
-          "author": null,
-          "description": "A web3-native Trello",
-          "link": "https://twitter.com/deworkxyz",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Dework",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/GoogleWorkspacee",
-          "author": null,
-          "description": "Everything google in one pace",
-          "link": "https://twitter.com/GoogleWorkspacee",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Google Workspace",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/portalverse",
-          "author": null,
-          "description": "Global knowledge graph for organizations",
-          "link": "https://twitter.com/portalverse",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Portal",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/lobbyso",
-          "author": null,
-          "description": "Knowledge management for Web3 organizations",
-          "link": "https://twitter.com/lobbyso",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Lobby",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/obsdmd",
-          "author": null,
-          "description": "Second brain for thought",
-          "link": "https://twitter.com/obsdmd",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Obsidian",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/NotionHQ",
-          "author": null,
-          "description": "All in one workspace",
-          "link": "https://twitter.com/NotionHQ",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Notion",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/RoamResearch",
-          "author": null,
-          "description": "Note taking tool for networked thought",
-          "link": "https://twitter.com/RoamResearch",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Roam",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/AnytypeLabs",
-          "author": null,
-          "description": "Operating system for collaboration",
-          "link": "https://twitter.com/AnytypeLabs",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Anytype",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/withBackdrop",
-          "author": null,
-          "description": "Connecting communities and projects in web3",
-          "link": "https://twitter.com/withBackdrop",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Backdrop",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/clarityteams",
-          "author": null,
-          "description": "All in one workspace for DAOs",
-          "link": "https://twitter.com/clarityteams",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Clarity",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/trycloserapp",
-          "author": null,
-          "description": "Communications, collaboration and community platform for DAOs",
-          "link": "https://twitter.com/trycloserapp",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Closer",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/genesisxyz",
-          "author": null,
-          "description": "Operating system to explore web3",
-          "link": "https://twitter.com/genesisxyz",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Genesis.xyz",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/now_urnowhere",
-          "author": null,
-          "description": "Connecting worlds via a web browser",
-          "link": "https://twitter.com/now_urnowhere",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "NOWHERE",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/shiftmediaco",
-          "author": null,
-          "description": "web3 media co for the new internet",
-          "link": "https://twitter.com/shiftmediaco",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Shift",
-          "imageUrl": null
-        },
-        {
-          "id": "https://guildsdao.com/",
-          "author": null,
-          "description": "Discover and connect with communities",
-          "link": "https://guildsdao.com/",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": null,
-          "title": "GuildsDAO",
-          "imageUrl": null
-        },
-        {
-          "id": "https://dao-analyzer.science/daohaus",
-          "author": null,
-          "description": "Basic DAO metrics dashboard",
-          "link": "https://dao-analyzer.science/daohaus",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 4,
-          "title": "DAO Analyzer",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/dao_exchange",
-          "author": null,
-          "description": "Earn $ and discover DAOs.",
-          "link": "https://twitter.com/dao_exchange",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "DAO Exchange",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DAOCentral",
-          "author": null,
-          "description": "Find and learn about DAOs",
-          "link": "https://twitter.com/DAOCentral",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "DAO Central",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/daomastersxyz",
-          "author": null,
-          "description": "Explore the tools to launch, manage, and grow a DAO",
-          "link": "https://twitter.com/daomastersxyz",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "DAO Masters",
-          "imageUrl": null
-        },
-        {
-          "id": "https://everest.link/",
-          "author": null,
-          "description": "Universally shared projects registry",
-          "link": "https://everest.link/",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 199,
-          "title": "Everest",
-          "imageUrl": "https://everest.link/mountain.jpg"
-        },
-        {
-          "id": "https://openorgs.info/",
-          "author": null,
-          "description": "DAO treasury balance sheet",
-          "link": "https://openorgs.info/",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 40,
-          "title": "OpenOrgs",
-          "imageUrl": "https://open-orgs-9s8aqtdzd-ethburned.vercel.app/social.png"
-        },
-        {
-          "id": "https://twitter.com/rss3_",
-          "author": null,
-          "description": "Web feed and content distribution",
-          "link": "https://twitter.com/rss3_",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "RSS3",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DefiLlama",
-          "author": null,
-          "description": "Transparent DeFi Analytics",
-          "link": "https://twitter.com/DefiLlama",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "DeFi Llama",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DeepDAO_io",
-          "author": null,
-          "description": "Lists, ranks and analyzes top DAOs",
-          "link": "https://twitter.com/DeepDAO_io",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "DeepDAO",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/dmndDAO",
-          "author": null,
-          "description": "Building a Web3 knowledge graph",
-          "link": "https://twitter.com/dmndDAO",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Diamond DAO",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DuneAnalytics",
-          "author": null,
-          "description": "Community driven crypto analytics",
-          "link": "https://twitter.com/DuneAnalytics",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Dune Analytics",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/flipsidecrypto",
-          "author": null,
-          "description": "On chain data provider (+ bounties)",
-          "link": "https://twitter.com/flipsidecrypto",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Flipside Crypto",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/metricsdao",
-          "author": null,
-          "description": "Building DAO dashboards",
-          "link": "https://twitter.com/metricsdao",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "MetricsDAO",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/nansen_ai",
-          "author": null,
-          "description": "Analytics platform for blockchain",
-          "link": "https://twitter.com/nansen_ai",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Nansen",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/nftgoio",
-          "author": null,
-          "description": "NFT analytics platform",
-          "link": "https://twitter.com/nftgoio",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "NFTGO.io",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/uniwhalesio",
-          "author": null,
-          "description": "DeFi data analytics + research",
-          "link": "https://twitter.com/uniwhalesio",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Uniwhales",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/AlchemyPlatform",
-          "author": null,
-          "description": "Blockchain developer platform",
-          "link": "https://twitter.com/AlchemyPlatform",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Alchemy",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/withcortex",
-          "author": null,
-          "description": "Data interoperability",
-          "link": "https://twitter.com/withcortex",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Cortex",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/GenesysGo",
-          "author": null,
-          "description": "RPC endpoint",
-          "link": "https://twitter.com/GenesysGo",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "GenesisGo",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/observablehq",
-          "author": null,
-          "description": "Community powered data canvas",
-          "link": "https://twitter.com/observablehq",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Observable Labs",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/parsiq_net",
-          "author": null,
-          "description": "Monitor real time data for workflows",
-          "link": "https://twitter.com/parsiq_net",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Parsiq",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/graphprotocol",
-          "author": null,
-          "description": "Web3 index and querying blockchain data",
-          "link": "https://twitter.com/graphprotocol",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Graph Protocol",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/Covalent_HQ",
-          "author": null,
-          "description": "Unified blockchain API",
-          "link": "https://twitter.com/Covalent_HQ",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Covalent",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/CyberConnectHQ",
-          "author": null,
-          "description": "Web3 social graph",
-          "link": "https://twitter.com/CyberConnectHQ",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "CyberConnect",
-          "imageUrl": null
-        },
-        {
-          "id": "https://golden.xyz/",
-          "author": null,
-          "description": "Decentralized knowledge graph",
-          "link": "https://golden.xyz/",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 358,
-          "title": "Golden",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/memprotocol",
-          "author": null,
-          "description": "Tools for web3 social layer",
-          "link": "https://twitter.com/memprotocol",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Mem Protocol",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/switchboardxyz",
-          "author": null,
-          "description": "Capture off chain votes for on chain execution",
-          "link": "https://twitter.com/switchboardxyz",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Switchboard",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/MetaMask",
-          "author": null,
-          "description": "Wallet & gateway to dApps",
-          "link": "https://twitter.com/MetaMask",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "MetaMask",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/phantom",
-          "author": null,
-          "description": "Non-custodial wallet on Solana",
-          "link": "https://twitter.com/phantom",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Phantom Wallet",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/rainbowdotme",
-          "author": null,
-          "description": "Web3 & NFT wallet",
-          "link": "https://twitter.com/rainbowdotme",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Rainbow",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/family",
-          "author": null,
-          "description": "Making web3 friendly",
-          "link": "https://twitter.com/family",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Family",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/zapier",
-          "author": null,
-          "description": "Automation for SMBs",
-          "link": "https://twitter.com/zapier",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Zapier",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/webflow",
-          "author": null,
-          "description": "Design, build and launch websites virtually",
-          "link": "https://twitter.com/webflow",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Webflow",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/CertiKTechh",
-          "author": null,
-          "description": "Centralized security solutions",
-          "link": "https://twitter.com/CertiKTechh",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Certik",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/Quantstamp",
-          "author": null,
-          "description": "Securituing asets in your digital world.",
-          "link": "https://twitter.com/Quantstamp",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Quantstamp",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/trailofbits",
-          "author": null,
-          "description": "Reduce risk and fortify code",
-          "link": "https://twitter.com/trailofbits",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Trail of Bits",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/BitDAO_Official",
-          "author": null,
-          "description": "Venture DAO",
-          "link": "https://twitter.com/BitDAO_Official",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "BitDAO",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/creatorcabins",
-          "author": null,
-          "description": "Community of Web3 workers",
-          "link": "https://twitter.com/creatorcabins",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Creator Cabins",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/developer_dao",
-          "author": null,
-          "description": "Provides developer services for DAOs",
-          "link": "https://twitter.com/developer_dao",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "DeveloperDAO",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/dOrg_tech",
-          "author": null,
-          "description": "DAO run web3 collective",
-          "link": "https://twitter.com/dOrg_tech",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "dOrg",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/EthernautDAO",
-          "author": null,
-          "description": "Transforming devs to Eth developers",
-          "link": "https://twitter.com/EthernautDAO",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Ethernaut DAO",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/financedotvote",
-          "author": null,
-          "description": "Builds governance tools",
-          "link": "https://twitter.com/financedotvote",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Finance.Vote",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/GraviDAO_",
-          "author": null,
-          "description": "Build tools for DAOs",
-          "link": "https://twitter.com/GraviDAO_",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "GraviDAO",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/HoneyDAO_",
-          "author": null,
-          "description": "Working to improve DeFi",
-          "link": "https://twitter.com/HoneyDAO_",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "HoneyDAO",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/KomorebiFund",
-          "author": null,
-          "description": "",
-          "link": "https://twitter.com/KomorebiFund",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Komorebi Collective",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/Meta_Cartel",
-          "author": null,
-          "description": "Building decentralized apps",
-          "link": "https://twitter.com/Meta_Cartel",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "MetaCartel",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/odyssey_dao",
-          "author": null,
-          "description": "Web3 education",
-          "link": "https://twitter.com/odyssey_dao",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "OdessyDAO",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/rebakedinc",
-          "author": null,
-          "description": "Crowd building Web3 economy",
-          "link": "https://twitter.com/rebakedinc",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "reBaked",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/raidguild",
-          "author": null,
-          "description": "Collective of builders for future Web3",
-          "link": "https://twitter.com/raidguild",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Raid Guild",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/neon_dao",
-          "author": null,
-          "description": "Collective buulding out the metaverse",
-          "link": "https://twitter.com/neon_dao",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "NeonDAO",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/NEPTUNEDA0",
-          "author": null,
-          "description": "Liquidity DAO for scaled yield",
-          "link": "https://twitter.com/NEPTUNEDA0",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "NeptuneDAO",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/vita_dao",
-          "author": null,
-          "description": "Funding early stage longevity research",
-          "link": "https://twitter.com/vita_dao",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "VitaDAO",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/Yume_Labs",
-          "author": null,
-          "description": "Multi-project DAO building tools",
-          "link": "https://twitter.com/Yume_Labs",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Yume Labs",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/KnoxEdgeDAO",
-          "author": null,
-          "description": "Learn 2 Earn DAO",
-          "link": "https://twitter.com/KnoxEdgeDAO",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "KnoxEdge DAO",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/endaomentdotorg",
-          "author": null,
-          "description": "DeFi's community foundation",
-          "link": "https://twitter.com/endaomentdotorg",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Endaoment",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/Givethio",
-          "author": null,
-          "description": "Charity distribution for DAOs",
-          "link": "https://twitter.com/Givethio",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Giveth Trace",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/seedclubhq",
-          "author": null,
-          "description": "Builds and invests in Web3",
-          "link": "https://twitter.com/seedclubhq",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Seed Club",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/doolaHQ",
-          "author": null,
-          "description": "Helping founders launch protocols",
-          "link": "https://twitter.com/doolaHQ",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Doola",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/ethsign",
-          "author": null,
-          "description": "Web3 native agreement signing and execution platform",
-          "link": "https://twitter.com/ethsign",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "EthSign",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/lex_DAO",
-          "author": null,
-          "description": "Legal engineering",
-          "link": "https://twitter.com/lex_DAO",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "LexPunk",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/aladdindao",
-          "author": null,
-          "description": "Liquidity DAO",
-          "link": "https://twitter.com/aladdindao",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Aladdin DAO",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/andxyz_",
-          "author": null,
-          "description": "Studio building web3",
-          "link": "https://twitter.com/andxyz_",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Ampersand",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DA0_DA0",
-          "author": null,
-          "description": "DAO that builds DAO tooling",
-          "link": "https://twitter.com/DA0_DA0",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "DAO DAO",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/deepwork_studio",
-          "author": null,
-          "description": "Web3 design studio",
-          "link": "https://twitter.com/deepwork_studio",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Deep Work Studios",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/futureproofxyz",
-          "author": null,
-          "description": "Web3 Media Agency",
-          "link": "https://twitter.com/futureproofxyz",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Future Proof",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/game7_official",
-          "author": null,
-          "description": "Collective to accelerate blockchain gaming",
-          "link": "https://twitter.com/game7_official",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Game 7",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/labsgfx",
-          "author": null,
-          "description": "Governance contributor",
-          "link": "https://twitter.com/labsgfx",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "GFX Labs",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/GlassProtocol",
-          "author": null,
-          "description": "Protocol developing tools for DAO  to raise funds and create NFTs",
-          "link": "https://twitter.com/GlassProtocol",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Glass Protocol",
-          "imageUrl": null
-        },
-        {
-          "id": "https://serotonin.co/",
-          "author": null,
-          "description": "Markerting and product studio",
-          "link": "https://serotonin.co/",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 1933,
-          "title": "Serotonin",
-          "imageUrl": "https://assets.website-files.com/60929f07e2932ee089485054/60a42918d4316f3405ea34b9_sero-card.png"
-        },
-        {
-          "id": "https://twitter.com/superteamdao",
-          "author": null,
-          "description": "Co-op of operators helping Solana projects",
-          "link": "https://twitter.com/superteamdao",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "SuperTeamDAO",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/wearenewt",
-          "author": null,
-          "description": "Small group of experimenters at Aave",
-          "link": "https://twitter.com/wearenewt",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "We Are Newt",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/seedclubhq",
-          "author": null,
-          "description": "tokenized community for marketing and advertising",
-          "link": "https://twitter.com/seedclubhq",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Jump",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/block_science",
-          "author": null,
-          "description": "Enabling deep insight into the interdependencies of complex systems",
-          "link": "https://twitter.com/block_science",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Block Science",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/darkstardao",
-          "author": null,
-          "description": "Media DAO",
-          "link": "https://twitter.com/darkstardao",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Darkstar DAO",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/gauntletnetwork",
-          "author": null,
-          "description": "Driving understanding and participation in the financial systems",
-          "link": "https://twitter.com/gauntletnetwork",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Gauntlet",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/hi_reverie",
-          "author": null,
-          "description": "Help DAOs grow",
-          "link": "https://twitter.com/hi_reverie",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Reverie",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/FortePlatform",
-          "author": null,
-          "description": "Blockchain platform for games",
-          "link": "https://twitter.com/FortePlatform",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Forte",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/CoinList",
-          "author": null,
-          "description": "Trusted platform for new crypto offerings",
-          "link": "https://twitter.com/CoinList",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "CoinList",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/MintbaseDAO",
-          "author": null,
-          "description": "Community for projects launching on NEAR",
-          "link": "https://twitter.com/MintbaseDAO",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "MintbaseDAO",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/water_and_music",
-          "author": null,
-          "description": "Paid newsletter & Research DAO",
-          "link": "https://twitter.com/water_and_music",
-          "publishedOn": "2022-03-06T14:26:34.000Z",
-          "wordCount": 196,
-          "title": "Water & Music",
-          "imageUrl": null
+          "title": "Gitcoin's Scott Moore Talks Ukraine Fundraising Grant",
+          "enclosure": {
+            "url": "https://cdn.jwplayer.com/v2/media/2dXboFy0/poster.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.jwplayer.com/v2/media/2dXboFy0/poster.jpg"
+        },
+        {
+          "id": "https://decrypt.co/?p=95404",
+          "author": "Kate Irwin",
+          "description": "Twitter users have posted nearly 300 million tweets about cryptocurrency in the past three months alone.",
+          "link": "https://decrypt.co/95404/hot-on-twitter-cryptocurrency-nft-topics",
+          "publishedOn": "2022-03-17T23:09:18.000Z",
+          "wordCount": 660,
+          "title": "What’s Hot on Twitter? Cryptocurrency and NFT Topics See 242% Growth",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/03/Twitter-gID_2.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/03/Twitter-gID_2.png"
+        },
+        {
+          "id": "https://decrypt.co/?p=95398",
+          "author": "Andrew Hayward",
+          "description": "Bored Ape Yacht Club owners can now claim the token, which will have utility and governance capabilities—plus other potential benefits.",
+          "link": "https://decrypt.co/95398/apecoin-what-is-bored-ape-ethereum-token-who-gets-it",
+          "publishedOn": "2022-03-17T22:24:04.000Z",
+          "wordCount": 1286,
+          "title": "ApeCoin: What Is the Bored Ape Ethereum Token and Who Gets It?",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/03/apecoin-bored-ape-yacht-club-gID_7.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/03/apecoin-bored-ape-yacht-club-gID_7.png"
+        },
+        {
+          "id": "https://decrypt.co/?p=95387",
+          "author": "Andrew Hayward",
+          "description": "Cryptocurrency think tank Coin Center says the bill is \"unnecessary\" and \"unconstitutional.\"",
+          "link": "https://decrypt.co/95387/warren-crypto-sanctions-bill-russia",
+          "publishedOn": "2022-03-17T20:48:17.000Z",
+          "wordCount": 928,
+          "title": "Warren’s Crypto Sanctions Bill Aims to Crack Down on Russia, Track Wallets With Foreign Ties",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/01/yellen-warren-bright-gID_4.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/01/yellen-warren-bright-gID_4.jpg"
+        },
+        {
+          "id": "https://decrypt.co/?p=95368",
+          "author": "Liam J. Kelly",
+          "description": "Despite delays, Joe Lubin stands by his estimate that Ethereum 2.0 will arrive in Q2 \"or possibly slipping into Q3” of this year.",
+          "link": "https://decrypt.co/95368/ethereum-2-merge-launch-lay-to-rest-energy-usage-concerns-joe-lubin",
+          "publishedOn": "2022-03-17T20:46:33.000Z",
+          "wordCount": 1258,
+          "title": "Ethereum 2.0 Coming in Q2, 'Will Lay to Rest' Energy Concerns: Joe Lubin",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/03/Screen-Shot-2022-03-17-at-4.45.02-PM-e1647549973212-gID_4.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/03/Screen-Shot-2022-03-17-at-4.45.02-PM-e1647549973212-gID_4.png"
+        },
+        {
+          "id": "https://decrypt.co/?p=95327",
+          "author": "Jeff John Roberts",
+          "description": "A new class-action lawsuit takes aim at Coinbase's decision to list dozens of tokens that may be securities.",
+          "link": "https://decrypt.co/95327/coinbase-securities-lawsuit-dogecoin-tokens",
+          "publishedOn": "2022-03-17T19:31:18.000Z",
+          "wordCount": 845,
+          "title": "Coinbase Hit With $5M Lawsuit Over 'Unlicensed' Sale of Dogecoin, 78 Other Crypto Assets",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/03/coinbase-dogecoin-gID_4.jpeg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/03/coinbase-dogecoin-gID_4.jpeg"
+        },
+        {
+          "id": "https://decrypt.co/?p=95371",
+          "author": "Mathew Di Salvo",
+          "description": "The Series B funding was led by top crypto investors Paradigm and Andreessen Horowitz.",
+          "link": "https://decrypt.co/95371/ethereum-startup-optimism-1-6-billion-valuation",
+          "publishedOn": "2022-03-17T18:57:56.000Z",
+          "wordCount": 762,
+          "title": "Ethereum Startup Optimism Hits $1.6 Billion Valuation After Raising $150M",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/08/ethereum-trading-volume-dex-gID_6.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/08/ethereum-trading-volume-dex-gID_6.jpg"
+        },
+        {
+          "id": "https://decrypt.co/?p=95318",
+          "author": "Andrew Hayward",
+          "description": "The APE token launches to volatile price action following some $88 million in sales for Bored Apes and related NFTs.",
+          "link": "https://decrypt.co/95318/bored-ape-yacht-club-ethereum-nft-sales-apecoin-price",
+          "publishedOn": "2022-03-17T17:49:10.000Z",
+          "wordCount": 1089,
+          "title": "Bored Ape Yacht Club Ethereum NFT Sales Surge as ApeCoin Price Pops, Then Drops",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/09/bored-ape-sothebys-auction-nft-winner-gID_7.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/09/bored-ape-sothebys-auction-nft-winner-gID_7.png"
+        },
+        {
+          "id": "https://decrypt.co/?p=95351",
+          "author": "Kate Irwin",
+          "description": "The cryptocurrency exchange is adding Solana to its list of supported blockchains for its wallet browser extension.",
+          "link": "https://decrypt.co/95351/coinbase-crypto-wallet-support-solana",
+          "publishedOn": "2022-03-17T17:09:28.000Z",
+          "wordCount": 565,
+          "title": "Coinbase Launches Crypto Wallet Support for Solana",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/03/coinbase-wallet-gID_4.jpeg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/03/coinbase-wallet-gID_4.jpeg"
+        },
+        {
+          "id": "https://decrypt.co/?p=95305",
+          "author": "Scott Chipolina",
+          "description": "Brie Larson, who plays Captain Marvel, has been criticized by fans on social media for flexing her “lil corner” of the metaverse.",
+          "link": "https://decrypt.co/95305/fans-captain-marvels-brie-larson-not-happy-shes-pushing-nfts",
+          "publishedOn": "2022-03-17T14:35:20.000Z",
+          "wordCount": 730,
+          "title": "Fans of Captain Marvel's Brie Larson Are Not Happy She's Pushing NFTs",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/03/BL-gID_1.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/03/BL-gID_1.jpg"
+        },
+        {
+          "id": "https://decrypt.co/?p=95290",
+          "author": "Andrew Hayward",
+          "description": "Another step forward on Rarible’s multi-chain roadmap as the NFT marketplace protocol adds the Ethereum scaling solution.",
+          "link": "https://decrypt.co/95290/rarible-adds-polygon-nfts-multi-wallet-support-marketplace",
+          "publishedOn": "2022-03-17T13:01:02.000Z",
+          "wordCount": 866,
+          "title": "Rarible Adds Polygon NFTs and Multi-Wallet Support to Marketplace",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/08/Polygon-Matic-gID_4.jpeg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/08/Polygon-Matic-gID_4.jpeg"
+        },
+        {
+          "id": "https://decrypt.co/videos/live-events/7XZx7FBe/the-importance-of-layer-2-consensys-nomad-and-layrlabs-at-camp-ethereal",
+          "author": null,
+          "description": "Robert Drost, Head of R&D at ConsenSys, talks Layer 2s and building atop Ethereum with James Prestwich of Nomad and Sreeram Kannan of LayrLabs at Camp Ethereal 2022 in Wyoming.",
+          "link": "https://decrypt.co/videos/live-events/7XZx7FBe/the-importance-of-layer-2-consensys-nomad-and-layrlabs-at-camp-ethereal",
+          "publishedOn": "2022-03-17T12:58:00.000Z",
+          "wordCount": 122,
+          "title": "The Importance of Layer 2: ConsenSys, Nomad, and LayrLabs at Camp Ethereal",
+          "enclosure": {
+            "url": "https://cdn.jwplayer.com/v2/media/7XZx7FBe/poster.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.jwplayer.com/v2/media/7XZx7FBe/poster.jpg"
+        },
+        {
+          "id": "https://decrypt.co/?p=95298",
+          "author": "Liam J. Kelly",
+          "description": "DeFi’s largest lending and borrowing protocol Aave has just undergone a facelift. Now, its native token, AAVE, has jumped double-digits.",
+          "link": "https://decrypt.co/95298/defi-blue-chip-token-aave-up-latest-upgrade",
+          "publishedOn": "2022-03-17T12:07:40.000Z",
+          "wordCount": 831,
+          "title": "DeFi Blue-Chip Token Aave Up 17% Amid Latest Upgrade",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/07/aave-price-up-scaled-gID_1.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/07/aave-price-up-scaled-gID_1.jpg"
+        },
+        {
+          "id": "https://decrypt.co/?p=95124",
+          "author": "Decrypt Staff",
+          "description": "Trading terminal TabTrader has launched trading on its iOS app, along with updates to its Android app including multiple accounts.",
+          "link": "https://decrypt.co/95124/tabtrader-adds-trading-for-ios-updates-android-app",
+          "publishedOn": "2022-03-17T12:06:45.000Z",
+          "wordCount": 851,
+          "title": "TabTrader Adds Trading for iOS, Updates Android App",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/03/tab-trader-ios-android-gID_1.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/03/tab-trader-ios-android-gID_1.jpg"
+        },
+        {
+          "id": "https://decrypt.co/?p=95293",
+          "author": "Scott Chipolina",
+          "description": "According to two newly posted vacancies, the music streaming platform Spotify is planning to add Web3 experts to its workforce.",
+          "link": "https://decrypt.co/95293/new-job-openings-spotify-indicate-web3-technology",
+          "publishedOn": "2022-03-17T11:12:04.000Z",
+          "wordCount": 618,
+          "title": "New Job Openings at Spotify Indicate a Move to Web3 Technology",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/03/Spotify-gID_5.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/03/Spotify-gID_5.jpg"
+        },
+        {
+          "id": "https://decrypt.co/?p=95282",
+          "author": "Kate Irwin",
+          "description": "Reddit co-founder Alexis Ohanian and FTX’s Amy Wu are on the board of the new BAYC-inspired ApeCoin DAO.",
+          "link": "https://decrypt.co/95282/apecoin-ape-launches-for-bored-apes-nft-holders-with-reddit-ftx-animoca-on-board",
+          "publishedOn": "2022-03-16T22:20:06.000Z",
+          "wordCount": 794,
+          "title": "ApeCoin Launches for Bored Ape Ethereum NFT Holders With Reddit, FTX, Animoca Execs on Board",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/03/image-5-gID_5.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/03/image-5-gID_5.png"
+        },
+        {
+          "id": "https://decrypt.co/?p=95278",
+          "author": "Jason Nelson",
+          "description": "The letter to SEC Chair Gary Gensler from Tom Emmer was co-signed by seven colleagues.",
+          "link": "https://decrypt.co/95278/congressional-blockchain-caucus-leader-asks-sec-streamline-looking-crypto-companies",
+          "publishedOn": "2022-03-16T20:13:08.000Z",
+          "wordCount": 701,
+          "title": "Congressional Blockchain Caucus Leader Pushes SEC Chair Gensler for Crypto Clarity",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/04/bitcoin-america-us-regulation-gID_2.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/04/bitcoin-america-us-regulation-gID_2.jpg"
+        },
+        {
+          "id": "https://decrypt.co/videos/live-events/CiW7BqYx/shapeshift-beetsdao-talk-dao-creation-and-governance-at-camp-ethereal",
+          "author": null,
+          "description": "Jordan Garbis, co-founder of BeetsDAO, and Kent Barton, who does tokenomics at ShapeShift DAO, talk to Decrypt's Dan Roberts at Camp Ethereal 2022 in Wyoming about how to start a DAO, the hurdles with growing them, how to handle tokenomics and reward structure, and how to approach bad behavior by DAO members. At the end, they also took questions from the audience.",
+          "link": "https://decrypt.co/videos/live-events/CiW7BqYx/shapeshift-beetsdao-talk-dao-creation-and-governance-at-camp-ethereal",
+          "publishedOn": "2022-03-16T18:54:00.000Z",
+          "wordCount": 150,
+          "title": "ShapeShift, BeetsDAO Talk DAO Creation and Governance at Camp Ethereal",
+          "enclosure": {
+            "url": "https://cdn.jwplayer.com/v2/media/CiW7BqYx/poster.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.jwplayer.com/v2/media/CiW7BqYx/poster.jpg"
+        },
+        {
+          "id": "https://decrypt.co/?p=95272",
+          "author": "Kate Irwin",
+          "description": "Ukraine’s law “On Virtual Assets” was introduced last month and is now official. It will usher in a fully regulated crypto market in the country.",
+          "link": "https://decrypt.co/95272/ukraine-president-signs-law-legalizing-and-regulating-crypto-assets",
+          "publishedOn": "2022-03-16T18:44:59.000Z",
+          "wordCount": 676,
+          "title": "Ukraine President Signs Law Legalizing and Regulating Crypto Assets",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/09/ukraine-cryptocurrency-gID_4.jpeg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/09/ukraine-cryptocurrency-gID_4.jpeg"
+        },
+        {
+          "id": "https://decrypt.co/?p=95263",
+          "author": "Mathew Di Salvo",
+          "description": "Whistleblower Edward Snowden compared the danger of CBDCs to Scrooge McDuck's giant money magnet in the cartoon \"DuckTales.\"",
+          "link": "https://decrypt.co/95263/edward-snowden-slams-central-bank-digital-currencies-the-risk-is-very-easy-to-illustrate",
+          "publishedOn": "2022-03-16T18:09:45.000Z",
+          "wordCount": 845,
+          "title": "Edward Snowden Slams Central Bank Digital Currencies: ‘The Risk Is Very Easy to Illustrate’",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/03/Screen-Shot-2022-03-16-at-2.01.27-PM-gID_4.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/03/Screen-Shot-2022-03-16-at-2.01.27-PM-gID_4.png"
+        },
+        {
+          "id": "https://decrypt.co/?p=95250",
+          "author": "Andrew Hayward",
+          "description": "After a flat week for the market, crypto prices are climbing again with Bitcoin and Ethereum both up today.",
+          "link": "https://decrypt.co/95250/bitcoin-pops-above-41k-as-crypto-market-shows-signs-of-recovery",
+          "publishedOn": "2022-03-16T15:42:57.000Z",
+          "wordCount": 814,
+          "title": "Bitcoin Pops Above $41K as Crypto Market Shows Signs of Recovery",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/01/shutterstock_1012491031-gID_5.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/01/shutterstock_1012491031-gID_5.jpg"
+        },
+        {
+          "id": "https://decrypt.co/?p=95240",
+          "author": "Scott Chipolina",
+          "description": "Elliptic has found a slew of addresses linked to sanctioned Russian entities, but also says crypto can't \"plug the gap\" Russia faces from sanctions.",
+          "link": "https://decrypt.co/95240/several-hundred-thousand-crypto-addresses-linked-to-sanctioned-russian-actors-elliptic",
+          "publishedOn": "2022-03-16T15:12:16.000Z",
+          "wordCount": 1033,
+          "title": "‘Several Hundred Thousand’ Crypto Addresses Linked to Sanctioned Russian Actors: Elliptic",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/07/russia-bitcoin-crypto-law-gID_1.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/07/russia-bitcoin-crypto-law-gID_1.jpg"
+        },
+        {
+          "id": "https://decrypt.co/videos/interviews/HFCkZBRf/gm-podcast-episode-5-andrew-yang-wants-you-to-join-his-dao",
+          "author": null,
+          "description": "The former presidential candidate and NYC mayoral candidate has launched Lobby3, a DC lobbying DAO. He talks to Dan Roberts and Jeff Roberts about his crypto journey, the potential of DAOs, and the need to blend a Web3 approach with \"the old-fashioned way\" to spur change in DC.",
+          "link": "https://decrypt.co/videos/interviews/HFCkZBRf/gm-podcast-episode-5-andrew-yang-wants-you-to-join-his-dao",
+          "publishedOn": "2022-03-16T14:02:00.000Z",
+          "wordCount": 141,
+          "title": "gm Podcast, Episode 5: Andrew Yang Wants You to Join His DAO",
+          "enclosure": {
+            "url": "https://cdn.jwplayer.com/v2/media/HFCkZBRf/poster.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.jwplayer.com/v2/media/HFCkZBRf/poster.jpg"
+        },
+        {
+          "id": "https://decrypt.co/?p=95173",
+          "author": "Jeff John Roberts",
+          "description": "Andrew Yang joined Decrypt's gm podcast to pitch his new political DAO, which he says can use crypto to change Washington politics.",
+          "link": "https://decrypt.co/95173/andrew-yang-decrypt-podcast-lobby-3-dao",
+          "publishedOn": "2022-03-16T13:24:16.000Z",
+          "wordCount": 857,
+          "title": "How Andrew Yang Aims to Change Washington With a DAO",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/01/shutterstock_1613108434-e1647440174119-gID_4.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/01/shutterstock_1613108434-e1647440174119-gID_4.jpg"
+        },
+        {
+          "id": "https://decrypt.co/?p=95217",
+          "author": "Andrew Hayward",
+          "description": "NG+ is a new investment consortium focused on crypto games, and is designed to tap each of the firm’s unique talents.",
+          "link": "https://decrypt.co/95217/galaxy-interactive-republic-alameda-team-for-web3-gaming-investments",
+          "publishedOn": "2022-03-16T13:01:02.000Z",
+          "wordCount": 1469,
+          "title": "Galaxy Interactive, Republic, Alameda Team Up for Web3 Gaming Investments",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/06/shutterstock_624801452-gID_4.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/06/shutterstock_624801452-gID_4.jpg"
+        },
+        {
+          "id": "https://decrypt.co/?p=95222",
+          "author": "Scott Chipolina",
+          "description": "Argentina is set to include cryptocurrency firms in their anti-money laundering regulations.",
+          "link": "https://decrypt.co/95222/argentina-cracks-down-crypto-anti-money-laundering-rules",
+          "publishedOn": "2022-03-16T11:16:47.000Z",
+          "wordCount": 622,
+          "title": "Argentina Cracks Down on Crypto With Anti-Money Laundering Rules",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/04/bitcoin-mining-argentina-gID_1.jpeg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/04/bitcoin-mining-argentina-gID_1.jpeg"
+        },
+        {
+          "id": "https://decrypt.co/?p=95219",
+          "author": "Liam J. Kelly",
+          "description": "Following news that HSBC bought a plot of virtual land and Paris Hilton's arrival in The Sandbox, the metaverse token SAND has jumped.",
+          "link": "https://decrypt.co/95219/the-sandbox-metaverse-token-jumps-hsbc-paris-hilton",
+          "publishedOn": "2022-03-16T10:42:58.000Z",
+          "wordCount": 867,
+          "title": "The Sandbox Metaverse Token Jumps 8% Amid HSBC, Paris Hilton Tie Up",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/12/the-sandbox-metaverse-snoop-gID_5.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/12/the-sandbox-metaverse-snoop-gID_5.jpg"
+        },
+        {
+          "id": "https://decrypt.co/?p=95212",
+          "author": "Kate Irwin",
+          "description": "Dr. Disrespect’s game studio Midnight Society has former “Call of Duty” and “Halo” employees at its helm.",
+          "link": "https://decrypt.co/95212/youtuber-dr-disrespect-banned-from-twitch-launches-gaming-nfts-on-polygon",
+          "publishedOn": "2022-03-16T01:44:59.000Z",
+          "wordCount": 719,
+          "title": "YouTuber Dr Disrespect, Banned From Twitch, Launches Gaming NFTs on Polygon",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/03/Screen-Shot-2022-03-15-at-9.40.45-PM-gID_1.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/03/Screen-Shot-2022-03-15-at-9.40.45-PM-gID_1.png"
+        },
+        {
+          "id": "https://decrypt.co/?p=95209",
+          "author": "Jason Nelson",
+          "description": "The Meta CEO confirmed at SXSW rumors that Instagram will get into the NFT game.",
+          "link": "https://decrypt.co/95209/nfts-are-coming-to-instagram-says-meta-ceo",
+          "publishedOn": "2022-03-15T22:16:40.000Z",
+          "wordCount": 661,
+          "title": "NFTs Are Coming to Instagram Says Mark Zuckerberg",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/03/instagram-gID_4.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/03/instagram-gID_4.jpg"
+        },
+        {
+          "id": "https://decrypt.co/?p=95193",
+          "author": "Jason Nelson",
+          "description": "Recent U.S. Patent and Trademark Office filings show how American Express could be venturing into Web3.",
+          "link": "https://decrypt.co/95193/american-express-files-trademark-applications-for-metaverse-and-nft-logos",
+          "publishedOn": "2022-03-15T21:03:11.000Z",
+          "wordCount": 646,
+          "title": "American Express Files Trademark Applications for Metaverse and NFT Logos",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/03/Amex-Platinum-gID_1.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/03/Amex-Platinum-gID_1.png"
+        },
+        {
+          "id": "https://decrypt.co/videos/interviews/BW49Ik6c/edward-snowden-talks-governments-and-crypto-cbdcs-and-ethereum-vs-bitcoin-at-camp-ethereal",
+          "author": null,
+          "description": "Edward Snowden gives an extensive interview to Marta Belcher of Filecoin Foundation for Camp Ethereal 2022, taped on February 27. He talks about how governments view crypto as \"an evolving threat,\" how crypto \"transforms power relationships,\" why he thinks Ethereum \"suffers from the same privacy problems as Bitcoin,\" and why he views central bank digital currencies (CBDCs) as \"crypto-fascist currencies.\"",
+          "link": "https://decrypt.co/videos/interviews/BW49Ik6c/edward-snowden-talks-governments-and-crypto-cbdcs-and-ethereum-vs-bitcoin-at-camp-ethereal",
+          "publishedOn": "2022-03-15T13:43:00.000Z",
+          "wordCount": 157,
+          "title": "Edward Snowden Talks Governments and Crypto, CBDCs, and Ethereum vs Bitcoin at Camp Ethereal",
+          "enclosure": {
+            "url": "https://cdn.jwplayer.com/v2/media/BW49Ik6c/poster.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.jwplayer.com/v2/media/BW49Ik6c/poster.jpg"
+        },
+        {
+          "id": "https://decrypt.co/videos/interviews/g3Y4YjIP/musician-dillon-francis-on-ethereum-vs-solana-for-nfts",
+          "author": null,
+          "description": "Musician and DJ Dillon Francis and Big Night Entertainment managing partner Tim Bonito tell Decrypt's Kate Irwin about their deal for a Boston nightclub residency and record collaboration with DJ duo ESCAPΞPLAN, and give their takes on Ethereum vs Solana for buying and trading NFTs.",
+          "link": "https://decrypt.co/videos/interviews/g3Y4YjIP/musician-dillon-francis-on-ethereum-vs-solana-for-nfts",
+          "publishedOn": "2022-03-13T20:23:00.000Z",
+          "wordCount": 132,
+          "title": "Musician Dillon Francis on Ethereum vs Solana for NFTs",
+          "enclosure": {
+            "url": "https://cdn.jwplayer.com/v2/media/g3Y4YjIP/poster.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.jwplayer.com/v2/media/g3Y4YjIP/poster.jpg"
+        },
+        {
+          "id": "https://decrypt.co/videos/interviews/i8kpHlOs/musician-dillon-francis-why-im-getting-into-nfts",
+          "author": null,
+          "description": "Musician and DJ Dillon Francis tells Decrypt's Kate Irwin what drew him to NFTs, and heaps a lot of praise on DJ 3LAU for pioneering in the space and prompting more artists to get in.",
+          "link": "https://decrypt.co/videos/interviews/i8kpHlOs/musician-dillon-francis-why-im-getting-into-nfts",
+          "publishedOn": "2022-03-13T18:17:00.000Z",
+          "wordCount": 118,
+          "title": "Musician Dillon Francis: Why I'm Getting Into NFTs",
+          "enclosure": {
+            "url": "https://cdn.jwplayer.com/v2/media/i8kpHlOs/poster.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.jwplayer.com/v2/media/i8kpHlOs/poster.jpg"
+        },
+        {
+          "id": "https://decrypt.co/videos/live-events/ybShHkPM/joe-lubin-talks-ethereum-20-nfts-and-daos-at-camp-ethereal",
+          "author": null,
+          "description": "ConsenSys CEO Joe Lubin talked about Ethereum 2.0 timing and impact, the power of DAOs, and gave his honest take on NFTs, Solana, Polygon, and Biden's crypto executive order in an extensive fireside chat with Decrypt's Dan Roberts at Camp Ethereal 2022 in Wyoming.",
+          "link": "https://decrypt.co/videos/live-events/ybShHkPM/joe-lubin-talks-ethereum-20-nfts-and-daos-at-camp-ethereal",
+          "publishedOn": "2022-03-12T23:02:00.000Z",
+          "wordCount": 136,
+          "title": "Joe Lubin Talks Ethereum 2.0, NFTs, and DAOs at Camp Ethereal",
+          "enclosure": {
+            "url": "https://cdn.jwplayer.com/v2/media/ybShHkPM/poster.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.jwplayer.com/v2/media/ybShHkPM/poster.jpg"
+        },
+        {
+          "id": "https://decrypt.co/videos/interviews/zmGD8n4Y/crypto-and-effective-altruism-sam-bankman-fried-interviews-peter-singer-at-camp-ethereal",
+          "author": null,
+          "description": "FTX CEO Sam Bankman-Fried sits down for a conversation with one of his heroes, the moral philosopher and Princeton University professor Peter Singer, exclusively for Camp Ethereal 2022, powered by Decrypt. They talk animal rights, climate change, effective giving, Bitcoin's energy use, and how crypto is helping Ukraine.",
+          "link": "https://decrypt.co/videos/interviews/zmGD8n4Y/crypto-and-effective-altruism-sam-bankman-fried-interviews-peter-singer-at-camp-ethereal",
+          "publishedOn": "2022-03-12T13:46:00.000Z",
+          "wordCount": 141,
+          "title": "Crypto and Effective Altruism: Sam Bankman-Fried Interviews Peter Singer at Camp Ethereal",
+          "enclosure": {
+            "url": "https://cdn.jwplayer.com/v2/media/zmGD8n4Y/poster.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.jwplayer.com/v2/media/zmGD8n4Y/poster.jpg"
+        },
+        {
+          "id": "https://decrypt.co/videos/live-events/8LC6W2tR/decryptlive-bidens-executive-order-ethereal-2022",
+          "author": null,
+          "description": "Decrypt's Dan Roberts and Decrypt Daily podcast host Matthew Diemer chat live in Wyoming about the crypto executive order and other insights from Camp Ethereal 2022.",
+          "link": "https://decrypt.co/videos/live-events/8LC6W2tR/decryptlive-bidens-executive-order-ethereal-2022",
+          "publishedOn": "2022-03-04T16:14:00.000Z",
+          "wordCount": 110,
+          "title": "#DecryptLIVE: Biden's Executive Order & Ethereal 2022",
+          "enclosure": {
+            "url": "https://cdn.jwplayer.com/v2/media/8LC6W2tR/poster.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.jwplayer.com/v2/media/8LC6W2tR/poster.jpg"
+        },
+        {
+          "id": "https://decrypt.co/videos/live-events/rYzaFLgp/decrypting-the-week-10-ukraine-welcomes-crypto",
+          "author": null,
+          "description": "As Russia’s invasion of Ukraine continues, Ukraine has raised more than $50 million in crypto donations—in Bitcoin, Ethereum, Polkadot, and even Dogecoin. Decrypt’s Dan Roberts, Scott Chipolina, and Kate Irwin, joined by special guest Izabella Kaminska of The Blind Spot, discuss the biggest story in the world right now.",
+          "link": "https://decrypt.co/videos/live-events/rYzaFLgp/decrypting-the-week-10-ukraine-welcomes-crypto",
+          "publishedOn": "2022-03-04T16:00:00.000Z",
+          "wordCount": 131,
+          "title": "Decrypting the Week 10: Ukraine Welcomes Crypto",
+          "enclosure": {
+            "url": "https://cdn.jwplayer.com/v2/media/rYzaFLgp/poster.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.jwplayer.com/v2/media/rYzaFLgp/poster.jpg"
+        },
+        {
+          "id": "https://decrypt.co/videos/interviews/1HhZLIUn/muneeb-ali-its-easy-to-make-fun-of-nfts-but-they-are-here-to-stay",
+          "author": null,
+          "description": "On Episode 4 of Decrypt's gm podcast, Muneeb Ali of Stacks gave Dan Roberts and Jeff Roberts his take on why NFTs are so triggering to people. He understands why they're easy to make fun of or \"dismiss as a toy,\" but expects them to be used for a whole range of important business purposes in the future.",
+          "link": "https://decrypt.co/videos/interviews/1HhZLIUn/muneeb-ali-its-easy-to-make-fun-of-nfts-but-they-are-here-to-stay",
+          "publishedOn": "2022-03-03T16:50:00.000Z",
+          "wordCount": 155,
+          "title": "Muneeb Ali: It's 'Easy to Make Fun' of NFTs, But They Are Here to Stay",
+          "enclosure": {
+            "url": "https://cdn.jwplayer.com/v2/media/1HhZLIUn/poster.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.jwplayer.com/v2/media/1HhZLIUn/poster.jpg"
+        },
+        {
+          "id": "https://decrypt.co/videos/interviews/fKXwVIjG/nba-alum-metta-world-peace-and-raymond-dong-of-blanksoles-talk-nfts",
+          "author": null,
+          "description": "Blanksoles, a decentralized sneaker company, announced a partnership with former NBA champion Metta Sandiford-Artest—better known as Metta World Peace, and before that Ron Artest—to launch \"Metta Designsoles,\" a series of limited edition Solana-based NFTs and physical sneakers. They discuss with Decrypt's Jason Nelson.",
+          "link": "https://decrypt.co/videos/interviews/fKXwVIjG/nba-alum-metta-world-peace-and-raymond-dong-of-blanksoles-talk-nfts",
+          "publishedOn": "2022-03-02T17:14:00.000Z",
+          "wordCount": 136,
+          "title": "NBA Alum Metta World Peace and Raymond Dong of Blanksoles Talk NFTs",
+          "enclosure": {
+            "url": "https://cdn.jwplayer.com/v2/media/fKXwVIjG/poster.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.jwplayer.com/v2/media/fKXwVIjG/poster.jpg"
+        },
+        {
+          "id": "https://decrypt.co/videos/interviews/RBedYD5Y/gm-podcast-episode-4-fighting-bitcoin-maximalism-with-muneeb-ali",
+          "author": null,
+          "description": "Muneeb Ali is a Bitcoin OG whose project Stacks, formerly Blockstack, pulled off the first SEC-approved token sale for its STX token. But even though Muneeb has become the leading advocate for building dapps on top of the Bitcoin blockchain, don't call him a Bitcoin maximalist. He tells Dan Roberts and Jeff Roberts on the gm how he fends off maximalists on Twitter, what he'd do if he were Twitter CEO, and how the Stacks ecosystem is growing.",
+          "link": "https://decrypt.co/videos/interviews/RBedYD5Y/gm-podcast-episode-4-fighting-bitcoin-maximalism-with-muneeb-ali",
+          "publishedOn": "2022-02-28T15:56:00.000Z",
+          "wordCount": 166,
+          "title": "gm Podcast, Episode 4: Fighting Bitcoin Maximalism with Muneeb Ali",
+          "enclosure": {
+            "url": "https://cdn.jwplayer.com/v2/media/RBedYD5Y/poster.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.jwplayer.com/v2/media/RBedYD5Y/poster.jpg"
+        },
+        {
+          "id": "https://decrypt.co/videos/interviews/UXurWE6E/ftxs-amy-wu-sounds-off-on-dorsey-vs-andreessen",
+          "author": null,
+          "description": "On Episode 3 of Decrypt's gm podcast, Amy Wu, the head of FTX Ventures, gave Dan Roberts and Jeff Roberts her take on the Jack Dorsey vs Andreessen Horowitz feud over Web3. \"There’s this constant narrative and paranoia that Web3 will become centralized, just like the previous rise of industries and the Internet... I think it’s good for people to remain paranoid about it,\" she said. She also commented on a16z's huge size in the space.",
+          "link": "https://decrypt.co/videos/interviews/UXurWE6E/ftxs-amy-wu-sounds-off-on-dorsey-vs-andreessen",
+          "publishedOn": "2022-02-27T15:56:00.000Z",
+          "wordCount": 164,
+          "title": "FTX's Amy Wu Sounds Off on Dorsey vs Andreessen",
+          "enclosure": {
+            "url": "https://cdn.jwplayer.com/v2/media/UXurWE6E/poster.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.jwplayer.com/v2/media/UXurWE6E/poster.jpg"
+        },
+        {
+          "id": "https://decrypt.co/videos/interviews/cK6b3tdE/ameen-soleimani-and-isaac-patka-of-moloch-dao-at-ethdenver-2022",
+          "author": null,
+          "description": "Ameen Soleimani and Isaac Patka of Moloch DAO speak with Decrypt's Jason Nelson at ETH Denver 2022 about the new Baal update to the widely-used Moloch DAO framework.",
+          "link": "https://decrypt.co/videos/interviews/cK6b3tdE/ameen-soleimani-and-isaac-patka-of-moloch-dao-at-ethdenver-2022",
+          "publishedOn": "2022-02-21T10:32:00.000Z",
+          "wordCount": 119,
+          "title": "Ameen Soleimani and Isaac Patka of Moloch DAO at ETHDenver 2022",
+          "enclosure": {
+            "url": "https://cdn.jwplayer.com/v2/media/cK6b3tdE/poster.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.jwplayer.com/v2/media/cK6b3tdE/poster.jpg"
+        },
+        {
+          "id": "https://decrypt.co/videos/interviews/fUMltabh/the-graphs-tegan-kline-at-ethdenver-2022",
+          "author": null,
+          "description": "The Graph has become one of the essential building blocks of Web3, providing an organized reliable source of data for projects of all sorts. Tegan Kline, one of the Graph's founders, tells Decrypt's Jeff Roberts how it all works and what's coming up next.",
+          "link": "https://decrypt.co/videos/interviews/fUMltabh/the-graphs-tegan-kline-at-ethdenver-2022",
+          "publishedOn": "2022-02-21T10:32:00.000Z",
+          "wordCount": 125,
+          "title": "The Graph's Tegan Kline at ETHDenver 2022",
+          "enclosure": {
+            "url": "https://cdn.jwplayer.com/v2/media/fUMltabh/poster.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.jwplayer.com/v2/media/fUMltabh/poster.jpg"
+        },
+        {
+          "id": "https://decrypt.co/videos/interviews/S6ABH2AR/shapeshift-daos-kent-barton-at-ethdenver-2022",
+          "author": null,
+          "description": "ShapeShift DAO's Kent Barton speaks with Decrypt's Jason Nelson at ETHDenver to discuss the latest with ShapeShift and how the transition from a centralized organization to a DAO has gone.",
+          "link": "https://decrypt.co/videos/interviews/S6ABH2AR/shapeshift-daos-kent-barton-at-ethdenver-2022",
+          "publishedOn": "2022-02-21T10:32:00.000Z",
+          "wordCount": 111,
+          "title": "ShapeShift DAO's Kent Barton at ETHDenver 2022",
+          "enclosure": {
+            "url": "https://cdn.jwplayer.com/v2/media/S6ABH2AR/poster.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.jwplayer.com/v2/media/S6ABH2AR/poster.jpg"
+        },
+        {
+          "id": "https://decrypt.co/videos/interviews/xbPHt6GW/the-view-from-dc-blockchain-association-at-ethdenver-2022",
+          "author": null,
+          "description": "How are decisions in Washington DC affecting crypto? Decrypt's Jeff Roberts speaks with Kristin Smith, who leads crypto's biggest lobbying group, about Republican and Democratic views on the fast-growing industry. Smith also sheds light on the odd behavior of SEC chair Gary Gensler.",
+          "link": "https://decrypt.co/videos/interviews/xbPHt6GW/the-view-from-dc-blockchain-association-at-ethdenver-2022",
+          "publishedOn": "2022-02-21T10:32:00.000Z",
+          "wordCount": 128,
+          "title": "The View From DC: Blockchain Association at ETHDenver 2022",
+          "enclosure": {
+            "url": "https://cdn.jwplayer.com/v2/media/xbPHt6GW/poster.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.jwplayer.com/v2/media/xbPHt6GW/poster.jpg"
         }
       ]
     }
