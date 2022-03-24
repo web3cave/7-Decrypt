@@ -6,12 +6,27 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=95931",
+          "author": "Andrew Hayward",
+          "description": "The alleged creators of the Frosties NFT project, a well-known “rug pull,” were charged with wire fraud and money laundering.",
+          "link": "https://decrypt.co/95931/justice-dept-ethereum-nft-project-creators-frosties-rug-pull",
+          "publishedOn": "2022-03-24T19:00:27.000Z",
+          "wordCount": 778,
+          "title": "US Justice Dept. Charges Ethereum NFT Project Creators Over 'Rug Pull'",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/03/frosties-rug-pull-ethereum-nft-gID_4.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/03/frosties-rug-pull-ethereum-nft-gID_4.png"
+        },
+        {
           "id": "https://decrypt.co/?p=42973",
           "author": "Rene Millman,Liam J. Kelly,Stephen Graves",
           "description": "The long-planned upgrade to Ethereum aims to improve the network’s scalability and security by switching to a proof of stake consensus mechanism.",
           "link": "https://decrypt.co/resources/what-is-ethereum-2-0",
           "publishedOn": "2022-03-24T18:10:04.000Z",
-          "wordCount": 2549,
+          "wordCount": 1744,
           "title": "What Is Ethereum 2.0? Ethereum's Consensus Layer and Merge Explained",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2019/03/etherium_litepaper-gID_1-pID_2.png",
@@ -589,21 +604,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/03/ledger-nano-s-plus-review-main-gID_6.jpg"
-        },
-        {
-          "id": "https://decrypt.co/?p=95666",
-          "author": "Liam J. Kelly",
-          "description": "Arthur Cheong, the founder of DeFi and crypto gaming fund DeFiance Capital, has had $1.7 million in various NFTs stolen from a crypto wallet.",
-          "link": "https://decrypt.co/95666/defiance-capital-founder-loses-1-7m-nfts-phishing-scam",
-          "publishedOn": "2022-03-22T11:10:10.000Z",
-          "wordCount": 756,
-          "title": "DeFiance Capital Founder Loses $1.7M in NFTs To Phishing Scam",
-          "enclosure": {
-            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/08/phishing-attack-crypto-exchanges-gID_1.jpg",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/08/phishing-attack-crypto-exchanges-gID_1.jpg"
         },
         {
           "id": "https://decrypt.co/videos/interviews/HVAiKHOT/andrew-yang-on-crypto-regulation-in-dc-this-train-is-coming-whats-the-cargo",
