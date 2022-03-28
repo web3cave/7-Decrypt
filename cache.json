@@ -6,6 +6,36 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=96215",
+          "author": "Andrew Hayward",
+          "description": "Did the seller accidentally accept 115 DAI instead of ETH, or is this an exploit or some kind of tax loss harvesting scheme?",
+          "link": "https://decrypt.co/96215/someone-sold-bored-ape-ethereum-nft-115-dai",
+          "publishedOn": "2022-03-28T18:39:13.000Z",
+          "wordCount": 849,
+          "title": "Someone Just Sold a Bored Ape Ethereum NFT for Only $115",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/03/bored-ape-yacht-club-nft-835-gID_4.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/03/bored-ape-yacht-club-nft-835-gID_4.png"
+        },
+        {
+          "id": "https://decrypt.co/?p=96220",
+          "author": "Jeff Benson",
+          "description": "Rep. Stephen Lynch introduced the ECASH Act. It's a CBDC without the CB.",
+          "link": "https://decrypt.co/96220/congress-discussing-digital-dollar-pilot-not-what-you-think",
+          "publishedOn": "2022-03-28T18:18:55.000Z",
+          "wordCount": 1021,
+          "title": "Congress Is Discussing a Digital Dollar Pilot. It's Not What You Think",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/07/digital-dollar-money-privacy-surveillance-gID_5.jpeg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/07/digital-dollar-money-privacy-surveillance-gID_5.jpeg"
+        },
+        {
           "id": "https://decrypt.co/?p=96200",
           "author": "Andrew Hayward",
           "description": "Based on a book series, the collectible card game will offer both Polygon NFTs and physical cards to players.",
@@ -589,36 +619,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/03/Cardano-gID_4.jpg"
-        },
-        {
-          "id": "https://decrypt.co/?p=95872",
-          "author": "Andrew Hayward",
-          "description": "The PUBG battle royale series has more than a billion downloads across platforms, and now its publisher is building on Solana.",
-          "link": "https://decrypt.co/95872/krafton-pubg-series-solana-nft-games",
-          "publishedOn": "2022-03-23T20:56:09.000Z",
-          "wordCount": 870,
-          "title": "Studio Behind Smash Hit PUBG Series Will Make Solana NFT Games",
-          "enclosure": {
-            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/03/pubg-battlegrounds-game-krafton-solana-gID_4.jpeg",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/03/pubg-battlegrounds-game-krafton-solana-gID_4.jpeg"
-        },
-        {
-          "id": "https://decrypt.co/?p=95827",
-          "author": "Kate Irwin",
-          "description": "Zuckerberg’s metaverse is going crypto, and Meta’s logo will be at the nexus of it all.",
-          "link": "https://decrypt.co/95827/meta-files-trademarks-for-crypto-tokens-wallets-exchanges",
-          "publishedOn": "2022-03-23T19:44:23.000Z",
-          "wordCount": 493,
-          "title": "Meta Files Trademarks for Crypto Tokens, Wallets, Exchanges",
-          "enclosure": {
-            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/03/zuckerberg-gID_1.jpg",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/03/zuckerberg-gID_1.jpg"
         },
         {
           "id": "https://decrypt.co/videos/interviews/HVAiKHOT/andrew-yang-on-crypto-regulation-in-dc-this-train-is-coming-whats-the-cargo",
