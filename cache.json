@@ -6,6 +6,51 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=96243",
+          "author": "Kate Irwin",
+          "description": "Proceeds from the NFT sales will support youth impacted by HIV/AIDS.",
+          "link": "https://decrypt.co/96243/mac-cosmetics-releases-keith-haring-polygon-nfts-with-consensys",
+          "publishedOn": "2022-03-29T12:02:05.000Z",
+          "wordCount": 618,
+          "title": "MAC Cosmetics Releases Keith Haring Polygon NFTs with ConsenSys",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/03/Keith-Haring-Blue-Exclusive-scaled-e1648500153892-gID_7.jpeg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/03/Keith-Haring-Blue-Exclusive-scaled-e1648500153892-gID_7.jpeg"
+        },
+        {
+          "id": "https://decrypt.co/?p=96285",
+          "author": "Liam J. Kelly",
+          "description": "zkLend has raised $5 million to build out its speedy, low-cost lending and borrowing protocol using the Ethereum scaling solution zk-Rollups.",
+          "link": "https://decrypt.co/96285/ethereum-layer-2-defi-money-market-zklend-lands-5m-raise",
+          "publishedOn": "2022-03-29T12:01:02.000Z",
+          "wordCount": 843,
+          "title": "Ethereum Layer-2 DeFi Money Market zkLend Lands $5M Raise",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/11/crypto-startups-fundraise-money-covid-coronavirus-gID_4.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/11/crypto-startups-fundraise-money-covid-coronavirus-gID_4.jpg"
+        },
+        {
+          "id": "https://decrypt.co/?p=96298",
+          "author": "Andrew Asmakov",
+          "description": "Environmental activist groups as well as the CEO and co-founder of Ripple have joined forces to campaign for a code change to Bitcoin.",
+          "link": "https://decrypt.co/96298/ripple-co-founder-backs-controversial-campaign-change-bitcoin-code",
+          "publishedOn": "2022-03-29T11:26:56.000Z",
+          "wordCount": 655,
+          "title": "Ripple Co-Founder Backs Controversial Campaign to Change Bitcoin Code",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/10/bitcoin-etf-trading-volume-gID_4.jpeg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/10/bitcoin-etf-trading-volume-gID_4.jpeg"
+        },
+        {
           "id": "https://decrypt.co/?p=96286",
           "author": "Andrew Asmakov",
           "description": "Terra's token LUNA hit an all-time high after the project's founder and CEO confirmed that it had bought over $1 billion in Bitcoin since January.",
@@ -589,51 +634,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/03/Russia-ruble-bitcoin-gID_4.jpeg"
-        },
-        {
-          "id": "https://decrypt.co/?p=95931",
-          "author": "Andrew Hayward",
-          "description": "The alleged creators of the Frosties NFT project, a well-known “rug pull,” were charged with wire fraud and money laundering.",
-          "link": "https://decrypt.co/95931/justice-dept-ethereum-nft-project-creators-frosties-rug-pull",
-          "publishedOn": "2022-03-24T19:00:27.000Z",
-          "wordCount": 762,
-          "title": "US Justice Dept. Charges Ethereum NFT Project Creators Over 'Rug Pull'",
-          "enclosure": {
-            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/03/frosties-rug-pull-ethereum-nft-gID_4.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/03/frosties-rug-pull-ethereum-nft-gID_4.png"
-        },
-        {
-          "id": "https://decrypt.co/?p=42973",
-          "author": "Rene Millman,Liam J. Kelly,Stephen Graves",
-          "description": "The long-planned upgrade to Ethereum aims to improve the network’s scalability and security by switching to a proof of stake consensus mechanism.",
-          "link": "https://decrypt.co/resources/what-is-ethereum-2-0",
-          "publishedOn": "2022-03-24T18:10:04.000Z",
-          "wordCount": 1696,
-          "title": "What Is Ethereum 2.0? Ethereum's Consensus Layer and Merge Explained",
-          "enclosure": {
-            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2019/03/etherium_litepaper-gID_1-pID_2.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2019/03/etherium_litepaper-gID_1-pID_2.png"
-        },
-        {
-          "id": "https://decrypt.co/?p=95923",
-          "author": "Mathew Di Salvo",
-          "description": "U.S. senators will now vote on the bill—and President Bukele isn’t happy.",
-          "link": "https://decrypt.co/95923/el-salvador-president-nayib-bukele-us-bill-potential-risks-bitcoin-law",
-          "publishedOn": "2022-03-24T18:03:52.000Z",
-          "wordCount": 748,
-          "title": "Bukele Slams US Bill That Targets 'Potential Risks' of El Salvador’s Bitcoin Law",
-          "enclosure": {
-            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/09/Nayib-Bukele-el-salvador-bitcoin-gID_4.jpeg",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/09/Nayib-Bukele-el-salvador-bitcoin-gID_4.jpeg"
         },
         {
           "id": "https://decrypt.co/videos/interviews/HVAiKHOT/andrew-yang-on-crypto-regulation-in-dc-this-train-is-coming-whats-the-cargo",
