@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-02T19:07:35.111Z</id>
+    <id>urn:2022-04-02T20:08:54.075Z</id>
     <title>web3::cave</title>
-    <updated>2022-04-02T19:07:35.111Z</updated>
+    <updated>2022-04-02T20:08:54.075Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Read a Block Explorer]]></title>
+        <id>https://decrypt.co/?p=96675</id>
+        <link href="https://decrypt.co/resources/how-to-read-block-explorer"/>
+        <updated>2022-04-02T19:31:25.000Z</updated>
+        <summary type="html"><![CDATA[Block explorers like Etherscan for Ethereum and Blockchain.com for Bitcoin are designed to allow anyone to follow transactions on a network.]]></summary>
+        <author>
+            <name>Robert Stevens</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[More Than 90% of All Bitcoin Is Now in Circulation. What's Next?]]></title>
         <id>https://decrypt.co/?p=96741</id>
@@ -413,16 +423,6 @@
         <summary type="html"><![CDATA[The native token behind DeFi’s popular money market Aave has risen more than 30% over the past 24 hours amid a flurry of new developments.]]></summary>
         <author>
             <name>Liam J. Kelly</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Browser Opera Adds Support for Bitcoin, Polygon, Solana]]></title>
-        <id>https://decrypt.co/?p=96321</id>
-        <link href="https://decrypt.co/96321/web-browser-opera-adds-suport-bitcoin-polygon-solana"/>
-        <updated>2022-03-30T07:31:01.000Z</updated>
-        <summary type="html"><![CDATA[Opera is now supporting eight new blockchains, including the Bitcoin network, Ethereum scaler Polygon, and Solana.]]></summary>
-        <author>
-            <name>Andrew Asmakov</name>
         </author>
     </entry>
     <entry>
