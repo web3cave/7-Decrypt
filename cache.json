@@ -6,6 +6,36 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=97139",
+          "author": "Andrew Hayward",
+          "description": "At long last, Solana support is finally live on OpenSea—in beta mode.",
+          "link": "https://decrypt.co/97139/solana-nfts-opensea-trading-live",
+          "publishedOn": "2022-04-06T23:05:37.000Z",
+          "wordCount": 774,
+          "title": "Solana NFTs Can Now Be Traded on OpenSea",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/04/opensea-solana-logos-gID_6.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/04/opensea-solana-logos-gID_6.png"
+        },
+        {
+          "id": "https://decrypt.co/?p=97112",
+          "author": "Jeff Benson",
+          "description": "Brett Harrison contrasted the exchange's strategy with Coinbase's.",
+          "link": "https://decrypt.co/97112/ftx-us-holding-back-token-listings-regulatory-uncertainty-ceo",
+          "publishedOn": "2022-04-06T22:07:13.000Z",
+          "wordCount": 877,
+          "title": "FTX US Holding Back on Token Listings Due to Regulatory Uncertainty: CEO",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/04/FTX-US-gID_4.jpeg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/04/FTX-US-gID_4.jpeg"
+        },
+        {
           "id": "https://decrypt.co/?p=97121",
           "author": "Mathew Di Salvo",
           "description": "Those issuing stablecoins will have to publicly disclose the assets that back them—be it cash reserves or something else.",
@@ -574,36 +604,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/04/magic-eden-aurory-solana-tokens-gID_7.jpeg"
-        },
-        {
-          "id": "https://decrypt.co/?p=96890",
-          "author": "Jeff Benson",
-          "description": "A broken stablecoin peg, accusations of price manipulation, and a whole lot of price movement.",
-          "link": "https://decrypt.co/96890/waves-taking-crypto-traders-wild-ride-what-you-need-know",
-          "publishedOn": "2022-04-04T20:57:06.000Z",
-          "wordCount": 966,
-          "title": "Waves Is Taking Crypto Traders on a Wild Ride. Here's What You Need to Know",
-          "enclosure": {
-            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/04/ocean-wave-gID_4.jpeg",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/04/ocean-wave-gID_4.jpeg"
-        },
-        {
-          "id": "https://decrypt.co/?p=96880",
-          "author": "Andrew Throuvalas",
-          "description": "Jack Dorsey’s Block will be among the first companies buying the chips, which are designed to be more energy efficient.",
-          "link": "https://decrypt.co/96880/intel-launches-bitcoin-mining-chips-sustainability",
-          "publishedOn": "2022-04-04T20:03:41.000Z",
-          "wordCount": 659,
-          "title": "Intel Launches New Bitcoin Mining Chips Focused on Sustainability",
-          "enclosure": {
-            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/02/intel-bitcoin-mining-chip-gID_2.jpg",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/02/intel-bitcoin-mining-chip-gID_2.jpg"
         },
         {
           "id": "https://decrypt.co/videos/interviews/iBeP1A7B/ice-cube-crypto-and-nfts-are-the-ultimate-fuck-you-to-the-mainstream",
