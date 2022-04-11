@@ -6,6 +6,36 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=97430",
+          "author": "Andrew Asmakov",
+          "description": "Bitcoin and Ethereum, the industry’s two largest cryptocurrencies, are both down to almost three-week lows.",
+          "link": "https://decrypt.co/97430/bitcoin-ethereum-slip-to-three-week-lows",
+          "publishedOn": "2022-04-11T10:29:59.000Z",
+          "wordCount": 634,
+          "title": "Bitcoin, Ethereum Slip to Three-Week Lows",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/05/bitcoin-ethereum-gID_2.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/05/bitcoin-ethereum-gID_2.jpg"
+        },
+        {
+          "id": "https://decrypt.co/?p=97432",
+          "author": "Scott Chipolina",
+          "description": "The billionaire co-founder of The Carlyle Group, David Rubenstein, has reversed his previously \"skeptical\" view of cryptocurrencies.",
+          "link": "https://decrypt.co/97432/billionaire-david-rubenstein-on-crypto-the-genie-is-out-of-the-bottle",
+          "publishedOn": "2022-04-11T10:15:55.000Z",
+          "wordCount": 590,
+          "title": "Billionaire David Rubenstein On Crypto: ‘The Genie Is Out Of The Bottle’",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/04/Rubenstein-e1649672072880-gID_1.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/04/Rubenstein-e1649672072880-gID_1.jpg"
+        },
+        {
           "id": "https://decrypt.co/?p=97428",
           "author": "Scott Chipolina",
           "description": "Twitter’s CEO Parag Agrawal has announced that Elon Musk will no longer be joining the Board for the social media giant.",
@@ -606,36 +636,6 @@
           "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/04/opensea-solana-logos-gID_6.png"
         },
         {
-          "id": "https://decrypt.co/?p=97112",
-          "author": "Jeff Benson",
-          "description": "Brett Harrison contrasted the exchange's strategy with Coinbase's.",
-          "link": "https://decrypt.co/97112/ftx-us-holding-back-token-listings-regulatory-uncertainty-ceo",
-          "publishedOn": "2022-04-06T22:07:13.000Z",
-          "wordCount": 871,
-          "title": "FTX US Holding Back on Token Listings Due to Regulatory Uncertainty: CEO",
-          "enclosure": {
-            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/04/FTX-US-gID_4.jpeg",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/04/FTX-US-gID_4.jpeg"
-        },
-        {
-          "id": "https://decrypt.co/?p=97121",
-          "author": "Mathew Di Salvo",
-          "description": "Those issuing stablecoins will have to publicly disclose the assets that back them—be it cash reserves or something else.",
-          "link": "https://decrypt.co/97121/pennsylvania-senator-pat-toomey-debuts-trust-act-regulating-stablecoins",
-          "publishedOn": "2022-04-06T20:56:25.000Z",
-          "wordCount": 540,
-          "title": "Pennsylvania Senator Pat Toomey Debuts TRUST Act for Regulating Stablecoins",
-          "enclosure": {
-            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/07/Senator-Pat-Toomey-gID_1.jpeg",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/07/Senator-Pat-Toomey-gID_1.jpeg"
-        },
-        {
           "id": "https://decrypt.co/videos/interviews/iBeP1A7B/ice-cube-crypto-and-nfts-are-the-ultimate-fuck-you-to-the-mainstream",
           "author": null,
           "description": "The legendary rapper, actor, and entrepreneur Ice Cube talks to Decrypt's Andrew Hayward about why his BIG3 basketball league plans to offer fractional team ownership in the form of NFTs, plus his personal interest in crypto.",
@@ -844,21 +844,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.jwplayer.com/v2/media/i8kpHlOs/poster.jpg"
-        },
-        {
-          "id": "https://decrypt.co/videos/live-events/ybShHkPM/joe-lubin-talks-ethereum-20-nfts-and-daos-at-camp-ethereal",
-          "author": null,
-          "description": "ConsenSys CEO Joe Lubin talked about Ethereum 2.0 timing and impact, the power of DAOs, and gave his honest take on NFTs, Solana, Polygon, and Biden's crypto executive order in an extensive fireside chat with Decrypt's Dan Roberts at Camp Ethereal 2022 in Wyoming.",
-          "link": "https://decrypt.co/videos/live-events/ybShHkPM/joe-lubin-talks-ethereum-20-nfts-and-daos-at-camp-ethereal",
-          "publishedOn": "2022-03-12T23:02:00.000Z",
-          "wordCount": 156,
-          "title": "Joe Lubin Talks Ethereum 2.0, NFTs, and DAOs at Camp Ethereal",
-          "enclosure": {
-            "url": "https://cdn.jwplayer.com/v2/media/ybShHkPM/poster.jpg",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.jwplayer.com/v2/media/ybShHkPM/poster.jpg"
         }
       ]
     }
