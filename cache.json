@@ -6,6 +6,21 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=97764",
+          "author": "Robert Stevens",
+          "description": "The Ethereum mainnet is due to merge with the Beacon Chain in 2022, completing the blockchain's transition from proof of work to proof of stake.",
+          "link": "https://decrypt.co/resources/what-merge-ethereum-move-proof-stake",
+          "publishedOn": "2022-04-13T20:48:10.000Z",
+          "wordCount": 1116,
+          "title": "What Is ‘The Merge’? Ethereum’s Move to Proof of Stake",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2019/03/etherium_litepaper-gID_1-pID_1.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2019/03/etherium_litepaper-gID_1-pID_1.png"
+        },
+        {
           "id": "https://decrypt.co/?p=97752",
           "author": "Kate Irwin",
           "description": "The institutional version of ConsenSys’s MetaMask can now be used for Gnosis Safe, Hex Trust, Parfin, and GK8.",
@@ -113,11 +128,11 @@
         {
           "id": "https://decrypt.co/?p=97709",
           "author": "Stacy Elliott",
-          "description": "The Ethereum 2.0 upgrade that will see the network switch to proof-of-stake will come ‘in the few months after’ June, according to devs.",
+          "description": "The Ethereum 2.0 upgrade that will see the network switch to proof of stake will come ‘in the few months after’ June, according to devs.",
           "link": "https://decrypt.co/97709/ethereum-merge-pushed-to-q3-as-final-chapter-of-proof-of-work-looms",
           "publishedOn": "2022-04-13T12:54:26.000Z",
-          "wordCount": 638,
-          "title": "Ethereum Merge Pushed to Q3 As 'Final Chapter' of Proof-of-Work Looms",
+          "wordCount": 646,
+          "title": "Ethereum Merge Pushed to Q3 as 'Final Chapter' of Proof of Work Looms",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/04/shutterstock_2112528782-gID_1.jpg",
             "length": "1000000",
@@ -604,21 +619,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/02/nasdaq-front-of-building-gID_6.jpg"
-        },
-        {
-          "id": "https://decrypt.co/?p=97451",
-          "author": "Andrew Asmakov",
-          "description": "ARK Invest CEO Cathie Wood called PayPal’s Venmo a “follower” of Block’s Cash App payment system, which uses Bitcoin’s Lightning Network.",
-          "link": "https://decrypt.co/97451/cathie-wood-ark-invest-chose-block-over-paypal-due-to-cash-apps-bitcoin-focus",
-          "publishedOn": "2022-04-11T13:29:04.000Z",
-          "wordCount": 740,
-          "title": "Cathie Wood: ARK Invest 'Chose Block Over PayPal' Due To Cash App's Bitcoin Focus",
-          "enclosure": {
-            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/10/ark-cathie-wood-gID_4.jpg",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/10/ark-cathie-wood-gID_4.jpg"
         },
         {
           "id": "https://decrypt.co/videos/live-events/x3Wu6kaq/gemini-coo-talks-to-decrypt-at-bitcoin-miami-2022",
