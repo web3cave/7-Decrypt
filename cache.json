@@ -6,6 +6,21 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=5723",
+          "author": "Matt Hussey,Daniel Phillips",
+          "description": "Smart contracts are at the heart of the blockchain revolution, providing the building blocks for decentralized applications (dapps).",
+          "link": "https://decrypt.co/resources/smart-contracts",
+          "publishedOn": "2022-04-28T14:45:33.000Z",
+          "wordCount": 2219,
+          "title": "What Are Smart Contracts and How Do They Work?",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2019/03/smart_contracts_litepaper-gID_5-pID_6.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2019/03/smart_contracts_litepaper-gID_5-pID_6.png"
+        },
+        {
           "id": "https://decrypt.co/?p=98917",
           "author": "Andrew Asmakov",
           "description": "American crypto enthusiasts will soon be able to pay their utilities, mortgage payments, and even taxes with Bitcoin.",
@@ -619,21 +634,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/08/microstrategy-bitcoin-investment-gID_4.jpg"
-        },
-        {
-          "id": "https://decrypt.co/?p=98704",
-          "author": "Stacy Elliott",
-          "description": "Three ASIC Antminer S9 rigs, donated by the Texas Blockchain Council, will run on a private network at Fort Worth City Hall.",
-          "link": "https://decrypt.co/98704/fort-worth-city-council-unanimously-approves-mining-bitcoin-at-city-hall",
-          "publishedOn": "2022-04-26T16:30:12.000Z",
-          "wordCount": 586,
-          "title": "Fort Worth Passes Vote for City Government to Mine Bitcoin",
-          "enclosure": {
-            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/02/Bitcoin-mining-1-gID_4.jpg",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/02/Bitcoin-mining-1-gID_4.jpg"
         },
         {
           "id": "https://decrypt.co/videos/interviews/fx2vFPSN/nft-artist-pplpleasr-you-should-be-thinking-of-daos-like-subreddits",
