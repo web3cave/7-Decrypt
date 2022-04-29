@@ -6,6 +6,21 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=5724",
+          "author": "Matt Hussey,Scott Chipolina",
+          "description": "Decentralized applications, or dapps, are a radical new way of building applications, using blockchain to do away with centralized middlemen.",
+          "link": "https://decrypt.co/resources/what-are-decentralized-applications-dapps",
+          "publishedOn": "2022-04-29T16:55:49.000Z",
+          "wordCount": 1202,
+          "title": "What are Decentralized Apps (Dapps)?",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2019/01/cover_Eth_VM@2x-gID_1-pID_1.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2019/01/cover_Eth_VM@2x-gID_1-pID_1.png"
+        },
+        {
           "id": "https://decrypt.co/?p=7535",
           "author": "Ki Chong Tran,Stephen Graves",
           "description": "ERC-721 is a token standard for non-fungible tokens on Ethereum. A pillar of the ecosystem, it supports billions of dollars worth of NFTs.",
@@ -589,21 +604,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/04/The-Sandbox-illustration-v2-gID_5-pID_3.png"
-        },
-        {
-          "id": "https://decrypt.co/?p=98741",
-          "author": "Jason Nelson",
-          "description": "Decrypt visited Bored & Hungry, the new California burger joint inspired by Bored Ape Yacht Club Ethereum NFTs. Here's our review.",
-          "link": "https://decrypt.co/98741/bored-hungry-we-check-it-out",
-          "publishedOn": "2022-04-27T13:31:36.000Z",
-          "wordCount": 1165,
-          "title": "Surprise: The Bored Ape Yacht Club NFT IRL Restaurant Is Pretty Good",
-          "enclosure": {
-            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/04/Bored-Hungry-Food-Review-gID_4.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/04/Bored-Hungry-Food-Review-gID_4.png"
         },
         {
           "id": "https://decrypt.co/videos/interviews/8NN4zObC/inside-the-bored-ape-yacht-club-nft-restaurant-in-la",
