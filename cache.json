@@ -6,6 +6,21 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=99119",
+          "author": "Justin Doom",
+          "description": "The crash calls to mind a 17-hour outage in September, which the Solana Foundation said was due to \"in effect, a denial of service attack.\"",
+          "link": "https://decrypt.co/99119/seven-hour-solana-crash-blamed-on-bots-swarming-candy-machine",
+          "publishedOn": "2022-05-01T14:16:35.000Z",
+          "wordCount": 508,
+          "title": "Seven-Hour Solana Crash Blamed on Bots Swarming Candy Machine",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/10/solana-blockchain-logo-white-rainbow-e1602124591480-gID_6.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/10/solana-blockchain-logo-white-rainbow-e1602124591480-gID_6.png"
+        },
+        {
           "id": "https://decrypt.co/?p=99110",
           "author": "Shuyao Kong",
           "description": "Fun with ZK Proofs, Optimistic Rollups, Raaves and Waffles at Yet Another Crypto Conference(s).",
@@ -25,7 +40,7 @@
           "author": "Daniel Roberts",
           "description": "SBF has made FTX the hottest company in crypto, and showed off his clout at a huge event in The Bahamas. How long will the honeymoon phase last?",
           "link": "https://decrypt.co/99088/ftx-ceo-sam-bankman-fried-crypto-bahamas",
-          "publishedOn": "2022-05-01T13:01:02.000Z",
+          "publishedOn": "2022-05-01T13:01:09.000Z",
           "wordCount": 1069,
           "title": "Sam Bankman-Fried's Bahamian Honeymoon Phase",
           "enclosure": {
@@ -589,21 +604,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/11/eric-adams-nyc-mayor-elect-bitcoin-gID_4.png"
-        },
-        {
-          "id": "https://decrypt.co/?p=98779",
-          "author": "Liam J. Kelly",
-          "description": "The Bright Moments DAO brought the metaverse to the meatspace at Berlin’s iconic Kraftwerk venue for a 10-day celebration.",
-          "link": "https://decrypt.co/98779/bright-moments-dao-brings-crypto-life-nft-art-berlin",
-          "publishedOn": "2022-04-28T08:44:15.000Z",
-          "wordCount": 1324,
-          "title": "Bright Moments DAO Brings Crypto to Life at NFT Art Berlin",
-          "enclosure": {
-            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/04/crypto-berliner-mint-image-1-gID_1.jpg",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/04/crypto-berliner-mint-image-1-gID_1.jpg"
         },
         {
           "id": "https://decrypt.co/videos/interviews/8NN4zObC/inside-the-bored-ape-yacht-club-nft-restaurant-in-la",
