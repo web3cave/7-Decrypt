@@ -6,6 +6,21 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=99138",
+          "author": "Tim Hakki",
+          "description": "Also: Marc Andreessen criticized Warren Buffet for criticizing Bitcoin, and details emerged of a $16 crypto domain sold for over $400,000.",
+          "link": "https://decrypt.co/99138/this-week-on-crypto-twitter-elon-musks-takeover-bid-bored-ape-yacht-clubs-metaverse-drop",
+          "publishedOn": "2022-05-01T16:52:22.000Z",
+          "wordCount": 1420,
+          "title": "This Week on Crypto Twitter: Elon Musk’s Takeover Bid, Bored Ape Yacht Club’s Metaverse Drop",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/01/twitter-blue-sky-decentralization-ethereum-cardano-gID_7.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/01/twitter-blue-sky-decentralization-ethereum-cardano-gID_7.jpg"
+        },
+        {
           "id": "https://decrypt.co/?p=99136",
           "author": "Sujith Somraaj",
           "description": "The muted response perhaps suggests gamer backlash is waning.",
@@ -22,11 +37,11 @@
         },
         {
           "id": "https://decrypt.co/?p=99119",
-          "author": "Justin Doom",
+          "author": "Justin Doom,Kate Irwin",
           "description": "The crash calls to mind a 17-hour outage in September, which the Solana Foundation said was due to \"in effect, a denial of service attack.\"",
           "link": "https://decrypt.co/99119/seven-hour-solana-crash-blamed-on-bots-swarming-candy-machine",
           "publishedOn": "2022-05-01T14:16:35.000Z",
-          "wordCount": 508,
+          "wordCount": 695,
           "title": "Seven-Hour Solana Crash Blamed on Bots Swarming Candy Machine",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/10/solana-blockchain-logo-white-rainbow-e1602124591480-gID_6.png",
@@ -589,21 +604,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/02/ukraine-crypto-gID_1.jpg"
-        },
-        {
-          "id": "https://decrypt.co/?p=5734",
-          "author": "Matt Hussey,Stephen Graves",
-          "description": "Ethereum is underpinned by three core features: Gas, Ether and the ERC-20 token standard that allows cryptocurrencies to be built atop it.",
-          "link": "https://decrypt.co/resources/what-are-erc-20-gas-ether-ethereum",
-          "publishedOn": "2022-04-28T09:45:52.000Z",
-          "wordCount": 1399,
-          "title": "What are ERC-20 Tokens, Gas and Ether? Ethereum's Architecture Explained",
-          "enclosure": {
-            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2019/03/gas_litepaper-gID_5-pID_5.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2019/03/gas_litepaper-gID_5-pID_5.png"
         },
         {
           "id": "https://decrypt.co/videos/interviews/8NN4zObC/inside-the-bored-ape-yacht-club-nft-restaurant-in-la",
