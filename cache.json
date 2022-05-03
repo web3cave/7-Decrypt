@@ -6,12 +6,27 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=5750",
+          "author": "Matt Hussey,Daniel Phillips",
+          "description": "MetaMask is a cryptocurrency wallet that enables users to access the Web 3 ecosystem of decentralized applications (dapps).",
+          "link": "https://decrypt.co/resources/metamask",
+          "publishedOn": "2022-05-03T17:05:56.000Z",
+          "wordCount": 1768,
+          "title": "What is MetaMask? How to Use the Top Ethereum Wallet",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2019/03/1e5b7a20-9341-4230-b8f5-5b401809e1af_-gID_6-pID_3.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2019/03/1e5b7a20-9341-4230-b8f5-5b401809e1af_-gID_6-pID_3.png"
+        },
+        {
           "id": "https://decrypt.co/?p=99333",
           "author": "Liam J. Kelly",
           "description": "The Wall Street titan used to refer to crypto as “a jihadist call” against the U.S. dollar. His tone has changed, but he’s still reticent.",
           "link": "https://decrypt.co/99333/citadel-ceo-ken-griffin-didnt-want-help-fund-north-koreans-entering-crypto",
           "publishedOn": "2022-05-03T15:06:50.000Z",
-          "wordCount": 818,
+          "wordCount": 819,
           "title": "Citadel CEO Ken Griffin Didn’t Want to ‘Help Fund the North Koreans’ by Entering Crypto",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/05/citadel-securities-ken-griffin-gID_6.jpg",
@@ -70,7 +85,7 @@
           "author": "Stacy Elliott",
           "description": "The new venture, headed up by Gemini's Beth Kurteson, will look to establish design and security patterns for the Web3 ecosystem.",
           "link": "https://decrypt.co/99302/gemini-launches-web3-design-studio-superlunar",
-          "publishedOn": "2022-05-03T13:01:02.000Z",
+          "publishedOn": "2022-05-03T13:01:11.000Z",
           "wordCount": 634,
           "title": "Gemini Launches Web3 Design Studio Superlunar",
           "enclosure": {
@@ -589,21 +604,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2019/06/el_classic-gID_5-pID_6.png"
-        },
-        {
-          "id": "https://decrypt.co/?p=99055",
-          "author": "Stacy Elliott",
-          "description": "A recent DDoS attack on a “crypto launchpad” attempted to flood the platform with 15.3 million requests per second, reported Cloudflare.",
-          "link": "https://decrypt.co/99055/cloudflare-blocks-massive-ddos-attack-crypto-platform",
-          "publishedOn": "2022-04-29T15:22:07.000Z",
-          "wordCount": 762,
-          "title": "Cloudflare Blocks Massive DDoS Attack on Crypto Platform",
-          "enclosure": {
-            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/04/ddos-attack-cloudflare-crypto-gID_2.jpg",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/04/ddos-attack-cloudflare-crypto-gID_2.jpg"
         },
         {
           "id": "https://decrypt.co/videos/interviews/8NN4zObC/inside-the-bored-ape-yacht-club-nft-restaurant-in-la",
