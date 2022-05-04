@@ -59,6 +59,54 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-05-04 datetime="2022-05-04T09:49:01.000Z">2022-05-04</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-05-04 datetime="2022-05-04T09:49:01.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Decrypt</button>
+                  <a class="source-heading__link" href="https://decrypt.co/feed">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://decrypt.co/?p&#x3D;99388"
+                        open
+                      >
+                        <summary class="article-expander__title">Ethereum Layer-2 Fees Should Be Under $0.05 to Be ‘Truly Acceptable’: Vitalik Buterin</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://decrypt.co/99388/ethereum-layer-2-fees-should-be-under-0-05-to-be-truly-acceptable-vitalik-buterin">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/08/Webp.net-resizeimage-gID_1.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Though the Ethereum co-founder thinks projects are making “great progress” to drop gas fees, there’s still much more to be done.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;2
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-05-03 datetime="2022-05-03T22:21:32.000Z">2022-05-03</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-05-03 datetime="2022-05-03T22:21:32.000Z"></time>
           </button>
@@ -951,54 +999,6 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-04-29 datetime="2022-04-29T21:42:57.000Z">2022-04-29</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-04-29 datetime="2022-04-29T21:42:57.000Z"></time>
-          </button>
-        </h2>
-        <ul class="sources card">
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >Decrypt</button>
-                  <a class="source-heading__link" href="https://decrypt.co/feed">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://decrypt.co/?p&#x3D;99078"
-                        open
-                      >
-                        <summary class="article-expander__title">What You Need to Know About the Bored Ape Yacht Club’s Otherside NFT Drop</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://decrypt.co/99078/bored-ape-yacht-club-otherside-nft-drop-what-you-need-know">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/03/bored-ape-game-yuga-labs-gID_7.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>The first opportunity to ape into the Bored Ape metaverse is coming on Saturday. Here’s the latest on the potentially huge NFT drop.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;4
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-        </ul>
-      </section>
-      <section class="daily-content js-toggle-accordions-scope">
-        <h2 class="daily-heading">
-          <button
-            class="daily-heading-toggle"
-            data-action="toggle-accordions"
-            title="Click to toggle the day, Ctrl + click to toggle all."
-          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-04-27 datetime="2022-04-27T04:27:00.000Z">2022-04-27</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-04-27 datetime="2022-04-27T04:27:00.000Z"></time>
           </button>
@@ -1294,8 +1294,8 @@
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/web3cave/7-Decrypt/actions/runs/2268812777">
-        <time id="build-timestamp" datetime="2022-05-04T09:09:55.021Z">2022-05-04T09:09:55.021Z</time>
+      <a class="footer-link" href="https://github.com/web3cave/7-Decrypt/actions/runs/2269103407">
+        <time id="build-timestamp" datetime="2022-05-04T10:10:35.636Z">2022-05-04T10:10:35.636Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.14.4</a>
     </footer>
