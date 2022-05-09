@@ -6,6 +6,21 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=99799",
+          "author": "Sander Lutz",
+          "description": "The “Big Three” credit rating agency awarded a junk grade of B-, a move that nonetheless marks a major milestone for decentralized finance.",
+          "link": "https://decrypt.co/99799/compound-treasury-rated-by-sp-in-historic-first-for-defi",
+          "publishedOn": "2022-05-09T18:42:37.000Z",
+          "wordCount": 707,
+          "title": "Compound Treasury Rated by S&#038;P in Historic First for DeFi",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/03/Compound-gID_2.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/03/Compound-gID_2.png"
+        },
+        {
           "id": "https://decrypt.co/?p=99793",
           "author": "Stacy Elliott",
           "description": "The “United Sovereign Governance Gold Optimized Dollar” would hedge against inflation and get a stable asset into more hands globally.",
@@ -606,21 +621,6 @@
           "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/05/Screen-Shot-2022-05-05-at-8.20.04-AM-gID_2.png"
         },
         {
-          "id": "https://decrypt.co/?p=99521",
-          "author": "Tim Hakki",
-          "description": "Last weekend’s Otherdeed mint briefly sent gas prices on Ethereum skyrocketing, with some paying thousands of dollars to push transactions through.",
-          "link": "https://decrypt.co/99521/yuga-labs-refunds-gas-fees-for-failed-transactions-during-bored-ape-otherdeed-mint",
-          "publishedOn": "2022-05-05T12:42:43.000Z",
-          "wordCount": 786,
-          "title": "Yuga Labs Refunds Gas Fees For Failed Transactions During Bored Ape Otherdeed Mint",
-          "enclosure": {
-            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/03/bored-ape-otherside-gID_6.jpg",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/03/bored-ape-otherside-gID_6.jpg"
-        },
-        {
           "id": "https://decrypt.co/videos/interviews/8NN4zObC/inside-the-bored-ape-yacht-club-nft-restaurant-in-la",
           "author": null,
           "description": "Decrypt's Kate Irwin interviews Kevin Seo, co-founder of Bored & Hungry, the BAYC-inspired burger joint in Los Angeles. Video shot and edited by Decrypt's Jason Nelson.",
@@ -679,21 +679,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.jwplayer.com/v2/media/6pq8ZhwX/poster.jpg"
-        },
-        {
-          "id": "https://decrypt.co/videos/live-events/x3Wu6kaq/gemini-coo-talks-to-decrypt-at-bitcoin-miami-2022",
-          "author": null,
-          "description": "Gemini COO Noah Perlman talks to Decrypt's Kate Irwin at Bitcoin Miami 2022 about Gemini's approach to competing with other exchanges, its focus on regulatory compliance, and his own views on Bitcoin maximalists.",
-          "link": "https://decrypt.co/videos/live-events/x3Wu6kaq/gemini-coo-talks-to-decrypt-at-bitcoin-miami-2022",
-          "publishedOn": "2022-04-10T06:17:00.000Z",
-          "wordCount": 140,
-          "title": "Gemini COO Talks to Decrypt at Bitcoin Miami 2022",
-          "enclosure": {
-            "url": "https://cdn.jwplayer.com/v2/media/x3Wu6kaq/poster.jpg",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.jwplayer.com/v2/media/x3Wu6kaq/poster.jpg"
         }
       ]
     }
