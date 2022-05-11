@@ -6,6 +6,21 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=99801",
+          "author": "Joseph O'Neill",
+          "description": "Wrapped tokens such as WBTC help move assets across blockchains. Here’s why they matter to the crypto ecosystem.",
+          "link": "https://decrypt.co/resources/what-are-wrapped-tokens",
+          "publishedOn": "2022-05-11T20:53:25.000Z",
+          "wordCount": 1127,
+          "title": "What Are Wrapped Tokens? How They Work and What They’re Used For",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/05/wrapped_coins_no_BG-gID_1-pID_4.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/05/wrapped_coins_no_BG-gID_1-pID_4.png"
+        },
+        {
           "id": "https://decrypt.co/?p=100102",
           "author": "Andrew Hayward",
           "description": "The crypto market is deep in the red today, and these coins have suffered some of the biggest losses outside of Terra.",
@@ -56,7 +71,7 @@
           "description": "Stakeholders rushed to Twitter this morning to head off any damage caused by Terra’s stablecoin and native token cratering.",
           "link": "https://decrypt.co/100091/crypto-firms-quick-to-announce-no-exposure-to-ust-luna",
           "publishedOn": "2022-05-11T18:29:11.000Z",
-          "wordCount": 733,
+          "wordCount": 804,
           "title": "Crypto Firms Quick to Announce No Exposure to UST, LUNA",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/01/twitter-blue-sky-decentralization-ethereum-cardano-gID_2.jpg",
@@ -589,21 +604,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/05/madonna-e1652136777819-gID_2.png"
-        },
-        {
-          "id": "https://decrypt.co/?p=99849",
-          "author": "Jeff Benson",
-          "description": "Terra's UST stablecoin has continued to slip below its dollar peg—and throwing money at the problem has yet to work.",
-          "link": "https://decrypt.co/99849/terra-stablecoin-peg-slips-despite-loan-bitcoin-reserves",
-          "publishedOn": "2022-05-09T22:49:08.000Z",
-          "wordCount": 818,
-          "title": "Terra Stablecoin Peg Slips Below $0.70—Despite Loan From Bitcoin Reserves",
-          "enclosure": {
-            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/05/stablecoin-slip-gID_4.jpeg",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/05/stablecoin-slip-gID_4.jpeg"
         },
         {
           "id": "https://decrypt.co/videos/interviews/QCrMm8MY/infura-co-founder-eg-galano-talks-otherside-nft-mint-ethereum-gas-fees",
