@@ -6,6 +6,21 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=94573",
+          "author": "Robert Stevens,Liam J. Kelly",
+          "description": "Terra is a Cosmos-based protocol that powers a suite of algorithmic stablecoins, which aim to maintain their pegs using a coin called LUNA.",
+          "link": "https://decrypt.co/resources/what-is-terra-algorithmic-stablecoin-protocol-explained",
+          "publishedOn": "2022-05-11T10:25:03.000Z",
+          "wordCount": 1301,
+          "title": "What Is Terra? The Algorithmic Stablecoin Protocol Explained",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/03/Terra-learn-gID_1-pID_2.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/03/Terra-learn-gID_1-pID_2.png"
+        },
+        {
           "id": "https://decrypt.co/?p=100027",
           "author": "Andrew Asmakov",
           "description": "Blockchain data analytics firm Chainalysis has secured $170 million in a Series F funding, bringing its valuation to $8.6 billion.",
@@ -26,7 +41,7 @@
           "description": "Though Bitcoin appears to have stabilized near $30,000 a coin, Terra’s stablecoin continues to crash. Now, it’s trading at around $0.50.",
           "link": "https://decrypt.co/100023/stablecoin-ust-falls-terra-market-woes-continue",
           "publishedOn": "2022-05-11T09:06:31.000Z",
-          "wordCount": 619,
+          "wordCount": 620,
           "title": "UST Stablecoin Falls To $0.30 Overnight as Terra’s Market Woes Continue",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/05/ust-token-terra-gID_2.jpg",
@@ -604,21 +619,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/02/stablecoins-gID_1.png"
-        },
-        {
-          "id": "https://decrypt.co/?p=99747",
-          "author": "Andrew Asmakov",
-          "description": "Amid the broader cryptocurrency market downturn, the popular meme coin Shiba Inu fell to its seven-month low on Monday.",
-          "link": "https://decrypt.co/99747/shiba-inu-token-hits-seven-month-low-crypto-market-worsens",
-          "publishedOn": "2022-05-09T08:48:42.000Z",
-          "wordCount": 607,
-          "title": "Shiba Inu Token Hits Seven-Month Low as Crypto Market Worsens",
-          "enclosure": {
-            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/04/Dogecoin-Shiba-Inu-gID_2.jpeg",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/04/Dogecoin-Shiba-Inu-gID_2.jpeg"
         },
         {
           "id": "https://decrypt.co/videos/explainers/GbT7MLDK/decrypt-learn-what-is-ethereum-20-ethereums-consensus-layer-and-merge-explained",
