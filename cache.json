@@ -6,6 +6,51 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=42735",
+          "author": "Mathew Di Salvo,Joseph O'Neill",
+          "description": "Bitcoin holders are entering the world of decentralized finance (DeFi), using wrapped tokens and DeFi projects built on Bitcoin's own blockchain.",
+          "link": "https://decrypt.co/resources/what-is-bitcoin-defi-and-how-does-it-work",
+          "publishedOn": "2022-05-13T16:55:25.000Z",
+          "wordCount": 1219,
+          "title": "What is Bitcoin DeFi, and How Does It Work?",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/04/what-is-WBTC-guide-learn-explained-gID_2-pID_4.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/04/what-is-WBTC-guide-learn-explained-gID_2-pID_4.png"
+        },
+        {
+          "id": "https://decrypt.co/?p=100289",
+          "author": "Liam J. Kelly",
+          "description": "During a Twitter Spaces event, Tether CTO Paolo Ardoino revealed that Tether had reduced its commercial paper holdings by 50%.",
+          "link": "https://decrypt.co/100289/tether-has-reduced-commercial-paper-stablecoin-backing-last-6-months-cto",
+          "publishedOn": "2022-05-13T16:30:47.000Z",
+          "wordCount": 879,
+          "title": "Tether Has Cut Commercial Paper Holdings Backing Stablecoin by 50%: CTO",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/04/Tether-dollars-gID_5.jpeg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/04/Tether-dollars-gID_5.jpeg"
+        },
+        {
+          "id": "https://decrypt.co/?p=100348",
+          "author": "Andrew Hayward",
+          "description": "Following this week’s crypto market carnage, gaming and metaverse coins are seeing the biggest initial recoveries.",
+          "link": "https://decrypt.co/100348/gaming-metaverse-tokens-up-decentraland-gala-stepn",
+          "publishedOn": "2022-05-13T16:12:21.000Z",
+          "wordCount": 700,
+          "title": "Gaming and Metaverse Tokens Bounce: Decentraland, Gala, STEPN Up 35% or More",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/06/decentraland-record-nft-sale-gID_4.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/06/decentraland-record-nft-sale-gID_4.png"
+        },
+        {
           "id": "https://decrypt.co/?p=100340",
           "author": "MoreReese",
           "description": "While most stablecoins are backed by reserves, algorithmic stablecoins use maths and incentive mechanisms to maintain their fiat peg.",
@@ -574,51 +619,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2019/10/20568654991_0c814a0f1d_k-gID_4.jpg"
-        },
-        {
-          "id": "https://decrypt.co/?p=100060",
-          "author": "Tim Hakki",
-          "description": "While Terra's UST trades more than $0.75 from its dollar peg, the currency responsible for maintaining that peg, LUNA, is also in freefall.",
-          "link": "https://decrypt.co/100060/terra-dollar-stablecoin-ust-collapses-luna-falls-under-1",
-          "publishedOn": "2022-05-11T13:15:51.000Z",
-          "wordCount": 659,
-          "title": "As Terra’s Dollar Stablecoin UST Collapses, LUNA Falls 97% to Under $1",
-          "enclosure": {
-            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/12/terra-luna-trading-price-gID_6.jpeg",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/12/terra-luna-trading-price-gID_6.jpeg"
-        },
-        {
-          "id": "https://decrypt.co/?p=100031",
-          "author": "Andrew Asmakov",
-          "description": "DeFi veterans Bancor are rolling out a new impermanent loss-protected liquidity solution to make staking more accessible and efficient.",
-          "link": "https://decrypt.co/100031/new-bancor-update-gives-defi-investors-100-impermanent-loss-protection",
-          "publishedOn": "2022-05-11T13:01:22.000Z",
-          "wordCount": 1075,
-          "title": "New Bancor Update Gives DeFi Investors '100% Impermanent Loss Protection'",
-          "enclosure": {
-            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/06/shutterstock_1312841522-gID_1.jpg",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/06/shutterstock_1312841522-gID_1.jpg"
-        },
-        {
-          "id": "https://decrypt.co/?p=100049",
-          "author": "Alys Key",
-          "description": "The exchange will become the official crypto partner of the Central African Republic, the second country to adopt Bitcoin as legal tender.",
-          "link": "https://decrypt.co/100049/pan-african-crypto-exchange-mara-launches-backing-coinbase-alameda",
-          "publishedOn": "2022-05-11T13:01:16.000Z",
-          "wordCount": 710,
-          "title": "Pan-African Crypto Exchange Mara Launches With Backing From Coinbase, Alameda",
-          "enclosure": {
-            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/05/bitcoin-africa-gID_5.jpg",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/05/bitcoin-africa-gID_5.jpg"
         },
         {
           "id": "https://decrypt.co/videos/interviews/QCrMm8MY/infura-co-founder-eg-galano-talks-otherside-nft-mint-ethereum-gas-fees",
