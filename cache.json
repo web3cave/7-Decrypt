@@ -6,13 +6,28 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=100340",
+          "author": "MoreReese",
+          "description": "While most stablecoins are backed by reserves, algorithmic stablecoins use maths and incentive mechanisms to maintain their fiat peg.",
+          "link": "https://decrypt.co/resources/what-are-algorithmic-stablecoins",
+          "publishedOn": "2022-05-13T14:32:22.000Z",
+          "wordCount": 1135,
+          "title": "What Are Algorithmic Stablecoins?",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2019/03/964a3a16-176e-4506-bec2-24d627fe7426_-gID_5-pID_3.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2019/03/964a3a16-176e-4506-bec2-24d627fe7426_-gID_5-pID_3.png"
+        },
+        {
           "id": "https://decrypt.co/?p=100333",
           "author": "Sujith Somraaj",
           "description": "In a Twitter thread, the Binance boss shared his disappointment in how Terraform Labs team handled its ecosystem’s collapse.",
           "link": "https://decrypt.co/100333/binance-ceo-disappointed-terra-handling-ust-depeg-contrasts-axie-infinity",
           "publishedOn": "2022-05-13T13:43:32.000Z",
-          "wordCount": 712,
-          "title": "Binance CEO 'Disappointed' in Terra's Handling of UST Depeg, Contrasts With Axie Infinity",
+          "wordCount": 714,
+          "title": "Binance CEO Says Axie Infinity Handled Its Crisis Better Than Terra With UST Depeg",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/05/cz-ethereal-gID_6.jpg",
             "length": "1000000",
@@ -83,11 +98,11 @@
         {
           "id": "https://decrypt.co/?p=100290",
           "author": "Sujith Somraaj",
-          "description": "After warnings of delistings, the crypto industry's largest exchange Binance finally removed all trading pairs for Terra’s LUNA and UST.",
+          "description": "After briefly delisting LUNA and UST trading pairs, Binance has since resumed trading but exclusively against its stablecoin BUSD.",
           "link": "https://decrypt.co/100290/binance-halts-trading-terra-delists-luna-ust",
           "publishedOn": "2022-05-13T08:56:26.000Z",
-          "wordCount": 705,
-          "title": "Binance Halts Trading for Terra, Delists LUNA and UST",
+          "wordCount": 756,
+          "title": "Binance Removes Trading Pairs for UST, LUNA—Except for BUSD",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/03/terra-luna-crypto-gID_1.png",
             "length": "1000000",
@@ -604,21 +619,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/05/bitcoin-africa-gID_5.jpg"
-        },
-        {
-          "id": "https://decrypt.co/?p=100037",
-          "author": "Liam J. Kelly",
-          "description": "Breaking Twitter silence, Do Kwon of Terraform Labs has issued a new proposal in hopes of repegging the ecosystem's native stablecoin UST.",
-          "link": "https://decrypt.co/100037/terraform-labs-ceo-do-kwon-outlines-path-forward-luna-ust-stablecoin",
-          "publishedOn": "2022-05-11T11:46:39.000Z",
-          "wordCount": 883,
-          "title": "Terraform Labs CEO Do Kwon Outlines Terra's Path Forward for LUNA, UST Stablecoin",
-          "enclosure": {
-            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/05/ust-token-terra-crypto-tera-gID_4.jpg",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/05/ust-token-terra-crypto-tera-gID_4.jpg"
         },
         {
           "id": "https://decrypt.co/videos/interviews/QCrMm8MY/infura-co-founder-eg-galano-talks-otherside-nft-mint-ethereum-gas-fees",
