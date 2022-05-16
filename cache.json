@@ -6,6 +6,21 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=100554",
+          "author": "Andrew Hayward",
+          "description": "The Crypto Cannabis Club is the latest dispensary to open in the metaverse—and you can even order weed for real-world delivery.",
+          "link": "https://decrypt.co/100554/high-times-in-web3-my-trip-to-an-ethereum-metaverse-dispensary",
+          "publishedOn": "2022-05-16T20:49:51.000Z",
+          "wordCount": 1679,
+          "title": "High Times in Web3? My Trip to An Ethereum Metaverse Dispensary",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/05/marijuana-dispensary-shutterstock-gID_5.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/05/marijuana-dispensary-shutterstock-gID_5.png"
+        },
+        {
           "id": "https://decrypt.co/?p=100553",
           "author": "Andrew Throuvalas",
           "description": "The previous six-week record happened in 2014.",
@@ -606,34 +621,19 @@
           "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/06/ftx-ceo-tsm-esports-gID_4.png"
         },
         {
-          "id": "https://decrypt.co/?p=100257",
-          "author": "Jason Nelson",
-          "description": "After spending roughly $103 million to build a Bitcoin treasury, El Salvador’s holdings are now only worth around $66 million.",
-          "link": "https://decrypt.co/100257/el-salvador-bitcoin-bet-losses-so-far",
-          "publishedOn": "2022-05-12T22:05:10.000Z",
-          "wordCount": 563,
-          "title": "El Salvador’s Bitcoin Bet Is Down Bad: $37 Million in the Hole",
+          "id": "https://decrypt.co/?p=70598",
+          "author": "Jeff Benson",
+          "description": "Here's the nitty-gritty on Taproot, a Bitcoin update that promises more privacy and lower transaction fees.",
+          "link": "https://decrypt.co/resources/what-is-taproot-proposed-bitcoin-upgrade",
+          "publishedOn": "2022-05-12T23:01:09.000Z",
+          "wordCount": 1145,
+          "title": "What Is Taproot? The Privacy-Focused Bitcoin Upgrade",
           "enclosure": {
-            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/12/WhatsApp-Image-2021-12-16-at-12.22.23-1-gID_2.jpeg",
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2019/03/bitcoins_limitation_litepaper-gID_5-pID_3.png",
             "length": "1000000",
             "type": "image/png"
           },
-          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/12/WhatsApp-Image-2021-12-16-at-12.22.23-1-gID_2.jpeg"
-        },
-        {
-          "id": "https://decrypt.co/?p=100261",
-          "author": "Mathew Di Salvo",
-          "description": "COIN has been all over the place today following a rocky week.",
-          "link": "https://decrypt.co/100261/coinbase-stock-jumps-crypto-crash",
-          "publishedOn": "2022-05-12T21:55:28.000Z",
-          "wordCount": 698,
-          "title": "Coinbase Stock Jumps Nearly 9%, Whipsawing Amid Crypto Crash",
-          "enclosure": {
-            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/04/coinbase-nasdaq-ipo-public-invest-gID_1.jpg",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/04/coinbase-nasdaq-ipo-public-invest-gID_1.jpg"
+          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2019/03/bitcoins_limitation_litepaper-gID_5-pID_3.png"
         },
         {
           "id": "https://decrypt.co/videos/live-events/x3UtVnqo/decryptlive-crypto-crash-roundtable",
