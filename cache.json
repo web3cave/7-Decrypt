@@ -6,6 +6,21 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=102677",
+          "author": "Sander Lutz",
+          "description": "The temporary move is a tongue-in-cheek embrace of Dorsey’s public diss of the blockchain, and Solana fans are enjoying the joke.",
+          "link": "https://decrypt.co/102677/solana-changes-twitter-name-to-solano-after-bitcoin-maxi-jack-dorsey-misspells-chain",
+          "publishedOn": "2022-06-12T17:45:24.000Z",
+          "wordCount": 638,
+          "title": "Solana Changes Twitter Name to Solano After Bitcoin Maxi Jack Dorsey Misspells Chain",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/06/jack-dorsey-square-crypto-bitcoin-grant-lightning-gID_4.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/06/jack-dorsey-square-crypto-bitcoin-grant-lightning-gID_4.jpg"
+        },
+        {
           "id": "https://decrypt.co/?p=102673",
           "author": "Mathew Di Salvo",
           "description": "An anonymous petition calls for the removal of top Coinbase execs amid the underwhelming launch of Coinbase NFT and other missteps.",
@@ -606,21 +621,6 @@
           "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/06/soulbound-token-gID_1-pID_1.png"
         },
         {
-          "id": "https://decrypt.co/?p=102404",
-          "author": "Andrew Asmakov",
-          "description": "The New York State Department of Financial Services became America’s first regulator to issue regulatory guidance for dollar-backed stablecoins.",
-          "link": "https://decrypt.co/102404/new-york-finance-regulator-issues-fresh-guidance-dollar-backed-stablecoins",
-          "publishedOn": "2022-06-09T10:18:49.000Z",
-          "wordCount": 856,
-          "title": "New York Finance Regulator Issues Fresh Guidance on Dollar-Backed Stablecoins",
-          "enclosure": {
-            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/12/image15-gID_2.jpg",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/12/image15-gID_2.jpg"
-        },
-        {
           "id": "https://decrypt.co/videos/interviews/8DePvDQt/edge-ceo-paul-puey-talks-confidential-bitcoin-mastercard-launch",
           "author": null,
           "description": "Paul Puey, CEO of Edge Wallet, spoke to Decrypt's Jason Nelson about Edge's announcement of a new \"confidential\" crypto Mastercard. After Edge announced the card on Wednesday, Mastercard blasted crypto media to say it has nothing to do with the product—despite Puey telling Decrypt, \"MasterCard is involved in entire process. They fully approved this, it’s fully legal and approved by MasterCard. It fits entirely within their framework.”",
@@ -746,7 +746,7 @@
           "description": "Decrypt’s Kate Irwin talks to veteran Hollywood film producer Niels Juul about why he’s going all in on NFTs and Web3.",
           "link": "https://decrypt.co/videos/interviews/hSUa1WJR/the-irishman-exec-producer-niels-juul-gets-into-nfts",
           "publishedOn": "2022-05-27T18:01:00.000Z",
-          "wordCount": 126,
+          "wordCount": null,
           "title": "‘The Irishman’ Exec Producer Niels Juul Gets Into NFTs",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/hSUa1WJR/poster.jpg",
