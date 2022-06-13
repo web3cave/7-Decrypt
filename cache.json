@@ -6,6 +6,36 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=102770",
+          "author": "Andrew Asmakov",
+          "description": "Shares of MicroStrategy and Coinbase collapsed during premarket trading on Monday as the price of Bitcoin fell below $24,000.",
+          "link": "https://decrypt.co/102770/coinbase-microstrategy-other-bitcoin-exposed-stocks-tank-amid-crypto-meltdown",
+          "publishedOn": "2022-06-13T15:59:54.000Z",
+          "wordCount": 745,
+          "title": "Coinbase, MicroStrategy, Other Bitcoin-Exposed Stocks Tank Amid Crypto Meltdown",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/12/MicroStrategy-Bitcoin-gID_1.jpeg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/12/MicroStrategy-Bitcoin-gID_1.jpeg"
+        },
+        {
+          "id": "https://decrypt.co/?p=102772",
+          "author": "André Beganski",
+          "description": "The world’s largest crypto exchange, Binance, paused withdrawals of the world’s biggest cryptocurrency, Bitcoin, on Monday.",
+          "link": "https://decrypt.co/102772/binance-halts-bitcoin-withdrawals-due-to-stuck-on-chain-transaction",
+          "publishedOn": "2022-06-13T15:24:33.000Z",
+          "wordCount": 793,
+          "title": "Binance Halts Bitcoin Withdrawals Due to ‘Stuck On-Chain Transaction’",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/03/Binance-gID_4.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/03/Binance-gID_4.jpg"
+        },
+        {
           "id": "https://decrypt.co/?p=102744",
           "author": "Stacy Elliott",
           "description": "Crypto.com joins other cryptocurrency exchanges Gemini, Coinbase, Bitso and Buenbit in making workforce cuts to prepare for crypto winter.",
@@ -591,36 +621,6 @@
           "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/06/Cryptoys-Hero-16x9-1-gID_1.jpg"
         },
         {
-          "id": "https://decrypt.co/?p=102451",
-          "author": "André Beganski,Liam J. Kelly",
-          "description": "The CEO and founder of Terraform Labs Do Kwon has been ordered to comply with subpoenas issued by the SEC in February.",
-          "link": "https://decrypt.co/102451/do-kwon-appeal-overruled-must-comply-sec-investigation-mirror-protocol",
-          "publishedOn": "2022-06-09T15:57:47.000Z",
-          "wordCount": 812,
-          "title": "Do Kwon Appeal Overruled, Must Comply With SEC Investigation Into Mirror Protocol",
-          "enclosure": {
-            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/04/Screen-Shot-2022-04-02-at-8.38.24-AM-e1652464007264-gID_2.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/04/Screen-Shot-2022-04-02-at-8.38.24-AM-e1652464007264-gID_2.png"
-        },
-        {
-          "id": "https://decrypt.co/?p=102420",
-          "author": "Stacy Elliott",
-          "description": "Charging Bitcoin miners the highest rate wasn't enough. Chelan County has now implemented a new crypto rate that's 29% higher.",
-          "link": "https://decrypt.co/102420/bitcoin-miners-will-see-29-rate-hike-hydroelectric-power-washington",
-          "publishedOn": "2022-06-09T15:08:56.000Z",
-          "wordCount": 869,
-          "title": "Bitcoin Miners Will See 29% Rate Hike on Hydroelectric Power in Washington",
-          "enclosure": {
-            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/06/wells-dam-lake-chelan-washington-gID_1.jpg",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/06/wells-dam-lake-chelan-washington-gID_1.jpg"
-        },
-        {
           "id": "https://decrypt.co/videos/interviews/8DePvDQt/edge-ceo-paul-puey-talks-confidential-bitcoin-mastercard-launch",
           "author": null,
           "description": "Paul Puey, CEO of Edge Wallet, spoke to Decrypt's Jason Nelson about Edge's announcement of a new \"confidential\" crypto Mastercard. After Edge announced the card on Wednesday, Mastercard blasted crypto media to say it has nothing to do with the product—despite Puey telling Decrypt, \"MasterCard is involved in entire process. They fully approved this, it’s fully legal and approved by MasterCard. It fits entirely within their framework.”",
@@ -641,7 +641,7 @@
           "description": "Christine Brown left her perch as Robinhood Crypto COO at the end of March to launch a new crypto venture. Now she has announced her new gig: Co-founder and COO at Floor, a token-gated NFT portfolio app that has raised an $8 million seed round. She talked to Decrypt's Dan Roberts and Jeff Roberts about the company's plans, her own crypto and NFT bags, and her outlook on NFTs and on Robinhood.",
           "link": "https://decrypt.co/videos/interviews/jWdgVMfv/gm-christine-brown-left-robinhood-to-go-full-nft",
           "publishedOn": "2022-06-07T19:34:00.000Z",
-          "wordCount": null,
+          "wordCount": 177,
           "title": "gm: Christine Brown Left Robinhood to Go Full NFT",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/jWdgVMfv/poster.jpg",
@@ -746,7 +746,7 @@
           "description": "Decrypt’s Kate Irwin talks to veteran Hollywood film producer Niels Juul about why he’s going all in on NFTs and Web3.",
           "link": "https://decrypt.co/videos/interviews/hSUa1WJR/the-irishman-exec-producer-niels-juul-gets-into-nfts",
           "publishedOn": "2022-05-27T18:01:00.000Z",
-          "wordCount": null,
+          "wordCount": 126,
           "title": "‘The Irishman’ Exec Producer Niels Juul Gets Into NFTs",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/hSUa1WJR/poster.jpg",
