@@ -6,6 +6,51 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=102823",
+          "author": "Jason Nelson",
+          "description": "\"Blue chip\" NFTs are driving millions of dollars in the growing NFT liquidity market, Arcade CEO Gabe Frank tells Decrypt.",
+          "link": "https://decrypt.co/102823/arcade-wants-to-help-you-collateralize-your-jpeg",
+          "publishedOn": "2022-06-14T14:59:30.000Z",
+          "wordCount": 699,
+          "title": "'$25 Millions in Loans Against Monkey Pictures': Arcade Wants You to Collateralize Your NFT",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/06/Collateral-gID_2.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/06/Collateral-gID_2.png"
+        },
+        {
+          "id": "https://decrypt.co/?p=102869",
+          "author": "Sujith Somraaj",
+          "description": "Digital asset funds saw outflows of more than $102 million last week, with Bitcoin accounting for $57 million of the total.",
+          "link": "https://decrypt.co/102869/102-million-pulled-out-of-digital-asset-funds-amid-crypto-crash",
+          "publishedOn": "2022-06-14T14:59:30.000Z",
+          "wordCount": 614,
+          "title": "$102 Million Pulled Out of Digital Asset Funds Amid Crypto Crash",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/12/bitcoin-flash-crash-gID_4.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/12/bitcoin-flash-crash-gID_4.jpg"
+        },
+        {
+          "id": "https://decrypt.co/videos/interviews/ssYNZ72h/collateralized-monkey-jpegs-ceo-of-arcade-talks-to-decrypt-at-consensus",
+          "author": null,
+          "description": "Arcade, an NFT liquidity provider, says it's facilitating $25 million in loans against blue-chip NFTs like Bored Apes. Arcade CEO Gabe Frank talks to Decrypt's Jason Nelson at Consensus 2022.",
+          "link": "https://decrypt.co/videos/interviews/ssYNZ72h/collateralized-monkey-jpegs-ceo-of-arcade-talks-to-decrypt-at-consensus",
+          "publishedOn": "2022-06-14T14:45:00.000Z",
+          "wordCount": 139,
+          "title": "Collateralized Monkey JPEGs: CEO of Arcade Talks to Decrypt at Consensus",
+          "enclosure": {
+            "url": "https://cdn.jwplayer.com/v2/media/ssYNZ72h/poster.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.jwplayer.com/v2/media/ssYNZ72h/poster.jpg"
+        },
+        {
           "id": "https://decrypt.co/?p=102851",
           "author": "Andrew Asmakov",
           "description": "El Salvador hasn't suffered any losses on its Bitcoin holdings, since it has yet to sell the cryptocurrency, the country’s finance minister argued.",
@@ -23,10 +68,10 @@
         {
           "id": "https://decrypt.co/?p=102850",
           "author": "André Beganski",
-          "description": "The crypto exchange had 'over-hired' during the bull run, Coinbase CEO Brian Armstrong wrote in a blog post announcing 1,100 layoffs.",
+          "description": "\"It is now clear to me that we over-hired,\" wrote Coinbase CEO Brian Armstrong in a blog post announcing 1,100 layoffs.",
           "link": "https://decrypt.co/102850/coinbase-slashes-workforce-by-18-to-prepare-for-extended-crypto-winter",
           "publishedOn": "2022-06-14T13:06:26.000Z",
-          "wordCount": 723,
+          "wordCount": 857,
           "title": "Coinbase Slashes Workforce by 18% to Prepare for 'Extended' Crypto Winter",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/06/29603361687_f17737e171_k-gID_1.jpg",
@@ -79,6 +124,21 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/07/Tron-emoji-twitter-gID_1.jpg"
+        },
+        {
+          "id": "https://decrypt.co/videos/explainers/nD7yFTK8/decrypt-learn-what-is-a-dapp",
+          "author": null,
+          "description": "A dapp is a decentralized app built on blockchains to give you more ownership and freedom in your digital life. Dapps are the next generation of software. Explore the vast selection of dapps on Ethereum today. Curious how to build dapps? Start building free at infura.io.",
+          "link": "https://decrypt.co/videos/explainers/nD7yFTK8/decrypt-learn-what-is-a-dapp",
+          "publishedOn": "2022-06-14T09:34:00.000Z",
+          "wordCount": 145,
+          "title": "Decrypt Learn: What is a Dapp?",
+          "enclosure": {
+            "url": "https://cdn.jwplayer.com/v2/media/nD7yFTK8/poster.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.jwplayer.com/v2/media/nD7yFTK8/poster.jpg"
         },
         {
           "id": "https://decrypt.co/?p=102838",
@@ -589,36 +649,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/06/fractal-logo-gID_1.png"
-        },
-        {
-          "id": "https://decrypt.co/?p=102543",
-          "author": "Sujith Somraaj",
-          "description": "Last month’s crypto market crash was ‘more closely linked’ to a broader tech market decline, according to the blockchain analytics platform.",
-          "link": "https://decrypt.co/102543/chainalysis-terras-ust-collapse-wasnt-main-factor-in-bitcoin-crash",
-          "publishedOn": "2022-06-10T15:23:12.000Z",
-          "wordCount": 923,
-          "title": "Chainalysis: Terra's UST Collapse Wasn't Main Factor in Bitcoin Crash",
-          "enclosure": {
-            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/06/luna-crash-gID_2.jpg",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/06/luna-crash-gID_2.jpg"
-        },
-        {
-          "id": "https://decrypt.co/?p=102525",
-          "author": "Alys Key",
-          "description": "The Treasury Secretary said that funds holding crypto are ‘not something that I would recommend’ to people saving for retirement.",
-          "link": "https://decrypt.co/102525/treasurys-janet-yellen-bitcoin-very-risky-option-for-retirement-savings",
-          "publishedOn": "2022-06-10T14:04:51.000Z",
-          "wordCount": 579,
-          "title": "Treasury’s Janet Yellen: Bitcoin ‘Very Risky’ Option for Retirement Savings",
-          "enclosure": {
-            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/01/Janet_Yellen_official_Federal_Reserve_portrait-e1611269835508-gID_4.jpg",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/01/Janet_Yellen_official_Federal_Reserve_portrait-e1611269835508-gID_4.jpg"
         },
         {
           "id": "https://decrypt.co/videos/interviews/8DePvDQt/edge-ceo-paul-puey-talks-confidential-bitcoin-mastercard-launch",
