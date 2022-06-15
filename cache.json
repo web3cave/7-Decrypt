@@ -6,6 +6,36 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=103000",
+          "author": "Kate Irwin",
+          "description": "The vulnerability meant that secret recovery phrases were sometimes stored on a user’s hard drive.",
+          "link": "https://decrypt.co/103000/ethereum-wallet-metamask-solana-phantom-demonic-security-bug",
+          "publishedOn": "2022-06-15T19:51:12.000Z",
+          "wordCount": 678,
+          "title": "Ethereum Wallet MetaMask, Solana's Phantom Patch 'Demonic' Security Bug",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/06/metamask-browser-crypto-ethereum-wallet-gID_1.jpeg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/06/metamask-browser-crypto-ethereum-wallet-gID_1.jpeg"
+        },
+        {
+          "id": "https://decrypt.co/?p=103002",
+          "author": "Mathew Di Salvo",
+          "description": "Bitcoin again followed equities and dipped before recovering on the Fed’s latest interest rate hike.",
+          "link": "https://decrypt.co/103002/bitcoin-fed-biggest-interest-rate-hike-1994",
+          "publishedOn": "2022-06-15T19:27:16.000Z",
+          "wordCount": 458,
+          "title": "Bitcoin Bounces as Fed Drops Biggest Interest Rate Hike Since 1994",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/02/fed-chairman-powell-federal-reserve-dollar-digital-currency-central-bank1-gID_2.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/02/fed-chairman-powell-federal-reserve-dollar-digital-currency-central-bank1-gID_2.jpg"
+        },
+        {
           "id": "https://decrypt.co/?p=102879",
           "author": "Kate Irwin",
           "description": "With physical NFT spaces in LA and NYC, these aren’t your typical art galleries.",
@@ -634,36 +664,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/11/Bitcoin-Price-Crash-gID_6.jpg"
-        },
-        {
-          "id": "https://decrypt.co/?p=102719",
-          "author": "Decrypt Staff",
-          "description": "Rising inflation, falling tech stocks, and a risk-off environment sent Bitcoin to a 12-month low as other coins tumbled too.",
-          "link": "https://decrypt.co/102719/bitcoin-falls-below-26k-as-entire-crypto-market-slides-further",
-          "publishedOn": "2022-06-13T04:31:02.000Z",
-          "wordCount": 749,
-          "title": "Bitcoin Falls Below $26K as Entire Crypto Market Slides Further",
-          "enclosure": {
-            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/09/shutterstock_779811343-gID_2.jpg",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/09/shutterstock_779811343-gID_2.jpg"
-        },
-        {
-          "id": "https://decrypt.co/?p=102715",
-          "author": "Daniel Roberts",
-          "description": "The crypto lender paused all customer withdrawals and swaps on Sunday night, citing liquidity issues. CEL quickly went off a cliff.",
-          "link": "https://decrypt.co/102715/celsius-tanks-as-company-pauses-withdrawals-citing-liquidity",
-          "publishedOn": "2022-06-13T03:30:52.000Z",
-          "wordCount": 806,
-          "title": "Celsius Tanks 70% in 1 Hour After Company Pauses Withdrawals to 'Stabilize Liquidity'",
-          "enclosure": {
-            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/04/Celsius-logo-gID_2.jpeg",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/04/Celsius-logo-gID_2.jpeg"
         },
         {
           "id": "https://decrypt.co/videos/live-events/pkHcbM7R/bringing-snow-crash-to-life-neal-stephenson-talks-to-decrypt-at-consensus",
