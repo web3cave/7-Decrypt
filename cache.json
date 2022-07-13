@@ -6,12 +6,42 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=105009",
+          "author": "MoreReese",
+          "description": "The underlying infrastructure of the Bitcoin network is secured and maintained by nodes—find out what they are, and how they work.",
+          "link": "https://decrypt.co/resources/what-are-the-different-types-of-bitcoin-nodes-how-the-bitcoin-network-is-maintained",
+          "publishedOn": "2022-07-13T14:38:42.000Z",
+          "wordCount": 9113,
+          "title": "What Are The Different Types of Bitcoin Nodes? How the Bitcoin Network is Maintained",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2019/03/bitcoins_limitation_litepaper-gID_5-pID_4.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2019/03/bitcoins_limitation_litepaper-gID_5-pID_4.png"
+        },
+        {
+          "id": "https://decrypt.co/?p=105008",
+          "author": "Liam J. Kelly",
+          "description": "StarkWare today announced the launch of a native token for its layer-2 scaling solution called StarkNet.",
+          "link": "https://decrypt.co/105008/ethereum-scaling-solution-starknet-announces-token-launch-for-september",
+          "publishedOn": "2022-07-13T14:17:36.000Z",
+          "wordCount": 5480,
+          "title": "Ethereum Scaling Solution StarkNet Announces Token Launch for September",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/06/ethereum-scaling-layer-2-vitalik-gID_1.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/06/ethereum-scaling-layer-2-vitalik-gID_1.jpg"
+        },
+        {
           "id": "https://decrypt.co/?p=105000",
           "author": "Andrew Hayward",
           "description": "The league will offer free Flow-based collectibles for nearly five times as many regular season games as its NFT ambitions grow.",
           "link": "https://decrypt.co/105000/nfl-expands-ticket-stub-nfts-to-over-100-games-for-2022-season",
-          "publishedOn": "2022-07-13T13:01:02.000Z",
-          "wordCount": 6488,
+          "publishedOn": "2022-07-13T13:01:09.000Z",
+          "wordCount": 6555,
           "title": "NFL Expands Ticket Stub NFTs to Over 100 Games for 2022 Season",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/04/NFL-gID_4.jpg",
@@ -27,7 +57,7 @@
           "link": "https://decrypt.co/105004/crypto-lender-celsius-is-deeply-insolvent-says-vermonts-financial-regulator",
           "publishedOn": "2022-07-13T10:40:13.000Z",
           "wordCount": 5910,
-          "title": "Crypto Lender 'Celsius Is Deeply Insolvent’, Says Vermont’s Financial Regulator",
+          "title": "Crypto Lender Celsius Is 'Deeply Insolvent’, Says Vermont’s Financial Regulator",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/06/celsius-network-gID_5.jpg",
             "length": "1000000",
@@ -41,7 +71,7 @@
           "description": "Charlie Munger's continued dismay in Bitcoin sees no end as the billionaire recently told investors to “never touch it. Never buy it.”",
           "link": "https://decrypt.co/105001/crypto-is-investment-nothing-charlie-munger",
           "publishedOn": "2022-07-13T09:55:20.000Z",
-          "wordCount": 5764,
+          "wordCount": 5831,
           "title": "'Crypto Is an Investment in Nothing': Charlie Munger",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/05/shutterstock_353931887-gID_1.jpg",
@@ -71,7 +101,7 @@
           "description": "“We’re perfectly happy to let this go to trial,” the lawyer told Decrypt.",
           "link": "https://decrypt.co/104990/bored-ape-lawsuit-yuga-labs-pepe-the-frog-attorney",
           "publishedOn": "2022-07-12T22:59:36.000Z",
-          "wordCount": 6152,
+          "wordCount": 6219,
           "title": "Bored Ape 'Troll' Sued by Yuga Hires Pepe the Frog Creator’s Attorney",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/07/bored-ape-pepe-gID_4.jpeg",
@@ -101,7 +131,7 @@
           "description": "Proof of stake has its critics, and Vitalik Buterin has some \"spicy\" answers for them.",
           "link": "https://decrypt.co/104977/ethereum-vitalik-buterin-claps-back-bitcoin-maxis-proof-of-stake",
           "publishedOn": "2022-07-12T21:44:59.000Z",
-          "wordCount": 6454,
+          "wordCount": 6521,
           "title": "Ethereum’s Vitalik Buterin Claps Back at Bitcoin Maxis Who Mock Proof of Stake",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2019/07/36922633190_1f5985398f_k-gID_4.jpg",
@@ -131,7 +161,7 @@
           "description": "The raise comes as quarter-on-quarter venture funding fell sharply in a bear market that’s overwhelmed several companies.",
           "link": "https://decrypt.co/104960/lightspeed-raises-over-7-billion-across-four-funds",
           "publishedOn": "2022-07-12T20:23:33.000Z",
-          "wordCount": 5416,
+          "wordCount": 5483,
           "title": "Lightspeed Adds $7 Billion Across Four Funds, Creates ‘Crypto-Native’ Team",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/07/Lightspeed-Logo-gID_6.png",
@@ -236,7 +266,7 @@
           "description": "Crypto investment firm Multicoin Capital today announced its latest fund, Venture Fund III, with commitments of up to $430 million.",
           "link": "https://decrypt.co/104912/multicoin-capital-announces-430m-venture-fund",
           "publishedOn": "2022-07-12T12:31:11.000Z",
-          "wordCount": 5924,
+          "wordCount": 5991,
           "title": "Multicoin Capital Announces New $430M Venture Fund",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/10/funding-blockdata-vc-crypto-gID_6.png",
@@ -311,7 +341,7 @@
           "description": "The collective move returns over 1% of power in Texas back to retail and commercial users, according to the president of the Texas Blockchain Association.",
           "link": "https://decrypt.co/104878/texas-bitcoin-miners-power-down-heat-wave-grid-rolling-blackouts",
           "publishedOn": "2022-07-11T21:49:08.000Z",
-          "wordCount": 5916,
+          "wordCount": 5983,
           "title": "Texas Bitcoin Miners Power Down as Heat Wave Threatens Grid With Rolling Blackouts",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/05/texas-bitcoin-mining-gID_1.jpg",
@@ -476,7 +506,7 @@
           "description": "Elsewhere, the personal information of more than a billion people was leaked from a Shanghai police database.",
           "link": "https://decrypt.co/104813/this-week-on-crypto-twitter-another-elon-musk-company-to-accept-dogecoin-and-3acs-founders-might-be-awol",
           "publishedOn": "2022-07-10T17:13:23.000Z",
-          "wordCount": 6713,
+          "wordCount": 6780,
           "title": "This Week on Crypto Twitter: Another Elon Musk Company to Accept Dogecoin and 3AC's Founders Might Be AWOL",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/07/elon_musk_doge_coin-scaled-gID_6.jpg",
@@ -506,7 +536,7 @@
           "description": "The pitch to fans: Support music or art out of goodwill, in exchange for a sense of ownership or patronage.",
           "link": "https://decrypt.co/104786/the-next-big-thing-in-nfts-selling-them-for-peanuts",
           "publishedOn": "2022-07-10T11:01:02.000Z",
-          "wordCount": 6978,
+          "wordCount": 7045,
           "title": "The Next Big Thing in NFTs: Selling Them for Peanuts",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/07/music_nfts-e1657391929936-gID_4.jpg",
@@ -551,7 +581,7 @@
           "description": "Although the industry appears mired in crypto winter, most top cryptocurrencies posted weekly gains.",
           "link": "https://decrypt.co/104778/this-week-in-coins-bitcoin-and-ethereum-rebound-despite-vauld-and-voyager-woes",
           "publishedOn": "2022-07-09T16:42:31.000Z",
-          "wordCount": 6680,
+          "wordCount": 6747,
           "title": "This Week in Coins: Bitcoin and Ethereum Rebound Despite Vauld and Voyager Woes",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/05/bitcoin-vs-ethereum-gID_5.jpg",
@@ -566,7 +596,7 @@
           "description": "A close look at wallet data on ApeBoard shows how Celsius is scrambling to wind down DeFi debt. Will it help, or simply delay the inevitable?",
           "link": "https://decrypt.co/104780/how-celsius-is-scrambling-to-wind-down-its-defi-activity",
           "publishedOn": "2022-07-09T16:01:25.000Z",
-          "wordCount": 6500,
+          "wordCount": 6567,
           "title": "How Celsius Is Scrambling to Wind Down Its DeFi Activity",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/06/celsius-fire-gID_5.jpg",
@@ -589,36 +619,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/07/ripio-gID_1.webp"
-        },
-        {
-          "id": "https://decrypt.co/?p=104774",
-          "author": "Jason Nelson",
-          "description": "Regulators are digging deeper into past dealings of the embattled crypto exchange.",
-          "link": "https://decrypt.co/104774/state-regulators-intensify-scrutiny-of-voyager-bloomberg",
-          "publishedOn": "2022-07-08T23:20:14.000Z",
-          "wordCount": 5718,
-          "title": "State Regulators Intensify Scrutiny of Voyager: Report",
-          "enclosure": {
-            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/07/voyager-digital-shutterstock-gID_6.jpg",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/07/voyager-digital-shutterstock-gID_6.jpg"
-        },
-        {
-          "id": "https://decrypt.co/?p=104765",
-          "author": "Kate Irwin",
-          "description": "Users reportedly exploited Binance’s lack of fees on Bitcoin spot trades to earn VIP perks for fake high-volume trades.",
-          "link": "https://decrypt.co/104765/after-bitcoin-wash-trading-surges-on-binance-ceo-nixes-incentives",
-          "publishedOn": "2022-07-08T22:40:14.000Z",
-          "wordCount": 6028,
-          "title": "After Bitcoin Wash Trading Surges on Binance, CEO Nixes Incentives",
-          "enclosure": {
-            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2019/11/changpeng-zhao-binance-ceo-35-gID_4.jpg",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2019/11/changpeng-zhao-binance-ceo-35-gID_4.jpg"
         },
         {
           "id": "https://decrypt.co/videos/interviews/tk3vyRsI/binance-ceo-cz-on-crypto-bailouts-and-the-deals-he-would-not-do",
