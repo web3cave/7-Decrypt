@@ -6,12 +6,42 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=105146",
+          "author": "Kate Irwin",
+          "description": "A U.K. court has ruled that individuals and entities can now be served legal documents via NFTs. But the jury's out on the method's efficacy.",
+          "link": "https://decrypt.co/105146/uk-court-lawsuits-nft-airdrop-anon",
+          "publishedOn": "2022-07-14T22:46:25.000Z",
+          "wordCount": 6215,
+          "title": "See You in Court, Anon: UK Judge Allows Lawsuits via NFT Airdrop",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/07/lawsuit-scales-justice-court-gID_6.jpeg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/07/lawsuit-scales-justice-court-gID_6.jpeg"
+        },
+        {
+          "id": "https://decrypt.co/?p=105135",
+          "author": "Sander Lutz",
+          "description": "The blockchain went live with another shadow fork today to test a specific feature before its transition to proof of stake.",
+          "link": "https://decrypt.co/105135/ethereum-latest-shadow-fork-the-merge",
+          "publishedOn": "2022-07-14T22:17:18.000Z",
+          "wordCount": 6362,
+          "title": "Ethereum Deploys Latest Shadow Fork En Route to the Merge",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/10/shutterstock_578497075-gID_6.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/10/shutterstock_578497075-gID_6.jpg"
+        },
+        {
           "id": "https://decrypt.co/?p=105136",
           "author": "Stacy Elliott",
           "description": "The bankruptcy filing says the platform made “certain poor asset deployment decisions” when the platform grew faster than it anticipated.",
           "link": "https://decrypt.co/105136/celsius-bankruptcy-filing-1-2-billion-hole",
           "publishedOn": "2022-07-14T22:01:14.000Z",
-          "wordCount": 6097,
+          "wordCount": 6211,
           "title": "Celsius Bankruptcy Filing Shows $1.2 Billion Hole in Its Balance Sheet",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/07/money-drain-gID_1.jpeg",
@@ -26,7 +56,7 @@
           "description": "OpenSea CEO Devin Finzer says the move gives the company multiple years of runway \"under various crypto winter scenarios.\"",
           "link": "https://decrypt.co/105130/opensea-lays-off-20-percent-staff-prolonged-downturn-crypto-winter",
           "publishedOn": "2022-07-14T20:50:06.000Z",
-          "wordCount": 6185,
+          "wordCount": 6299,
           "title": "OpenSea Lays Off 20% of Its Staff to Prepare for 'Prolonged Downturn'",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/03/opensea-nft-marketplace-ethereum-gID_2.jpeg",
@@ -41,7 +71,7 @@
           "description": "The SEC Chair claimed the behavior of some lending platforms is impractical and risky for investors.",
           "link": "https://decrypt.co/105120/sec-chair-gary-gensler-crypto-lenders-too-good-to-be-true",
           "publishedOn": "2022-07-14T19:38:42.000Z",
-          "wordCount": 6229,
+          "wordCount": 6343,
           "title": "SEC Chair Gary Gensler: Crypto Lenders Offered 'Too Good to Be True' Returns",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/08/gary-gensler-sec-bitcoin-gID_4.jpeg",
@@ -56,7 +86,7 @@
           "description": "The platform’s users can now take out 10% of their funds.",
           "link": "https://decrypt.co/105113/coinflex-limited-withdrawals-dispute-bitcoin-evangelist-roger-ver",
           "publishedOn": "2022-07-14T17:55:17.000Z",
-          "wordCount": 6065,
+          "wordCount": 6179,
           "title": "CoinFLEX Opens Limited Withdrawals Amid Dispute With Bitcoin Evangelist Roger Ver",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/07/crypto-money-jar-gID_4.jpeg",
@@ -71,7 +101,7 @@
           "description": "After the Moonbirds boom, the PROOF team grows with an engineering acqui-hire ahead of plans to launch a “social universe.”",
           "link": "https://decrypt.co/105061/kevin-roses-proof-acquires-ethereum-nft-divergence",
           "publishedOn": "2022-07-14T17:07:13.000Z",
-          "wordCount": 6858,
+          "wordCount": 6972,
           "title": "Kevin Rose’s PROOF Acquires Ethereum NFT Team Divergence",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/07/proof-collective-nft-pass-gID_4.png",
@@ -86,7 +116,7 @@
           "description": "Algorithmic stablecoins are higher-risk than asset-backed stablecoins, but that doesn't mean they will never work, Changpeng Zhao says.",
           "link": "https://decrypt.co/105067/not-all-algorithmic-stablecoins-will-be-terra-binance-ceo-cz",
           "publishedOn": "2022-07-14T16:06:32.000Z",
-          "wordCount": 6093,
+          "wordCount": 6207,
           "title": "Not All Algorithmic Stablecoins Will Be Terra: Binance CEO CZ",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/07/GM_ChangpengZ4-1-gID_6.jpg",
@@ -116,7 +146,7 @@
           "description": "A new South Park episode takes aim at crypto endorsements by Matt Damon, Gwyneth Paltrow, Reese Witherspoon, Larry David and Naomi Osaka.",
           "link": "https://decrypt.co/105094/south-park-slams-matt-damon-crypto-ad-pee-drinking-parody",
           "publishedOn": "2022-07-14T13:09:13.000Z",
-          "wordCount": 6244,
+          "wordCount": 6358,
           "title": "'South Park' Slams Matt Damon's Crypto Ad in Pee-Drinking Parody",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/07/Screenshot-2022-07-14-at-13.48.46-gID_5.png",
@@ -131,7 +161,7 @@
           "description": "Celsius Mining has joined its parent company in initiating voluntary Chapter 11 bankruptcy protection proceedings.",
           "link": "https://decrypt.co/105089/celsius-bitcoin-mining-subsidiary-joins-crypto-lender-bankruptcy-filing",
           "publishedOn": "2022-07-14T12:07:58.000Z",
-          "wordCount": 6063,
+          "wordCount": 6177,
           "title": "Celsius' Bitcoin Mining Subsidiary Joins Crypto Lender in Bankruptcy Filing",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/07/crypto-firm-bankruptcy-gID_1.png",
@@ -146,7 +176,7 @@
           "description": "As the broader crypto market rebounded into the green, major DeFi tokens led the charge, boasting hefty gains over the past day.",
           "link": "https://decrypt.co/105085/defi-blue-chip-tokens-aave-uniswap-curve-post-fresh-gains",
           "publishedOn": "2022-07-14T08:53:38.000Z",
-          "wordCount": 5931,
+          "wordCount": 6045,
           "title": "DeFi Blue-Chip Tokens Aave, Uniswap, Curve Post Fresh Gains",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2019/10/bitcoin-bulls-price-back-up-pump-gID_1.jpg",
@@ -161,7 +191,7 @@
           "description": "The two-day-old platform, still in beta, moved well over 3,000 ETH. That's minuscule compared to OpenSea, but it beats Coinbase NFT.",
           "link": "https://decrypt.co/105069/gamestop-ethereum-nft-sales-dwarf-coinbase-nft",
           "publishedOn": "2022-07-14T03:03:45.000Z",
-          "wordCount": 6108,
+          "wordCount": 6222,
           "title": "GameStop’s Ethereum NFT Sales Dwarf Coinbase NFT in Two Days",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/07/shutterstock_466043351-gID_4.jpg",
@@ -176,7 +206,7 @@
           "description": "With $167 million left in cash, the embattled exchange has finally turned Chapter 11 rumors into reality.",
           "link": "https://decrypt.co/105076/troubled-crypto-lending-platform-celsius-files-for-bankruptcy",
           "publishedOn": "2022-07-14T01:00:35.000Z",
-          "wordCount": 6123,
+          "wordCount": 6237,
           "title": "Troubled Crypto Lending Platform Celsius Files For Bankruptcy",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/07/celsius-crypto-lender-gID_6.png",
@@ -191,7 +221,7 @@
           "description": "This year's program focuses on augmented and virtual reality and building the metaverse.",
           "link": "https://decrypt.co/105066/polygon-among-six-web3-projects-selected-for-disney-accelerator",
           "publishedOn": "2022-07-14T00:03:41.000Z",
-          "wordCount": 5939,
+          "wordCount": 6053,
           "title": "Polygon Among Six Web3 Projects Selected for Disney Accelerator",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/07/polygon-ethereum-disney-gID_4.png",
@@ -206,7 +236,7 @@
           "description": "As Ethereum prepares to move from proof-of-work mining to proof of stake, thousands of ETH miners may be left stranded.",
           "link": "https://decrypt.co/104967/ethereum-mining-pools-survive-merge-what-about-miners",
           "publishedOn": "2022-07-13T21:54:08.000Z",
-          "wordCount": 8045,
+          "wordCount": 8159,
           "title": "Ethereum Mining Pools Will Survive The Merge—What About the Miners?",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/07/ethereum-mining-gID_1.jpeg",
@@ -221,7 +251,7 @@
           "description": "The repayment to Compound netted Celsius almost $200 million in collateral.",
           "link": "https://decrypt.co/105054/celsius-pays-off-last-defi-loan-in-push-to-recoup-1-billion",
           "publishedOn": "2022-07-13T21:09:34.000Z",
-          "wordCount": 6104,
+          "wordCount": 6218,
           "title": "Celsius Pays Off Last DeFi Loan in Push to Recoup $1 Billion",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/04/crypto-lender-celsius-bitcoin-business-gID_5.jpg",
@@ -236,7 +266,7 @@
           "description": "The ‘greenest blockchain’ has launched a series of Formula E racing helmet NFTs in partnership with Envision Racing.",
           "link": "https://decrypt.co/104615/algorands-formula-e-nfts-are-tackling-climate-change-head-on",
           "publishedOn": "2022-07-13T19:02:39.000Z",
-          "wordCount": 7229,
+          "wordCount": 7343,
           "title": "Algorand’s Formula E NFTs Are Tackling Climate Change Head-On",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/07/AF_FE_1920x1080-gID_5.png",
@@ -251,7 +281,7 @@
           "description": "The UN believes crypto could threaten the monetary sovereignty of developing nations, and it's recommending strict rules to curtail their use.",
           "link": "https://decrypt.co/105013/un-developing-nations-bitcoin-ads-crypto-wallets",
           "publishedOn": "2022-07-13T17:36:04.000Z",
-          "wordCount": 7098,
+          "wordCount": 7212,
           "title": "UN Says Developing Nations Should Ban Bitcoin Ads, Regulate Crypto Wallets",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/09/Webp.net-resizeimage-60-gID_1.jpg",
@@ -266,7 +296,7 @@
           "description": "The regulatory body will now give an answer to the ETF application on August 30.",
           "link": "https://decrypt.co/105021/sec-delays-cathie-woods-ark-21shares-bitcoin-etf",
           "publishedOn": "2022-07-13T16:26:50.000Z",
-          "wordCount": 5920,
+          "wordCount": 6034,
           "title": "SEC Delays Decision on Cathie Wood’s ARK 21Shares Bitcoin ETF",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/03/shutterstock_1625495629-1-gID_4.jpg",
@@ -281,7 +311,7 @@
           "description": "The 2,500 ETH sale price matches other CryptoPunk apes, albeit at a much lower USD valuation given diminished crypto prices.",
           "link": "https://decrypt.co/105028/crypto-winter-cryptopunks-ethereum-nft-2-6m",
           "publishedOn": "2022-07-13T16:11:12.000Z",
-          "wordCount": 6475,
+          "wordCount": 6589,
           "title": "Deep in Crypto Winter, a CryptoPunks Ethereum NFT Sells for $2.6M",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/07/cryptopunks-nft-4464-ape-gID_7.png",
@@ -296,7 +326,7 @@
           "description": "The report signaled that the Federal Reserve will have to maintain its aggressive monetary stance to combat inflation.",
           "link": "https://decrypt.co/105015/bitcoin-ethereum-tumble-inflation-overshoots-expectations",
           "publishedOn": "2022-07-13T15:22:00.000Z",
-          "wordCount": 7113,
+          "wordCount": 7227,
           "title": "Bitcoin, Ethereum Falter as June Inflation Report Is Worse Than Expected",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/07/inflation-bitcoin-crypto-gID_1.png",
@@ -311,7 +341,7 @@
           "description": "The underlying infrastructure of the Bitcoin network is secured and maintained by nodes—find out what they are, and how they work.",
           "link": "https://decrypt.co/resources/what-are-the-different-types-of-bitcoin-nodes-how-the-bitcoin-network-is-maintained",
           "publishedOn": "2022-07-13T14:38:42.000Z",
-          "wordCount": 9157,
+          "wordCount": 9271,
           "title": "What Are The Different Types of Bitcoin Nodes? How the Bitcoin Network is Maintained",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/07/bitcoin-nodes-gID_6-pID_4.png",
@@ -326,7 +356,7 @@
           "description": "StarkWare today announced the launch of a native token for its layer-2 scaling solution called StarkNet.",
           "link": "https://decrypt.co/105008/ethereum-scaling-solution-starknet-announces-token-launch-for-september",
           "publishedOn": "2022-07-13T14:17:36.000Z",
-          "wordCount": 5980,
+          "wordCount": 6094,
           "title": "Ethereum Scaling Solution StarkNet Announces Token Launch for September",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/06/ethereum-scaling-layer-2-vitalik-gID_1.jpg",
@@ -341,7 +371,7 @@
           "description": "The league will offer free Flow-based collectibles for nearly five times as many regular season games as its NFT ambitions grow.",
           "link": "https://decrypt.co/105000/nfl-expands-ticket-stub-nfts-to-over-100-games-for-2022-season",
           "publishedOn": "2022-07-13T13:01:02.000Z",
-          "wordCount": 6645,
+          "wordCount": 6759,
           "title": "NFL Expands Ticket Stub NFTs to Over 100 Games for 2022 Season",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/04/NFL-gID_4.jpg",
@@ -356,7 +386,7 @@
           "description": "The Vermont Department of Financial Regulation also indicated that “until recently, Celsius was operating without regulatory oversight.”",
           "link": "https://decrypt.co/105004/crypto-lender-celsius-is-deeply-insolvent-says-vermonts-financial-regulator",
           "publishedOn": "2022-07-13T10:40:13.000Z",
-          "wordCount": 5950,
+          "wordCount": 6064,
           "title": "Crypto Lender Celsius Is 'Deeply Insolvent’, Says Vermont’s Financial Regulator",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/06/celsius-network-gID_5.jpg",
@@ -371,7 +401,7 @@
           "description": "Charlie Munger's continued dismay in Bitcoin sees no end as the billionaire recently told investors to “never touch it. Never buy it.”",
           "link": "https://decrypt.co/105001/crypto-is-investment-nothing-charlie-munger",
           "publishedOn": "2022-07-13T09:55:20.000Z",
-          "wordCount": 5871,
+          "wordCount": 5985,
           "title": "'Crypto Is an Investment in Nothing': Charlie Munger",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/05/shutterstock_353931887-gID_1.jpg",
@@ -386,7 +416,7 @@
           "description": "The Biden Administration has officially invited public input into future U.S. policies towards digital assets.",
           "link": "https://decrypt.co/104998/us-treasury-wants-your-input-on-biden-bitcoin-crypto-executive-order",
           "publishedOn": "2022-07-13T03:42:11.000Z",
-          "wordCount": 5977,
+          "wordCount": 6091,
           "title": "U.S. Treasury Wants Your Comments on Biden's Crypto Order",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/03/Biden-limo-gID_1.jpeg",
@@ -401,7 +431,7 @@
           "description": "“We’re perfectly happy to let this go to trial,” the lawyer told Decrypt.",
           "link": "https://decrypt.co/104990/bored-ape-lawsuit-yuga-labs-pepe-the-frog-attorney",
           "publishedOn": "2022-07-12T22:59:36.000Z",
-          "wordCount": 6259,
+          "wordCount": 6373,
           "title": "Bored Ape 'Troll' Sued by Yuga Hires Pepe the Frog Creator’s Attorney",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/07/bored-ape-pepe-gID_4.jpeg",
@@ -416,7 +446,7 @@
           "description": "It’s no joke: They’re now available in the United States.",
           "link": "https://decrypt.co/104983/yes-hostess-really-made-crypto-themed-twinkies-called-twinkcoin",
           "publishedOn": "2022-07-12T22:00:20.000Z",
-          "wordCount": 5846,
+          "wordCount": 5960,
           "title": "Yes, Hostess Really Made Crypto-Themed Twinkies Called $TWINKcoin",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/07/twinkcoin-twinkies-gID_4.png",
@@ -431,7 +461,7 @@
           "description": "Proof of stake has its critics, and Vitalik Buterin has some \"spicy\" answers for them.",
           "link": "https://decrypt.co/104977/ethereum-vitalik-buterin-claps-back-bitcoin-maxis-proof-of-stake",
           "publishedOn": "2022-07-12T21:44:59.000Z",
-          "wordCount": 6592,
+          "wordCount": 6706,
           "title": "Ethereum’s Vitalik Buterin Claps Back at Bitcoin Maxis Who Mock Proof of Stake",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2019/07/36922633190_1f5985398f_k-gID_4.jpg",
@@ -446,7 +476,7 @@
           "description": "The U.K.'s central bank continues to urge for tougher cryptocurrency regulations.",
           "link": "https://decrypt.co/104971/bank-england-crypto-regulation-unsafe-airplanes",
           "publishedOn": "2022-07-12T21:05:38.000Z",
-          "wordCount": 5959,
+          "wordCount": 6073,
           "title": "Bank of England Governor on Crypto Regulation: 'People Don’t Fly for Long on Unsafe Airplanes'",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/05/bank-of-england-gID_2.jpg",
@@ -461,7 +491,7 @@
           "description": "The raise comes as quarter-on-quarter venture funding fell sharply in a bear market that’s overwhelmed several companies.",
           "link": "https://decrypt.co/104960/lightspeed-raises-over-7-billion-across-four-funds",
           "publishedOn": "2022-07-12T20:23:33.000Z",
-          "wordCount": 5523,
+          "wordCount": 5637,
           "title": "Lightspeed Adds $7 Billion Across Four Funds, Creates ‘Crypto-Native’ Team",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/07/Lightspeed-Logo-gID_6.png",
@@ -476,7 +506,7 @@
           "description": "Stepn intends to spend over $6 million of Q2 profits to buy back and burn GMT tokens, plus the game added Ethereum support.",
           "link": "https://decrypt.co/104955/move-to-earn-game-stepn-renews-token-burn-amid-ethereum-expansion",
           "publishedOn": "2022-07-12T20:14:36.000Z",
-          "wordCount": 6595,
+          "wordCount": 6709,
           "title": "‘Move-to-Earn’ Game Stepn Renews Token Burn Amid Ethereum Expansion",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/07/stepn-artwork-gID_4.png",
@@ -491,7 +521,7 @@
           "description": "In April, the crypto hedge fund had assets under management totaling $3 billion. In July, the company filed for bankruptcy.",
           "link": "https://decrypt.co/104947/three-arrows-capital-liquidators-cleared-by-judge-to-issue-subpoenas",
           "publishedOn": "2022-07-12T19:13:04.000Z",
-          "wordCount": 6001,
+          "wordCount": 6115,
           "title": "Three Arrows Capital Liquidators Cleared by Judge to Issue Subpoenas",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/07/subpoena_court_bankruptcy-e1657652068354-gID_2.jpg",
@@ -506,7 +536,7 @@
           "description": "The move brings the embattled lending platform’s total debt across DeFi protocols down to just $59 million.",
           "link": "https://decrypt.co/104944/celsius-recovers-over-400m-in-staked-ethereum-collateral-from-aave-loan",
           "publishedOn": "2022-07-12T18:04:29.000Z",
-          "wordCount": 5937,
+          "wordCount": 6051,
           "title": "Celsius Recovers Over $400M in Staked Ethereum Collateral From Aave Loan",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/06/celsius-logo-lido-staked-eth-gID_2.jpg",
@@ -521,7 +551,7 @@
           "description": "The company behind popular crypto wallet Gnosis is now building an adaptable, multi-app ecosystem for the custody of digital assets.",
           "link": "https://decrypt.co/104908/digital-asset-platform-safe-announces-100m-fundraise",
           "publishedOn": "2022-07-12T13:01:11.000Z",
-          "wordCount": 6249,
+          "wordCount": 6363,
           "title": "Gnosis Rebrands as Safe, Raises $100M To Build Multi-Wallet Ecosystem",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/07/gnosis-safe-16x9-1-gID_1.png",
@@ -536,7 +566,7 @@
           "description": "The leading Solana NFT marketplace doubles down on Web3 gaming with Magic Ventures plus the launch of in-game storefronts.",
           "link": "https://decrypt.co/104902/solana-nft-marketplace-magic-eden-launches-gaming-venture-arm",
           "publishedOn": "2022-07-12T13:01:04.000Z",
-          "wordCount": 6741,
+          "wordCount": 6855,
           "title": "Solana NFT Marketplace Magic Eden Launches Gaming Venture Arm",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/07/magic-eden-logo-gID_4.png",
@@ -551,7 +581,7 @@
           "description": "Legal counsel of the embattled crypto fund 3AC said the firm’s founders and their families received “threats of physical violence.”",
           "link": "https://decrypt.co/104922/three-arrows-capital-says-cooperation-with-liquidators-met-baiting",
           "publishedOn": "2022-07-12T12:47:35.000Z",
-          "wordCount": 6114,
+          "wordCount": 6228,
           "title": "Three Arrows Capital Says Cooperation With Liquidators Met With 'Baiting'",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/07/Three-Arrows-Capital-Logo-gID_6.png",
@@ -566,7 +596,7 @@
           "description": "Crypto investment firm Multicoin Capital today announced its latest fund, Venture Fund III, with commitments of up to $430 million.",
           "link": "https://decrypt.co/104912/multicoin-capital-announces-430m-venture-fund",
           "publishedOn": "2022-07-12T12:31:11.000Z",
-          "wordCount": 6031,
+          "wordCount": 6145,
           "title": "Multicoin Capital Announces New $430M Venture Fund",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/10/funding-blockdata-vc-crypto-gID_6.png",
@@ -581,7 +611,7 @@
           "description": "Animoca Brands just landed fresh funding to the tune of $75 million as the broader crypto market continues to hemorrhage in value.",
           "link": "https://decrypt.co/104920/nft-game-publisher-animoca-raises-75m-higher-valuation-than-before-crypto-crash",
           "publishedOn": "2022-07-12T11:23:36.000Z",
-          "wordCount": 6095,
+          "wordCount": 6209,
           "title": "NFT Game Publisher Animoca Raises $75M—At Higher Valuation Than Before Crypto Crash",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/10/the-sandbox-nft-coins-gID_1.png",
@@ -589,36 +619,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/10/the-sandbox-nft-coins-gID_1.png"
-        },
-        {
-          "id": "https://decrypt.co/?p=104916",
-          "author": "Sujith Somraaj",
-          "description": "After gaining access to Uniswap LPs via a malicious airdrop contract, hackers stole more than 7,500 in Ethereum.",
-          "link": "https://decrypt.co/104916/hackers-nab-8m-ethereum-uniswap-phishing-attack",
-          "publishedOn": "2022-07-12T11:05:18.000Z",
-          "wordCount": 6339,
-          "title": "Hackers Nab $8M in Ethereum via Uniswap Phishing Attack",
-          "enclosure": {
-            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/08/phishing-attack-crypto-exchanges-gID_5.jpg",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/08/phishing-attack-crypto-exchanges-gID_5.jpg"
-        },
-        {
-          "id": "https://decrypt.co/?p=104913",
-          "author": "Sujith Somraaj",
-          "description": "Leading cryptocurrencies Bitcoin and Ethereum dropped several points this morning, with BTC falling below $20,000 and Ethereum edging towards $1,000.",
-          "link": "https://decrypt.co/104913/62000-crypto-traders-liquidated-bitcoin-ethereum-take-tumble",
-          "publishedOn": "2022-07-12T09:15:34.000Z",
-          "wordCount": 6233,
-          "title": "More Than 62,000 Crypto Traders Liquidated as Bitcoin, Ethereum Take Tumble",
-          "enclosure": {
-            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/08/bitcoin-ethereum-defi-token-renbtc-gID_6.jpg",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/08/bitcoin-ethereum-defi-token-renbtc-gID_6.jpg"
         },
         {
           "id": "https://decrypt.co/videos/interviews/q9IQ7L7z/chelsea-manning-talks-crypto-privacy-and-security",
