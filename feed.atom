@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-24T10:09:43.585Z</id>
+    <id>urn:2022-07-24T11:07:45.429Z</id>
     <title>web3::cave</title>
-    <updated>2022-07-24T10:09:43.585Z</updated>
+    <updated>2022-07-24T11:07:45.429Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Inside the Crypto-Bot Ghost Towns of Telegram]]></title>
+        <id>https://decrypt.co/?p=105775</id>
+        <link href="https://decrypt.co/105775/inside-crypto-bot-ghost-towns-telegram"/>
+        <updated>2022-07-24T11:01:03.000Z</updated>
+        <summary type="html"><![CDATA[Amid the downturn, many of Telegram’s crypto groups have become bots shilling to other bots.]]></summary>
+        <author>
+            <name>Ben Munster</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Unpacking Uniswap’s ‘Fee Switch’]]></title>
         <id>https://decrypt.co/?p=105823</id>
@@ -401,16 +411,6 @@
         <link href="https://decrypt.co/105536/crypto-exchange-zipmex-pauses-withdrawals-citing-circumstances-beyond-our-control"/>
         <updated>2022-07-20T13:01:07.000Z</updated>
         <summary type="html"><![CDATA[Singapore-based cryptocurrency exchange Zipmex is the latest crypto business to suspend withdrawals from its platform.]]></summary>
-        <author>
-            <name>Andrew Asmakov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Polygon Launches New Scaling Solution to Further Cut Costs on Ethereum]]></title>
-        <id>https://decrypt.co/?p=105520</id>
-        <link href="https://decrypt.co/105520/polygon-launches-new-scaling-solution-further-cut-costs-ethereum"/>
-        <updated>2022-07-20T11:10:15.000Z</updated>
-        <summary type="html"><![CDATA[Polygon zkEVM is Polygon’s Ethereum-compatible zero-knowledge scaling solution that aims to outpace Visa's transaction throughput.]]></summary>
         <author>
             <name>Andrew Asmakov</name>
         </author>
