@@ -6,12 +6,42 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=107368",
+          "author": "Andrew Hayward",
+          "description": "The top marketplace will require a police report for NFTs that are said to be stolen, and is considering further tweaks.",
+          "link": "https://decrypt.co/107368/opensea-changes-stolen-nft-policy-following-user-outcry",
+          "publishedOn": "2022-08-12T20:07:33.000Z",
+          "wordCount": 6871,
+          "title": "OpenSea Changes Stolen NFT Policy Following User Outcry",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/01/opensea-smartphone-nfts-shutterstock-gID_4.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/01/opensea-smartphone-nfts-shutterstock-gID_4.png"
+        },
+        {
+          "id": "https://decrypt.co/?p=107192",
+          "author": "Jason Nelson",
+          "description": "Tornado Cash and similar services have “mixed” billions of dollars in cryptocurrency—much of it for legitimate uses, but some to hide funds stolen by hackers.",
+          "link": "https://decrypt.co/resources/what-are-coin-mixers-tornado-cash-how-do-they-work",
+          "publishedOn": "2022-08-12T19:49:46.000Z",
+          "wordCount": 7753,
+          "title": "What Are Coin Mixers and How Do They Work?",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/08/crypto-mixer-gID_2-pID_3.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/08/crypto-mixer-gID_2-pID_3.png"
+        },
+        {
           "id": "https://decrypt.co/?p=107364",
           "author": "Mathew Di Salvo",
           "description": "The CFTC claims an Ohio man and his associates used would-be investors’ cash and Bitcoin to fund a lavish lifestyle.",
           "link": "https://decrypt.co/107364/cftc-charges-12m-bitcoin-ponzi-scheme",
           "publishedOn": "2022-08-12T18:51:35.000Z",
-          "wordCount": 5680,
+          "wordCount": 5775,
           "title": "CFTC Files Charges Against $12 Million 'Bitcoin Ponzi Scheme'",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/09/bitcoin-pyramid-ponzi-scheme-gID_2.jpg",
@@ -56,7 +86,7 @@
           "description": "The wider crypto community has erupted on Twitter following the news of an alleged Tornado Cash developer’s arrest in the Netherlands.",
           "link": "https://decrypt.co/107320/welcome-the-war-code-crypto-twitter-reacts-arrest-alleged-tornado-cash-dev",
           "publishedOn": "2022-08-12T15:13:30.000Z",
-          "wordCount": 6533,
+          "wordCount": 6628,
           "title": "'Welcome to the War on Code': Crypto Twitter Reacts to Arrest of Alleged Tornado Cash Dev",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/08/twitter-icon-smart-phone-scaled-gID_5.jpg",
@@ -116,7 +146,7 @@
           "description": "The upswing in ETC’s price coincides with the upswing of ETH.",
           "link": "https://decrypt.co/107306/ethereum-classic-hits-4-month-high-as-merge-approaches",
           "publishedOn": "2022-08-12T02:01:04.000Z",
-          "wordCount": 5561,
+          "wordCount": 5656,
           "title": "Ethereum Classic Hits 4-Month High as Merge Approaches",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/01/ethereum-classic-price-yearly-high-gID_5.jpg",
@@ -146,7 +176,7 @@
           "description": "As tensions with China heat up, Taipei officials leverage decentralized publishing and storage to stay online.",
           "link": "https://decrypt.co/107293/taiwan-turns-to-ipfs-tech-to-thwart-cyberattacks-from-china",
           "publishedOn": "2022-08-11T22:24:42.000Z",
-          "wordCount": 5728,
+          "wordCount": 5823,
           "title": "Taiwan Turns to Ethereum IPFS Tech to Thwart Chinese Cyberattacks",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/03/audrey-tang-01-gID_2.jpg",
@@ -161,7 +191,7 @@
           "description": "The FTX CEO said he doesn't want to be the only one bailing out ailing crypto companies, but hasn't gotten any help from other healthy players.",
           "link": "https://decrypt.co/107158/sam-bankman-fried-ftx-disappointing-no-help-on-bailouts",
           "publishedOn": "2022-08-11T19:24:50.000Z",
-          "wordCount": 6491,
+          "wordCount": 6586,
           "title": "Sam Bankman-Fried: 'Disappointing' Others Haven’t Helped Us Give Bailouts",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/08/GM_Podcastcover_SamBF2_4-gID_1.jpg",
@@ -176,7 +206,7 @@
           "description": "Over 50% of DAI is currently collateralized by Circle’s USDC.",
           "link": "https://decrypt.co/107273/makerdao-founder-dai-drop-dollar-peg-tornado-cash-usdc",
           "publishedOn": "2022-08-11T18:30:41.000Z",
-          "wordCount": 6793,
+          "wordCount": 6888,
           "title": "MakerDAO Founder Calls on DAI to Drop Dollar Peg Amid Tornado Cash Fallout",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/08/dollar-trust-crypto-stablecoin-gID_2.jpeg",
@@ -206,7 +236,7 @@
           "description": "The $10 trillion asset manager said it’s also exploring “permissioned blockchains, stablecoins, cryptoassets, and tokenization.”",
           "link": "https://decrypt.co/107261/blackrock-launches-spot-bitcoin-private-trust",
           "publishedOn": "2022-08-11T15:09:11.000Z",
-          "wordCount": 5813,
+          "wordCount": 5908,
           "title": "BlackRock Launches Spot Bitcoin Private Trust",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/08/apollo-statue-with-bitcoin-glasses-gID_5.jpg",
@@ -236,7 +266,7 @@
           "description": "A post-mortem from Curve Finance reported that “no one is safe” from frontend attacks like the one the DeFi exchange suffered on Tuesday.",
           "link": "https://decrypt.co/107243/curve-strongly-suggests-domain-migration-ethereum-name-service-570k-frontend-hack",
           "publishedOn": "2022-08-11T14:08:51.000Z",
-          "wordCount": 5788,
+          "wordCount": 5883,
           "title": "Curve ‘Strongly Suggests’ Domain Migration to Ethereum Name Service After $570K Frontend Hack",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/06/curve-finance-gID_4.jpg",
@@ -251,7 +281,7 @@
           "description": "Crypto trading app Swan Bitcoin is among dozens of crypto businesses affected by a data breach suffered by email marketing firm Klaviyo.",
           "link": "https://decrypt.co/107236/swan-bitcoin-discloses-data-leak-due-phishing-attack-newsletter-provider",
           "publishedOn": "2022-08-11T11:46:13.000Z",
-          "wordCount": 6281,
+          "wordCount": 6376,
           "title": "Swan Bitcoin Discloses Data Leak Due to Phishing Attack on Newsletter Provider",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/08/phishing-attack-crypto-exchanges-gID_1.jpg",
@@ -311,7 +341,7 @@
           "description": "Another round of unannounced account suspensions leaves crypto newsletter publishers scrambling to choose a new provider.",
           "link": "https://decrypt.co/107099/intuit-owned-mailchimp-is-banning-crypto-content-creators",
           "publishedOn": "2022-08-11T00:42:29.000Z",
-          "wordCount": 6838,
+          "wordCount": 6933,
           "title": "Mailchimp Resumes Crackdown on Crypto Newsletters Including Messari, Edge",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/08/Mailchimp-gID_1.png",
@@ -341,7 +371,7 @@
           "description": "Ripple is actively seeking to scale the company through merger and acquisition deals, a spokesperson told Reuters.",
           "link": "https://decrypt.co/107183/ripple-considers-buying-bankrupt-crypto-lender-celsius-assets",
           "publishedOn": "2022-08-10T20:23:20.000Z",
-          "wordCount": 5806,
+          "wordCount": 5901,
           "title": "Ripple Is Considering Buying Bankrupt Crypto Lender Celsius’ Assets: Report",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/01/ripple-xrp-crypto-sales-gID_6.jpg",
@@ -461,7 +491,7 @@
           "description": "Beleaguered cryptocurrency exchange CoinFLEX has reportedly initiated a restructuring process in a Seychelles court.",
           "link": "https://decrypt.co/107138/crypto-exchange-coinflex-plans-84m-restructuring-seychelles",
           "publishedOn": "2022-08-10T10:06:08.000Z",
-          "wordCount": 5822,
+          "wordCount": 5917,
           "title": "Crypto Exchange CoinFLEX Plans $84M Restructuring in Seychelles",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/09/Bitfinex-Trial-gID_6.jpg",
@@ -521,7 +551,7 @@
           "description": "Trading volume on the exchange fell by 29% in the second quarter.",
           "link": "https://decrypt.co/107112/coinbase-1-billion-net-loss-q2-stock-tumbles",
           "publishedOn": "2022-08-09T21:05:40.000Z",
-          "wordCount": 6250,
+          "wordCount": 6345,
           "title": "Coinbase Posts $1 Billion Net Loss in Q2, Stock Tumbles",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/07/coinbase-nft-nyc-gID_4.jpeg",
@@ -566,7 +596,7 @@
           "description": "Vitalik Buterin said the need for privacy from Russia’s government led him to use the Ethereum mixing protocol.",
           "link": "https://decrypt.co/107075/ethereum-cofounder-used-blacklisted-tornado-cash-donate-ukraine",
           "publishedOn": "2022-08-09T15:16:12.000Z",
-          "wordCount": 6375,
+          "wordCount": 6470,
           "title": "Ethereum Cofounder Says He Used Now-Blacklisted Tornado Cash to Donate to Ukraine",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/08/Webp.net-resizeimage-gID_2.jpg",
@@ -589,36 +619,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/07/Binance-Phone-gID_5.jpg"
-        },
-        {
-          "id": "https://decrypt.co/?p=107021",
-          "author": "Andrew Hayward",
-          "description": "Arbitrum’s new gaming and social dapp-centric Nova chain is live, and Reddit could bring millions of users to it via rewards. FTX is also on board.",
-          "link": "https://decrypt.co/107021/reddit-to-build-community-points-on-arbitrums-new-ethereum-scaler",
-          "publishedOn": "2022-08-09T13:41:04.000Z",
-          "wordCount": 6995,
-          "title": "Reddit Rolls Out Community Points on Arbitrum’s New Ethereum Scaler With FTX Support",
-          "enclosure": {
-            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/08/reddit-logo-phone-shutterstock-gID_4.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/08/reddit-logo-phone-shutterstock-gID_4.png"
-        },
-        {
-          "id": "https://decrypt.co/?p=107053",
-          "author": "Tim Hakki",
-          "description": "The source code for crypto privacy mixer Tornado Cash has been removed from Github, prompting outcry from privacy and free speech advocates.",
-          "link": "https://decrypt.co/107053/it-doesnt-change-anything-says-tornado-cash-code-disappears-github",
-          "publishedOn": "2022-08-09T12:58:53.000Z",
-          "wordCount": 5814,
-          "title": "'It Doesn’t Change Anything' Says Tornado Cash After Code Disappears From GitHub",
-          "enclosure": {
-            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/02/Screenshot-2020-02-14-at-18.40.59-gID_2.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/02/Screenshot-2020-02-14-at-18.40.59-gID_2.png"
         },
         {
           "id": "https://decrypt.co/videos/interviews/SAjocwV9/why-musician-and-nft-artist-jimmy-edgar-remains-skeptical-on-music-nfts",
