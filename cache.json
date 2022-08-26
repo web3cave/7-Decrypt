@@ -6,12 +6,27 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=108376",
+          "author": "Andrew Hayward",
+          "description": "A product of barrelDAO, Solana Summer Shandy beer features NFT avatars from the biggest projects on SOL.",
+          "link": "https://decrypt.co/108376/solana-beer-degods-okay-bears-nfts-summer-shandy",
+          "publishedOn": "2022-08-26T22:01:12.000Z",
+          "wordCount": 6952,
+          "title": "Solana Now Has a Beer—With DeGods, Okay Bears and Other NFTs on the Can",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/08/solana-summer-shandy-2-gID_6.png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/08/solana-summer-shandy-2-gID_6.png"
+        },
+        {
           "id": "https://decrypt.co/?p=108354",
           "author": "Andrew Hayward",
           "description": "Lists of fantasy gear sparked a market boom (and bust), but also the imagination of builders. Loot-inspired games and media are nearing release—and a “Loot 2” NFT launch could accelerate growth.",
           "link": "https://decrypt.co/108354/loot-one-year-later-nft-hype-dead-lootverse-hope-lives-on",
           "publishedOn": "2022-08-26T20:54:40.000Z",
-          "wordCount": 11093,
+          "wordCount": 11042,
           "title": "Loot, One Year Later: The NFT Hype Is Dead—But 'Lootverse' Hope Lives On",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/08/loot-hyperloot-nft-gID_7.png",
@@ -26,7 +41,7 @@
           "description": "The announcement from Coinbase comes as ETHW, a proposed proof-of-work Ethereum alternative, has plunged 93% in daily trading volume.",
           "link": "https://decrypt.co/108370/coinbase-consider-listing-ethereum-forks-merge",
           "publishedOn": "2022-08-26T19:42:47.000Z",
-          "wordCount": 6288,
+          "wordCount": 6237,
           "title": "Coinbase Will Consider Listing Ethereum Forks Following Merge",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/07/coinbase-nft-nyc-gID_2.jpeg",
@@ -41,7 +56,7 @@
           "description": "Popular cloud service provider Hetzner hosts over 10% of Ethereum nodes—but the company says this violates its terms of service.",
           "link": "https://decrypt.co/108346/ethereum-nodes-cloud-services-host-hetzner-banned",
           "publishedOn": "2022-08-26T18:16:47.000Z",
-          "wordCount": 6122,
+          "wordCount": 6071,
           "title": "Ethereum Nodes Largely Run on Cloud Services—This Host Says They’re Banned",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/08/crypto-ethereum-banned-gID_6.jpeg",
@@ -56,7 +71,7 @@
           "description": "Federal Reserve Chair Jerome Powell said interest rates may continue to rise in order to tame inflation, leading to a crypto market sell-off.",
           "link": "https://decrypt.co/108336/bitcoin-price-powell-fed-raising-interest-rates",
           "publishedOn": "2022-08-26T16:46:16.000Z",
-          "wordCount": 5893,
+          "wordCount": 5842,
           "title": "Bitcoin Tanks After Powell Says Fed May Keep Raising Interest Rates",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/02/fed-chairman-powell-federal-reserve-dollar-digital-currency-central-bank1-gID_4.jpg",
@@ -71,7 +86,7 @@
           "description": "Lido Finance’s native token has fallen amid slowing demand for staking and mixed expectations of the upcoming Ethereum merge event.",
           "link": "https://decrypt.co/108327/token-powering-ethereum-staking-platform-lido-finance-tumbles",
           "publishedOn": "2022-08-26T14:30:27.000Z",
-          "wordCount": 5889,
+          "wordCount": 5838,
           "title": "Token Powering Ethereum Staking Platform Lido Finance Tumbles",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/05/lido-finance-tokens-defi-ai-gID_1.jpg",
@@ -86,7 +101,7 @@
           "description": "The new iteration of the Compound protocol targets security, capital efficiency, and improved user experience.",
           "link": "https://decrypt.co/108314/crypto-lending-platform-compound-rolls-out-fresh-upgrade-defi-users",
           "publishedOn": "2022-08-26T13:17:30.000Z",
-          "wordCount": 6205,
+          "wordCount": 6154,
           "title": "Crypto Lending Platform Compound Rolls Out Fresh Upgrade for DeFi Users",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/08/compound-finance-defi-gID_1.jpg",
@@ -101,7 +116,7 @@
           "description": "The U.S financial regulator has again delayed the decision on VanEck's latest spot Bitcoin ETF application by 45 days.",
           "link": "https://decrypt.co/108311/sec-delays-vaneck-bitcoin-etf-decision-another-45-days",
           "publishedOn": "2022-08-26T08:43:00.000Z",
-          "wordCount": 5991,
+          "wordCount": 5940,
           "title": "SEC Delays VanEck's Bitcoin ETF Decision Another 45 Days",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/04/bitcoin-etf-gID_2.jpg",
@@ -116,7 +131,7 @@
           "description": "The hash rate of ETC hits an all-time high, which reduces the risks of a \"51% attack.\"",
           "link": "https://decrypt.co/108305/ethereum-classic-etc-hash-rate-51-percent-attack",
           "publishedOn": "2022-08-26T07:57:27.000Z",
-          "wordCount": 6501,
+          "wordCount": 6450,
           "title": "Miners Eye Ethereum Classic Activity as Merge Nears",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/01/shutterstock_7726937891-gID_5.jpg",
@@ -131,7 +146,7 @@
           "description": "Despite a no-politics policy, the exchange is stepping in, calling the midterms “the most important in crypto’s history.”",
           "link": "https://decrypt.co/108284/coinbase-launches-voter-registration-tool-ahead-of-november-elections",
           "publishedOn": "2022-08-25T21:54:45.000Z",
-          "wordCount": 5722,
+          "wordCount": 5671,
           "title": "Coinbase Launches Voter Registration Tool Ahead of November Elections",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2019/04/Brian-Armstrong-e1614439457296-gID_5.jpg",
@@ -146,7 +161,7 @@
           "description": "Sam Bankman Fried asserts that FTX and Alameda's venture investing divisions remain separate.",
           "link": "https://decrypt.co/108275/ftx-alameda-venture-vc-merger",
           "publishedOn": "2022-08-25T21:05:42.000Z",
-          "wordCount": 5726,
+          "wordCount": 5694,
           "title": "FTX CEO Calls Alameda VC Merger Report a 'Big Misrepresentation'",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/08/spider-man-pointing-meme-gID_7.jpeg",
@@ -161,7 +176,7 @@
           "description": "The rap legends will return to the award show after over a decade with their song “From the D to the LBC.”",
           "link": "https://decrypt.co/108264/snoop-dogg-and-eminem-to-bring-bored-ape-nfts-to-vmas-in-otherside-metaverse-performance",
           "publishedOn": "2022-08-25T19:51:40.000Z",
-          "wordCount": 6706,
+          "wordCount": 6655,
           "title": "Snoop Dogg and Eminem to Bring Bored Ape NFTs to VMAs In ‘Otherside’ Metaverse Performance",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/08/rapper-nft-scaled-gID_4.jpeg",
@@ -176,7 +191,7 @@
           "description": "Polygon’s Sandeep Nailwal and Cere Network founder Kenzi Wang have launched Symbolic Capital.",
           "link": "https://decrypt.co/108257/polygon-founder-50-million-web3-fund",
           "publishedOn": "2022-08-25T18:34:22.000Z",
-          "wordCount": 5860,
+          "wordCount": 5809,
           "title": "Polygon Founder Launches $50 Million Early-Stage Web3 Fund",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/08/money-cash-make-it-rain-crypto-gID_4.jpeg",
@@ -191,7 +206,7 @@
           "description": "Users who have earned ample karma may be eligible to receive a free “Collectible Avatar” NFT minted on Polygon.",
           "link": "https://decrypt.co/108249/reddit-airdropping-free-polygon-nft-hardcore-users",
           "publishedOn": "2022-08-25T17:33:48.000Z",
-          "wordCount": 6401,
+          "wordCount": 6350,
           "title": "Reddit Is Airdropping Free Polygon NFT Avatars to Its Most Hardcore Users",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/08/reddit-collectible-avatars-gID_4.png",
@@ -206,7 +221,7 @@
           "description": "The data that makes up the content of NFTs needs to be stored somewhere—but not all NFT storage techniques are created equal.",
           "link": "https://decrypt.co/resources/how-are-nfts-stored-on-chain-off-chain-and-decentralized-storage",
           "publishedOn": "2022-08-25T16:46:19.000Z",
-          "wordCount": 6623,
+          "wordCount": 6572,
           "title": "How Are NFTs Stored? On-Chain, Off-Chain and Decentralized Storage",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/02/non-fungible-tokens-gID_6-pID_6.png",
@@ -221,7 +236,7 @@
           "description": "Provider of Web3 development tools Alchemy will make ChainShot’s educational content free as part of the acquisition.",
           "link": "https://decrypt.co/108243/alchemy-acquires-ethereum-coding-boot-camp-platform-chainshot",
           "publishedOn": "2022-08-25T16:37:04.000Z",
-          "wordCount": 5782,
+          "wordCount": 5731,
           "title": "Alchemy Acquires Ethereum Coding Platform ChainShot",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/07/coding-2-gID_1.jpg",
@@ -236,7 +251,7 @@
           "description": "The Tornado Cash developer has been ordered to stay in holding for another 90 days. It's still unclear what he has been charged with.",
           "link": "https://decrypt.co/108229/dutch-judge-orders-tornado-developer-stay-jail-3-more-months",
           "publishedOn": "2022-08-25T15:37:35.000Z",
-          "wordCount": 6146,
+          "wordCount": 6095,
           "title": "Dutch Judge Orders Tornado Cash Dev to Stay in Jail for 3 More Months",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/08/Shutterstock_2054077886-gID_1.jpg",
@@ -251,7 +266,7 @@
           "description": "Creators and designers need new tools to build the evolving metaverse—like Caduceus, the first open blockchain dedicated to metaverse development.",
           "link": "https://decrypt.co/108033/the-metaverse-the-next-2-years-and-beyond",
           "publishedOn": "2022-08-25T13:36:51.000Z",
-          "wordCount": 7799,
+          "wordCount": 7748,
           "title": "The Metaverse: The Next 2 Years (And Beyond)",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/08/Shutterstock_2128971668-scaled-e1661266259729-gID_5.jpg",
@@ -266,7 +281,7 @@
           "description": "Meme coin Shiba Inu leads the gains among the top 20 cryptocurrencies as its rapid token burn diminishes supply.",
           "link": "https://decrypt.co/108212/shiba-inu-jumps-9-as-token-burn-intensifies",
           "publishedOn": "2022-08-25T13:23:27.000Z",
-          "wordCount": 6218,
+          "wordCount": 6167,
           "title": "SHIB Jumps 9% as Token Burn Intensifies",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/01/Webp.net-resizeimage3-gID_1.jpg",
@@ -281,7 +296,7 @@
           "description": "Samsung is taking a second swing at launching a crypto exchange, with its initial plans reportedly thwarted by a lack of key talent.",
           "link": "https://decrypt.co/108211/samsung-slates-crypto-exchange-launch-south-korea-2023-report",
           "publishedOn": "2022-08-25T11:34:17.000Z",
-          "wordCount": 5813,
+          "wordCount": 5762,
           "title": "Samsung Slates Crypto Exchange Launch in South Korea for 2023: Report",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/05/shutterstock_5856934461-gID_1.jpg",
@@ -296,7 +311,7 @@
           "description": "Nvidia reported a 19% overall revenue decline in Q2 2022 but is struggling to estimate the impact of crypto mining on the drop.",
           "link": "https://decrypt.co/108199/nvidia-has-limited-visibility-crypto-mining-impact-q2-revenue-drop",
           "publishedOn": "2022-08-25T10:17:37.000Z",
-          "wordCount": 5967,
+          "wordCount": 5916,
           "title": "Nvidia Has 'Limited Visibility' on Crypto Mining Impact in Q2 Revenue Drop",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/09/shutterstock_1606529806-gID_2.jpg",
@@ -311,7 +326,7 @@
           "description": "Thieves looking to score expensive JPEGs have been busy over the last twelve months.",
           "link": "https://decrypt.co/108186/cybercriminals-stole-over-100-million-in-nfts-elliptic",
           "publishedOn": "2022-08-25T00:17:28.000Z",
-          "wordCount": 6406,
+          "wordCount": 6355,
           "title": "Cybercriminals Have Stolen Over $100 Million in NFTs: Report",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/08/Scammers-and-NFTs-gID_5.png",
@@ -326,7 +341,7 @@
           "description": "Undeterred by an SEC probe, the exchange launches a new utility token before the merge.",
           "link": "https://decrypt.co/108180/coinbase-announces-cbeth-wrapped-ethereum-staking-token",
           "publishedOn": "2022-08-24T23:50:35.000Z",
-          "wordCount": 6494,
+          "wordCount": 6443,
           "title": "Coinbase Announces cbETH Wrapped Ethereum Staking Token",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2019/12/ethereum-3818347_1920-e1575461593679-gID_5.jpg",
@@ -341,7 +356,7 @@
           "description": "\"Imagine how thin-skinned you have to be to do this,\" Atozy says, raising $200,000 for his legal defense.",
           "link": "https://decrypt.co/108172/youtube-bitboy-atoz-defamation-lawsuit-dropped",
           "publishedOn": "2022-08-24T23:36:27.000Z",
-          "wordCount": 6629,
+          "wordCount": 6578,
           "title": "Bitboy vs. Atozy: YouTuber Drops Publicly Filed Lawsuit Because It Went Public",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/08/Bitboy-Atozy-gID_4.jpg",
@@ -356,7 +371,7 @@
           "description": "The Ethereum Foundation is quadrupling bug bounties ahead of the network’s long-awaited shift to an energy-efficient model.",
           "link": "https://decrypt.co/108168/ethereum-bug-before-merge-could-earn-million-dollar-reward",
           "publishedOn": "2022-08-24T22:39:17.000Z",
-          "wordCount": 6039,
+          "wordCount": 5988,
           "title": "Find an Ethereum Bug Before the Merge? You Could Earn a $1M Reward",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/06/Ethereum-dollars-gID_5.jpeg",
@@ -431,7 +446,7 @@
           "description": "A licensing deal between Mars and music label UMG means Bored Ape NFT images are now printed on M&M’s chocolate candies.",
           "link": "https://decrypt.co/108142/bored-apes-melt-in-your-mouth-mms-mars-nft-candy",
           "publishedOn": "2022-08-24T16:22:43.000Z",
-          "wordCount": 6583,
+          "wordCount": 6532,
           "title": "These Bored Apes Will Melt in Your Mouth: M&#038;M’s Releases NFT-Inspired Candy",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/08/bored-ape-mms-kingship-gID_4.png",
@@ -446,7 +461,7 @@
           "description": "The stablecoin issuer has yet to receive a request to freeze Tornado Cash-affiliated accounts, but hinted it would comply if it did.",
           "link": "https://decrypt.co/108138/despite-us-sanctions-tether-continues-to-support-tornado-cash-report",
           "publishedOn": "2022-08-24T15:32:37.000Z",
-          "wordCount": 6183,
+          "wordCount": 6132,
           "title": "Despite US Sanctions, Tether Continues To Support Tornado Cash: Report",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/11/Tether-gID_2.jpg",
@@ -461,7 +476,7 @@
           "description": "Seven leading digital assets will be available for purchase with cash deposits at 10,000 Coinstar ATMs across the United States.",
           "link": "https://decrypt.co/108139/coinstar-moves-beyond-bitcoin-adding-dogecoin-ethereum-atms",
           "publishedOn": "2022-08-24T15:27:44.000Z",
-          "wordCount": 5703,
+          "wordCount": 5652,
           "title": "Coinstar Moves Beyond Bitcoin, Adding Dogecoin, Ethereum to ATMs",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/08/coinstar-crypto-gID_2.jpg",
@@ -491,7 +506,7 @@
           "description": "Following the first wave of institutional investment in Bitcoin, HNWIs and institutions are exploring the more complex world of decentralized finance.",
           "link": "https://decrypt.co/107133/institutional-investors-are-discovering-defi",
           "publishedOn": "2022-08-24T13:01:11.000Z",
-          "wordCount": 7639,
+          "wordCount": 7588,
           "title": "Institutional Investors Are Rediscovering DeFi",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/08/cobo-defi-e1660724459778-gID_1.png",
@@ -521,7 +536,7 @@
           "description": "As Australian regulators take a closer look at reigning in cryptocurrencies, federal agencies continue to warn of their risks.",
           "link": "https://decrypt.co/108113/australias-financial-watchdog-joins-government-eyeing-fresh-crypto-regulations",
           "publishedOn": "2022-08-24T10:39:14.000Z",
-          "wordCount": 6004,
+          "wordCount": 5953,
           "title": "Australia’s Financial Watchdog Joins Government in Eyeing Fresh Crypto Regulations",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/08/bitcoin-australia-gID_4.jpg",
@@ -551,7 +566,7 @@
           "description": "3AC’s liquidators have secured a key court decision to proceed with a further probe into the insolvent crypto hedge fund’s financials.",
           "link": "https://decrypt.co/108108/singapore-court-greenlights-inquiry-three-arrows-capital-finances-report",
           "publishedOn": "2022-08-24T10:05:23.000Z",
-          "wordCount": 5860,
+          "wordCount": 5809,
           "title": "Singapore Court Greenlights Inquiry Into Three Arrows Capital Finances : Report",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/01/blockvest-sec-court-judge-sanctions-gID_1.jpg",
@@ -566,7 +581,7 @@
           "description": "In a new Netflix biopic, McAfee’s former partner Samantha Herrera says the notorious software developer faked his death.",
           "link": "https://decrypt.co/108090/john-mcafee-is-still-alive-ex-girlfriend-reportedly-claims-in-documentary",
           "publishedOn": "2022-08-23T23:31:31.000Z",
-          "wordCount": 6290,
+          "wordCount": 6239,
           "title": "John McAfee Is Still Alive, Ex-Girlfriend Claims In Documentary",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2019/01/John-McAfee-the-devil-gID_5.jpg",
@@ -581,7 +596,7 @@
           "description": "Brian Armstrong wants Coinbase to shed its “U.S. lens” and be “the most regulated” in crypto.",
           "link": "https://decrypt.co/108082/coinbase-ceo-says-exchange-is-cutting-costs-focusing-on-subscriptions",
           "publishedOn": "2022-08-23T21:05:01.000Z",
-          "wordCount": 6238,
+          "wordCount": 6187,
           "title": "Coinbase CEO Says Exchange Is Cutting Costs, Focusing on Subscriptions",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/04/brian-armstrong-coinbase-ceo-gID_4.jpg",
@@ -596,7 +611,7 @@
           "description": "“The defendants were not just incompetent, they also were thieves,\" Celsius says.",
           "link": "https://decrypt.co/108079/celsius-keyfi-jason-stone-countersuit-money-laundering-theft",
           "publishedOn": "2022-08-23T20:18:30.000Z",
-          "wordCount": 5817,
+          "wordCount": 5766,
           "title": "Crypto Lender Celsius Countersues KeyFi for 'Gross Mismanagement'",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/07/celsius-crypto-lender-gID_2.png",
@@ -604,21 +619,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/07/celsius-crypto-lender-gID_2.png"
-        },
-        {
-          "id": "https://decrypt.co/?p=108061",
-          "author": "Mathew Di Salvo",
-          "description": "The San Francisco-based exchange is facing yet another lawsuit from a disgruntled customer.",
-          "link": "https://decrypt.co/108061/coinbase-lawsuit-crashes-securities",
-          "publishedOn": "2022-08-23T17:51:10.000Z",
-          "wordCount": 5761,
-          "title": "Coinbase Hit With $5M Lawsuit Over Exchange Crashes, Alleged Securities Violations",
-          "enclosure": {
-            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/07/coinbase-bitcoin-trading-gID_1.jpeg",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/07/coinbase-bitcoin-trading-gID_1.jpeg"
         },
         {
           "id": "https://decrypt.co/videos/explainers/ZGPeOz1o/decrypt-learn-what-is-a-node",
