@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-02T19:07:57.619Z</id>
+    <id>urn:2022-09-02T20:10:33.082Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-02T19:07:57.619Z</updated>
+    <updated>2022-09-02T20:10:33.082Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bill Murray’s Ethereum Wallet Hacked for $174K After NFT Charity Auction]]></title>
+        <id>https://decrypt.co/?p=108882</id>
+        <link href="https://decrypt.co/108882/bill-murray-ethereum-wallet-hacked-174k-nft-charity-auction"/>
+        <updated>2022-09-02T19:23:00.000Z</updated>
+        <summary type="html"><![CDATA[Most of the money paid for a Murray NFT was stolen, but someone else has already donated replacement funds for charity.]]></summary>
+        <author>
+            <name>Andrew Hayward</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What the Ethereum Merge Means for NFTs]]></title>
         <id>https://decrypt.co/?p=108862</id>
@@ -413,16 +423,6 @@
         <summary type="html"><![CDATA[Users will be able to earn rewards on as little as 0.1 ETH, but not in the U.S.]]></summary>
         <author>
             <name>Sander Lutz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solana DeFi Exchange Accidentally Bricks Itself, Locks Up $661K Forever]]></title>
-        <id>https://decrypt.co/?p=108585</id>
-        <link href="https://decrypt.co/108585/solana-defi-exchange-optifi-bricks-itself-loses-661k"/>
-        <updated>2022-08-30T20:20:14.000Z</updated>
-        <summary type="html"><![CDATA[“Please don’t rush like what we did,” the OptiFi team wrote after permanently closing its blockchain program in error.]]></summary>
-        <author>
-            <name>Andrew Hayward</name>
         </author>
     </entry>
     <entry>
