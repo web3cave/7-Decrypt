@@ -6,12 +6,27 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=110007",
+          "author": "Ryan Ozawa",
+          "description": "All eyes are on the next Fed meeting on Sept. 21, where another interest rate hike is expected.",
+          "link": "https://decrypt.co/110007/ethereum-bitcoin-slide-further-through-the-weekend",
+          "publishedOn": "2022-09-19T01:25:55.000Z",
+          "wordCount": 6160,
+          "title": "Ethereum, Bitcoin Slide Further Through The Weekend",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/09/Bitcoin-Down-Arrow-Shutterstock_2077303516-gID_2.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/09/Bitcoin-Down-Arrow-Shutterstock_2077303516-gID_2.jpg"
+        },
+        {
           "id": "https://decrypt.co/?p=110004",
           "author": "André Beganski",
           "description": "Before EthereumPoW begat ETHW, EthereumFair pitched ETHF—now ETF.",
           "link": "https://decrypt.co/110004/ethereum-merge-hard-forks-reveal-competing-proof-of-work-projects",
           "publishedOn": "2022-09-18T21:21:11.000Z",
-          "wordCount": 5864,
+          "wordCount": 5851,
           "title": "Ethereum Merge Hard Forks Reveal Competing Proof-of-Work Projects",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/09/unique-fork-gID_1.png",
@@ -26,7 +41,7 @@
           "description": "Terra CEO Do Kwon breaks his silence and said he’s not running from South Korean authorities.",
           "link": "https://decrypt.co/109989/this-week-on-crypto-twitter-ethereum-merges-hoskinson-gets-salty-concerns-over-centralized-staking",
           "publishedOn": "2022-09-18T19:14:38.000Z",
-          "wordCount": 7388,
+          "wordCount": 7375,
           "title": "This Week on Crypto Twitter: Ethereum Merges, Hoskinson Gets Salty, Concerns Over Centralized Staking",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/09/Ethereum-Merge-16x9-1-gID_6.jpg",
@@ -41,7 +56,7 @@
           "description": "The man behind Terra is wanted by South Korean authorities and is not in Singapore as they thought, but tweeted that he's not hiding.",
           "link": "https://decrypt.co/109981/terra-co-founder-do-kwon-i-am-not-on-the-run",
           "publishedOn": "2022-09-17T22:23:22.000Z",
-          "wordCount": 5645,
+          "wordCount": 5632,
           "title": "Terra Co-Founder Do Kwon: I Am Not 'On the Run'",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/04/Screen-Shot-2022-04-02-at-8.38.24-AM-e1652464007264-gID_2.png",
@@ -56,7 +71,7 @@
           "description": "From the studio behind CryptoPunks, Meebits are a series of 20,000 3D voxel NFT characters with randomized traits.",
           "link": "https://decrypt.co/resources/what-are-meebits-metaverse-ready-nfts-from-the-creator-of-cryptopunks",
           "publishedOn": "2022-09-17T14:08:39.000Z",
-          "wordCount": 6981,
+          "wordCount": 6968,
           "title": "What Are Meebits? Metaverse-Ready NFTs From the Creator of CryptoPunks",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/09/meebits-gID_5-pID_6.png",
@@ -71,7 +86,7 @@
           "description": "The Ethereum network smoothly transitioned to proof-of-stake, but its native cryptocurrency depreciated more than most leading coins.",
           "link": "https://decrypt.co/109969/this-week-in-coins-ethereum-posts-biggest-losses-on-merge-week",
           "publishedOn": "2022-09-17T13:32:19.000Z",
-          "wordCount": 6185,
+          "wordCount": 6172,
           "title": "This Week in Coins: Ethereum Posts Biggest Losses on Merge Week",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/09/Ethereum-Bitcoin-Target-scaled-gID_2.jpg",
@@ -86,7 +101,7 @@
           "description": "Mobile gaming exec Spencer Tucker will oversee Yuga Labs’ Otherside.",
           "link": "https://decrypt.co/109966/yuga-labs-hires-chief-gaming-officer-to-further-web3-gaming-push",
           "publishedOn": "2022-09-17T13:17:49.000Z",
-          "wordCount": 5490,
+          "wordCount": 5477,
           "title": "Yuga Labs Hires Chief Gaming Officer to Further Web3 Gaming Push",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/05/bayc1-gID_4.png",
@@ -101,7 +116,7 @@
           "description": "Infura's \"Decentralized Infrastructure Network\" will seek to do away with outages on Ethereum due to a \"single point of failure.\"",
           "link": "https://decrypt.co/109953/ethereum-infrastructure-infura-decentralizing-protocol",
           "publishedOn": "2022-09-16T22:04:19.000Z",
-          "wordCount": 6091,
+          "wordCount": 6078,
           "title": "Ethereum Infrastructure Developer Infura Is Decentralizing, Protocol to Launch Next Year",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/08/decentralized-autonomous-organization-dao-gID_1.jpg",
@@ -116,7 +131,7 @@
           "description": "With Ethereum’s switch to proof-of-stake, Dogecoin is now second only to Bitcoin among minable, proof-of-work coins.",
           "link": "https://decrypt.co/109952/dogecoin-second-largest-proof-of-work-coin-ethereum-merge",
           "publishedOn": "2022-09-16T21:41:53.000Z",
-          "wordCount": 5512,
+          "wordCount": 5499,
           "title": "Dogecoin Now Second-Largest Proof-of-Work Coin After Ethereum Merge",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/04/dogecoin-price-trading-gID_4.jpeg",
@@ -131,7 +146,7 @@
           "description": "ETH took a beating this week despite the success of Ethereum’s merge to proof of stake.",
           "link": "https://decrypt.co/109944/ethereum-price-sinks-merge",
           "publishedOn": "2022-09-16T20:04:30.000Z",
-          "wordCount": 6132,
+          "wordCount": 6119,
           "title": "Ethereum Continues to Sink Post-Merge: Down 18.5% in 3 Days",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/07/ethereum-price-trading-markets-gID_2.jpg",
@@ -146,7 +161,7 @@
           "description": "APE is down about 9% today ahead of a significant token unlock for launch contributors—but staking is also on the horizon.",
           "link": "https://decrypt.co/109939/apecoin-treasury-unlock-25m-ape-tokens",
           "publishedOn": "2022-09-16T19:46:34.000Z",
-          "wordCount": 6524,
+          "wordCount": 6511,
           "title": "ApeCoin Treasury Set to Unlock 25 Million APE Tokens for Launch Contributors",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/03/apecoin-bored-ape-yacht-club-gID_4.png",
@@ -161,7 +176,7 @@
           "description": "The asset manager today filed a “distribution of rights” declaration with the SEC regarding its holdings of the forked Ethereum coins.",
           "link": "https://decrypt.co/109936/grayscale-ethw-fork-ethereum-fund",
           "publishedOn": "2022-09-16T19:20:01.000Z",
-          "wordCount": 5888,
+          "wordCount": 5875,
           "title": "Grayscale Says It May Sell ETHW Stash, Distribute Value to Ethereum Fund Investors",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/09/grayscale-crypto-bitcoin-ethereum-gID_6.jpeg",
@@ -176,7 +191,7 @@
           "description": "The sale of Celsius' stablecoin holdings will pay for the crypto lender’s daily operations, but won’t be used to pay back creditors.",
           "link": "https://decrypt.co/109914/bankrupt-crypto-lender-celsius-wants-to-sell-its-23m-stablecoin-holdings",
           "publishedOn": "2022-09-16T13:12:32.000Z",
-          "wordCount": 6050,
+          "wordCount": 6037,
           "title": "Bankrupt Crypto Lender Celsius Wants to Sell its $23M Stablecoin Holdings",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/06/celsius-network-gID_5.jpg",
@@ -191,7 +206,7 @@
           "description": "The White House’s recommendations are built on six months of wide-ranging research across the digital asset sector.",
           "link": "https://decrypt.co/109913/white-house-releases-comprehensive-framework-for-crypto-regulation-and-development",
           "publishedOn": "2022-09-16T11:30:00.000Z",
-          "wordCount": 5949,
+          "wordCount": 5936,
           "title": "White House Releases ‘Comprehensive Framework’ for Crypto Regulation and Development",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/09/white-house-us-gID_1.jpg",
@@ -206,7 +221,7 @@
           "description": "Nayib Bukele announces that he will seek reelection, while ratings agency Fitch downgrades El Salvador’s debt rating to CC.",
           "link": "https://decrypt.co/109911/el-salvadors-bitcoin-loving-president-bukele-to-run-for-re-election",
           "publishedOn": "2022-09-16T10:49:13.000Z",
-          "wordCount": 6077,
+          "wordCount": 6064,
           "title": "El Salvador’s Bitcoin-Loving President Bukele to Run for Re-Election",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/06/el-salvador-president-Nayib-Bukele-bitcoin-gID_6.jpg",
@@ -221,7 +236,7 @@
           "description": "Despite the success of the merge, ETH slumped following SEC Chair Gary Gensler’s suggestion that proof-of-stake cryptos could be considered securities.",
           "link": "https://decrypt.co/109906/ethereum-liquidations-top-127m-amid-post-merge-volatility",
           "publishedOn": "2022-09-16T09:51:37.000Z",
-          "wordCount": 5662,
+          "wordCount": 5649,
           "title": "Ethereum Liquidations Top $127M Amid Post-Merge Volatility",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/09/ethereum-down-gID_2.jpg",
@@ -236,7 +251,7 @@
           "description": "The shift to proof-of-stake has analysts exploring its impact on the blockchain’s much-touted decentralization.",
           "link": "https://decrypt.co/109901/big-firms-dominate-post-merge-ethereum-validation",
           "publishedOn": "2022-09-16T02:14:04.000Z",
-          "wordCount": 6084,
+          "wordCount": 6071,
           "title": "Big Firms Dominate Post-Merge Ethereum Validation",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/01/distributed-web-internet-decentralization-cloudfare-gID_1.jpg",
@@ -251,7 +266,7 @@
           "description": "Technical issues stymied the launch of the forked, post-merge proof-of-work blockchain.",
           "link": "https://decrypt.co/109884/ethereum-fork-ethpow-gets-off-to-rocky-start",
           "publishedOn": "2022-09-15T22:17:18.000Z",
-          "wordCount": 6041,
+          "wordCount": 6028,
           "title": "Ethereum Fork ETHPoW Gets Off to Rocky Start",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2019/11/bad-day-btc-bitcoin-price-crash-down-gID_5.jpg",
@@ -266,7 +281,7 @@
           "description": "According to a Thursday WSJ report, SEC Chairman Gary Gensler said proof-of-stake cryptocurrencies could qualify as securities under the Howey Test.",
           "link": "https://decrypt.co/109881/gensler-proof-of-stake-ethereum-securities",
           "publishedOn": "2022-09-15T21:37:53.000Z",
-          "wordCount": 5941,
+          "wordCount": 5928,
           "title": "Gensler Says Proof-of-Stake Assets Could Be Securities: Report",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/03/shutterstock_1625495629-1-gID_2.jpg",
@@ -281,7 +296,7 @@
           "description": "The list of blacklisted addresses includes those said to belong to a Russian Neo-Nazi group.",
           "link": "https://decrypt.co/109875/treasury-sanctions-pro-russia-groups-raising-funds-with-crypto",
           "publishedOn": "2022-09-15T20:46:22.000Z",
-          "wordCount": 5714,
+          "wordCount": 5701,
           "title": "Treasury Sanctions Pro-Russia Groups Raising Funds With Crypto",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/07/russia-bitcoin-crypto-law-gID_5.jpg",
@@ -296,7 +311,7 @@
           "description": "Not enough yachts in the Bored Ape Yacht Club? One NFT holder, crypto CEO, and yacht owner plans to change all of that.",
           "link": "https://decrypt.co/109867/a-bored-ape-ethereum-nft-owner-is-launching-a-real-world-yacht-club",
           "publishedOn": "2022-09-15T20:36:53.000Z",
-          "wordCount": 6910,
+          "wordCount": 6897,
           "title": "A Bored Ape Ethereum NFT Owner is Launching a Real-World Yacht Club",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/09/bored-yachts-club-gID_4.jpeg",
@@ -311,7 +326,7 @@
           "description": "Taleb suggests Bitcoin could go to $1,000—or to zero—if markets worsened.",
           "link": "https://decrypt.co/109865/bitcoin-is-a-tumor-nassim-taleb-black-swan",
           "publishedOn": "2022-09-15T19:35:32.000Z",
-          "wordCount": 5863,
+          "wordCount": 5850,
           "title": "Bitcoin Is a ‘Tumor,’ Says ‘Black Swan’ Author Nassim Taleb",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/06/taleb-coinbase-gID_4.jpg",
@@ -326,7 +341,7 @@
           "description": "Toomey also said he believes the SEC has not been clear about the framework it uses to judge which cryptocurrencies qualify as securities.",
           "link": "https://decrypt.co/109847/toomey-gary-gensler-sec-crypto-tokens-securities",
           "publishedOn": "2022-09-15T19:26:45.000Z",
-          "wordCount": 5998,
+          "wordCount": 5985,
           "title": "Senator Toomey Challenges Gensler’s View That Nearly 'All Crypto Tokens Are Securities'",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/09/gary-gensler-congress-senate-sec-gID_4.jpg",
@@ -341,7 +356,7 @@
           "description": "The merge has slashed Ethereum’s energy needs even more than expected, according to a report from the Crypto Carbon Ratings Institute.",
           "link": "https://decrypt.co/109848/ethereum-energy-carbon-footprint-down-99-percent-merge",
           "publishedOn": "2022-09-15T17:45:28.000Z",
-          "wordCount": 6068,
+          "wordCount": 6055,
           "title": "Ethereum Energy Usage, Carbon Footprint Down 99.99% After Merge: Report",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/09/ethereum-green-shutterstock-gID_5.jpg",
@@ -356,7 +371,7 @@
           "description": "The merge hype has faded as the price of ETH sharply drops this morning.",
           "link": "https://decrypt.co/109839/ethereum-price-falls-successful-merge",
           "publishedOn": "2022-09-15T15:37:46.000Z",
-          "wordCount": 5856,
+          "wordCount": 5843,
           "title": "Ethereum Price Crashes Under $1,500 After Successful Merge",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/05/ethereum-futures-trading-cftc-erisx-gID_2.jpg",
@@ -371,7 +386,7 @@
           "description": "Mythical Games’ Blankos Block Party, which the studio claims has more than a million players, is now available on the Epic Games marketplace.",
           "link": "https://decrypt.co/109742/fortnite-epic-games-store-nft-game-blankos-block-party",
           "publishedOn": "2022-09-15T15:29:03.000Z",
-          "wordCount": 6231,
+          "wordCount": 6218,
           "title": "Fortnite Creator's Epic Games Store Launches First NFT Game",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/09/blankos-gID_4.png",
@@ -386,7 +401,7 @@
           "description": "In September 2022, the Ethereum mainnet merged with the Beacon Chain, completing the blockchain's transition from proof of work to proof of stake.",
           "link": "https://decrypt.co/resources/what-merge-ethereum-move-proof-stake",
           "publishedOn": "2022-09-15T15:00:40.000Z",
-          "wordCount": 7037,
+          "wordCount": 7024,
           "title": "What Is 'The Merge'? Ethereum’s Move to Proof of Stake",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2019/03/etherium_litepaper-gID_1-pID_1.png",
@@ -401,7 +416,7 @@
           "description": "An independent examiner will now lead Celsius’ bankruptcy case, following allegations of “gross mismanagement” by the United States Trustee.",
           "link": "https://decrypt.co/109819/bankrupt-celsius-under-more-scrutiny-court-apoints-independent-examiner",
           "publishedOn": "2022-09-15T14:21:51.000Z",
-          "wordCount": 5662,
+          "wordCount": 5649,
           "title": "Bankrupt Celsius Under More Scrutiny as Court Appoints Independent Examiner",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/03/Court-gID_4.jpg",
@@ -416,7 +431,7 @@
           "description": "The third season of Tron’s hackathon kicks off, with six tracks for developers to pursue—including new Ecosystem and Academy tracks.",
           "link": "https://decrypt.co/109355/trons-grand-hackathon-season-3-launches-with-1-2m-prize-pool",
           "publishedOn": "2022-09-15T13:01:05.000Z",
-          "wordCount": 5994,
+          "wordCount": 5981,
           "title": "Tron’s Grand Hackathon Season 3 Launches With $1.2M Prize Pool",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/09/tron-article-2-gID_5.jpg",
@@ -431,7 +446,7 @@
           "description": "With midterm elections just around the corner, Coinbase is rolling out an in-app tool to help users see which candidate is pro-crypto.",
           "link": "https://decrypt.co/109809/coinbase-now-lets-users-check-politicians-are-crypto-friendly",
           "publishedOn": "2022-09-15T13:00:04.000Z",
-          "wordCount": 5618,
+          "wordCount": 5605,
           "title": "Coinbase Now Lets Users Check Which Politicians Are Crypto-Friendly",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/05/shutterstock_5672319101-gID_4.jpg",
@@ -446,7 +461,7 @@
           "description": "While Ethereum’s merge was largely considered a success, the event so far failed to produce any meaningful bullish moves for the asset.",
           "link": "https://decrypt.co/109808/ethereum-price-struggles-flip-bullish-following-merge",
           "publishedOn": "2022-09-15T12:59:00.000Z",
-          "wordCount": 5622,
+          "wordCount": 5609,
           "title": "Ethereum Price Struggles to Flip Bullish Following the Merge",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/09/which-way-wrong-fork-ethereum-gID_5.jpeg",
@@ -461,7 +476,7 @@
           "description": "After the merge, Ethereum miners brought their mining rigs to alternative blockchains like Ethereum Classic, Ravencoin, and Ergo.",
           "link": "https://decrypt.co/109803/ethereum-classic-ravencoin-ergo-hash-rate-soar-post-merge",
           "publishedOn": "2022-09-15T12:33:36.000Z",
-          "wordCount": 5916,
+          "wordCount": 5903,
           "title": "Ethereum Classic, Ravencoin, and Ergo Hash Rate Soar Post-Merge",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/09/crypto-mining-machines-gID_6.jpg",
@@ -476,7 +491,7 @@
           "description": "Thanks to an NFT project called VanityBlocks, anyone can own the final piece of Ethereum's history as a proof-of-work blockchain.",
           "link": "https://decrypt.co/109798/someone-just-minted-nft-ethereums-last-proof-of-work-block",
           "publishedOn": "2022-09-15T11:47:15.000Z",
-          "wordCount": 6153,
+          "wordCount": 6140,
           "title": "Someone Just Minted an NFT of Ethereum's Last Proof-of-Work Block",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/05/blockchain-reorg-ethereum-gID_6.jpeg",
@@ -491,7 +506,7 @@
           "description": "Ethereum’s core developers already have their eyes set on the network’s next upgrade, Shanghai. What it will consist of, however, is up for debate.",
           "link": "https://decrypt.co/109766/the-ethereum-merge-is-here-what-next",
           "publishedOn": "2022-09-15T11:22:24.000Z",
-          "wordCount": 6712,
+          "wordCount": 6699,
           "title": "The Ethereum Merge Is Here—What Comes Next?",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/12/shutterstock_1010505865-gID_4.jpg",
@@ -506,7 +521,7 @@
           "description": "In an effort to expedite the deportation of Terra’s co-founder, South Korean officials look to void Do Kwon’s passport.",
           "link": "https://decrypt.co/109790/south-korean-authorities-seek-void-terra-cofounder-do-kwons-passport-report",
           "publishedOn": "2022-09-15T10:54:35.000Z",
-          "wordCount": 5741,
+          "wordCount": 5728,
           "title": "South Korean Authorities Seek to Void Terra Co-Founder Do Kwon's Passport: Report",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/09/crypto-south-korea-passport-1-gID_1.jpg",
@@ -521,7 +536,7 @@
           "description": "The Twitter community reacts to Ethereum's much-anticipated merge—the network's transition to a more energy-efficient, proof-of-stake model.",
           "link": "https://decrypt.co/109776/most-important-event-crypto-history-twitter-reacts-ethereum-merge",
           "publishedOn": "2022-09-15T10:25:53.000Z",
-          "wordCount": 6741,
+          "wordCount": 6728,
           "title": "'The Most Important Event in Crypto History’: Twitter Reacts to Ethereum Merge",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/09/ethereum-twitter-crypto-gID_1.jpg",
@@ -536,7 +551,7 @@
           "description": "Ethereum proof-of-work hard fork ETHPoW rallied, then crashed, following the announcement of its expected launch in the next 24 hours.",
           "link": "https://decrypt.co/109767/forked-ethereum-token-surges-then-tanks-following-merge-event",
           "publishedOn": "2022-09-15T09:51:48.000Z",
-          "wordCount": 5869,
+          "wordCount": 5856,
           "title": "Forked Ethereum Token ETHW Surges, Then Tanks Following Merge Event",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/09/gpu-miners-gID_5.jpg",
@@ -551,7 +566,7 @@
           "description": "Ethereum transitioned to proof of stake shortly after the network reached “terminal total difficulty” early Thursday.",
           "link": "https://decrypt.co/109751/ethereum-successfully-executes-highly-anticipated-merge-event-ushering-proof-of-stake-era",
           "publishedOn": "2022-09-15T06:58:42.000Z",
-          "wordCount": 5951,
+          "wordCount": 5938,
           "title": "Ethereum Successfully Executes Highly-Anticipated Merge Event, Ushering in Proof-of-Stake Era",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/05/ethereum-eth2-themerge-gID_1.jpg",
@@ -566,7 +581,7 @@
           "description": "F2Pool, Poolin, BTC.com and Nanopool will support EthereumPoW after the merge.",
           "link": "https://decrypt.co/109737/major-ethereum-mining-pools-will-back-ethw-mining",
           "publishedOn": "2022-09-15T00:16:44.000Z",
-          "wordCount": 5648,
+          "wordCount": 5635,
           "title": "Major Ethereum Mining Pools Will Back ETHW Mining",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/09/ethereum-miners-500k-hour-fees-gID_2.jpg",
@@ -581,7 +596,7 @@
           "description": "Ethereum is going to be different. But what exactly does that mean to you? Find out here.",
           "link": "https://decrypt.co/109724/what-ethereum-merge-means-and-doesnt-users",
           "publishedOn": "2022-09-14T21:47:03.000Z",
-          "wordCount": 7649,
+          "wordCount": 7636,
           "title": "What the Ethereum Merge Means for Ordinary Users—And What It Doesn’t",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/09/ethereum-merge-questions-gID_6.jpeg",
@@ -589,21 +604,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/09/ethereum-merge-questions-gID_6.jpeg"
-        },
-        {
-          "id": "https://decrypt.co/?p=109725",
-          "author": "Kate Irwin",
-          "description": "Michael Blau and Mason Hall of a16z whipped up the dynamic NFT and its smart contract in just a few days.",
-          "link": "https://decrypt.co/109725/proof-of-merge-nfts-will-transform-in-your-wallet-as-the-ethereum-merge-happens",
-          "publishedOn": "2022-09-14T21:08:53.000Z",
-          "wordCount": 6361,
-          "title": "'Proof of Merge' NFTs Will Transform in Your Wallet as the Ethereum Merge Happens",
-          "enclosure": {
-            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/09/Merge5-Cropped-gID_5.jpg",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/09/Merge5-Cropped-gID_5.jpg"
         },
         {
           "id": "https://decrypt.co/videos/decryptos/DPlyaHuH/decrypt-os-ep-2-who-cares-about-the-ethereum-merge",
