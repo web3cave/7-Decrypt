@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-21T19:13:33.770Z</id>
+    <id>urn:2022-09-21T20:11:35.970Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-21T19:13:33.770Z</updated>
+    <updated>2022-09-21T20:11:35.970Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Kraken CEO Jesse Powell Steps Down to Focus on Crypto ‘Industry Advocacy’]]></title>
+        <id>https://decrypt.co/?p=110263</id>
+        <link href="https://decrypt.co/110263/kraken-ceo-jesse-powell-steps-down-focus-crypto-industry-advocacy"/>
+        <updated>2022-09-21T19:48:29.000Z</updated>
+        <summary type="html"><![CDATA[Jesse Powell is stepping down from his role as CEO of Kraken, citing the drain of managing operations and how the role had become “less fun.”]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoin Dips as Fed Again Raises Interest Rates to Combat Inflation]]></title>
         <id>https://decrypt.co/?p=110240</id>
@@ -416,16 +426,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Terra Co-Founder Do Kwon: I Am Not 'On the Run']]></title>
-        <id>https://decrypt.co/?p=109981</id>
-        <link href="https://decrypt.co/109981/terra-co-founder-do-kwon-i-am-not-on-the-run"/>
-        <updated>2022-09-17T22:23:22.000Z</updated>
-        <summary type="html"><![CDATA[The man behind Terra is wanted by South Korean authorities and is not in Singapore as they thought, but tweeted that he's not hiding.]]></summary>
-        <author>
-            <name>Decrypt Staff</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Decrypt-O's Ep. 2: Who Cares About the Ethereum Merge?]]></title>
         <id>https://decrypt.co/videos/decryptos/DPlyaHuH/decrypt-os-ep-2-who-cares-about-the-ethereum-merge</id>
         <link href="https://decrypt.co/videos/decryptos/DPlyaHuH/decrypt-os-ep-2-who-cares-about-the-ethereum-merge"/>
@@ -511,16 +511,6 @@
         <link href="https://decrypt.co/videos/interviews/YM2xNjS0/gm-decentralized-pictures-ceo-on-how-web3-can-change-hollywood"/>
         <updated>2022-08-24T16:44:52.000Z</updated>
         <summary type="html"><![CDATA[Decentralized Pictures, the nonprofit co-founded by Roman Coppola, is enabling on-chain voting to greenlight and fund film projects. CEO Leo Matchett tells Dan Roberts and Stephen Graves how the anti-crypto stigma in Hollywood is fading, how Web3 can bring more diversity to the film world and disrupt the traditional gatekeepers, and how he first got into crypto when he and Coppola set up a Bitcoin miner in an empty sound stage.]]></summary>
-        <author>
-            <name>Decrypt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Decrypt Learn: What Is a Node?]]></title>
-        <id>https://decrypt.co/videos/explainers/ZGPeOz1o/decrypt-learn-what-is-a-node</id>
-        <link href="https://decrypt.co/videos/explainers/ZGPeOz1o/decrypt-learn-what-is-a-node"/>
-        <updated>2022-08-23T08:02:47.000Z</updated>
-        <summary type="html"><![CDATA[In this video, we’ll learn about a core component that defines Web3: blockchain nodes. A node is one of the many computers that power a decentralized network like Ethereum. Learn about the different types of nodes and why they’re part of the core infrastructure that make Web3 possible. Visit Infura.io today to start building. Written by: Clarissa Watson, Senior Tech Writer at ConsenSys.]]></summary>
         <author>
             <name>Decrypt</name>
         </author>
