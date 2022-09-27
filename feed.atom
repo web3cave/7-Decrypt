@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-27T10:13:48.313Z</id>
+    <id>urn:2022-09-27T11:09:50.931Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-27T10:13:48.313Z</updated>
+    <updated>2022-09-27T11:09:50.931Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[SEC Fines Tether’s Former Auditor $1.5M for ‘Improper Professional Conduct’]]></title>
+        <id>https://decrypt.co/?p=110604</id>
+        <link href="https://decrypt.co/110604/sec-fines-tethers-former-auditor-1-5m-improper-professional-conduct"/>
+        <updated>2022-09-27T10:42:49.000Z</updated>
+        <summary type="html"><![CDATA[The regulator said New York-based accounting firm Friedman LLP, Tether’s auditor in 2017, failed to perform audits appropriately.]]></summary>
+        <author>
+            <name>Ziwang</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crypto Exchange FTX Wins Bid to Buy Out Bankrupt Voyager for $1.4B]]></title>
         <id>https://decrypt.co/?p=110601</id>
@@ -446,16 +456,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Helium Founder Explains Why the Crypto Wireless Network Is Moving to Solana]]></title>
-        <id>https://decrypt.co/?p=110319</id>
-        <link href="https://decrypt.co/110319/helium-founder-why-crypto-wireless-network-moving-solana"/>
-        <updated>2022-09-22T20:22:32.000Z</updated>
-        <summary type="html"><![CDATA[It’s official: Helium is migrating to Solana following a vote. Nova Labs CEO Amir Haleem explains why Helium needed to make the change.]]></summary>
-        <author>
-            <name>Andrew Hayward</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Coinbase Policy Chief Kara Calvert Talks SEC Enforcement at Mainnet 2022]]></title>
         <id>https://decrypt.co/videos/live-events/LRzdRzAU/coinbase-policy-chief-kara-calvert-talks-sec-enforcement-at-mainnet-2022</id>
         <link href="https://decrypt.co/videos/live-events/LRzdRzAU/coinbase-policy-chief-kara-calvert-talks-sec-enforcement-at-mainnet-2022"/>
@@ -506,21 +506,21 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenSea CEO Devin Finzer at Mainnet 2022: 'Cambrian Explosion' Coming for NFT Use Cases]]></title>
-        <id>https://decrypt.co/videos/live-events/WKs6SaG9/opensea-ceo-devin-finzer-at-mainnet-2022-cambrian-explosion-coming-for-nft-use-cases</id>
-        <link href="https://decrypt.co/videos/live-events/WKs6SaG9/opensea-ceo-devin-finzer-at-mainnet-2022-cambrian-explosion-coming-for-nft-use-cases"/>
-        <updated>2022-09-22T19:04:49.000Z</updated>
-        <summary type="html"><![CDATA[OpenSea CEO Devin Finzer talks to Decrypt's Andrew Hayward and Kate Irwin in our Decrypting Mainnet series at Mainnet 2022 about reasons for optimism despite the NFT market cooling down, adding support for NFTs on more blockchains, and his excitement around NFTs for gaming.]]></summary>
-        <author>
-            <name>Decrypt</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How Web3 Music App Audius Hit 7.5 Million Users: CEO Roneil Rumburg at Mainnet 2022]]></title>
         <id>https://decrypt.co/videos/live-events/yDPsxe8Y/how-web3-music-app-audius-hit-75-million-users-ceo-roneil-rumburg-at-mainnet-2022</id>
         <link href="https://decrypt.co/videos/live-events/yDPsxe8Y/how-web3-music-app-audius-hit-75-million-users-ceo-roneil-rumburg-at-mainnet-2022"/>
         <updated>2022-09-22T19:04:49.000Z</updated>
         <summary type="html"><![CDATA[Audius founder and CEO Roneil Rumburg joins Decrypt's Kate Irwin and Andrew Hayward in our Decrypting Mainnet series at Mainnet 2022 to tell us what's new with the decentralized music-streaming app and who its competitors in web3 music services are.]]></summary>
+        <author>
+            <name>Decrypt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenSea CEO Devin Finzer at Mainnet 2022: 'Cambrian Explosion' Coming for NFT Use Cases]]></title>
+        <id>https://decrypt.co/videos/live-events/WKs6SaG9/opensea-ceo-devin-finzer-at-mainnet-2022-cambrian-explosion-coming-for-nft-use-cases</id>
+        <link href="https://decrypt.co/videos/live-events/WKs6SaG9/opensea-ceo-devin-finzer-at-mainnet-2022-cambrian-explosion-coming-for-nft-use-cases"/>
+        <updated>2022-09-22T19:04:49.000Z</updated>
+        <summary type="html"><![CDATA[OpenSea CEO Devin Finzer talks to Decrypt's Andrew Hayward and Kate Irwin in our Decrypting Mainnet series at Mainnet 2022 about reasons for optimism despite the NFT market cooling down, adding support for NFTs on more blockchains, and his excitement around NFTs for gaming.]]></summary>
         <author>
             <name>Decrypt</name>
         </author>
