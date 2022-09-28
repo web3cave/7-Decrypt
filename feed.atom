@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-28T13:42:54.414Z</id>
+    <id>urn:2022-09-28T14:28:11.317Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-28T13:42:54.414Z</updated>
+    <updated>2022-09-28T14:28:11.317Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Do Kwon, Luna Foundation Gaurd Deny Link to $62M in Bitcoin Sought by Authorities]]></title>
+        <id>https://decrypt.co/?p=110741</id>
+        <link href="https://decrypt.co/110741/do-kwon-luna-foundation-gaurd-deny-link-62m-bitcoin-sought-authorities"/>
+        <updated>2022-09-28T14:02:47.000Z</updated>
+        <summary type="html"><![CDATA[Authorities in South Korea are reportedly seeking to freeze over $60 million in Bitcoin with ties to Do Kwon and the collapsed Terra project.]]></summary>
+        <author>
+            <name>Alys Key</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web3 Gets Its Signature Awards Ceremony: Decrypt Studios Launches The Crypties]]></title>
+        <id>https://decrypt.co/?p=110671</id>
+        <link href="https://decrypt.co/110671/web3-gets-its-signature-awards-ceremony-decrypt-studios-launches-the-crypties"/>
+        <updated>2022-09-28T14:00:02.000Z</updated>
+        <summary type="html"><![CDATA[The Crypties will honor Web3’s brightest and boldest innovators this November during Art Basel Miami.]]></summary>
+        <author>
+            <name>Decrypt Staff</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chainlink Announces Staking Plans, Aiming to Be AWS of Web3]]></title>
         <id>https://decrypt.co/?p=110725</id>
@@ -366,6 +386,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Steve Newcomb of zkSync: 2023 Will Be 'Zero-Knowledge Season']]></title>
+        <id>https://decrypt.co/videos/live-events/Y9n7UTiN/steve-newcomb-of-zksync-2023-will-be-zero-knowledge-season</id>
+        <link href="https://decrypt.co/videos/live-events/Y9n7UTiN/steve-newcomb-of-zksync-2023-will-be-zero-knowledge-season"/>
+        <updated>2022-09-26T16:41:55.000Z</updated>
+        <summary type="html"><![CDATA[Steve Newcomb, chief product officer of zkSync, tells Decrypt's Liam Kelly in our Decrypting Mainnet series at Mainnet 2022 about why "zero knowledge" and EVM-compatibility matters so much for DeFi scaling solutions now. He also predicts the biggest crypto news of 2023 will be "the great port" to zk-proofs.]]></summary>
+        <author>
+            <name>Decrypt</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['Apple Must Be Stopped' as Web2 Firm Launches 30% NFT Tax: Epic Games CEO]]></title>
         <id>https://decrypt.co/?p=110528</id>
         <link href="https://decrypt.co/110528/apple-must-be-stopped-web2-firm-launches-30-nft-tax-epic-games-ceo"/>
@@ -413,26 +443,6 @@
         <summary type="html"><![CDATA[The world’s largest crypto exchange Binance will apply for a license this time, as Japan looks set to adopt Web3-friendly policies.]]></summary>
         <author>
             <name>Ziwang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Interpol Slaps Terra Co-Founder Do Kwon With Red Notice: Report]]></title>
-        <id>https://decrypt.co/?p=110494</id>
-        <link href="https://decrypt.co/110494/interpol-slaps-terra-co-founder-do-kwon-red-notice"/>
-        <updated>2022-09-26T08:43:38.000Z</updated>
-        <summary type="html"><![CDATA[South Korean authorities said the international police organization had issued a red notice for Terraform Labs co-founder Do Kwon.]]></summary>
-        <author>
-            <name>Andrew Asmakov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘Bear Markets Are Good’ for Cleaning House: Messari CEO]]></title>
-        <id>https://decrypt.co/?p=110474</id>
-        <link href="https://decrypt.co/110474/bear-markets-are-good-for-cleaning-house-messari-ceo"/>
-        <updated>2022-09-25T21:52:35.000Z</updated>
-        <summary type="html"><![CDATA[Ryan Selkis says regulators should be a part of the crypto conversation.]]></summary>
-        <author>
-            <name>André Beganski</name>
         </author>
     </entry>
     <entry>
@@ -591,16 +601,6 @@
         <link href="https://decrypt.co/videos/explainers/Ud662kCh/decrypt-learn-the-ethereum-merge"/>
         <updated>2022-09-12T12:29:05.000Z</updated>
         <summary type="html"><![CDATA[The Ethereum Merge to Proof of Stake (PoS) is one of the most significant technological upgrades in recent history. But why evolve Ethereum at all? Learn the difference between PoW and PoS, why PoS will decrease Ethereum’s carbon footprint by 99.95%, and more in the Infura Web3 Dev Series: The Merge Explained. Author: Clarissa Watson, Senior Tech Writer at ConsenSys.]]></summary>
-        <author>
-            <name>Decrypt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#DecryptLIVE: What the Ethereum Merge Means for NFTs]]></title>
-        <id>https://decrypt.co/videos/live-events/7Vo0CZhC/decryptlive-what-the-ethereum-merge-means-for-nfts</id>
-        <link href="https://decrypt.co/videos/live-events/7Vo0CZhC/decryptlive-what-the-ethereum-merge-means-for-nfts"/>
-        <updated>2022-09-10T16:55:39.000Z</updated>
-        <summary type="html"><![CDATA[The years-anticipated Ethereum Merge is less than a week away. Everyone is buzzing about what it will mean for the crypto market and for proof of work vs proof of stake, but what will the effect be on NFTs? Dan Roberts, Andrew Hayward, Kate Irwin and Sander Lutz break it down in our latest live roundtable.]]></summary>
         <author>
             <name>Decrypt</name>
         </author>
