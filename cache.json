@@ -6,12 +6,42 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=110840",
+          "author": "Ziwang",
+          "description": "Behnam argued that Bitcoin could soar in a regulated market where institutional investors feel more comfortable wading into the industry.",
+          "link": "https://decrypt.co/110840/cftc-chair-says-crypto-regulations-could-double-bitcoin-price",
+          "publishedOn": "2022-09-29T11:01:24.000Z",
+          "wordCount": 5676,
+          "title": "CFTC Chair Says Crypto Regulations Could Double Bitcoin Price",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/09/bitcoin-stacks-shutterstock-gID_1.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/09/bitcoin-stacks-shutterstock-gID_1.jpg"
+        },
+        {
+          "id": "https://decrypt.co/?p=110835",
+          "author": "Andrew Asmakov",
+          "description": "The SEC alleges that Hydrogen has been involved in unregistered offers and sales of  securities in the form of its Hydro token.",
+          "link": "https://decrypt.co/110835/sec-charges-crypto-firm-hydrogen-technology-with-market-manipulation-selling-unregistered-securities",
+          "publishedOn": "2022-09-29T10:24:37.000Z",
+          "wordCount": 5944,
+          "title": "SEC Charges Crypto Firm Hydrogen Technology With Market Manipulation, Selling Unregistered Securities",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/03/shutterstock_1625495629-1-gID_1.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/03/shutterstock_1625495629-1-gID_1.jpg"
+        },
+        {
           "id": "https://decrypt.co/?p=110815",
           "author": "Kate Irwin",
           "description": "Schmidt also said that if Chainlink can scale, it will be “a major contribution” to the tech industry.",
           "link": "https://decrypt.co/110815/ethereum-merge-shows-crypto-is-getting-its-act-together-eric-schmidt",
           "publishedOn": "2022-09-29T00:03:22.000Z",
-          "wordCount": 6205,
+          "wordCount": 6126,
           "title": "Ethereum Merge Shows Crypto Is 'Getting Its Act Together': Eric Schmidt",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/09/Eric-Schmidt-shutterstock_182167508-16x9-1-gID_1.jpg",
@@ -26,7 +56,7 @@
           "description": "It’s the fourth-highest CryptoPunks sale when measured in ETH, and a surprising pickup in a time of declining NFT sales.",
           "link": "https://decrypt.co/110806/someone-just-paid-4-5m-for-a-cryptopunks-ethereum-nft-despite-bear-market",
           "publishedOn": "2022-09-28T22:54:51.000Z",
-          "wordCount": 6092,
+          "wordCount": 6013,
           "title": "Someone Just Paid $4.5M for a CryptoPunks Ethereum NFT Despite Bear Market",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/09/cryptopunks-nft-2924-gID_7.png",
@@ -56,7 +86,7 @@
           "description": "Binance will no longer support competing stablecoins, including USDC, on its exchange. USDC’s market cap is down 5% since the announcement.",
           "link": "https://decrypt.co/110797/stablecoin-markets-shift-binance-usdc-conversions",
           "publishedOn": "2022-09-28T22:06:35.000Z",
-          "wordCount": 7237,
+          "wordCount": 7158,
           "title": "Stablecoin Markets Shift as Binance Begins USDC Conversions",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/04/Binancelogo-gID_4.jpg",
@@ -71,7 +101,7 @@
           "description": "The company also announced a Cross-Chain Transfer Protocol to streamline the movement of USDC across networks.",
           "link": "https://decrypt.co/110800/circle-expands-usdc-stablecoin-support-to-five-new-blockchains",
           "publishedOn": "2022-09-28T21:52:20.000Z",
-          "wordCount": 6399,
+          "wordCount": 6320,
           "title": "Circle Expands USDC Stablecoin Support to Five New Blockchains",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/06/tether-usdc-stablecoins-usdollar-gID_1.jpg",
@@ -86,7 +116,7 @@
           "description": "Richard Widmann, the head of strategy, Cloud, and Web3 at Google, told Decrypt he believes in a decentralized, multichain future.",
           "link": "https://decrypt.co/110789/google-web3-lead-says-google-cloud-is-a-layer-zero-for-crypto",
           "publishedOn": "2022-09-28T21:22:53.000Z",
-          "wordCount": 6164,
+          "wordCount": 6094,
           "title": "Google Web3 Lead Says Google Cloud Is a 'Layer Zero' for Crypto",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/12/google-web-2-gID_4.jpg",
@@ -101,7 +131,7 @@
           "description": "Latin America’s biggest crypto exchange needs to give the Brazilian Securities and Exchange Commission information on tokens it issued.",
           "link": "https://decrypt.co/110792/brazil-securities-mercado-bitcoin-token-sale",
           "publishedOn": "2022-09-28T21:02:46.000Z",
-          "wordCount": 5937,
+          "wordCount": 5858,
           "title": "Brazil’s Securities Regulator Targets Mercado Bitcoin Over Token Sale",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/03/brazil-bitcoin-gID_4.jpg",
@@ -116,7 +146,7 @@
           "description": "The Ethereum-based digital asset management platform airdropped 50 million tokens in a bid to decentralize the community.",
           "link": "https://decrypt.co/110781/gnosis-safe-launches-safedao-safe-token",
           "publishedOn": "2022-09-28T20:37:47.000Z",
-          "wordCount": 6328,
+          "wordCount": 6249,
           "title": "Gnosis Safe Launches SafeDAO, Safe Token",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/09/Safe-gID_6.png",
@@ -131,7 +161,7 @@
           "description": "Tyler Hobbs, one of the best-known generative art creators, dropped his latest NFT project to eager collectors today.",
           "link": "https://decrypt.co/110776/art-blocks-fidenza-creatory-tyler-hobbs-17m-ethereum-nfts-market-slump",
           "publishedOn": "2022-09-28T20:11:34.000Z",
-          "wordCount": 6522,
+          "wordCount": 6443,
           "title": "Art Blocks Fidenza Creator Sells $17M of Ethereum NFTs Amid Market Slump",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/09/tyler-hobbs-qql-nft-art-gID_6.png",
@@ -146,7 +176,7 @@
           "description": "As competition grows to make Ethereum faster and more scalable, Offchain Labs CEO Stephen Goldfeder offers a bit of advice.",
           "link": "https://decrypt.co/110766/scaling-ethereum-arbitrum-cofounder-3-critical-points",
           "publishedOn": "2022-09-28T18:23:44.000Z",
-          "wordCount": 6496,
+          "wordCount": 6417,
           "title": "Scaling Ethereum? Arbitrum Co-Founder Says Projects Should Consider 3 'Critical' Points",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/09/arbitrum-ceo-mainnet-decrypt-gID_4.jpg",
@@ -161,7 +191,7 @@
           "description": "Coinbase Cloud and Chainlink Labs teamed up to launch pricing feeds for the floor price of blue-chip NFTs, opening new use cases for jpegs.",
           "link": "https://decrypt.co/110749/coinbase-cloud-chainlink-launch-price-oracles-for-nft-floor-pricing",
           "publishedOn": "2022-09-28T14:48:06.000Z",
-          "wordCount": 5660,
+          "wordCount": 5581,
           "title": "Coinbase Cloud, Chainlink Launch Price Oracles for NFT Floor Pricing",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/06/nfts-gID_6.jpg",
@@ -176,7 +206,7 @@
           "description": "Authorities in South Korea are reportedly seeking to freeze over $60 million in Bitcoin with ties to Do Kwon and the collapsed Terra project.",
           "link": "https://decrypt.co/110741/do-kwon-luna-foundation-gaurd-deny-link-62m-bitcoin-sought-authorities",
           "publishedOn": "2022-09-28T14:02:47.000Z",
-          "wordCount": 6384,
+          "wordCount": 6305,
           "title": "Do Kwon, Luna Foundation Guard Deny Link to $62M in Bitcoin Sought by Authorities",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/04/Screen-Shot-2022-04-02-at-8.38.24-AM-e1652464007264-gID_4.png",
@@ -191,7 +221,7 @@
           "description": "The Crypties will honor Web3’s brightest and boldest innovators this November during Art Basel Miami.",
           "link": "https://decrypt.co/110671/web3-gets-its-signature-awards-ceremony-decrypt-studios-launches-the-crypties",
           "publishedOn": "2022-09-28T14:00:02.000Z",
-          "wordCount": 6949,
+          "wordCount": 6870,
           "title": "Web3 Gets Its Signature Awards Ceremony: Decrypt Studios Launches The Crypties",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/09/red-carpet-shutterstock-gID_4.jpg",
@@ -206,7 +236,7 @@
           "description": "At SmartCon 2022, Chainlink Co-founder Sergey Nazarov unveils plans to launch staking in December, plus a new economic model for the Web3 services platform.",
           "link": "https://decrypt.co/110725/chainlink-aims-to-be-aws-of-web3-as-staking-plans-announced",
           "publishedOn": "2022-09-28T13:31:02.000Z",
-          "wordCount": 7141,
+          "wordCount": 7062,
           "title": "Chainlink Announces Staking Plans, Aiming to Be AWS of Web3",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/01/chainlink-logo-gID_1.jpg",
@@ -221,7 +251,7 @@
           "description": "In the wake of the merge, miserable former Ethereum miners are putting their dusty GPUs to new uses—like heating their homes.",
           "link": "https://decrypt.co/110706/what-you-can-do-with-your-old-ethereum-mining-rigs",
           "publishedOn": "2022-09-28T13:01:10.000Z",
-          "wordCount": 6789,
+          "wordCount": 6710,
           "title": "What You Can Do With Your Old Ethereum Mining Rigs",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/09/GPU-Fireplace-gID_4.jpg",
@@ -236,7 +266,7 @@
           "description": "The creators of the Anchor development framework for Solana are launching Backpack, a “first-of-its-kind” wallet supporting executable NFTs.",
           "link": "https://decrypt.co/110726/ftx-jump-crypto-lead-20m-funding-solana-development-framework-coral",
           "publishedOn": "2022-09-28T13:01:03.000Z",
-          "wordCount": 6395,
+          "wordCount": 6316,
           "title": "FTX, Jump Crypto Lead $20M Funding in Solana Development Framework Coral",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/09/Backpack-gID_1.jpg",
@@ -251,7 +281,7 @@
           "description": "Bitcoin and Ethereum plummeted amid continued market volatility, bringing the industry back below $1 trillion.",
           "link": "https://decrypt.co/110724/bitcoin-ethereum-plummet-erasing-yesterday-bullish-gains",
           "publishedOn": "2022-09-28T10:19:46.000Z",
-          "wordCount": 6045,
+          "wordCount": 5966,
           "title": "Bitcoin and Ethereum Plummet 8%, Erasing Tuesday's Bullish Gains",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/09/bitcoin-ethereum-gID_1.jpg",
@@ -266,7 +296,7 @@
           "description": "FTX founder and CEO Sam Bankman-Fried is reportedly eyeing a bid for the assets of the embattled crypto lending firm Celsius.",
           "link": "https://decrypt.co/110722/sam-bankman-fried-may-scoop-up-celsius-assets",
           "publishedOn": "2022-09-28T09:45:26.000Z",
-          "wordCount": 5851,
+          "wordCount": 5772,
           "title": "Sam Bankman-Fried May Scoop Up Bankrupt Celsius' Assets: Report",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/07/celsius-crypto-lender-gID_1.png",
@@ -281,7 +311,7 @@
           "description": "Ribbon Finance’s exchange lets users trade Ethereum options on-chain. The launch is the latest in a suite of structured financial products.",
           "link": "https://decrypt.co/110605/defi-derivatives-protocol-ribbon-finance-launches-options-exchange-ethereum",
           "publishedOn": "2022-09-28T06:29:02.000Z",
-          "wordCount": 5856,
+          "wordCount": 5777,
           "title": "DeFi Derivatives Protocol Ribbon Finance Launches Options Exchange on Ethereum",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/09/ribbon-finance-defi-scaled-gID_5.jpg",
@@ -311,7 +341,7 @@
           "description": "Audius CEO and EDM fan Roneil Rumburg says he isn’t fazed by the bear market.",
           "link": "https://decrypt.co/110710/how-web3-music-platform-audius-hit-7-5-million-monthly-users",
           "publishedOn": "2022-09-28T00:05:55.000Z",
-          "wordCount": 6210,
+          "wordCount": 6131,
           "title": "How Web3 Music Platform Audius Hit 7.5 Million Monthly Users",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/09/Musician-shutterstock_2142956777-16x9-1-gID_6.jpg",
@@ -326,7 +356,7 @@
           "description": "The NFT loan business has so far survived the bear market, as collectors find new ways to capitalize on their JPEGs.",
           "link": "https://decrypt.co/110674/someone-borrowed-1-3m-in-ethereum-using-mutant-ape-nfts-as-collateral",
           "publishedOn": "2022-09-27T21:55:22.000Z",
-          "wordCount": 6237,
+          "wordCount": 6158,
           "title": "Someone Borrowed $1.3M in Ethereum Using Mutant Ape NFTs as Collateral",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/09/Mega-Mutant-NFT-16x9-1-gID_2.jpg",
@@ -341,7 +371,7 @@
           "description": "Optimism is now the sixth blockchain supported by the leading NFT marketplace.",
           "link": "https://decrypt.co/110664/opensea-nft-marketplace-adds-support-for-optimism",
           "publishedOn": "2022-09-27T20:31:46.000Z",
-          "wordCount": 5879,
+          "wordCount": 5800,
           "title": "OpenSea NFT Marketplace Adds Support for Optimism",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/06/Optimism-Mirror-Blog-Image-scaled-gID_6.jpg",
@@ -356,7 +386,7 @@
           "description": "The 256-year-old institution has launched Christie’s 3.0, a new platform anchored by an exclusive collection from Diana Sinclair.",
           "link": "https://decrypt.co/110659/christies-goes-fully-on-chain-with-new-ethereum-nft-marketplace",
           "publishedOn": "2022-09-27T20:06:20.000Z",
-          "wordCount": 6054,
+          "wordCount": 5975,
           "title": "Christie’s Goes Fully On-Chain With New Ethereum NFT Marketplace",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/09/diana-sinclair-nft-christies-gID_7.png",
@@ -371,7 +401,7 @@
           "description": "The payments company plans to use the cash to grow with the “largest merchants.”",
           "link": "https://decrypt.co/110651/bitcoin-payments-strike-raises-80-million",
           "publishedOn": "2022-09-27T17:35:02.000Z",
-          "wordCount": 5869,
+          "wordCount": 5790,
           "title": "Bitcoin Payments Company Strike Raises $80 Million in Series B Round",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/01/bitcoin-payments-gID_4.jpg",
@@ -401,7 +431,7 @@
           "description": "The IMF highlighted how a proof-of-stake (PoS) consensus mechanism could lead to an “excessive concentration of decision-making powers.”",
           "link": "https://decrypt.co/110650/imf-highlights-potential-risks-surrounding-proof-stake-methodology",
           "publishedOn": "2022-09-27T16:31:39.000Z",
-          "wordCount": 6174,
+          "wordCount": 6095,
           "title": "Proof of Stake Risks Concentrating Power to Crypto Exchanges, Wallets: IMF",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/10/IMF-umbrella-gID_2.png",
@@ -416,7 +446,7 @@
           "description": "Regulation of the decentralized finance (DeFi) sector has once again came under the spotlight of top central bankers.",
           "link": "https://decrypt.co/110638/powell-lagarde-urge-more-regulation-defi-stablecoins",
           "publishedOn": "2022-09-27T16:04:57.000Z",
-          "wordCount": 7185,
+          "wordCount": 7106,
           "title": "Powell, Lagarde Urge More Regulation for DeFi and Stablecoins",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/09/defi-logo-pedestal-gID_2.jpg",
@@ -431,7 +461,7 @@
           "description": "FTX's US head is stepping away from the role, with plans to continue with the company in an advisory position instead.",
           "link": "https://decrypt.co/110642/ftx-us-president-brett-harrison-stepping-down-shifting-to-advisory-role",
           "publishedOn": "2022-09-27T15:42:25.000Z",
-          "wordCount": 5724,
+          "wordCount": 5645,
           "title": "FTX US President Brett Harrison Stepping Down, Shifting to Advisory Role",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/04/FTX-US-gID_4.jpeg",
@@ -446,7 +476,7 @@
           "description": "Space and Time aims to be the leading decentralized solution for fast and secure data processing for enterprise businesses.",
           "link": "https://decrypt.co/110606/microsoft-leads-20m-strategic-round-web3-data-warehouse-space-time",
           "publishedOn": "2022-09-27T14:59:03.000Z",
-          "wordCount": 6627,
+          "wordCount": 6548,
           "title": "Microsoft Leads $20M Strategic Round in Web3 Data Warehouse Space and Time",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/09/image1-gID_6.jpg",
@@ -461,7 +491,7 @@
           "description": "Celsius CEO Alex Mashinsky resigned today, adding that he regrets that his role at the bankrupt crypto lender became \"an increasing distraction.\"",
           "link": "https://decrypt.co/110634/ceo-bankrupt-crypto-lender-celsius-alex-mashinsky-resigns",
           "publishedOn": "2022-09-27T14:31:36.000Z",
-          "wordCount": 5820,
+          "wordCount": 5741,
           "title": "CEO of Bankrupt Crypto Lender Celsius Alex Mashinsky Resigns",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/08/alex-mashinsky-celsius-gID_2.jpeg",
@@ -476,7 +506,7 @@
           "description": "The trading app tapped Polygon for its “scalability, speed, low network fees, and robust developer ecosystem,” a Robinhood representative said.",
           "link": "https://decrypt.co/110614/robinhood-taps-polygon-ethereum-web3-wallet-beta-launch",
           "publishedOn": "2022-09-27T13:13:10.000Z",
-          "wordCount": 5960,
+          "wordCount": 5881,
           "title": "Robinhood Taps Polygon Over Ethereum for Its Web3 Wallet Beta Launch",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/07/robinhood-ipo-crypto-gID_4.jpg",
@@ -491,7 +521,7 @@
           "description": "The crypto lender is taking an ownership stake in Wyoming-based Summit National Bank despite facing current enforcement action from eight states.",
           "link": "https://decrypt.co/110586/nexo-acquires-stake-in-federally-chartered-us-bank",
           "publishedOn": "2022-09-27T13:08:22.000Z",
-          "wordCount": 5802,
+          "wordCount": 5723,
           "title": "Nexo Buys Stake in Federally Chartered US Bank Summit National",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/11/nexo-gID_2.jpg",
@@ -506,7 +536,7 @@
           "description": "Participants in the round include Prismatic, WOO Network, LedgerPrime, Fischer8, Concave, Berachain and System 9, Inc.",
           "link": "https://decrypt.co/110372/institutional-defi-platform-damm-raises-2m-in-private-token-sale-round",
           "publishedOn": "2022-09-27T13:01:02.000Z",
-          "wordCount": 6142,
+          "wordCount": 6063,
           "title": "Institutional DeFi Platform dAMM Raises $2M in Private Token Sale Round",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/07/defi-blocks-gID_6.jpg",
@@ -521,7 +551,7 @@
           "description": "The San Francisco-based firm continues its two-year plan to invest in decentralized applications.",
           "link": "https://decrypt.co/110590/decentralized-exchange-krypton-raises-7m-led-by-framework-ventures-samsung-next",
           "publishedOn": "2022-09-27T12:56:02.000Z",
-          "wordCount": 6410,
+          "wordCount": 6331,
           "title": "Decentralized Exchange Krypton Raises $7M From Framework Ventures, Samsung Next",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/09/KryptoDEX-gID_4.png",
@@ -536,7 +566,7 @@
           "description": "The regulator said New York-based accounting firm Friedman LLP, Tether’s auditor in 2017, failed to perform audits appropriately.",
           "link": "https://decrypt.co/110604/sec-fines-tethers-former-auditor-1-5m-improper-professional-conduct",
           "publishedOn": "2022-09-27T10:42:49.000Z",
-          "wordCount": 5703,
+          "wordCount": 5624,
           "title": "SEC Fines Tether’s Former Auditor $1.5M for ‘Improper Professional Conduct’",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/03/shutterstock_1625495629-1-gID_1.jpg",
@@ -551,7 +581,7 @@
           "description": "FTX scooped up Voyager Digital’s remaining assets for a whopping $1.4 billion during the crypto broker’s bankruptcy auction.",
           "link": "https://decrypt.co/110601/crypto-exchange-ftx-wins-bid-buy-out-bankrupt-voyager-1-4b",
           "publishedOn": "2022-09-27T09:05:11.000Z",
-          "wordCount": 6095,
+          "wordCount": 6016,
           "title": "Crypto Exchange FTX Wins Bid to Buy Out Bankrupt Voyager for $1.4B",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/11/constitution-auction-gID_1.png",
@@ -566,7 +596,7 @@
           "description": "Major cryptocurrencies, including Bitcoin and Ethereum, have enjoyed a hefty run-up over the past 24 hours.",
           "link": "https://decrypt.co/110599/bitcoin-ethereum-jump-market-hits-1-trillion-mark",
           "publishedOn": "2022-09-27T08:30:17.000Z",
-          "wordCount": 5906,
+          "wordCount": 5827,
           "title": "Bitcoin, Ethereum Jump 6% as Crypto Market Reclaims $1 Trillion Mark",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/09/bitcoin-ethereum-gID_5.jpg",
@@ -581,7 +611,7 @@
           "description": "Thanks to a tie-up with fixed-rate lender Notional, Phuture now offers investors up to a 3.25% yield on their USDC holdings.",
           "link": "https://decrypt.co/110595/defi-protocol-phuture-launches-earn-product-stablecoin-usdc",
           "publishedOn": "2022-09-27T08:01:05.000Z",
-          "wordCount": 6238,
+          "wordCount": 6159,
           "title": "DeFi Protocol Phuture Launches Earn Product for Stablecoin USDC",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/01/blockfi-litecoin-usdc-interest-gID_2.jpg",
@@ -596,7 +626,7 @@
           "description": "Gavin Newsom says California isn't ready for statewide crypto regulation.",
           "link": "https://decrypt.co/110578/crypto-advocates-cheer-california-governors-veto-of-regulatory-bill",
           "publishedOn": "2022-09-27T00:25:35.000Z",
-          "wordCount": 6685,
+          "wordCount": 6606,
           "title": "Crypto Advocates Cheer California Governor’s Veto of Regulatory Bill",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/05/gavin-newsom-california-crypto-gID_4.png",
@@ -611,7 +641,7 @@
           "description": "A new job listing from the entertainment giant seeks an attorney to guide its aggressive—but still hush-hush—push into Web3.",
           "link": "https://decrypt.co/110572/disney-pushes-further-into-crypto-defi-nfts-with-recent-job-post",
           "publishedOn": "2022-09-26T22:34:54.000Z",
-          "wordCount": 6004,
+          "wordCount": 5925,
           "title": "Disney Pushes Further Into Crypto, DeFi, NFTs With Recent Job Post",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/09/Disney-NFT-Illustration-scaled-gID_1.jpg",
@@ -619,36 +649,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/09/Disney-NFT-Illustration-scaled-gID_1.jpg"
-        },
-        {
-          "id": "https://decrypt.co/?p=110549",
-          "author": "Mathew Di Salvo",
-          "description": "Digital assets are still behaving like “risk assets,” according to Bank of America analysts, but stablecoin inflows are a positive sign.",
-          "link": "https://decrypt.co/110549/stablecoin-flows-crypto-market-recovery-bank-america",
-          "publishedOn": "2022-09-26T21:04:44.000Z",
-          "wordCount": 5733,
-          "title": "Stablecoin Flows to Crypto Exchanges Bode Well for Market Recovery: Bank of America",
-          "enclosure": {
-            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/10/stablecoins-regulations-payments-gID_1.jpg",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/10/stablecoins-regulations-payments-gID_1.jpg"
-        },
-        {
-          "id": "https://decrypt.co/?p=110562",
-          "author": "Stacy Elliott",
-          "description": "New York Attorney General Letitia James's lawsuit says Nexo is \"falsely representing\" that it complies with the state's securities regulations.",
-          "link": "https://decrypt.co/110562/nexo-enforcement-action-bitcoin-earn-securities",
-          "publishedOn": "2022-09-26T20:20:26.000Z",
-          "wordCount": 6042,
-          "title": "Crypto Lender Nexo Hit With Enforcement Actions From Eight States",
-          "enclosure": {
-            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/06/nexo-gID_2.jpg",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/06/nexo-gID_2.jpg"
         },
         {
           "id": "https://decrypt.co/videos/live-events/6Wez8IwL/jonas-surmann-of-defi-chain-at-mainnet-2022-how-defi-will-weather-crypto-winter",
