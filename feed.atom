@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-30T20:12:18.587Z</id>
+    <id>urn:2022-09-30T21:10:14.884Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-30T20:12:18.587Z</updated>
+    <updated>2022-09-30T21:10:14.884Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[SEC Charges Crypto Firms for Alleged Scam With 'Gold-Backed' Ethereum DIG Token]]></title>
+        <id>https://decrypt.co/?p=110996</id>
+        <link href="https://decrypt.co/110996/sec-crypto-firms-alleged-scam-gold-backed-ethereum-dig"/>
+        <updated>2022-09-30T20:27:50.000Z</updated>
+        <summary type="html"><![CDATA[Now-defunct crypto firms have been accused of running an alleged pump-and-dump scam via the DIG token.]]></summary>
+        <author>
+            <name>Kate Irwin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CFTC Sues Founder of Crypto Exchange Digitex for Pumping Token, Failing to Register]]></title>
+        <id>https://decrypt.co/?p=110992</id>
+        <link href="https://decrypt.co/110992/cftc-crypto-derivatives-exchange-digitex-founder"/>
+        <updated>2022-09-30T20:15:13.000Z</updated>
+        <summary type="html"><![CDATA[The commission alleges in the lawsuit that Digitex has "never been registered with the Commission in any capacity."]]></summary>
+        <author>
+            <name>Stacy Elliott</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[T-Mobile Parent Deutsche Telekom Launches Ethereum Validator, Staking Support]]></title>
         <id>https://decrypt.co/?p=110983</id>
@@ -446,26 +466,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sam Bankman-Fried May Scoop Up Bankrupt Celsius' Assets: Report]]></title>
-        <id>https://decrypt.co/?p=110722</id>
-        <link href="https://decrypt.co/110722/sam-bankman-fried-may-scoop-up-celsius-assets"/>
-        <updated>2022-09-28T09:45:26.000Z</updated>
-        <summary type="html"><![CDATA[FTX founder and CEO Sam Bankman-Fried is reportedly eyeing a bid for the assets of the embattled crypto lending firm Celsius.]]></summary>
-        <author>
-            <name>Andrew Asmakov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeFi Derivatives Protocol Ribbon Finance Launches Options Exchange on Ethereum]]></title>
-        <id>https://decrypt.co/?p=110605</id>
-        <link href="https://decrypt.co/110605/defi-derivatives-protocol-ribbon-finance-launches-options-exchange-ethereum"/>
-        <updated>2022-09-28T06:29:02.000Z</updated>
-        <summary type="html"><![CDATA[Ribbon Finance’s exchange lets users trade Ethereum options on-chain. The launch is the latest in a suite of structured financial products.]]></summary>
-        <author>
-            <name>Liam J. Kelly</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Polygon Co-Founder Talks Imminent Launch of zkEVM at Mainnet 2022]]></title>
         <id>https://decrypt.co/videos/live-events/PXvEyLhQ/polygon-co-founder-talks-imminent-launch-of-zkevm-at-mainnet-2022</id>
         <link href="https://decrypt.co/videos/live-events/PXvEyLhQ/polygon-co-founder-talks-imminent-launch-of-zkevm-at-mainnet-2022"/>
@@ -516,21 +516,21 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Maple Finance CEO on Facilitating $300M in Loans to Bitcoin Miners]]></title>
-        <id>https://decrypt.co/videos/live-events/L8HzZvXm/maple-finance-ceo-on-facilitating-300m-in-loans-to-bitcoin-miners</id>
-        <link href="https://decrypt.co/videos/live-events/L8HzZvXm/maple-finance-ceo-on-facilitating-300m-in-loans-to-bitcoin-miners"/>
-        <updated>2022-09-26T16:41:55.000Z</updated>
-        <summary type="html"><![CDATA[Sidney Powell, co-Founder and CEO of Maple Finance, joins Decrypt's Liam Kelly and Stacy Elliott in our Decrypting Mainnet series at Mainnet 2022 to discuss its unique role in the lending space, why Bitcoin miners are willing to pay up to 20% for a loan, and how it's building the tooling to let any business spin up a crypto credit facility.]]></summary>
-        <author>
-            <name>Decrypt</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Google Cloud's Web3 Lead at Mainnet 2022: The Problem With Crypto 'Purity Tests']]></title>
         <id>https://decrypt.co/videos/live-events/YL1xPyRp/google-clouds-web3-lead-at-mainnet-2022-the-problem-with-crypto-purity-tests</id>
         <link href="https://decrypt.co/videos/live-events/YL1xPyRp/google-clouds-web3-lead-at-mainnet-2022-the-problem-with-crypto-purity-tests"/>
         <updated>2022-09-26T16:41:55.000Z</updated>
         <summary type="html"><![CDATA[Rich Widmann, the Web3 lead at Google Cloud, tells Decrypt's Dan Roberts and Kate Irwin in our Decrypting Mainnet series at Mainnet 2022 how Google Cloud is trying to "build a giant bridge" between Web2 and Web3, and the problem with crypto "purity tests."]]></summary>
+        <author>
+            <name>Decrypt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maple Finance CEO on Facilitating $300M in Loans to Bitcoin Miners]]></title>
+        <id>https://decrypt.co/videos/live-events/L8HzZvXm/maple-finance-ceo-on-facilitating-300m-in-loans-to-bitcoin-miners</id>
+        <link href="https://decrypt.co/videos/live-events/L8HzZvXm/maple-finance-ceo-on-facilitating-300m-in-loans-to-bitcoin-miners"/>
+        <updated>2022-09-26T16:41:55.000Z</updated>
+        <summary type="html"><![CDATA[Sidney Powell, co-Founder and CEO of Maple Finance, joins Decrypt's Liam Kelly and Stacy Elliott in our Decrypting Mainnet series at Mainnet 2022 to discuss its unique role in the lending space, why Bitcoin miners are willing to pay up to 20% for a loan, and how it's building the tooling to let any business spin up a crypto credit facility.]]></summary>
         <author>
             <name>Decrypt</name>
         </author>
