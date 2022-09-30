@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-30T22:12:25.662Z</id>
+    <id>urn:2022-09-30T23:11:45.358Z</id>
     <title>web3::cave</title>
-    <updated>2022-09-30T22:12:25.662Z</updated>
+    <updated>2022-09-30T23:11:45.358Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[SEC Must Turn Over Emails About Ethereum—But It Won’t Help Ripple, Lawyers Say]]></title>
+        <id>https://decrypt.co/?p=111018</id>
+        <link href="https://decrypt.co/111018/sec-emails-ethereum-wont-help-ripple-lawyers-say"/>
+        <updated>2022-09-30T22:43:01.000Z</updated>
+        <summary type="html"><![CDATA[Amid an ongoing $1.3 billion lawsuit with Ripple, a judge has ordered the SEC to hand over internal emails regarding the regulatory status of Ethereum.]]></summary>
+        <author>
+            <name>Sander Lutz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is Bitcoin Really Decoupling From Stocks? Experts Weigh-In]]></title>
+        <id>https://decrypt.co/?p=111012</id>
+        <link href="https://decrypt.co/111012/bitcoin-decoupling-from-stocks-experts-weigh-in"/>
+        <updated>2022-09-30T22:08:16.000Z</updated>
+        <summary type="html"><![CDATA[The correlation between Bitcoin and the stock market has weakened over the past couple weeks. But has it decoupled? Here’s what the experts have to say.]]></summary>
+        <author>
+            <name>Stacy Elliott</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Paraguay Senators Reject President’s Bitcoin Mining Law Veto]]></title>
         <id>https://decrypt.co/?p=110989</id>
@@ -446,26 +466,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What You Can Do With Your Old Ethereum Mining Rigs]]></title>
-        <id>https://decrypt.co/?p=110706</id>
-        <link href="https://decrypt.co/110706/what-you-can-do-with-your-old-ethereum-mining-rigs"/>
-        <updated>2022-09-28T13:01:10.000Z</updated>
-        <summary type="html"><![CDATA[In the wake of the merge, miserable former Ethereum miners are putting their dusty GPUs to new uses—like heating their homes.]]></summary>
-        <author>
-            <name>Ben Munster</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FTX, Jump Crypto Lead $20M Funding in Solana Development Framework Coral]]></title>
-        <id>https://decrypt.co/?p=110726</id>
-        <link href="https://decrypt.co/110726/ftx-jump-crypto-lead-20m-funding-solana-development-framework-coral"/>
-        <updated>2022-09-28T13:01:03.000Z</updated>
-        <summary type="html"><![CDATA[The creators of the Anchor development framework for Solana are launching Backpack, a “first-of-its-kind” wallet supporting executable NFTs.]]></summary>
-        <author>
-            <name>Andrew Asmakov</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Polygon Co-Founder Talks Imminent Launch of zkEVM at Mainnet 2022]]></title>
         <id>https://decrypt.co/videos/live-events/PXvEyLhQ/polygon-co-founder-talks-imminent-launch-of-zkevm-at-mainnet-2022</id>
         <link href="https://decrypt.co/videos/live-events/PXvEyLhQ/polygon-co-founder-talks-imminent-launch-of-zkevm-at-mainnet-2022"/>
@@ -516,21 +516,21 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google Cloud's Web3 Lead at Mainnet 2022: The Problem With Crypto 'Purity Tests']]></title>
-        <id>https://decrypt.co/videos/live-events/YL1xPyRp/google-clouds-web3-lead-at-mainnet-2022-the-problem-with-crypto-purity-tests</id>
-        <link href="https://decrypt.co/videos/live-events/YL1xPyRp/google-clouds-web3-lead-at-mainnet-2022-the-problem-with-crypto-purity-tests"/>
-        <updated>2022-09-26T16:41:55.000Z</updated>
-        <summary type="html"><![CDATA[Rich Widmann, the Web3 lead at Google Cloud, tells Decrypt's Dan Roberts and Kate Irwin in our Decrypting Mainnet series at Mainnet 2022 how Google Cloud is trying to "build a giant bridge" between Web2 and Web3, and the problem with crypto "purity tests."]]></summary>
-        <author>
-            <name>Decrypt</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Maple Finance CEO on Facilitating $300M in Loans to Bitcoin Miners]]></title>
         <id>https://decrypt.co/videos/live-events/L8HzZvXm/maple-finance-ceo-on-facilitating-300m-in-loans-to-bitcoin-miners</id>
         <link href="https://decrypt.co/videos/live-events/L8HzZvXm/maple-finance-ceo-on-facilitating-300m-in-loans-to-bitcoin-miners"/>
         <updated>2022-09-26T16:41:55.000Z</updated>
         <summary type="html"><![CDATA[Sidney Powell, co-Founder and CEO of Maple Finance, joins Decrypt's Liam Kelly and Stacy Elliott in our Decrypting Mainnet series at Mainnet 2022 to discuss its unique role in the lending space, why Bitcoin miners are willing to pay up to 20% for a loan, and how it's building the tooling to let any business spin up a crypto credit facility.]]></summary>
+        <author>
+            <name>Decrypt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Cloud's Web3 Lead at Mainnet 2022: The Problem With Crypto 'Purity Tests']]></title>
+        <id>https://decrypt.co/videos/live-events/YL1xPyRp/google-clouds-web3-lead-at-mainnet-2022-the-problem-with-crypto-purity-tests</id>
+        <link href="https://decrypt.co/videos/live-events/YL1xPyRp/google-clouds-web3-lead-at-mainnet-2022-the-problem-with-crypto-purity-tests"/>
+        <updated>2022-09-26T16:41:55.000Z</updated>
+        <summary type="html"><![CDATA[Rich Widmann, the Web3 lead at Google Cloud, tells Decrypt's Dan Roberts and Kate Irwin in our Decrypting Mainnet series at Mainnet 2022 how Google Cloud is trying to "build a giant bridge" between Web2 and Web3, and the problem with crypto "purity tests."]]></summary>
         <author>
             <name>Decrypt</name>
         </author>
