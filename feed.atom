@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-02T17:19:22.443Z</id>
+    <id>urn:2022-10-02T18:13:15.743Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-02T17:19:22.443Z</updated>
+    <updated>2022-10-02T18:13:15.743Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[This Week on Crypto Twitter: Musk and Dorsey’s Text Correspondence Leaked, Do Kwon Pleads (Further) Innocence]]></title>
+        <id>https://decrypt.co/?p=111053</id>
+        <link href="https://decrypt.co/111053/this-week-on-crypto-twitter-musk-and-dorseys-text-correspondence-leaked-do-kwon-pleads-further-innocence"/>
+        <updated>2022-10-02T17:40:15.000Z</updated>
+        <summary type="html"><![CDATA[Also: Ukraine DAO helped form an Iran DAO to raise funds to support women’s opposition to the current regime.]]></summary>
+        <author>
+            <name>Tim Hakki</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Coinbase Suffers ‘Major Outage’ for Customers With US Bank Accounts]]></title>
         <id>https://decrypt.co/?p=111047</id>
@@ -456,16 +466,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Gnosis Safe Launches SafeDAO, Safe Token]]></title>
-        <id>https://decrypt.co/?p=110781</id>
-        <link href="https://decrypt.co/110781/gnosis-safe-launches-safedao-safe-token"/>
-        <updated>2022-09-28T20:37:47.000Z</updated>
-        <summary type="html"><![CDATA[The Ethereum-based digital asset management platform airdropped 50 million tokens in a bid to decentralize the community.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Prasanna Loganathar of Cake DeFi: Biggest Misconception About Crypto Is It's Less Safe Than TradFi]]></title>
         <id>https://decrypt.co/videos/live-events/6vjyTvO3/prasanna-loganathar-of-cake-defi-biggest-misconception-about-crypto-is-its-less-safe-than-tradfi</id>
         <link href="https://decrypt.co/videos/live-events/6vjyTvO3/prasanna-loganathar-of-cake-defi-biggest-misconception-about-crypto-is-its-less-safe-than-tradfi"/>
@@ -556,21 +556,21 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Maple Finance CEO on Facilitating $300M in Loans to Bitcoin Miners]]></title>
-        <id>https://decrypt.co/videos/live-events/L8HzZvXm/maple-finance-ceo-on-facilitating-300m-in-loans-to-bitcoin-miners</id>
-        <link href="https://decrypt.co/videos/live-events/L8HzZvXm/maple-finance-ceo-on-facilitating-300m-in-loans-to-bitcoin-miners"/>
-        <updated>2022-09-26T16:41:55.000Z</updated>
-        <summary type="html"><![CDATA[Sidney Powell, co-Founder and CEO of Maple Finance, joins Decrypt's Liam Kelly and Stacy Elliott in our Decrypting Mainnet series at Mainnet 2022 to discuss its unique role in the lending space, why Bitcoin miners are willing to pay up to 20% for a loan, and how it's building the tooling to let any business spin up a crypto credit facility.]]></summary>
-        <author>
-            <name>Decrypt</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Google Cloud's Web3 Lead at Mainnet 2022: The Problem With Crypto 'Purity Tests']]></title>
         <id>https://decrypt.co/videos/live-events/YL1xPyRp/google-clouds-web3-lead-at-mainnet-2022-the-problem-with-crypto-purity-tests</id>
         <link href="https://decrypt.co/videos/live-events/YL1xPyRp/google-clouds-web3-lead-at-mainnet-2022-the-problem-with-crypto-purity-tests"/>
         <updated>2022-09-26T16:41:55.000Z</updated>
         <summary type="html"><![CDATA[Rich Widmann, the Web3 lead at Google Cloud, tells Decrypt's Dan Roberts and Kate Irwin in our Decrypting Mainnet series at Mainnet 2022 how Google Cloud is trying to "build a giant bridge" between Web2 and Web3, and the problem with crypto "purity tests."]]></summary>
+        <author>
+            <name>Decrypt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maple Finance CEO on Facilitating $300M in Loans to Bitcoin Miners]]></title>
+        <id>https://decrypt.co/videos/live-events/L8HzZvXm/maple-finance-ceo-on-facilitating-300m-in-loans-to-bitcoin-miners</id>
+        <link href="https://decrypt.co/videos/live-events/L8HzZvXm/maple-finance-ceo-on-facilitating-300m-in-loans-to-bitcoin-miners"/>
+        <updated>2022-09-26T16:41:55.000Z</updated>
+        <summary type="html"><![CDATA[Sidney Powell, co-Founder and CEO of Maple Finance, joins Decrypt's Liam Kelly and Stacy Elliott in our Decrypting Mainnet series at Mainnet 2022 to discuss its unique role in the lending space, why Bitcoin miners are willing to pay up to 20% for a loan, and how it's building the tooling to let any business spin up a crypto credit facility.]]></summary>
         <author>
             <name>Decrypt</name>
         </author>
