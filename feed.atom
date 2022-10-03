@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-03T09:19:22.316Z</id>
+    <id>urn:2022-10-03T10:13:40.358Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-03T09:19:22.316Z</updated>
+    <updated>2022-10-03T10:13:40.358Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Alex Mashinsky Withdrew $10M From Сelsius Before Freezing Customer Accounts: Report]]></title>
+        <id>https://decrypt.co/?p=111081</id>
+        <link href="https://decrypt.co/111081/alex-mashinsky-withdrew-10m-%d1%81elsius-before-freezing-customer-accounts"/>
+        <updated>2022-10-03T10:06:55.000Z</updated>
+        <summary type="html"><![CDATA[Before freezing user accounts and filing for bankruptcy, new reports indicate that the former Celsius CEO withdrew $10 million from the firm.]]></summary>
+        <author>
+            <name>Emily Tonelli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transit Swap DeFi Hacker Returns $16M in Stolen Ethereum, Binance Coin]]></title>
+        <id>https://decrypt.co/?p=111078</id>
+        <link href="https://decrypt.co/111078/transit-swap-defi-hacker-returns-16m-stolen-ethereum-binance-coin"/>
+        <updated>2022-10-03T09:38:09.000Z</updated>
+        <summary type="html"><![CDATA[After raking in roughly $23 million via an attack on Transit Swap, the attacker has reportedly returned roughly 70% of the money.]]></summary>
+        <author>
+            <name>Ziwang</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Terra’s Luna Classic Gains Big as Binance Burns Untold Tokens]]></title>
         <id>https://decrypt.co/?p=111070</id>
@@ -446,26 +466,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Stablecoin Markets Shift as Binance Begins USDC Conversions]]></title>
-        <id>https://decrypt.co/?p=110797</id>
-        <link href="https://decrypt.co/110797/stablecoin-markets-shift-binance-usdc-conversions"/>
-        <updated>2022-09-28T22:06:35.000Z</updated>
-        <summary type="html"><![CDATA[Binance will no longer support competing stablecoins, including USDC, on its exchange. USDC’s market cap is down 5% since the announcement.]]></summary>
-        <author>
-            <name>Stacy Elliott</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Circle Expands USDC Stablecoin Support to Five New Blockchains]]></title>
-        <id>https://decrypt.co/?p=110800</id>
-        <link href="https://decrypt.co/110800/circle-expands-usdc-stablecoin-support-to-five-new-blockchains"/>
-        <updated>2022-09-28T21:52:20.000Z</updated>
-        <summary type="html"><![CDATA[The company also announced a Cross-Chain Transfer Protocol to streamline the movement of USDC across networks.]]></summary>
-        <author>
-            <name>Sander Lutz</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Prasanna Loganathar of Cake DeFi: Biggest Misconception About Crypto Is It's Less Safe Than TradFi]]></title>
         <id>https://decrypt.co/videos/live-events/6vjyTvO3/prasanna-loganathar-of-cake-defi-biggest-misconception-about-crypto-is-its-less-safe-than-tradfi</id>
         <link href="https://decrypt.co/videos/live-events/6vjyTvO3/prasanna-loganathar-of-cake-defi-biggest-misconception-about-crypto-is-its-less-safe-than-tradfi"/>
@@ -556,21 +556,21 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google Cloud's Web3 Lead at Mainnet 2022: The Problem With Crypto 'Purity Tests']]></title>
-        <id>https://decrypt.co/videos/live-events/YL1xPyRp/google-clouds-web3-lead-at-mainnet-2022-the-problem-with-crypto-purity-tests</id>
-        <link href="https://decrypt.co/videos/live-events/YL1xPyRp/google-clouds-web3-lead-at-mainnet-2022-the-problem-with-crypto-purity-tests"/>
-        <updated>2022-09-26T16:41:55.000Z</updated>
-        <summary type="html"><![CDATA[Rich Widmann, the Web3 lead at Google Cloud, tells Decrypt's Dan Roberts and Kate Irwin in our Decrypting Mainnet series at Mainnet 2022 how Google Cloud is trying to "build a giant bridge" between Web2 and Web3, and the problem with crypto "purity tests."]]></summary>
-        <author>
-            <name>Decrypt</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Maple Finance CEO on Facilitating $300M in Loans to Bitcoin Miners]]></title>
         <id>https://decrypt.co/videos/live-events/L8HzZvXm/maple-finance-ceo-on-facilitating-300m-in-loans-to-bitcoin-miners</id>
         <link href="https://decrypt.co/videos/live-events/L8HzZvXm/maple-finance-ceo-on-facilitating-300m-in-loans-to-bitcoin-miners"/>
         <updated>2022-09-26T16:41:55.000Z</updated>
         <summary type="html"><![CDATA[Sidney Powell, co-Founder and CEO of Maple Finance, joins Decrypt's Liam Kelly and Stacy Elliott in our Decrypting Mainnet series at Mainnet 2022 to discuss its unique role in the lending space, why Bitcoin miners are willing to pay up to 20% for a loan, and how it's building the tooling to let any business spin up a crypto credit facility.]]></summary>
+        <author>
+            <name>Decrypt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Cloud's Web3 Lead at Mainnet 2022: The Problem With Crypto 'Purity Tests']]></title>
+        <id>https://decrypt.co/videos/live-events/YL1xPyRp/google-clouds-web3-lead-at-mainnet-2022-the-problem-with-crypto-purity-tests</id>
+        <link href="https://decrypt.co/videos/live-events/YL1xPyRp/google-clouds-web3-lead-at-mainnet-2022-the-problem-with-crypto-purity-tests"/>
+        <updated>2022-09-26T16:41:55.000Z</updated>
+        <summary type="html"><![CDATA[Rich Widmann, the Web3 lead at Google Cloud, tells Decrypt's Dan Roberts and Kate Irwin in our Decrypting Mainnet series at Mainnet 2022 how Google Cloud is trying to "build a giant bridge" between Web2 and Web3, and the problem with crypto "purity tests."]]></summary>
         <author>
             <name>Decrypt</name>
         </author>
