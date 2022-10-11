@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-11T15:14:08.563Z</id>
+    <id>urn:2022-10-11T16:18:15.799Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-11T15:14:08.563Z</updated>
+    <updated>2022-10-11T16:18:15.799Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -26,11 +26,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Enormous Multi-Sig Transaction Briefly Crashes Bitcoin’s Lightning Network]]></title>
+        <title type="html"><![CDATA[Bitcoin Lightning Network Misses Block After Enormous Multi-Sig Transaction]]></title>
         <id>https://decrypt.co/?p=111642</id>
         <link href="https://decrypt.co/111642/enormous-multi-sig-transaction-briefly-crashes-bitcoins-lightning-network"/>
         <updated>2022-10-11T13:11:06.000Z</updated>
-        <summary type="html"><![CDATA[A validation bug caused by a complex multi-sig transaction temporarily crashed LND, a popular implementation of Bitcoin’s Lightning Network.]]></summary>
+        <summary type="html"><![CDATA[A validation bug caused by a complex multi-sig transaction temporarily disrupted a popular implementation of Bitcoin’s Lightning Network.]]></summary>
         <author>
             <name>Andrew Asmakov</name>
         </author>
