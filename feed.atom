@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-13T18:20:43.033Z</id>
+    <id>urn:2022-10-13T19:17:36.022Z</id>
     <title>web3::cave</title>
-    <updated>2022-10-13T18:20:43.033Z</updated>
+    <updated>2022-10-13T19:17:36.022Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Binance Burns as Many BNB Tokens as Hacker Minted From Thin Air]]></title>
+        <id>https://decrypt.co/?p=111905</id>
+        <link href="https://decrypt.co/111905/binance-burns-bnb-tokens-hacker-minted"/>
+        <updated>2022-10-13T19:05:11.000Z</updated>
+        <summary type="html"><![CDATA[The burn removed over 2 million BNB from the circulating supply.]]></summary>
+        <author>
+            <name>Andrew Throuvalas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CoinShares Creates Twitter Bot That Gives Traders 'Fair Prices' for Ethereum NFTs]]></title>
+        <id>https://decrypt.co/?p=111903</id>
+        <link href="https://decrypt.co/111903/coinshares-twitter-bot-traders-fair-price-ethereum-nfts"/>
+        <updated>2022-10-13T18:31:15.000Z</updated>
+        <summary type="html"><![CDATA[Want to know how much your Bored Ape is really worth? Here’s one way to find out.]]></summary>
+        <author>
+            <name>Kate Irwin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dominican Government Partners With Tron To Launch Dominica Coin]]></title>
         <id>https://decrypt.co/?p=111634</id>
@@ -381,26 +401,6 @@
         <link href="https://decrypt.co/111640/google-cloud-let-users-pay-bitcoin-ethereum-dogecoin-coinbase"/>
         <updated>2022-10-11T13:19:02.000Z</updated>
         <summary type="html"><![CDATA[Google will let a "handful" of customers pay for its cloud services using cryptocurrencies like Bitcoin and Ethereum via Coinbase Commerce.]]></summary>
-        <author>
-            <name>Tim Hakki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Lightning Network Misses Block After Enormous Multi-Sig Transaction]]></title>
-        <id>https://decrypt.co/?p=111642</id>
-        <link href="https://decrypt.co/111642/enormous-multi-sig-transaction-briefly-crashes-bitcoins-lightning-network"/>
-        <updated>2022-10-11T13:11:06.000Z</updated>
-        <summary type="html"><![CDATA[A validation bug caused by a complex multi-sig transaction temporarily disrupted a popular implementation of Bitcoin’s Lightning Network.]]></summary>
-        <author>
-            <name>Andrew Asmakov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['Quantum-Resistant' Blockchain QANplatform Suffers Bridge Hack for Over $1 Million]]></title>
-        <id>https://decrypt.co/?p=111633</id>
-        <link href="https://decrypt.co/111633/quantum-resistant-blockchain-qanplatform-suffers-bridge-hack-1-million"/>
-        <updated>2022-10-11T12:15:49.000Z</updated>
-        <summary type="html"><![CDATA[In the early hours of the morning, QANPlatform's Ethereum bridge smart contract was exploited for over $1 million.]]></summary>
         <author>
             <name>Tim Hakki</name>
         </author>
