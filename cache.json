@@ -6,12 +6,27 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=113305",
+          "author": "Mathew Di Salvo",
+          "description": "The Fed will reveal tomorrow if it will continue to hike interest rates. Tuesday data suggests it might, but Bitcoin hasn't budged.",
+          "link": "https://decrypt.co/113305/bitcoin-holds-fed-interest-rate-hike-decision",
+          "publishedOn": "2022-11-01T19:17:01.000Z",
+          "wordCount": 5988,
+          "title": "Bitcoin Holds Above $20K Ahead of Fed’s Interest Rate Decision",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/06/digital-dollar-fed-federal-reserve-bankers-association-aba-gID_5.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/06/digital-dollar-fed-federal-reserve-bankers-association-aba-gID_5.jpg"
+        },
+        {
           "id": "https://decrypt.co/?p=113295",
           "author": "Stacy Elliott",
           "description": "Layer 2s like Optimism and Arbitrum will \"radically decrease the cost of actually transacting and using blockchain-based security,\" Kulechov said.",
           "link": "https://decrypt.co/113295/aaves-stani-kulechov-what-sets-our-gho-stablecoin-apart",
           "publishedOn": "2022-11-01T18:24:17.000Z",
-          "wordCount": 6199,
+          "wordCount": 6196,
           "title": "Aave's Stani Kulechov: What Sets Our GHO Stablecoin Apart",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/11/GM_Podcastcover_Stani4-copy-gID_4.jpg",
@@ -26,7 +41,7 @@
           "description": "America's largest crypto exchange is getting more and more vocal with its support for industry peers engaged in legal battles with the SEC.",
           "link": "https://decrypt.co/113283/coinbase-is-backing-ripple-against-the-sec",
           "publishedOn": "2022-11-01T12:29:35.000Z",
-          "wordCount": 6393,
+          "wordCount": 6390,
           "title": "Coinbase Is Backing Ripple Against the SEC",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/07/coinbase-nft-nyc-gID_1.jpeg",
@@ -41,7 +56,7 @@
           "description": "Will traders pay $30 per month to buy and sell NFTs—and not just digital sneakers—on the move-to-earn game’s marketplace?",
           "link": "https://decrypt.co/113274/stepns-new-solana-ethereum-nft-marketplace-bucks-anti-royalties-trend",
           "publishedOn": "2022-11-01T12:13:12.000Z",
-          "wordCount": 6896,
+          "wordCount": 6893,
           "title": "Stepn’s New Solana, Ethereum NFT Marketplace Bucks Anti-Royalties Trend",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/11/mooar-stepn-nft-marketplace-gID_4.png",
@@ -56,7 +71,7 @@
           "description": "The coin behind the dog ralled double-digits after Musk posted a picture of his Shiba Inu donning the Twitter logo.",
           "link": "https://decrypt.co/113279/dogecoin-jumps-29-musk-fueled-meme-rally-continues",
           "publishedOn": "2022-11-01T09:36:26.000Z",
-          "wordCount": 6027,
+          "wordCount": 6024,
           "title": "Dogecoin Jumps 29% as Musk-Fueled Meme Rally Continues",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/02/elon-musk-dogecoin-meme-twitter-gID_1.jpg",
@@ -71,7 +86,7 @@
           "description": "With Dapper Labs and The Sandbox among its ranks, OMA3 opens up membership amid push for an interoperable Web3 world.",
           "link": "https://decrypt.co/113261/open-metaverse-alliance-says-it-wont-let-meta-define-future-of-the-internet",
           "publishedOn": "2022-11-01T09:23:26.000Z",
-          "wordCount": 7535,
+          "wordCount": 7532,
           "title": "Open Metaverse Alliance Says It Won’t Let Meta Define the Future of the Internet",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/10/62b28eaf78ed4af1fa5e74b8_escaping-reality-8g-2560x1440-p-1600-gID_4.jpeg",
@@ -86,7 +101,7 @@
           "description": "Zora’s new no-code tool makes it easier to create a DAO funded by NFT auctions, following the model established by hit project Nouns.",
           "link": "https://decrypt.co/113225/now-anyone-can-create-ethereum-nft-dao-zora-nouns-builder",
           "publishedOn": "2022-11-01T08:58:02.000Z",
-          "wordCount": 7004,
+          "wordCount": 7001,
           "title": "Now Anyone Can Create an Ethereum NFT DAO With Zora’s Nouns Builder",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/10/nouns-builder-zora-glasses-gID_4.png",
@@ -101,7 +116,7 @@
           "description": "A Salvadoran legal aid agency said that the government has twice denied its request for information.",
           "link": "https://decrypt.co/113224/el-salvador-bank-refuses-to-reveal-bitcoin-records",
           "publishedOn": "2022-10-31T21:13:10.000Z",
-          "wordCount": 5988,
+          "wordCount": 5985,
           "title": "El Salvador Development Bank Refuses to Reveal Bitcoin Records",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/11/bitcoin-el-salvador-flag-concrete-gID_6.jpeg",
@@ -116,7 +131,7 @@
           "description": "The Commissioner told Decrypt that the SEC is not working in good faith on crypto regulation, and could get left behind.",
           "link": "https://decrypt.co/113245/secs-hester-peirce-its-just-not-a-good-way-of-regulating",
           "publishedOn": "2022-10-31T20:48:36.000Z",
-          "wordCount": 6604,
+          "wordCount": 6601,
           "title": "SEC’s Hester Peirce Says Agency's Current Approach Is 'Not a Good Way of Regulating'",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/10/Hester-Peirce-gID_4.jpg",
@@ -131,7 +146,7 @@
           "description": "Interactive NFTs from games like Gods Unchained and Illuvium are now available through the video game retailer’s Web3 platform.",
           "link": "https://decrypt.co/113240/gamestop-adds-web3-gaming-nfts-to-marketplace-with-immutable-x",
           "publishedOn": "2022-10-31T19:58:59.000Z",
-          "wordCount": 6020,
+          "wordCount": 6017,
           "title": "GameStop Adds Web3 Gaming NFTs to Marketplace With Immutable X",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/07/gamestop-nft-marketplace-gID_2.png",
@@ -146,7 +161,7 @@
           "description": "The private equity giant that manages half a trillion dollars will use Anchorage for institutional crypto custody.",
           "link": "https://decrypt.co/113239/apollo-global-to-hold-crypto-for-institutional-clients-through-anchorage-partnership",
           "publishedOn": "2022-10-31T19:11:33.000Z",
-          "wordCount": 5868,
+          "wordCount": 5865,
           "title": "Apollo Global to Hold Crypto for Institutional Clients Through Anchorage Partnership",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/10/apollo-gID_4.png",
@@ -161,7 +176,7 @@
           "description": "Binance isn’t the only pro-crypto company helping Musk improve Twitter—VC goliath a16z has joined the flock.",
           "link": "https://decrypt.co/113221/andreessen-horowitz-temporarily-helping-elon-musk-with-twitter",
           "publishedOn": "2022-10-31T17:15:57.000Z",
-          "wordCount": 6199,
+          "wordCount": 6196,
           "title": "Andreessen Horowitz ‘Temporarily’ Helping Elon Musk With Twitter",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/09/tweet-gID_1.jpg",
@@ -176,7 +191,7 @@
           "description": "The Chinese territory is considering a range of pro-crypto measures, in contrast to the mainland’s draconian approach to digital asset regulation.",
           "link": "https://decrypt.co/113222/hong-kong-to-conduct-public-consultation-on-retail-crypto-trading-etfs",
           "publishedOn": "2022-10-31T17:13:34.000Z",
-          "wordCount": 6687,
+          "wordCount": 6684,
           "title": "Hong Kong To Conduct Public Consultation on Retail Crypto Trading, ETFs",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/08/hong-kong-crypto-exchange-gID_2.jpg",
@@ -191,7 +206,7 @@
           "description": "Binance CEO Changpeng Zhao believes crypto needs a “seat at the table” following Elon Musk’s takeover of Twitter.",
           "link": "https://decrypt.co/113216/binance-ceo-we-put-500m-into-elon-musks-acquisition-to-bring-twitter-into-web3",
           "publishedOn": "2022-10-31T16:32:51.000Z",
-          "wordCount": 5797,
+          "wordCount": 5794,
           "title": "Binance CEO: We Put $500M into Elon Musk's Acquisition 'To Bring Twitter Into Web3'",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/10/cz-elon-musk-gID_4.jpeg",
@@ -206,7 +221,7 @@
           "description": "Following Elon Musk's Twitter takeover, Dogecoin is on a speculative tear—though any plans for Twitter to use the meme coin have yet to be revealed.",
           "link": "https://decrypt.co/113211/dogecoin-doubles-in-october-following-elon-musks-twitter-takeover",
           "publishedOn": "2022-10-31T16:09:31.000Z",
-          "wordCount": 5866,
+          "wordCount": 5863,
           "title": "Dogecoin Doubles in October, Following Elon Musk's Twitter Takeover",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/07/shutterstock_644794810-2-scaled-gID_2.jpg",
@@ -221,7 +236,7 @@
           "description": "The FTX-sponsored Heat have teamed up with Chain as the team's \"official Web3 and blockchain infrastructure partner.\"",
           "link": "https://decrypt.co/113209/chain-follows-nfl-patriots-deal-with-miami-heat-web3-partnership",
           "publishedOn": "2022-10-31T15:43:25.000Z",
-          "wordCount": 5787,
+          "wordCount": 5784,
           "title": "Chain Follows NFL Patriots Deal With Miami Heat Web3 Partnership",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/10/miami-heat-ftx-arena-gID_2.jpeg",
@@ -236,7 +251,7 @@
           "description": "A judicial report alleged that the crypto lender’s directors ‘downplayed’ the extent of its exposure to the Terra ecosystem.",
           "link": "https://decrypt.co/113183/crypto-lender-hodlnaut-lost-almost-190-million-in-terra-crash-report",
           "publishedOn": "2022-10-31T12:25:12.000Z",
-          "wordCount": 5850,
+          "wordCount": 5847,
           "title": "Crypto Lender Hodlnaut Lost Almost $190 Million in Terra Crash: Report",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/02/shutterstock_739779886-e1660646117314-gID_2.jpg",
@@ -251,7 +266,7 @@
           "description": "The crypto-friendly bank Revolut is teaming up with 1inch Network to educate its users on the world of decentralized exchanges and DeFi.",
           "link": "https://decrypt.co/113176/neobank-unicorn-revolut-1inch-launch-learn-earn-defi-course",
           "publishedOn": "2022-10-31T12:01:10.000Z",
-          "wordCount": 5770,
+          "wordCount": 5767,
           "title": "Neobank Unicorn Revolut, 1inch Launch ‘Learn &amp; Earn’ DeFi Course",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/10/crypto-education-gID_1.jpg",
@@ -266,7 +281,7 @@
           "description": "Argo Blockchain has revealed that a planned $27 million raise will not go ahead, sending its share price plummeting.",
           "link": "https://decrypt.co/113182/bitcoin-miner-argo-blockchain-shares-plunge-40-as-27m-raise-called-off",
           "publishedOn": "2022-10-31T11:35:01.000Z",
-          "wordCount": 6098,
+          "wordCount": 6095,
           "title": "Bitcoin Miner Argo Blockchain Shares Plunge 40% as $27M Raise Called Off",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/11/asic-mining-rigs-bitcoin-mining-gID_4.jpg",
@@ -281,7 +296,7 @@
           "description": "The Supreme Court of Singapore will this week hold a hearing on a class-action lawsuit filed against Terraform Labs CEO Do Kwon.",
           "link": "https://decrypt.co/113179/terra-co-founder-do-kwon-faces-57m-class-action-lawsuit-in-singapore",
           "publishedOn": "2022-10-31T10:14:45.000Z",
-          "wordCount": 6176,
+          "wordCount": 6173,
           "title": "Terra Co-Founder Do Kwon Faces $57M Class-Action Lawsuit in Singapore",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/05/do-kwon-terra-gID_1.jpeg",
@@ -296,7 +311,7 @@
           "description": "The co-founder of the world’s second largest cryptocurrency weighed in on regulations that could change the course of crypto.",
           "link": "https://decrypt.co/113168/ethereum-founder-vitalik-buterin-crypto-industry-shouldnt-be-enthusiastically-pursuing-institutional-capital",
           "publishedOn": "2022-10-31T00:48:47.000Z",
-          "wordCount": 6979,
+          "wordCount": 6976,
           "title": "Ethereum Founder Vitalik Buterin: Crypto Industry Shouldn't Be 'Enthusiastically Pursuing Institutional Capital'",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/08/Webp.net-resizeimage-gID_6.jpg",
@@ -311,7 +326,7 @@
           "description": "Dogecoin lover Elon Musk owns Twitter, Kanye West owns crypto-friendly Parler, and Bitcoin maxi Jack Dorsey is backing Bluesky. Here we go!",
           "link": "https://decrypt.co/113165/elon-musk-twitter-dogecoin-bluesky-and-the-decentralized-social-media-race",
           "publishedOn": "2022-10-30T22:59:02.000Z",
-          "wordCount": 6708,
+          "wordCount": 6705,
           "title": "Elon Musk, Twitter, Dogecoin, Bluesky, and the Decentralized Social Media Race",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/04/blue-sky-gID_1.jpeg",
@@ -326,7 +341,7 @@
           "description": "Dodging the chill of crypto winter, the memecoin rallied to its highest price in five months.",
           "link": "https://decrypt.co/113147/dogecoin-leaps-94-in-weekly-gains-following-elon-musks-twitter-acquisition",
           "publishedOn": "2022-10-30T19:32:55.000Z",
-          "wordCount": 6141,
+          "wordCount": 6138,
           "title": "Dogecoin Leaps 94% in Weekly Gains Following Elon Musk’s Twitter Acquisition",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/05/Hello-Pal-dogecoin-gID_4.jpg",
@@ -341,7 +356,7 @@
           "description": "These pixel art NFTs drop at a rate of one per day, and have built a decentralized brand worth millions of dollars.",
           "link": "https://decrypt.co/resources/what-are-nouns-the-nft-dao-building-open-source-ip",
           "publishedOn": "2022-10-30T19:31:05.000Z",
-          "wordCount": 8142,
+          "wordCount": 8139,
           "title": "What Are Nouns? The Ethereum NFT DAO Building Open-Source IP",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/10/nouns-gID_5-pID_1.png",
@@ -356,7 +371,7 @@
           "description": "There have been three times as many NFT trademark applications filed so far this year in the U.S. than in all of 2021.",
           "link": "https://decrypt.co/113144/visa-paypal-western-union-among-fall-flurry-of-crypto-trademark-filings",
           "publishedOn": "2022-10-30T18:59:36.000Z",
-          "wordCount": 6017,
+          "wordCount": 6014,
           "title": "Visa, PayPal, Western Union Among Fall Flurry of Crypto Trademark Filings",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/10/USPTO-shutterstock_1169047330-16x9-1-gID_1.jpg",
@@ -371,7 +386,7 @@
           "description": "Binance’s Changpeng Zhao and MicroStrategy’s Michael Saylor welcomed Twitter’s new boss.",
           "link": "https://decrypt.co/113151/this-week-on-crypto-twitter-musk-takeover-twitter-crypto-wallet-reportedly-in-the-works",
           "publishedOn": "2022-10-30T18:41:06.000Z",
-          "wordCount": 6779,
+          "wordCount": 6776,
           "title": "This Week on Crypto Twitter: Musk Takeover, Twitter Crypto Wallet in the Works",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/10/Twitter-shutterstock_2152016641-16x9-1-gID_6.jpg",
@@ -386,7 +401,7 @@
           "description": "After a long streak of flat weeks, crypto markets appeared to unfreeze. Block-owned Cash App also expanded its crypto features.",
           "link": "https://decrypt.co/113130/this-week-in-coins-bitcoin-and-ethereum-see-green-shoots-dogecoin-gets-musk-twitter-bump",
           "publishedOn": "2022-10-29T14:09:11.000Z",
-          "wordCount": 6277,
+          "wordCount": 6274,
           "title": "This Week in Coins: Bitcoin and Ethereum See Green Shoots, Dogecoin Gets Musk Twitter Bump",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/07/elon_musk_doge_coin-scaled-gID_1.jpg",
@@ -401,7 +416,7 @@
           "description": "Bad ad or bad timing? Either way, trading is down big.",
           "link": "https://decrypt.co/113105/crypto-com-trading-volume-down-bad-matt-damon",
           "publishedOn": "2022-10-28T22:08:09.000Z",
-          "wordCount": 6049,
+          "wordCount": 6046,
           "title": "Crypto.com Trading Volume Sinks 91% One Year After 'Brave' Matt Damon Ad",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/01/Screen-Shot-2022-01-03-at-2.21.39-PM-e1641249307236-gID_4.png",
@@ -416,7 +431,7 @@
           "description": "Opposing factions are forming within MakerDAO over founder Rune Christensen's controversial proposal.",
           "link": "https://decrypt.co/113118/makerdao-splits-endgame-proposal",
           "publishedOn": "2022-10-28T21:07:14.000Z",
-          "wordCount": 7500,
+          "wordCount": 7497,
           "title": "MakerDAO Splits in Two Over Founder’s 'Endgame' Proposal",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/10/makerdao-maker-mkr-gID_2.jpeg",
@@ -431,7 +446,7 @@
           "description": "Here's what some of crypto's biggest names had to say about Elon's Twitter takeover.",
           "link": "https://decrypt.co/113097/crypto-twitter-reacts-elon-musk-first-day-chief-twit",
           "publishedOn": "2022-10-28T20:18:00.000Z",
-          "wordCount": 6234,
+          "wordCount": 6231,
           "title": "Crypto Twitter Reacts to Elon Musk’s First Day as 'Chief Twit'",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/04/Elon-Musk-Twitter-gID_4.jpeg",
@@ -446,7 +461,7 @@
           "description": "The Latin American nation and the Swiss city will now cooperate on all things Bitcoin.",
           "link": "https://decrypt.co/113088/el-salvador-lugano-bitcoin-adoption",
           "publishedOn": "2022-10-28T20:02:24.000Z",
-          "wordCount": 5940,
+          "wordCount": 5937,
           "title": "El Salvador and Lugano Sign Agreement to Spread Bitcoin Adoption",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/10/Shutterstock_1383231368-1-scaled-gID_1.jpg",
@@ -461,7 +476,7 @@
           "description": "In an interview with Decrypt, SEC Commissioner Hester Peirce explains why she believes the regulatory agency's approach to crypto and NFTs is far from ideal.",
           "link": "https://decrypt.co/113090/sec-hester-peirce-nft-regulation-bored-ape",
           "publishedOn": "2022-10-28T18:52:03.000Z",
-          "wordCount": 6965,
+          "wordCount": 6962,
           "title": "SEC's Hester Peirce: Regulatory Ambiguity Means NFT Projects Must Be 'Very Careful'",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/10/sec-hester-peirce-gID_4.jpeg",
@@ -476,7 +491,7 @@
           "description": "The biggest cryptocurrency exchange is creating an internal team to focus on how crypto can help Twitter.",
           "link": "https://decrypt.co/113080/binance-elon-musk-crypto-twitter-bots",
           "publishedOn": "2022-10-28T16:00:56.000Z",
-          "wordCount": 5760,
+          "wordCount": 5757,
           "title": "Binance Will Help Elon Musk Use Crypto to Battle Twitter Bots",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/10/elon-makes-it-rain-gID_4.jpg",
@@ -491,7 +506,7 @@
           "description": "The only times DOGE has done more volume in 2022 were when Musk said Tesla would accept it as payment and announced his intent to buy Twitter.",
           "link": "https://decrypt.co/113069/dogecoin-up-9-doing-much-volume-after-elon-musks-twitter-takeover",
           "publishedOn": "2022-10-28T14:02:09.000Z",
-          "wordCount": 5965,
+          "wordCount": 5962,
           "title": "Dogecoin Up 9%, Doing Much Volume After Elon Musk's Twitter Takeover",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/04/dogecoin-price-trading-gID_6.jpeg",
@@ -506,7 +521,7 @@
           "description": "Manta Network’s trusted setup ceremony will see some 5,000 participants laying the groundwork for its private payments service.",
           "link": "https://decrypt.co/113062/polkadot-privacy-project-manta-network-eyes-crypto-largest-trusted-setup-ever",
           "publishedOn": "2022-10-28T12:58:02.000Z",
-          "wordCount": 6852,
+          "wordCount": 6849,
           "title": "Polkadot Privacy Project Manta Network Eyes Crypto’s Largest Trusted Setup Ever",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/11/darkcoin-dash-privacy-coin-gID_6.jpg",
@@ -521,7 +536,7 @@
           "description": "Buterin addressed the argument that gold could represent a better or similar decentralized store of value than crypto.",
           "link": "https://decrypt.co/113059/ethereum-co-founder-vitalik-buterin-tees-up-3-reasons-crypto-beats-gold",
           "publishedOn": "2022-10-28T12:05:29.000Z",
-          "wordCount": 5943,
+          "wordCount": 5940,
           "title": "Ethereum Co-Founder Vitalik Buterin Tees Up 3 Reasons Crypto Beats Gold",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/09/Goldimage1-scaled-gID_2.jpg",
@@ -536,7 +551,7 @@
           "description": "Alongside the broader market’s bearish sentiment, DeFi tokens have posted significant losses over the past 24 hours.",
           "link": "https://decrypt.co/113056/top-defi-tokens-maker-uniswap-slip-ethereum-sheds-gains",
           "publishedOn": "2022-10-28T09:49:12.000Z",
-          "wordCount": 6250,
+          "wordCount": 6247,
           "title": "Top DeFi Tokens in Maker, Uniswap Slip as Ethereum Sheds Gains",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/09/defi-logo-pedestal-gID_1.jpg",
@@ -551,7 +566,7 @@
           "description": "With Musk taking over Twitter, Binance confirmed that it’s an equity investor in the billionaire’s $44 billion acquisition.",
           "link": "https://decrypt.co/113052/crypto-exchange-binance-confirms-500m-investment-musks-twitter-takeover",
           "publishedOn": "2022-10-28T09:23:55.000Z",
-          "wordCount": 6028,
+          "wordCount": 6025,
           "title": "Crypto Exchange Binance Confirms $500M Investment in Musk's Twitter Takeover",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/01/Elon-Musk-1-gID_1.jpg",
@@ -566,7 +581,7 @@
           "description": "The comic creator partners with Polygon and Rarible to sell digital collectibles through a custom marketplace.",
           "link": "https://decrypt.co/113046/todd-mcfarlane-toy-spinoff-jumps-into-digital-collectibles",
           "publishedOn": "2022-10-28T02:10:51.000Z",
-          "wordCount": 6023,
+          "wordCount": 6020,
           "title": "Todd McFarlane Toy Spinoff Jumps Into Digital Collectibles",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/10/todd-mcfarlane-gID_4.png",
@@ -581,7 +596,7 @@
           "description": "Long-standing rules reveal the payment giant will still police “false, inaccurate or misleading information.”",
           "link": "https://decrypt.co/113039/paypal-misinformation-policy",
           "publishedOn": "2022-10-28T00:15:18.000Z",
-          "wordCount": 6272,
+          "wordCount": 6269,
           "title": "No, PayPal Did Not Resurrect Its ‘Misinformation’ Penalty",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/10/Paypal-Quiet-gID_1.jpg",
@@ -589,21 +604,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/10/Paypal-Quiet-gID_1.jpg"
-        },
-        {
-          "id": "https://decrypt.co/?p=113024",
-          "author": "Mathew Di Salvo",
-          "description": "The investment giant says 74% of institutional investors plan to buy crypto in the future.",
-          "link": "https://decrypt.co/113024/institutions-are-still-bullish-on-crypto-fidelity-survey",
-          "publishedOn": "2022-10-27T21:21:27.000Z",
-          "wordCount": 5777,
-          "title": "Institutions Are Still Bullish on Crypto: Fidelity Survey",
-          "enclosure": {
-            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/01/fidelity-bitcoin-1-gID_5.jpg",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/01/fidelity-bitcoin-1-gID_5.jpg"
         },
         {
           "id": "https://decrypt.co/videos/interviews/Fc5Wabrj/in-the-alien-worlds-metaverse-game-daos-are-game-pieces",
