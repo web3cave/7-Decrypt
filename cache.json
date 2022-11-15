@@ -6,12 +6,42 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=114648",
+          "author": "Alys Key",
+          "description": "New filings also confirm FTX Exchange’s new leadership is in touch with regulators and dealing with Friday’s hack.",
+          "link": "https://decrypt.co/114648/over-1-million-creditors-could-have-claims-ftx-bankruptcy",
+          "publishedOn": "2022-11-15T09:51:08.000Z",
+          "wordCount": 5625,
+          "title": "Over 1 Million Creditors Could Have Claims in FTX Bankruptcy",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/07/crypto-bankruptcy-gID_5.jpeg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/07/crypto-bankruptcy-gID_5.jpeg"
+        },
+        {
+          "id": "https://decrypt.co/videos/explainers/DlGZb8bJ/decrypt-learn-what-is-a-blockchain-api",
+          "author": null,
+          "description": "As the unsung heroes of digital connectivity, APIs are the engine under the hood making all the interactivity we’ve come to expect online possible. In video five of the Infura Web3 Dev Series, you’ll learn what blockchain APIs are, how they work, and explore the different types of API to improve your dapp’s connectivity. Author: Clarissa Watson, Senior Tech Writer at ConsenSys.",
+          "link": "https://decrypt.co/videos/explainers/DlGZb8bJ/decrypt-learn-what-is-a-blockchain-api",
+          "publishedOn": "2022-11-15T09:22:54.000Z",
+          "wordCount": 4375,
+          "title": "Decrypt Learn: What Is A Blockchain API?",
+          "enclosure": {
+            "url": "https://cdn.jwplayer.com/v2/media/DlGZb8bJ/poster.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.jwplayer.com/v2/media/DlGZb8bJ/poster.jpg"
+        },
+        {
           "id": "https://decrypt.co/?p=114635",
           "author": "Jason Nelson",
           "description": "A bizarre series of tweets by the embattled former FTX CEO has Crypto Twitter scratching its collective head.",
           "link": "https://decrypt.co/114635/sam-bankman-fried-explains-his-cryptic-one-letter-tweets",
           "publishedOn": "2022-11-15T01:53:22.000Z",
-          "wordCount": 5676,
+          "wordCount": 5658,
           "title": "Sam Bankman-Fried Says He's 'Improvising' His Cryptic One-Letter Tweets",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/11/scrabble-shutterstock_1573338085-16x9-1-gID_5.jpg",
@@ -26,7 +56,7 @@
           "description": "Beeple will serve as an advisor for Yuga after the NFT startup he co-founded joins the Bored Ape crew.",
           "link": "https://decrypt.co/114614/bored-ape-creator-yuga-labs-acquires-beeples-wenew-10ktf-nft-project",
           "publishedOn": "2022-11-14T23:51:56.000Z",
-          "wordCount": 6206,
+          "wordCount": 6188,
           "title": "Bored Ape Creator Yuga Labs Acquires Beeple’s WENEW, 10KTF NFT Project",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/11/10ktf-yuga-gID_4.jpeg",
@@ -41,7 +71,7 @@
           "description": "The links between Solana, FTX, and Alameda are made clear as SOL continues to fall in price, now down 57% over the past week.",
           "link": "https://decrypt.co/114626/solana-foundation-ftx-sbf-financial-ties",
           "publishedOn": "2022-11-14T23:47:56.000Z",
-          "wordCount": 6249,
+          "wordCount": 6231,
           "title": "Solana Foundation Details FTX, SBF Financial Ties as SOL Struggles",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/11/solana-logo-option-gID_6.webp",
@@ -56,7 +86,7 @@
           "description": "Crypto compliance firm Argus reports that Alameda, which was supposed to be distinct from Sam Bankman-Fried’s FTX, amassed tokens before their listings on the exchange were made public.",
           "link": "https://decrypt.co/114622/alameda-research-frontrunning-ftx-token-listings",
           "publishedOn": "2022-11-14T23:03:28.000Z",
-          "wordCount": 6099,
+          "wordCount": 6081,
           "title": "Alameda Research Was Frontrunning FTX Token Listings: Report",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/11/alameda-research-crypto-trading-gID_6.jpeg",
@@ -71,7 +101,7 @@
           "description": "The now-defunct and bankrupt trading desk moved $2.7 million worth of Serum, FTX, and Uniswap tokens into the wallet yesterday, on-chain data shows.",
           "link": "https://decrypt.co/114610/alameda-89-million-crypto-new-wallet",
           "publishedOn": "2022-11-14T22:00:43.000Z",
-          "wordCount": 7185,
+          "wordCount": 7167,
           "title": "SBF's Alameda Moved $89 Million Worth of Crypto Into a New Wallet",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/11/SamBankman-Fried-wiki-gID_1.jpg",
@@ -86,7 +116,7 @@
           "description": "How will the collapse of FTX affect the course of crypto policy in Washington? The landscape is already shifting.",
           "link": "https://decrypt.co/114491/sam-bankman-fried-crypto-dc-lobbying-regulation",
           "publishedOn": "2022-11-14T21:11:48.000Z",
-          "wordCount": 6597,
+          "wordCount": 6579,
           "title": "Sam Bankman-Fried Made Himself the Face of Crypto in DC—Now What?",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/11/sbf-ftx-decrypt-gID_4.jpeg",
@@ -101,7 +131,7 @@
           "description": "Whether the wallet belongs to the Ethereum cofounder is in dispute, but it has transacted with his other known addresses.",
           "link": "https://decrypt.co/114603/wallet-linked-to-vitalik-buterin-sells-off-3-75-million-in-ethereum",
           "publishedOn": "2022-11-14T20:39:55.000Z",
-          "wordCount": 6402,
+          "wordCount": 6384,
           "title": "Wallet Linked to Vitalik Buterin Sells Off $3.75 Million in Ethereum",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/11/Vitalik-Buterin-shutterstock_2029298183-16x9-1-gID_4.jpg",
@@ -116,7 +146,7 @@
           "description": "Crypto investment funds are seeing their assets trapped in the unfolding collapse of FTX.",
           "link": "https://decrypt.co/114593/crypto-hedge-fund-ikigai-founder-large-majority-assets-on-ftx",
           "publishedOn": "2022-11-14T19:59:16.000Z",
-          "wordCount": 5970,
+          "wordCount": 5952,
           "title": "Crypto Hedge Fund Ikigai Loses Access to 'Large Majority' of Assets on FTX: Founder",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/08/locked-coins-shutterstock-gID_6.png",
@@ -131,7 +161,7 @@
           "description": "The crypto lending platform is asking customers not to deposit any funds as it reels from \"significant\" exposure to FTX.",
           "link": "https://decrypt.co/114589/blockfi-tells-customers-withdrawals-still-paused-due-to-significant-exposure-to-ftx",
           "publishedOn": "2022-11-14T19:40:37.000Z",
-          "wordCount": 5808,
+          "wordCount": 5790,
           "title": "BlockFi Tells Customers Withdrawals Still Paused Due to ‘Significant Exposure to FTX’",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/06/blockfi-app-logo-gID_2.jpeg",
@@ -146,7 +176,7 @@
           "description": "The company says the action, which targeted funds drained from FTX late Friday, came at the direction of U.S. law enforcement officials.",
           "link": "https://decrypt.co/114587/paxos-freezes-paxg-crypto-ftx",
           "publishedOn": "2022-11-14T19:07:22.000Z",
-          "wordCount": 5819,
+          "wordCount": 5801,
           "title": "Paxos Freezes $19 Million in PAXG Tokens Linked to FTX",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/06/paxos-stablecoin-mmm-ponzi-scheme-gID_5.jpg",
@@ -161,7 +191,7 @@
           "description": "After CryptoKicks comes .Swoosh, a destination for virtual apparel and other NFT-based products, with the first drop due in January.",
           "link": "https://decrypt.co/114494/nike-swoosh-web3-platform-polygon-nfts",
           "publishedOn": "2022-11-14T18:15:05.000Z",
-          "wordCount": 6577,
+          "wordCount": 6559,
           "title": "Nike Launches .Swoosh Web3 Platform, With Polygon NFTs Due in 2023",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/11/nike-cryptokicks-alt-gID_6.png",
@@ -176,7 +206,7 @@
           "description": "Adidas’ own Indigo Herz Bored Ape NFT joins Messi and Benzema in a teaser trailer for Qatar's upcoming FIFA World Cup.",
           "link": "https://decrypt.co/114495/adidas-bored-ape-nft-makes-appearance-messi-benzema-new-world-cup-trailer",
           "publishedOn": "2022-11-14T17:43:43.000Z",
-          "wordCount": 5833,
+          "wordCount": 5815,
           "title": "Adidas' Bored Ape NFT Makes Appearance With Messi, Benzema in New World Cup Trailer",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/11/fifa-world-cup-crypto-gID_4.jpg",
@@ -191,7 +221,7 @@
           "description": "Crypto.com CEO Kris Marszalek sought to soothe investor woes after an errant $400 million transfer shook users over the weekend.",
           "link": "https://decrypt.co/114483/crypto-com-ceo-says-business-usual-revelations-accidental-400m-transfer",
           "publishedOn": "2022-11-14T16:17:21.000Z",
-          "wordCount": 6052,
+          "wordCount": 6034,
           "title": "Crypto.com CEO Says 'Business as Usual' After Revelations of 'Accidental' $400M Transfer",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/06/shutterstock_1234593457-gID_2.jpg",
@@ -206,7 +236,7 @@
           "description": "The CEO of Binance revealed plans to implement a new Proof-of-Reserves protocol developed by Ethereum co-founder Vitalik Buterin.",
           "link": "https://decrypt.co/114482/binance-be-guinea-pig-vitalik-buterins-proof-reserves-protocol-cz",
           "publishedOn": "2022-11-14T16:01:35.000Z",
-          "wordCount": 5939,
+          "wordCount": 5921,
           "title": "Binance to Be 'Guinea Pig' for Vitalik Buterin's Proof-of-Reserves Protocol: CZ",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/05/cz-ethereal-gID_2.jpg",
@@ -221,7 +251,7 @@
           "description": "Payments giant Visa is reportedly shuttering its partnership with FTX following the latter’s bankruptcy filing last week.",
           "link": "https://decrypt.co/114367/visa-pulls-plug-ftx-partnership-will-wind-down-debit-cards",
           "publishedOn": "2022-11-14T12:22:47.000Z",
-          "wordCount": 5774,
+          "wordCount": 5756,
           "title": "Visa Pulls Plug on FTX Partnership, Will Wind Down Debit Cards: Report",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/10/ftx-visa-debit-card-gID_1.png",
@@ -236,7 +266,7 @@
           "description": "When Binance announced it would bail out FTX, daily trading volumes mushroomed on decentralized exchanges like Uniswap.",
           "link": "https://decrypt.co/114364/defi-exchange-volume-hits-ftx-collapse",
           "publishedOn": "2022-11-14T12:03:20.000Z",
-          "wordCount": 6237,
+          "wordCount": 6219,
           "title": "DeFi Weekly Exchange Volume Hits $32 Billion Amid FTX Collapse",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/09/defi-decentralized-finance-gID_1.jpg",
@@ -251,7 +281,7 @@
           "description": "Alongside shuttering FTT trading pairs with Bitcoin and Ethereum, Binance is also closing off the ability to short FTX’s token.",
           "link": "https://decrypt.co/114361/binance-remove-trading-pairs-ftx-token-except-busd",
           "publishedOn": "2022-11-14T11:43:38.000Z",
-          "wordCount": 6007,
+          "wordCount": 5989,
           "title": "Binance to Remove Trading Pairs for FTX Token—Except With Stablecoin BUSD",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/11/binance-ftx-gID_6.jpeg",
@@ -266,7 +296,7 @@
           "description": "The California-based accountant turned politician Brad Sherman has intensified his crypto criticism amid the recent market turmoil.",
           "link": "https://decrypt.co/114360/congressman-brad-sherman-takes-aim-billionnaire-crypto-bros-slowing-regulation",
           "publishedOn": "2022-11-14T10:56:43.000Z",
-          "wordCount": 5950,
+          "wordCount": 5932,
           "title": "Congressman Brad Sherman Takes Aim at ‘Billionaire Crypto Bros’ for Slowing Regulation",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/07/shutterstock_634024823-1-gID_2.jpg",
@@ -281,7 +311,7 @@
           "description": "Amid FTX Exchange’s collapse, the token powering self-custody crypto wallet Trust Wallet has soared as users flee exchanges.",
           "link": "https://decrypt.co/114351/trust-wallet-token-soars-binance-ceo-shills-self-custody-solution",
           "publishedOn": "2022-11-14T10:29:50.000Z",
-          "wordCount": 6138,
+          "wordCount": 6120,
           "title": "Trust Wallet Token Soars 47% as Binance CEO Shills Self-Custody Solution",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/11/trust-wallet-crypto-gID_4.jpg",
@@ -296,7 +326,7 @@
           "description": "The world's largest crypto exchange Binance is forming an \"industry recovery fund\" to help projects overcome possible liquidity crises.",
           "link": "https://decrypt.co/114346/binance-ceo-announces-industry-recovery-fund-ftx-exchange-collapse",
           "publishedOn": "2022-11-14T10:02:15.000Z",
-          "wordCount": 5981,
+          "wordCount": 5963,
           "title": "Binance CEO Announces 'Industry Recovery Fund' Amid FTX Exchange Collapse",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2019/11/changpeng-zhao-binance-ceo-3-gID_4.jpg",
@@ -311,7 +341,7 @@
           "description": "Custodial wallets are considered a low-entry barrier for those new to the crypto space since they are easy to use and can be accessed from any device with an internet connection. However, security is a major concern.",
           "link": "https://decrypt.co/resources/non-custodial-vs-custodial-wallets-whats-the-difference",
           "publishedOn": "2022-11-14T09:13:37.000Z",
-          "wordCount": 6815,
+          "wordCount": 6797,
           "title": "Non-Custodial vs Custodial Wallets: What's the Difference?",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/11/custodial-vs-non-custodial-2-gID_4-pID_3.png",
@@ -326,7 +356,7 @@
           "description": "The collapse of Sam Bankman-Fried’s empire was the talk of the town at this year’s LaBitConf in Buenos Aires.",
           "link": "https://decrypt.co/114338/labitconf-ftx-crisis-hottest-topic-bitcoin-conference-latin-america",
           "publishedOn": "2022-11-14T02:03:29.000Z",
-          "wordCount": 6394,
+          "wordCount": 6376,
           "title": "FTX Crisis Is the Hottest Topic at the Biggest Bitcoin Conference in Latin America",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/11/JoseLanz-scaled-gID_6.jpg",
@@ -341,7 +371,7 @@
           "description": "Lawmakers sounded off on the need for better investor protections after a chaotic week.",
           "link": "https://decrypt.co/114333/chorus-of-lawmakers-collectively-call-for-crypto-controls-in-ftx-fallout",
           "publishedOn": "2022-11-13T21:40:26.000Z",
-          "wordCount": 6072,
+          "wordCount": 6054,
           "title": "Chorus of Lawmakers Collectively Call for Crypto Controls in FTX Fallout",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2018/10/shutterstock_674041957-gID_6.jpg",
@@ -356,7 +386,7 @@
           "description": "The entire market crashed this week as one of the industry’s biggest players watched their empire totally evaporate in five days flat.",
           "link": "https://decrypt.co/114319/this-week-crypto-twitter-ftx-collapse-tweets",
           "publishedOn": "2022-11-13T18:25:40.000Z",
-          "wordCount": 8135,
+          "wordCount": 8117,
           "title": "This Week on Crypto Twitter: FTX’s Collapse as It Happened, in Tweets",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/11/binancesbf-Cropped-gID_6.png",
@@ -371,7 +401,7 @@
           "description": "The Royal Bahamas Police Force is \"working closely with the Bahamas Securities Commission to investigate if any criminal misconduct occurred.\"",
           "link": "https://decrypt.co/114312/bahamas-police-are-investigating-potential-criminal-misconduct-by-ftx",
           "publishedOn": "2022-11-13T15:54:56.000Z",
-          "wordCount": 5556,
+          "wordCount": 5538,
           "title": "Bahamas Police Are Investigating Potential 'Criminal Misconduct' by FTX",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/09/bahamas-globe-gID_1.jpeg",
@@ -386,7 +416,7 @@
           "description": "Crypto.com’s $400 million mishap leaves its token down 50% and raises doubts over the exchange’s transparency following FTX’s collapse.",
           "link": "https://decrypt.co/114310/crypto-com-accidentally-sent-400m-in-ethereum-to-wrong-address-ceo-calls-concerns-fud",
           "publishedOn": "2022-11-13T14:59:24.000Z",
-          "wordCount": 6303,
+          "wordCount": 6285,
           "title": "Crypto.com Accidentally Sent $400M in Ethereum to Wrong Address, CEO Calls Concerns ‘FUD’",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/01/damon-gID_2.jpg",
@@ -401,7 +431,7 @@
           "description": "If you're not sure what differentiates a \"shitcoin\" from an altcoin, don't worry: some of the industry's biggest names at LaBitConf aren't either.",
           "link": "https://decrypt.co/114305/what-makes-a-shitcoin-shit-major-figures-in-crypto-disagree",
           "publishedOn": "2022-11-12T21:43:57.000Z",
-          "wordCount": 6460,
+          "wordCount": 6442,
           "title": "What Makes a Shitcoin 'Shit'? Major Figures in Crypto Disagree",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/10/applicants-question-mark-gID_2.png",
@@ -416,7 +446,7 @@
           "description": "The crypto industry bore witness to one of the most sudden and devastating contractions of wealth in financial history.",
           "link": "https://decrypt.co/114281/this-week-in-coins-ftx-goes-broke-bitcoin-falls-to-two-year-low",
           "publishedOn": "2022-11-12T15:05:23.000Z",
-          "wordCount": 7019,
+          "wordCount": 7001,
           "title": "This Week in Coins: FTX Goes Broke, Bitcoin Falls to Two-Year Low",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/11/ftx-trading-gID_6.jpeg",
@@ -431,7 +461,7 @@
           "description": "Several wallets belonging to FTX were rapidly drained before midnight. An FTX Telegram admin called it a hack and warned users not to visit the site.",
           "link": "https://decrypt.co/114269/hundreds-of-millions-of-dollars-drained-from-ftx-overnight-in-unauthorized-transfers",
           "publishedOn": "2022-11-12T13:32:19.000Z",
-          "wordCount": 6768,
+          "wordCount": 6750,
           "title": "Hundreds of Millions of Dollars Drained From FTX Overnight in 'Unauthorized' Transfers",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/07/sam-bankman-fried-ftx-ceo-congress-gID_4.jpg",
@@ -446,7 +476,7 @@
           "description": "When SBF approached Musk about investing in his Twitter bid, Musk asked his banker Michael Grimes, \"Does Sam actually have $3B liquid?\"",
           "link": "https://decrypt.co/114266/elon-musk-sam-bankman-fried-set-off-my-bs-detector-when-he-approached-about-twitter-investment",
           "publishedOn": "2022-11-12T04:37:20.000Z",
-          "wordCount": 5925,
+          "wordCount": 5907,
           "title": "Elon Musk: Sam Bankman-Fried 'Set Off My BS Detector' When He Approached About Twitter Investment",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/01/Webp.net-resizeimage23-gID_2.jpg",
@@ -461,7 +491,7 @@
           "description": "FTX's ignominious collapse was inevitable, Ethereum co-founder Vitalik Buterin said at LaBitConf Friday.",
           "link": "https://decrypt.co/114244/vitalik-buterin-ftx-collapse-sam-bankman-fried",
           "publishedOn": "2022-11-11T23:51:53.000Z",
-          "wordCount": 5701,
+          "wordCount": 5683,
           "title": "'Like a 1930s Dictator': Vitalik Buterin Lays Into Sam Bankman-Fried and FTX",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/11/vitalik-buterin-labitconf-gID_4.jpeg",
@@ -476,7 +506,7 @@
           "description": "Amid questions over holdings, Crypto.com shares its data—and a major meme token makes up a big chunk of its reserves.",
           "link": "https://decrypt.co/114248/crypto-com-holds-20-of-its-reserves-in-shib",
           "publishedOn": "2022-11-11T23:33:44.000Z",
-          "wordCount": 5748,
+          "wordCount": 5730,
           "title": "Crypto.com Holds 20% of Its Reserves in Meme Token SHIB",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/12/shiba-inu-altcoin-2021-gID_4.jpg",
@@ -491,7 +521,7 @@
           "description": "FTX signed sports deals worth $375 million—and that's just the deals with publicly reported price tags. Now it has filed for Chapter 11 bankruptcy.",
           "link": "https://decrypt.co/114210/ftx-spent-hundreds-of-millions-of-dollars-on-sports-marketing-on-road-to-bankruptcy",
           "publishedOn": "2022-11-11T23:28:15.000Z",
-          "wordCount": 7025,
+          "wordCount": 7007,
           "title": "FTX Spent Hundreds of Millions of Dollars on Sports Marketing on Road to Bankruptcy",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/01/ftx-arena-scaled-gID_2.jpg",
@@ -506,7 +536,7 @@
           "description": "Sam Bankman-Fried’s net worth evaporated this week alongside his businesses—and apparently billions’ worth of customer assets.",
           "link": "https://decrypt.co/114246/rise-fall-sam-bankman-fried-ftx",
           "publishedOn": "2022-11-11T23:28:00.000Z",
-          "wordCount": 7273,
+          "wordCount": 7255,
           "title": "From $26 Billion to Nothing: The Rise and Fall of SBF and FTX",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/09/K9ikpHOY.jpg-large-3-gID_2.jpeg",
@@ -521,7 +551,7 @@
           "description": "If a Canadian pension fund investing in a crypto firm that’s gone bankrupt sounds familiar, that’s because it happened with Celsius Network.",
           "link": "https://decrypt.co/114235/ontario-teachers-95m-ftx-pension-fund-limited-impact",
           "publishedOn": "2022-11-11T22:49:48.000Z",
-          "wordCount": 6019,
+          "wordCount": 6001,
           "title": "Ontario Teachers Sunk $95M in FTX—Pension Fund Says Collapse Will Have 'Limited Impact'",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/11/teachers-classroom-gID_1.jpeg",
@@ -536,7 +566,7 @@
           "description": "A former partner at Lightspeed Ventures, Wu joined the investment arm of FTX in January, funding several crypto startups.",
           "link": "https://decrypt.co/114233/amy-wu-resigns-ftx-ventures",
           "publishedOn": "2022-11-11T21:57:51.000Z",
-          "wordCount": 5902,
+          "wordCount": 5884,
           "title": "Amy Wu Resigns From FTX Ventures as SBF's Crypto Empire Unravels",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/11/amy_wu-gID_6.png",
@@ -551,7 +581,7 @@
           "description": "One of FTX’s many sports world partners has pulled back as the exchange files for bankruptcy protection.",
           "link": "https://decrypt.co/114223/mercedes-f1-suspends-ftx-deal",
           "publishedOn": "2022-11-11T19:26:23.000Z",
-          "wordCount": 6417,
+          "wordCount": 6399,
           "title": "Mercedes F1 Team Suspends FTX Deal Amid Company's Collapse",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/11/f1-mercedes-miami-grand-prix-gID_4.png",
@@ -566,7 +596,7 @@
           "description": "A mysterious wash-trading arbitrageur has, it appears, found a cunning way to retrieve his or her frozen millions from the rubble of FTX.",
           "link": "https://decrypt.co/114220/how-get-money-ftx-if-filthy-rich",
           "publishedOn": "2022-11-11T18:26:52.000Z",
-          "wordCount": 7108,
+          "wordCount": 7090,
           "title": "How to Get Money Out of FTX (But Only If You’re Filthy Rich)",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/11/ftx-trading-gID_2.jpeg",
@@ -581,7 +611,7 @@
           "description": "Bankman-Fried said he is still \"piecing together all of the details\" of how he lost billions of dollars of users’ funds.",
           "link": "https://decrypt.co/114215/ftx-ceo-sam-bankman-fried-really-sorry",
           "publishedOn": "2022-11-11T16:39:38.000Z",
-          "wordCount": 6272,
+          "wordCount": 6254,
           "title": "Disgraced FTX CEO Sam Bankman-Fried Says He’s Really Sorry—Again",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/07/sam-bankman-fried-ftx-ceo-congress-gID_4.jpg",
@@ -589,21 +619,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/07/sam-bankman-fried-ftx-ceo-congress-gID_4.jpg"
-        },
-        {
-          "id": "https://decrypt.co/?p=114205",
-          "author": "Liam J. Kelly",
-          "description": "After a dramatic week, crypto exchange FTX has filed for Chapter 11 bankruptcy and its CEO Sam Bankman-Fried has resigned.",
-          "link": "https://decrypt.co/114205/ftx-files-chapter-11-bankruptcy-sbf-steps-down-as-ceo",
-          "publishedOn": "2022-11-11T16:22:31.000Z",
-          "wordCount": 6110,
-          "title": "FTX Files Chapter 11 Bankruptcy, SBF Steps Down as CEO",
-          "enclosure": {
-            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/06/ftx-ceo-tsm-esports-gID_5.png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/06/ftx-ceo-tsm-esports-gID_5.png"
         },
         {
           "id": "https://decrypt.co/videos/live-events/gi2r4mqx/how-stepn-plans-to-keep-running-through-the-bear-market",
