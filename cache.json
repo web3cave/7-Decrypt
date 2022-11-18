@@ -6,12 +6,42 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=115046",
+          "author": "Jason Nelson",
+          "description": "Coinbase assured clients that it has no exposure to FTX. But the collapse of Sam Bankman-Fried’s exchange is still taking a toll on the entire market.",
+          "link": "https://decrypt.co/115046/bank-america-downgrades-coinbase-stock",
+          "publishedOn": "2022-11-18T18:46:16.000Z",
+          "wordCount": 6329,
+          "title": "Bank of America Downgrades Coinbase Stock to Neutral, COIN Down 7%",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/04/coinbase-nasdaq-gID_4.jpeg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/04/coinbase-nasdaq-gID_4.jpeg"
+        },
+        {
+          "id": "https://decrypt.co/?p=114973",
+          "author": "Daniel Roberts",
+          "description": "\"Members of the crypto community largely aren't taking this seriously enough,\" Snowden told the audience at Camp Decrypt.",
+          "link": "https://decrypt.co/114973/edward-snowden-ethereum-mixer-tornado-cash-illiberal-authoritarian",
+          "publishedOn": "2022-11-18T18:39:08.000Z",
+          "wordCount": 6795,
+          "title": "Edward Snowden: Sanctioning of Ethereum Mixer Tornado Cash Was 'Deeply Illiberal and Profoundly Authoritarian'",
+          "enclosure": {
+            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/11/1DXX1657-Day2-CampDecrypt2022-16x9-1-gID_4.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/11/1DXX1657-Day2-CampDecrypt2022-16x9-1-gID_4.jpg"
+        },
+        {
           "id": "https://decrypt.co/?p=115028",
           "author": "Mathew Di Salvo",
           "description": "The chain swap announcement comes as Solana faces difficulties.",
           "link": "https://decrypt.co/115028/tether-usdt-1-billion-solana-ethereum",
           "publishedOn": "2022-11-18T17:49:27.000Z",
-          "wordCount": 6328,
+          "wordCount": 6458,
           "title": "Solana Loses $1 Billion in USDT to Ethereum in Tether Chain Swap",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/04/Tether-dollars-gID_6.jpeg",
@@ -26,7 +56,7 @@
           "description": "X2Y2 cited OpenSea’s decision and creator adoption of that rival’s blocklist solution in announcing a change to royalties enforcement.",
           "link": "https://decrypt.co/115026/ethereum-nft-marketplace-x2y2-royalties",
           "publishedOn": "2022-11-18T17:29:29.000Z",
-          "wordCount": 6802,
+          "wordCount": 6932,
           "title": "Ethereum NFT Marketplace X2Y2 Will Enforce Royalties Following OpenSea’s 'Brave Move'",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/07/bored-ape-nfts-money-opensea-gID_4.jpeg",
@@ -41,7 +71,7 @@
           "description": "The Luxembourg-based exchange lags many in the industry in shuttering access to the embattled tokens, which still remain actively traded by some.",
           "link": "https://decrypt.co/115020/bitstamp-follows-other-exchanges-in-canceling-orders-for-ftx-and-celsius-tokens",
           "publishedOn": "2022-11-18T14:42:04.000Z",
-          "wordCount": 6044,
+          "wordCount": 6174,
           "title": "Bitstamp Follows Other Exchanges in Canceling Orders for FTX and Celsius Tokens",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/12/shutterstock_1309301500-gID_6.jpg",
@@ -51,12 +81,27 @@
           "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/12/shutterstock_1309301500-gID_6.jpg"
         },
         {
+          "id": "https://decrypt.co/videos/live-events/PEhewv2h/edward-snowden-talks-tornado-cash-sanctions-ethereum-merge-daos-and-nfts-at-camp-decrypt-2022",
+          "author": null,
+          "description": "In an extensive talk with Decrypt's Dan Roberts at Camp Decrypt in Napa CA in October, Edward Snowden gave his candid views on the Ethereum merge, the sanctioning of Ethereum mixer Tornado Cash by the U.S. government, the privacy shortcomings of Bitcoin and Ethereum, and his view on using DAOs to source tips from whistleblowers.",
+          "link": "https://decrypt.co/videos/live-events/PEhewv2h/edward-snowden-talks-tornado-cash-sanctions-ethereum-merge-daos-and-nfts-at-camp-decrypt-2022",
+          "publishedOn": "2022-11-18T13:54:51.000Z",
+          "wordCount": 4493,
+          "title": "Edward Snowden Talks Tornado Cash Sanctions, Ethereum Merge, DAOs and NFTs at Camp Decrypt 2022",
+          "enclosure": {
+            "url": "https://cdn.jwplayer.com/v2/media/PEhewv2h/poster.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.jwplayer.com/v2/media/PEhewv2h/poster.jpg"
+        },
+        {
           "id": "https://decrypt.co/?p=115018",
           "author": "Tim Hakki",
           "description": "GBTC is trading at a major discount to Bitcoin, removing the appeal of the prominent investment vehicle.",
           "link": "https://decrypt.co/115018/grayscales-bitcoin-trust-hits-record-low-43-discount-after-ftx-crisis",
           "publishedOn": "2022-11-18T13:24:35.000Z",
-          "wordCount": 6223,
+          "wordCount": 6353,
           "title": "Grayscale’s Bitcoin Trust Hits Record-Low 43% Discount After FTX Crisis",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/01/grayscale-2021-01-01-e1611311712492-gID_1.jpg",
@@ -71,7 +116,7 @@
           "description": "The crypto  lender Genesis paused withdrawals from its lending arm on Wednesday, citing “abnormal withdrawal requests.”",
           "link": "https://decrypt.co/115017/genesis-sought-1b-bailout-investors-before-halting-withdrawals-report",
           "publishedOn": "2022-11-18T10:15:21.000Z",
-          "wordCount": 5998,
+          "wordCount": 6128,
           "title": "Genesis Sought $1B Bailout From Investors Before Halting Withdrawals: Report",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/11/genesis-trading-crypto-gID_1.jpg",
@@ -86,7 +131,7 @@
           "description": "Nearly all of FTX’s sports and esports partners have bolted for the doors as the exchange implodes.",
           "link": "https://decrypt.co/114975/crypto-sports-marketing-deals-crumbling-cancelled-failed-ftx",
           "publishedOn": "2022-11-18T07:01:02.000Z",
-          "wordCount": 6961,
+          "wordCount": 7091,
           "title": "Here Are the Sports Marketing Deals Crumbling Along With FTX",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/11/Deflated-Basketball-shutterstock_1712638846-gID_4.jpg",
@@ -101,7 +146,7 @@
           "description": "An FTX filing says the embattled ex-CEO moved assets after declaring bankruptcy, giving the island nation an edge.",
           "link": "https://decrypt.co/115008/ftx-bankruptcy-jurisdiction-fight-bahamas-regulator-directed-sbf-asset-move",
           "publishedOn": "2022-11-18T04:29:39.000Z",
-          "wordCount": 7177,
+          "wordCount": 7307,
           "title": "FTX Bankruptcy Jurisdiction Fight: Bahamas Regulators Now Confirm They Directed SBF to Move Assets",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/07/sam-bankman-fried-ftx-ceo-congress-gID_2.jpg",
@@ -116,7 +161,7 @@
           "description": "While it had no financial exposure to the fallen exchange, Metaplex appears to be suffering from reputational damage spreading to Solana.",
           "link": "https://decrypt.co/115002/solana-nft-protocol-metaplex-announces-layoffs-ftx-collapse",
           "publishedOn": "2022-11-18T02:01:59.000Z",
-          "wordCount": 6004,
+          "wordCount": 6134,
           "title": "Solana NFT Protocol Metaplex Announces Layoffs in Wake of FTX Collapse",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/09/metaplex-logo-gID_6.png",
@@ -131,7 +176,7 @@
           "description": "$4 billion in FTT tracked from Alameda to FTX aligns with reports of a loan—using customers funds—from the exchange to the trading desk.",
           "link": "https://decrypt.co/114985/ftx-catastrophe-linked-terra-collapse",
           "publishedOn": "2022-11-17T23:47:01.000Z",
-          "wordCount": 6120,
+          "wordCount": 6250,
           "title": "FTX Catastrophe Likely Triggered By Terra Collapse: Nansen",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/11/Blockchain-shutterstock_749922058-16x9-1-scaled-gID_1.jpg",
@@ -146,7 +191,7 @@
           "description": "Binance CEO Changpeng “CZ” Zhao says FTX’s Sam Bankman-Fried was never a rival.",
           "link": "https://decrypt.co/114974/cz-says-sam-bankman-fried-was-badmouthing-binance-in-dc-but-they-werent-in-a-battle",
           "publishedOn": "2022-11-17T22:31:14.000Z",
-          "wordCount": 5793,
+          "wordCount": 5923,
           "title": "CZ Says Sam Bankman-Fried Was ‘Badmouthing’ Binance in DC—But They Weren’t in a ‘Battle’",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/11/binancesbf-Cropped-gID_2.png",
@@ -161,7 +206,7 @@
           "description": "Following the epic meltdown of one of the biggest players in crypto, some within the industry are calling for “proof of reserves” to provide greater transparency—but it has its limitations.",
           "link": "https://decrypt.co/114977/proof-of-reserves-panacea-future-ftx-like-collapses",
           "publishedOn": "2022-11-17T22:29:25.000Z",
-          "wordCount": 6887,
+          "wordCount": 7017,
           "title": "Proof of Reserves Isn't a 'Panacea' for Future FTX-Like Collapses, Industry Leaders Caution",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/11/ftx-collapse-gID_2.jpeg",
@@ -191,7 +236,7 @@
           "description": "The UK’s Parliamentary Treasury Committee asked Binance for internal correspondence. It received a load of news articles instead.",
           "link": "https://decrypt.co/114966/uk-lawmakers-binance-ftx-collapse",
           "publishedOn": "2022-11-17T20:06:25.000Z",
-          "wordCount": 5867,
+          "wordCount": 5997,
           "title": "UK Lawmakers Don’t Buy Binance’s Evidence on FTX Collapse",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/11/cz-bloomberg-gID_2.jpg",
@@ -206,7 +251,7 @@
           "description": "Analysts at the investment bank have also noted that the stablecoin market is taking a beating.",
           "link": "https://decrypt.co/114942/gemini-okx-crypto-severe-outflows-jpmorgan",
           "publishedOn": "2022-11-17T19:22:55.000Z",
-          "wordCount": 6141,
+          "wordCount": 6271,
           "title": "Crypto Is Flowing Out of Exchanges: 'Severe' Outflows From Gemini, OKX and Crypto.com, Says JP Morgan",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/11/crypto-trading-tokens-exchanges-gID_1.jpeg",
@@ -221,7 +266,7 @@
           "description": "Warren, in a letter to FTX founder Sam Bankman-Fried, requested internal company documents to help explain the crypto exchange’s eyebrow-raising practices.",
           "link": "https://decrypt.co/114958/senator-warren-ftx-books-officials",
           "publishedOn": "2022-11-17T19:03:03.000Z",
-          "wordCount": 6282,
+          "wordCount": 6412,
           "title": "Senator Warren Demands Details on FTX’s Books, 'Officials Responsible'",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/11/senator-elizabeth-warren-gID_6.jpeg",
@@ -236,7 +281,7 @@
           "description": "FTX has \"secured only a fraction of the digital assets,\" that it believes it owns, Ray said in an affidavit on Thursday.",
           "link": "https://decrypt.co/114946/ftx-how-much-money-crypto-employees-ceo-john-j-ray",
           "publishedOn": "2022-11-17T18:18:03.000Z",
-          "wordCount": 6777,
+          "wordCount": 6907,
           "title": "FTX Isn't Sure How Much Money It Has or How Many People It Employs: CEO John J. Ray",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/11/larry-david-ftx-ad-gID_4.jpg",
@@ -251,7 +296,7 @@
           "description": "Following music NFT drops with Diplo, Nas, and The Chainsmokers, Royal’s marketplace is finally live—and a mobile app is on the horizon, too.",
           "link": "https://decrypt.co/114868/3laus-royal-debuts-marketplace-bring-music-nfts-masses",
           "publishedOn": "2022-11-17T17:59:02.000Z",
-          "wordCount": 7710,
+          "wordCount": 7840,
           "title": "3LAU’s Royal Debuts Marketplace to Bring Music NFTs to the Masses",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/11/Justin-and-JD_1-Cropped-scaled-gID_4.jpg",
@@ -281,7 +326,7 @@
           "description": "Alameda Research played outside of liquidation rules on FTX, John J. Ray III claims in a new bankruptcy filing.",
           "link": "https://decrypt.co/114941/god-mode-sbf-alameda-secret-exemptions-ftx-liquidation",
           "publishedOn": "2022-11-17T17:12:50.000Z",
-          "wordCount": 6112,
+          "wordCount": 6242,
           "title": "'God Mode': SBF’s Alameda Had 'Secret Exemptions' on FTX, New CEO Alleges",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/11/sbf-sleeping-ftx-alameda-gID_4.jpg",
@@ -296,7 +341,7 @@
           "description": "Binance has yet to provide an explanation for the move, which has been mirrored by other major crypto exchanges.",
           "link": "https://decrypt.co/114934/binance-temporarily-suspends-deposits-usdc-usdt-solana",
           "publishedOn": "2022-11-17T15:37:51.000Z",
-          "wordCount": 6134,
+          "wordCount": 6264,
           "title": "Binance Temporarily Suspends Deposits of USDC, USDT on Solana",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/11/tether-circle-stablecoins-gID_6.jpg",
@@ -311,7 +356,7 @@
           "description": "With court filings to reveal the top 50 creditors this week, Chainalysis has announced that it, too, is owed money due to the FTX collapse.",
           "link": "https://decrypt.co/114931/chainalysis-confirmed-ftx-creditor-bankruptcy-case",
           "publishedOn": "2022-11-17T14:53:55.000Z",
-          "wordCount": 5722,
+          "wordCount": 5852,
           "title": "Chainalysis Confirmed as FTX Creditor in Bankruptcy Case",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/03/chainalysis-gID_4.jpeg",
@@ -326,7 +371,7 @@
           "description": "Zhao also said he told Bankman-Fried to “put on a suit, go to D.C. and start answering questions.”",
           "link": "https://decrypt.co/114923/only-a-psychopath-can-write-that-tweet-binance-ceo-cz-sbf",
           "publishedOn": "2022-11-17T14:32:21.000Z",
-          "wordCount": 6244,
+          "wordCount": 6374,
           "title": "'Only a Psychopath Can Write That Tweet': Binance CEO CZ on SBF",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/11/binancesbf-Cropped-gID_4.png",
@@ -341,7 +386,7 @@
           "description": "FTX’s new chief executive has blasted his predecessor in scathing documents filed as part of the exchange’s bankruptcy proceedings.",
           "link": "https://decrypt.co/114919/former-enron-liquidator-finds-complete-absence-of-trustworthy-financial-information-ftx",
           "publishedOn": "2022-11-17T13:45:15.000Z",
-          "wordCount": 6061,
+          "wordCount": 6191,
           "title": "Former Enron Liquidator Finds 'Complete Absence of Trustworthy Financial Information' at FTX",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/11/SamBankman-Fried-wiki-gID_2.jpg",
@@ -356,7 +401,7 @@
           "description": "Genesis Global Trading, one of the largest crypto lenders and institutions, announced on November 16 that they would \"temporarily suspend redemptions and new loan originations in the lending business.\"",
           "link": "https://decrypt.co/resources/genesis-lending",
           "publishedOn": "2022-11-17T13:05:22.000Z",
-          "wordCount": 5809,
+          "wordCount": 5939,
           "title": "What the Genesis Loan Suspension Teaches Us About Crypto Lending",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/11/loan-crypto-gID_1-pID_5.png",
@@ -371,7 +416,7 @@
           "description": "Seven years into development, the blockchain system failed to meet the requirements for Australia’s biggest stock exchange ASX.",
           "link": "https://decrypt.co/114909/australias-biggest-stock-exchange-shelves-blockchain-project-writes-off-170m",
           "publishedOn": "2022-11-17T11:53:17.000Z",
-          "wordCount": 5842,
+          "wordCount": 5972,
           "title": "Australia’s Biggest Stock Exchange Shelves Blockchain Project, Writes Off $170M",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/11/asx-australia-blockchain-crypto-gID_6.jpg",
@@ -386,7 +431,7 @@
           "description": "El Salvador will reportedly begin buying one Bitcoin every day, according to the country's president Nayib Bukele.",
           "link": "https://decrypt.co/114897/el-salvador-start-buying-1-bitcoin-every-day-says-president-bukele",
           "publishedOn": "2022-11-17T11:07:12.000Z",
-          "wordCount": 5951,
+          "wordCount": 6081,
           "title": "El Salvador to Start Buying 1 Bitcoin Every Day Says President Bukele",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/10/el-salvador-nayib-bukele-gID_6.jpeg",
@@ -401,7 +446,7 @@
           "description": "Crusoe Energy is scooping up some of Compute North’s assets following the latter’s bankruptcy filing back in September.",
           "link": "https://decrypt.co/114900/bankrupt-compute-north-sells-1-55m-assets-flared-gas-bitcoin-miner",
           "publishedOn": "2022-11-17T10:44:00.000Z",
-          "wordCount": 5665,
+          "wordCount": 5795,
           "title": "Bankrupt Compute North Sells $1.55M in Assets to Flared-Gas Bitcoin Miner",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/06/bitcoin-mining-operations-gID_1.jpg",
@@ -416,7 +461,7 @@
           "description": "The Ava Labs founder said that the real damage from FTX was in propping up the price of tokens to borrow against them.",
           "link": "https://decrypt.co/114893/avalanche-founder-says-company-has-very-little-exposure-ftx",
           "publishedOn": "2022-11-17T09:17:33.000Z",
-          "wordCount": 6119,
+          "wordCount": 6249,
           "title": "Avalanche Founder Says Company Has ‘Very Little Exposure’ to FTX",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/08/avalanche-avax-1-gID_2.jpg",
@@ -431,7 +476,7 @@
           "description": "“There will be no transaction with FTX, I think that is quite obvious,” Voyager's attorney said at a hearing on Tuesday.",
           "link": "https://decrypt.co/114886/voyager-shocked-disgruntled-dismayed-ftx-bankruptcy",
           "publishedOn": "2022-11-17T00:44:47.000Z",
-          "wordCount": 6134,
+          "wordCount": 6264,
           "title": "Voyager 'Shocked, Disgruntled, Dismayed' by FTX Bankruptcy as Crypto Lender Searches for Another Buyer",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/07/voyager-digital-crypto-gID_2.jpg",
@@ -446,7 +491,7 @@
           "description": "FTX’s new post-bankruptcy leader may not be a fan of Sam Bankman-Fried’s social media transparency.",
           "link": "https://decrypt.co/114888/new-ftx-ceo-distances-company-from-sbf-after-founders-ongoing-tweets",
           "publishedOn": "2022-11-17T00:41:08.000Z",
-          "wordCount": 6457,
+          "wordCount": 6587,
           "title": "New FTX CEO Distances Company From SBF After Controversial DMs Surface",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/11/sbf-ftx-decrypt-gID_5.jpeg",
@@ -461,7 +506,7 @@
           "description": "Following FTX’s collapse, assets on its NFT marketplace can’t be withdrawn—and some FTX-minted NFTs are broken too.",
           "link": "https://decrypt.co/114856/coachella-tomorrowland-solana-nfts-stuck-ftx",
           "publishedOn": "2022-11-17T00:20:05.000Z",
-          "wordCount": 7236,
+          "wordCount": 7366,
           "title": "Coachella NFTs Sold for $1.5M—Now They’re Stuck on FTX",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/02/coachella-nfts-solana-ftx-gID_4.png",
@@ -476,7 +521,7 @@
           "description": "The Bahamas Securities Commission wants to take control of FTX’s liquidation. But FTX wants the process to take place in the U.S.",
           "link": "https://decrypt.co/114878/bahamas-control-ftx-bankruptcy",
           "publishedOn": "2022-11-16T23:47:26.000Z",
-          "wordCount": 5898,
+          "wordCount": 6028,
           "title": "Bahamas Regulators Want Control of FTX Bankruptcy Proceedings",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/11/nussau-bahamas-crypto-gID_4.jpg",
@@ -491,7 +536,7 @@
           "description": "The Treasury Secretary reiterated concerns that trouble in the crypto market could eventually \"raise broader financial stability concerns.\"",
           "link": "https://decrypt.co/114873/janet-yellen-ftx-meltdown-effective-oversight-crypto",
           "publishedOn": "2022-11-16T23:33:10.000Z",
-          "wordCount": 6362,
+          "wordCount": 6492,
           "title": "Janet Yellen: FTX Meltdown Shows Need for 'More Effective Oversight' of Crypto",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/11/janet-yellen-gID_1.jpeg",
@@ -506,7 +551,7 @@
           "description": "Founder Max Boonen says the gesture is intended to “support the wider market.”",
           "link": "https://decrypt.co/114855/crypto-liquidity-provider-b2c2-offers-to-purchase-loans-from-genesis",
           "publishedOn": "2022-11-16T21:11:33.000Z",
-          "wordCount": 5836,
+          "wordCount": 5966,
           "title": "Crypto Liquidity Provider B2C2 Offers to Purchase Loans from Genesis",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/11/B2C2-Genesis-16x9-1-gID_6.jpg",
@@ -521,7 +566,7 @@
           "description": "Bored Ape Yacht Club NFTs are sinking in value this month, with the floor price now down 84% from the April peak.",
           "link": "https://decrypt.co/114718/justin-bieber-bored-ape-nft-now-69k",
           "publishedOn": "2022-11-16T19:57:05.000Z",
-          "wordCount": 7266,
+          "wordCount": 7396,
           "title": "Justin Bieber Paid $1.3 Million for a Bored Ape NFT. It’s Now Worth $69K",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/11/justin-bieber-gID_4.jpeg",
@@ -536,7 +581,7 @@
           "description": "Gemini went down today for less than an hour after announcing its lending partner was pausing withdrawals.",
           "link": "https://decrypt.co/114843/gemini-exchange-outage-spooks-investors",
           "publishedOn": "2022-11-16T19:18:30.000Z",
-          "wordCount": 5862,
+          "wordCount": 5992,
           "title": "Gemini Restores Service to Exchange After Outage Spooks Investors",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/06/gemini-crypto-exchange-winklevoss-gID_4.png",
@@ -551,7 +596,7 @@
           "description": "With Genesis, one of Gemini's lending providers, suspending withdrawals, rates on Aave went haywire as speculators fled GUSD or shorted it.",
           "link": "https://decrypt.co/114809/gemini-dollar-lending-rates-spiked-high-73-aave-amid-genesis-freeze",
           "publishedOn": "2022-11-16T17:14:43.000Z",
-          "wordCount": 6127,
+          "wordCount": 6257,
           "title": "Gemini Dollar Lending Rates Spiked as High as 73% on Aave Amid Genesis Freeze",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/09/shutterstock_1263656875-gID_6.jpg",
@@ -566,7 +611,7 @@
           "description": "Sam Bankman-Fried is facing a class action lawsuit from FTX investors alleging the firm’s yield-bearing crypto accounts broke Florida laws.",
           "link": "https://decrypt.co/114826/ftx-lawsuit-takes-aim-larry-david-tom-brady-promoting-crypto-exchange",
           "publishedOn": "2022-11-16T16:30:15.000Z",
-          "wordCount": 5995,
+          "wordCount": 6125,
           "title": "FTX Lawsuit Takes Aim at Larry David, Tom Brady for Promoting Crypto Exchange",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/02/tom-brady-gID_5.jpeg",
@@ -581,7 +626,7 @@
           "description": "Lawmakers want to hear from Sam Bankman-Fried and others involved following the “tremendous harm” the FTX collapse posed to investors.",
           "link": "https://decrypt.co/114816/house-committee-sbf-binance-testify-ftx-collapse",
           "publishedOn": "2022-11-16T16:07:32.000Z",
-          "wordCount": 5729,
+          "wordCount": 5859,
           "title": "House Committee Calls on SBF, Binance to Testify on FTX Collapse",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/05/shutterstock_5672319101-gID_1.jpg",
@@ -596,7 +641,7 @@
           "description": "FTX’s largest-disclosed sponsorship is on pause after the exchange declared bankruptcy on Friday.",
           "link": "https://decrypt.co/114821/tsm-suspends-210m-ftx-naming-rights-deal",
           "publishedOn": "2022-11-16T15:48:24.000Z",
-          "wordCount": 6211,
+          "wordCount": 6341,
           "title": "Esports Giant TSM Suspends $210M FTX Naming Rights Deal",
           "enclosure": {
             "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/06/ftx-ceo-tsm-esports-gID_2.png",
@@ -604,36 +649,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2021/06/ftx-ceo-tsm-esports-gID_2.png"
-        },
-        {
-          "id": "https://decrypt.co/?p=114774",
-          "author": "Liam J. Kelly",
-          "description": "Alongside the Series C round, Matter Labs is also open-sourcing its code for its zero-knowledge technology zkSync.",
-          "link": "https://decrypt.co/114774/matter-labs-raises-200m-scale-ethereum-zksync-solution",
-          "publishedOn": "2022-11-16T13:58:02.000Z",
-          "wordCount": 6213,
-          "title": "Matter Labs Raises $200M to Scale Ethereum With zkSync Solution",
-          "enclosure": {
-            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/11/zksync-interview-crypto-ethereum-gID_4.jpg",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/11/zksync-interview-crypto-ethereum-gID_4.jpg"
-        },
-        {
-          "id": "https://decrypt.co/?p=114801",
-          "author": "Liam J. Kelly",
-          "description": "Crypto exchange Gemini announced that there may be withdrawal delays to its Earn product due to its lending partner halting withdrawals.",
-          "link": "https://decrypt.co/114801/gemini-earn-warns-customers-likely-withdrawal-delays-due-genesis-lending-pause",
-          "publishedOn": "2022-11-16T13:47:36.000Z",
-          "wordCount": 5641,
-          "title": "Gemini Earn Warns Customers of Likely Withdrawal Delays Due to Genesis Lending Pause",
-          "enclosure": {
-            "url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/05/gemini-crypto-exchange-gID_5.jpg",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/05/gemini-crypto-exchange-gID_5.jpg"
         },
         {
           "id": "https://decrypt.co/videos/interviews/XTEZEmpn/ftx-meltdown-101-what-the-hell-happened-and-what-comes-next",
