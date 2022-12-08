@@ -6,12 +6,42 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=116781",
+          "author": "Jason Nelson",
+          "description": "Is it “game over” for Microsoft's purchase of Activision Blizzard, developers of Call of Duty?",
+          "link": "https://decrypt.co/116781/ftc-sues-to-stop-microsofts-activision-metaverse-deal",
+          "publishedOn": "2022-12-08T22:35:53.000Z",
+          "wordCount": 7182,
+          "title": "FTC Could Curb Microsoft's Metaverse Ambitions with Activision Lawsuit",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/01/call-of-duty-vanguard-gID_5.jpeg@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/01/call-of-duty-vanguard-gID_5.jpeg@png"
+        },
+        {
+          "id": "https://decrypt.co/?p=116780",
+          "author": "Mathew Di Salvo",
+          "description": "Crypto rose along with the U.S. stock market today.",
+          "link": "https://decrypt.co/116780/bitcoin-ethereum-jump-with-stocks-on-jobs-report-release",
+          "publishedOn": "2022-12-08T22:22:55.000Z",
+          "wordCount": 6564,
+          "title": "Bitcoin, Ethereum Jump With Stocks on Jobs Report Release",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/01/recoup-Bitcoin-gID_1.jpg@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/01/recoup-Bitcoin-gID_1.jpg@png"
+        },
+        {
           "id": "https://decrypt.co/?p=116768",
           "author": "Andrew Hayward",
           "description": "Amid complaints over its “malware” tool, as Art Blocks CEO Erick Calderon called it, the top NFT marketplace revises its stance.",
           "link": "https://decrypt.co/116768/opensea-changes-nft-royalties-creator-pushback",
           "publishedOn": "2022-12-08T20:28:39.000Z",
-          "wordCount": 8425,
+          "wordCount": 8417,
           "title": "OpenSea Again Changes Course on NFT Royalties After More Creator Pushback",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/12/opensea-logo-gID_1.jpeg@png",
@@ -26,7 +56,7 @@
           "description": "The mother of the fallen FTX founder says her retirement has “nothing to do with” the crypto scandal.",
           "link": "https://decrypt.co/116770/sam-bankman-fried-barbara-parents-stanford-law-teaching-break",
           "publishedOn": "2022-12-08T20:19:42.000Z",
-          "wordCount": 7003,
+          "wordCount": 6887,
           "title": "Sam Bankman-Fried's Lawyer Parents to Drop Teaching at Stanford in 2023: Report",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/10/lawsuit-shutterstock_774937243-16x9-1-gID_2.jpg@png",
@@ -41,7 +71,7 @@
           "description": "Senators Elizabeth Warren and Tina Smith also wrote letters demanding answers from the FDIC and the Office of the Comptroller of the Currency.",
           "link": "https://decrypt.co/116762/warren-fed-powell-banking-sector-crypto-ftx",
           "publishedOn": "2022-12-08T19:20:09.000Z",
-          "wordCount": 7038,
+          "wordCount": 6922,
           "title": "Senator Warren Wants the Fed to Answer for Banking Sector’s Ties to FTX",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/11/senator-elizabeth-warren-gID_6.jpeg@png",
@@ -56,7 +86,7 @@
           "description": "Ethereum core developers have targeted spring for the network’s upcoming Shanghai upgrade. But to get users their money, they may have to make some sacrifices.",
           "link": "https://decrypt.co/116763/ethereum-devs-staked-eth-withdrawals-shanghai-march-2023",
           "publishedOn": "2022-12-08T18:53:46.000Z",
-          "wordCount": 7451,
+          "wordCount": 7335,
           "title": "Ethereum Devs Plan to Enable Staked ETH Withdrawals by March 2023",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/05/ethereum-eth2-themerge-gID_1.jpg@png",
@@ -71,7 +101,7 @@
           "description": "Shibuya, which lets NFT owners interact with its original content, raised a seed round co-led by Andreessen Horowitz and Variant Fund.",
           "link": "https://decrypt.co/116749/pplpleasrs-shibuya-nft-video-platform-raises-6-9m-to-build-the-a24-of-web3",
           "publishedOn": "2022-12-08T15:28:07.000Z",
-          "wordCount": 7504,
+          "wordCount": 7388,
           "title": "Pplpleasr’s Shibuya NFT Video Platform Raises $6.9M to Build the 'A24 of Web3'",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/12/shibuya-white-rabbit-gID_4.png@png",
@@ -86,7 +116,7 @@
           "description": "A new directive aims to even up tax reporting in the EU for crypto operators, but some say the new requirements will burden many firms.",
           "link": "https://decrypt.co/116752/eu-level-playing-field-crypto-firms-uniform-tax-rules",
           "publishedOn": "2022-12-08T15:25:12.000Z",
-          "wordCount": 7095,
+          "wordCount": 6979,
           "title": "EU to 'Level Playing Field' for Crypto Firms With Uniform Tax Rules",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/12/europe-tax-crypto-gID_5.jpg@png",
@@ -101,7 +131,7 @@
           "description": "A judge in California has dismissed a lawsuit against Kim Kardashian and others for promoting crypto project EthereumMax.",
           "link": "https://decrypt.co/116734/kim-kardashian-floyd-mayweather-ethereummax-lawsuit-dismissed",
           "publishedOn": "2022-12-08T12:41:33.000Z",
-          "wordCount": 6801,
+          "wordCount": 6685,
           "title": "Kim Kardashian, Floyd Mayweather EthereumMax Lawsuit Dismissed",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/12/kim-kardashian-crypto-gID_4.jpg@png",
@@ -116,7 +146,7 @@
           "description": "It will only impact Celsius users who stored their funds in custody accounts rather than the firm's interest-bearing Earn program.",
           "link": "https://decrypt.co/116732/bankruptcy-judge-orders-celsius-return-44m-cryptocurrencies",
           "publishedOn": "2022-12-08T11:38:29.000Z",
-          "wordCount": 6972,
+          "wordCount": 6856,
           "title": "Bankruptcy Judge Orders Celsius to Return $44M in Cryptocurrencies",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/04/crypto-lender-celsius-bitcoin-business-gID_1.jpg@png",
@@ -131,7 +161,7 @@
           "description": "The price surge comes on the heels of news that Nexo's Earn Interest Product has been suspended in eight U.S. states.",
           "link": "https://decrypt.co/116731/nexo-token-ethereum-smart-staking-launch",
           "publishedOn": "2022-12-08T10:59:55.000Z",
-          "wordCount": 6861,
+          "wordCount": 6745,
           "title": "Nexo Token Up 5% on Ethereum 'Smart Staking' Launch",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/11/nexo-gID_1.jpg@png",
@@ -146,7 +176,7 @@
           "description": "The Coinbase CEO was less than optimistic about the crypto exchange's financials for 2022, citing the ongoing bear market and FTX's collapse.",
           "link": "https://decrypt.co/116730/coinbase-revenue-will-be-half-less-last-year-ceo-brian-armstrong",
           "publishedOn": "2022-12-08T10:38:21.000Z",
-          "wordCount": 6946,
+          "wordCount": 6830,
           "title": "Coinbase Revenue Will Be ‘Half or Less’ of Last Year’s: CEO Brian Armstrong",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/06/29603361687_f17737e171_k-gID_6.jpg@png",
@@ -161,7 +191,7 @@
           "description": "The Terra and Luna crash in May ultimately upended the entire crypto ecosystem—including SBF's failed exchange FTX.",
           "link": "https://decrypt.co/116727/nyc-prosecutors-probing-sam-bankman-frieds-role-in-terrausd-collapse-report",
           "publishedOn": "2022-12-08T02:33:10.000Z",
-          "wordCount": 7136,
+          "wordCount": 7020,
           "title": "NYC Prosecutors Probing Sam Bankman-Fried's Role in TerraUSD Collapse: Report",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/11/sbf-ftx-decrypt-gID_2.jpeg@png",
@@ -176,7 +206,7 @@
           "description": "After taking a harsher tone on Twitter, the Democratic leader left open the possibility of forcing the FTX founder to testify about the company's collapse.",
           "link": "https://decrypt.co/116699/maxine-waters-subpoena-sbf-report",
           "publishedOn": "2022-12-08T00:06:30.000Z",
-          "wordCount": 7437,
+          "wordCount": 7321,
           "title": "Congressional Subpoena for SBF 'Definitely on the Table', Says Rep. Maxine Waters",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/06/maxine-waters-crypto-congress-gID_4.jpg@png",
@@ -191,7 +221,7 @@
           "description": "Solana devs look to rebuild as they unwind DeFi on the network from Sam Bankman-Fried’s Serum, replace it with OpenBook, and plot a course for the future.",
           "link": "https://decrypt.co/116652/ftx-solana-defi-serum-starting-over",
           "publishedOn": "2022-12-07T22:38:48.000Z",
-          "wordCount": 10522,
+          "wordCount": 10406,
           "title": "Life After FTX: How Solana DeFi Is Starting Over—Without SBF’s Serum",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/12/solana-ftx-gID_4.jpeg@png",
@@ -206,7 +236,7 @@
           "description": "\"The Legend of Cockpunch\" is a fiction project from Ferriss, with all primary sale proceeds going to his charitable foundation.",
           "link": "https://decrypt.co/116682/author-tim-ferriss-tops-nft-sales-charts-with-cockpunch",
           "publishedOn": "2022-12-07T21:28:25.000Z",
-          "wordCount": 7227,
+          "wordCount": 7111,
           "title": "Author Tim Ferriss Tops NFT Sales Charts With 'Cockpunch'",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/12/cockpunch-nft-tim-ferriss-gID_4.png@png",
@@ -221,7 +251,7 @@
           "description": "Rep. Ritchie Torres (D-NY) accused Gensler of being “singularly responsible” for failing to prevent FTX’s demise.",
           "link": "https://decrypt.co/116686/congressman-ritchie-torres-calls-investigation-gensler-sec-role-ftx",
           "publishedOn": "2022-12-07T21:16:54.000Z",
-          "wordCount": 7255,
+          "wordCount": 7139,
           "title": "Congressman Calls for Investigation Into Gensler, SEC’s Role in FTX Collapse",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/08/gary-gensler-sec-bitcoin-gID_1.jpeg@png",
@@ -236,7 +266,7 @@
           "description": "The ex-CTO of the NFT ticketing platform and marketplace allegedly spent the money on luxury items and travel.",
           "link": "https://decrypt.co/116654/fbi-blockparty-co-founder-1-million-bitcoin",
           "publishedOn": "2022-12-07T20:39:45.000Z",
-          "wordCount": 6803,
+          "wordCount": 6687,
           "title": "Blockparty Co-Founder Stole $1 Million in Bitcoin and Cash From Company, FBI Alleges",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/12/bitcoin-crime-gID_4.jpeg@png",
@@ -251,7 +281,7 @@
           "description": "It’s history repeating itself.",
           "link": "https://decrypt.co/116663/dao-trying-buy-us-constitution-again",
           "publishedOn": "2022-12-07T20:14:44.000Z",
-          "wordCount": 7474,
+          "wordCount": 7358,
           "title": "A DAO Is Trying to Buy the US Constitution—Again",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/11/US-Constitution-gID_4.png@png",
@@ -266,7 +296,7 @@
           "description": "The new artificial intelligence tool has gone viral, with some elevating it above the blockchain as the next big thing in tech.",
           "link": "https://decrypt.co/116655/why-is-crypto-twitter-obsessed-with-chatgpt",
           "publishedOn": "2022-12-07T20:02:50.000Z",
-          "wordCount": 7918,
+          "wordCount": 7802,
           "title": "Why Is Crypto Twitter Obsessed with ChatGPT?",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/12/Artificial-Intelligence-gID_2.png@png",
@@ -281,7 +311,7 @@
           "description": "The fall of FTX has increased scrutiny of the verifiable assets held by crypto exchanges.",
           "link": "https://decrypt.co/116653/independent-audit-confirms-binances-bitcoin-fully-backed",
           "publishedOn": "2022-12-07T19:46:56.000Z",
-          "wordCount": 7070,
+          "wordCount": 6954,
           "title": "Independent Audit Confirms Binance’s Bitcoin Is More Than Fully Backed",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/10/binance-bitcoin-gID_5.jpg@png",
@@ -296,7 +326,7 @@
           "description": "Bitcoin dropped again today—taking other cryptocurrencies with it—as traders continue to sell risk assets.",
           "link": "https://decrypt.co/116646/bitcoin-ethereum-dogecoin-stocks-recession",
           "publishedOn": "2022-12-07T18:07:44.000Z",
-          "wordCount": 7236,
+          "wordCount": 7120,
           "title": "Bitcoin, Ethereum, Dogecoin Dip Along With Stocks as Recession Concerns Loom",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/10/bitcoin-etf-trading-volume-gID_2.jpeg@png",
@@ -311,7 +341,7 @@
           "description": "Negotiations between Sam Bankman-Fried’s crypto exchange and the 11-time Grammy award-winning pop star reportedly fell through in spring.",
           "link": "https://decrypt.co/116636/collapsed-ftx-sought-100m-sponsorship-deal-with-taylor-swift-report",
           "publishedOn": "2022-12-07T15:34:54.000Z",
-          "wordCount": 7036,
+          "wordCount": 6920,
           "title": "Collapsed FTX Sought $100M Sponsorship Deal With Taylor Swift: Report",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/12/sbf-taylor-swift-gID_4.jpeg@png",
@@ -326,7 +356,7 @@
           "description": "The EU’s Mairead McGuinness said that while some firms are onboard with new crypto rules, others oppose a “regulated, managed system.”",
           "link": "https://decrypt.co/116635/top-eu-commissioner-some-crypto-advocates-favor-dangerous-anti-regulation-path",
           "publishedOn": "2022-12-07T15:20:05.000Z",
-          "wordCount": 6789,
+          "wordCount": 6673,
           "title": "Top EU Commissioner: Some Crypto Advocates Favor 'Dangerous' Anti-Regulation Path",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/10/european-union-gID_6.jpeg@png",
@@ -341,7 +371,7 @@
           "description": "Tax reporting platform Koinly has joined the growing list of crypto firms reducing their headcount amid the “challenging” market environment.",
           "link": "https://decrypt.co/116626/crypto-tax-firm-koinly-lays-off-14-of-staff-amid-bear-market",
           "publishedOn": "2022-12-07T13:37:46.000Z",
-          "wordCount": 6938,
+          "wordCount": 6822,
           "title": "Crypto Tax Firm Koinly Lays Off 14% of Staff Amid Bear Market",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2018/12/shutterstock_5907955851-gID_1.jpg@png",
@@ -356,7 +386,7 @@
           "description": "The House Ethics Committee said it “found substantial evidence” that Cawthorn had promoted a cryptocurrency in which he had invested $150,000.",
           "link": "https://decrypt.co/116624/gop-congressman-cawthorn-fined-promoting-lets-go-brandon-cryptocurrency",
           "publishedOn": "2022-12-07T12:42:04.000Z",
-          "wordCount": 6934,
+          "wordCount": 6818,
           "title": "GOP Congressman Cawthorn Fined for Promoting ‘Let’s Go Brandon’ Cryptocurrency",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/04/Screen-Shot-2022-04-26-at-4.59.56-PM-e1651016464306-gID_2.png@png",
@@ -371,7 +401,7 @@
           "description": "The Luxembourg national linked to the OneCoin scheme is to be extradited to the U.S. on charges of wire fraud and money laundering.",
           "link": "https://decrypt.co/116621/us-court-unseals-indictment-onecoin-crypto-queen-crisis-manager",
           "publishedOn": "2022-12-07T12:03:44.000Z",
-          "wordCount": 7231,
+          "wordCount": 7115,
           "title": "US Court Unseals Indictment of OneCoin Cryptoqueen's 'Crisis Manager'",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/12/onecoin-crypto-gID_1.jpg@png",
@@ -386,7 +416,7 @@
           "description": "Hedge fund Fir Tree Capital is suing Grayscale over the latter's Bitcoin Trust product, which is trading at a 43% discount as of Tuesday.",
           "link": "https://decrypt.co/116619/grayscale-faces-lawsuit-gbtc-discount-plunges-record-low-43",
           "publishedOn": "2022-12-07T11:24:15.000Z",
-          "wordCount": 7201,
+          "wordCount": 7085,
           "title": "Grayscale Faces Lawsuit as GBTC Plunges to Record Low 43% Discount",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/09/grayscale-bitcoin-gbtc-fund-gID_5.jpg@png",
@@ -401,7 +431,7 @@
           "description": "A year after launching its CBDC, the Central Bank of Nigeria has capped cash withdrawals to get more people to go cashless.",
           "link": "https://decrypt.co/116616/nigeria-limits-cash-withdrawals-45-day-cbdc-digital-banking-push",
           "publishedOn": "2022-12-07T10:06:11.000Z",
-          "wordCount": 6839,
+          "wordCount": 6723,
           "title": "Nigeria Limits Cash Withdrawals to $45 per Day in CBDC, Digital Banking Push",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/12/nigeria-crypto-cbdc-gID_4.jpg@png",
@@ -461,7 +491,7 @@
           "description": "The MP3 player from the ‘90s is marking its return with a push into the blockchain music scene.",
           "link": "https://decrypt.co/116598/og-music-app-winamp-adds-ethereum-and-polygon-music-nft-support",
           "publishedOn": "2022-12-07T00:57:34.000Z",
-          "wordCount": 7110,
+          "wordCount": 6994,
           "title": "O.G. Audio App Winamp Adds Ethereum and Polygon Music NFT Support",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/12/Winamp-2-gID_6.jpg@png",
@@ -476,7 +506,7 @@
           "description": "The FTX-linked trading firm made a number of unorthodox investments in the months leading up to its stunning collapse.",
           "link": "https://decrypt.co/116593/knockoff-lotions-weight-loss-drugs-chinese-news-sites-inside-alamedas-investment-portfolio",
           "publishedOn": "2022-12-06T23:31:30.000Z",
-          "wordCount": 7172,
+          "wordCount": 7056,
           "title": "Knockoff Lotions, Weight Loss Drugs, Chinese News Sites: Inside Alameda’s Investment Portfolio",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/11/sbf-caroline-gID_4.jpg@png",
@@ -491,7 +521,7 @@
           "description": "APE staking rewards are coming soon, and the price is rising as token and NFT holders prepare to start earning.",
           "link": "https://decrypt.co/116562/apecoin-staking-32-million-ethereum-bored-ape-token",
           "publishedOn": "2022-12-06T22:35:18.000Z",
-          "wordCount": 7436,
+          "wordCount": 7320,
           "title": "ApeCoin Up 6% as Holders Stake $32M in Ethereum Bored Ape Token",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/03/apecoin-bored-ape-yacht-club-gID_1.png@png",
@@ -506,7 +536,7 @@
           "description": "Mark S. Cohen helped take down El Chapo and recently represented Maxwell.",
           "link": "https://decrypt.co/116578/sam-bankman-fried-says-he-hired-top-new-york-lawyer",
           "publishedOn": "2022-12-06T22:30:26.000Z",
-          "wordCount": 6855,
+          "wordCount": 6739,
           "title": "Sam Bankman-Fried Says He Hired Ghislaine Maxwell's Lawyer",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/12/image-gID_4.png@png",
@@ -521,7 +551,7 @@
           "description": "Electronic musicians Aoki and Justin “3LAU” Blau will use their Ethereum NFTs as their alter egos to become Punx.",
           "link": "https://decrypt.co/116571/djs-steve-aoki-3lau-form-cryptopunks-supergroup",
           "publishedOn": "2022-12-06T22:09:16.000Z",
-          "wordCount": 7973,
+          "wordCount": 7857,
           "title": "DJs Steve Aoki and 3LAU Form CryptoPunks Supergroup",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/12/punx-aoki-3lau-photos-gID_4.png@png",
@@ -536,7 +566,7 @@
           "description": "Sports tokens have taken off in popularity, if not in value.",
           "link": "https://decrypt.co/116563/spain-fan-token-tanks-following-world-cup-loss",
           "publishedOn": "2022-12-06T20:44:44.000Z",
-          "wordCount": 7071,
+          "wordCount": 6955,
           "title": "Spain Fan Token Tanks Following World Cup Loss",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/11/Deflated-Soccer-Ball-shutterstock_1053297176-gID_2.jpg@png",
@@ -551,7 +581,7 @@
           "description": "The South American nation was set to become a Bitcoin mining paradise—but lawmakers have pumped the brakes.",
           "link": "https://decrypt.co/116550/paraguay-shelves-crypto-law",
           "publishedOn": "2022-12-06T19:53:25.000Z",
-          "wordCount": 6935,
+          "wordCount": 6819,
           "title": "Paraguay Lawmakers Shelve Hotly Debated 'Crypto Law'",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/12/paraguay-gID_1.jpeg@png",
@@ -566,7 +596,7 @@
           "description": "“No healthy business can be destroyed by a tweet,” Changpeng Zhao says to accusations that he caused the FTX collapse.",
           "link": "https://decrypt.co/116548/ftxs-sam-bankman-fried-was-a-master-manipulator-says-binance-ceo-cz",
           "publishedOn": "2022-12-06T19:41:16.000Z",
-          "wordCount": 7421,
+          "wordCount": 7305,
           "title": "FTX’s Sam Bankman-Fried Was a ‘Master Manipulator,’ Says Binance CEO CZ",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/12/CZSBF-gID_2.png@png",
@@ -581,7 +611,7 @@
           "description": "Liquidators can now subpoena “any recorded information, including books, documents, records, and papers” related to the hedge fund since 2012.",
           "link": "https://decrypt.co/116545/bankruptcy-judge-subpoenas-three-arrows",
           "publishedOn": "2022-12-06T19:33:26.000Z",
-          "wordCount": 7598,
+          "wordCount": 7482,
           "title": "Bankruptcy Judge Approves Subpoenas for Three Arrows Co-Founders",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/01/blockvest-sec-court-judge-sanctions-gID_4.jpg@png",
@@ -621,21 +651,6 @@
           "imageUrl": "https://cdn.jwplayer.com/v2/media/c4lrMB0e/poster.jpg"
         },
         {
-          "id": "https://decrypt.co/videos/live-events/z6m8NyuF/the-crypties-awards-2022-people-of-crypto-wins-metaverse-event-of-the-year",
-          "author": null,
-          "description": "Simone Berry and Akbar Hamid accepted the Cryptie for People of Crypto's Metaverse Pride Parade from presenter Toni Thai Sterrett of Bad Grrls Creative Club at the inaugural Crypties Awards from Decrypt Studios in Miami on November 30. The other nominees in the category were Decentraland's Metaverse Fashion Week and Heal from The Sandbox and Code Green.",
-          "link": "https://decrypt.co/videos/live-events/z6m8NyuF/the-crypties-awards-2022-people-of-crypto-wins-metaverse-event-of-the-year",
-          "publishedOn": "2022-12-06T17:34:44.000Z",
-          "wordCount": 5546,
-          "title": "The Crypties Awards 2022: People of Crypto Wins Metaverse Event of the Year",
-          "enclosure": {
-            "url": "https://cdn.jwplayer.com/v2/media/z6m8NyuF/poster.jpg",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.jwplayer.com/v2/media/z6m8NyuF/poster.jpg"
-        },
-        {
           "id": "https://decrypt.co/videos/live-events/dLlerLlT/the-crypties-2022-doodles-collab-with-shopify-wins-mainstream-award",
           "author": null,
           "description": "Shirley Cedeno and Akbar Hamid accepted the Cryptie on behalf of Doodles from presenters Igor Lilic and Gabriela Ramos Lilic of Breakout at the inaugural Crypties Awards from Decrypt Studios in Miami on November 30. The other nominees in the category were RTFKT and Nike, Gmoney and Adidas, Tiffany and CryptoPunks, and TIMEpieces.",
@@ -649,6 +664,21 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.jwplayer.com/v2/media/dLlerLlT/poster.jpg"
+        },
+        {
+          "id": "https://decrypt.co/videos/live-events/z6m8NyuF/the-crypties-awards-2022-people-of-crypto-wins-metaverse-event-of-the-year",
+          "author": null,
+          "description": "Simone Berry and Akbar Hamid accepted the Cryptie for People of Crypto's Metaverse Pride Parade from presenter Toni Thai Sterrett of Bad Grrls Creative Club at the inaugural Crypties Awards from Decrypt Studios in Miami on November 30. The other nominees in the category were Decentraland's Metaverse Fashion Week and Heal from The Sandbox and Code Green.",
+          "link": "https://decrypt.co/videos/live-events/z6m8NyuF/the-crypties-awards-2022-people-of-crypto-wins-metaverse-event-of-the-year",
+          "publishedOn": "2022-12-06T17:34:44.000Z",
+          "wordCount": 5546,
+          "title": "The Crypties Awards 2022: People of Crypto Wins Metaverse Event of the Year",
+          "enclosure": {
+            "url": "https://cdn.jwplayer.com/v2/media/z6m8NyuF/poster.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.jwplayer.com/v2/media/z6m8NyuF/poster.jpg"
         },
         {
           "id": "https://decrypt.co/videos/live-events/nQuIgj4l/the-crypties-awards-2022-lens-protocol-wins-defi-project-of-the-year",
@@ -686,7 +716,7 @@
           "description": "The major record label continues its streak of Web3 partnerships by teaming with a new music and collectibles platform built on Polygon.",
           "link": "https://decrypt.co/116533/warner-music-group-polygon-music-nfts-lgnd",
           "publishedOn": "2022-12-06T16:01:02.000Z",
-          "wordCount": 7381,
+          "wordCount": 7265,
           "title": "Warner Music Group to Release Polygon Music NFTs Through LGND Platform",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/05/concert-gID_1.jpg@png",
@@ -701,7 +731,7 @@
           "description": "Following hefty pushback from the crypto community last month, ConsenSys has updated and clarified how it uses MetaMask and Infura data.",
           "link": "https://decrypt.co/116524/consensys-updates-privacy-policy-for-metamask-infura-after-community-pushback",
           "publishedOn": "2022-12-06T14:47:57.000Z",
-          "wordCount": 6684,
+          "wordCount": 6568,
           "title": "ConsenSys Updates Privacy Policy for MetaMask, Infura After Community Pushback",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/11/consensys-crypto-gID_1.jpg@png",
@@ -709,36 +739,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/11/consensys-crypto-gID_1.jpg@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=116526",
-          "author": "Andrew Asmakov",
-          "description": "Former CFTC Commissioner Brian Quintenz has accepted the full-time position as the head of policy at crypto VC giant a16z.",
-          "link": "https://decrypt.co/116526/former-cftc-commissioner-takes-up-head-of-policy-role-at-andreessen-horowitz",
-          "publishedOn": "2022-12-06T14:00:14.000Z",
-          "wordCount": 7050,
-          "title": "Former CFTC Commissioner Takes Up Head of Policy Role at Andreessen Horowitz",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/10/andreessen-horowitz-crypto-gID_2.jpg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/10/andreessen-horowitz-crypto-gID_2.jpg@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=116521",
-          "author": "Sujith Somraaj",
-          "description": "With Morgan Stanley’s downgrade hamstringing Silvergate shares, the firm's CEO issued a note to \"set the record straight\" about the company.",
-          "link": "https://decrypt.co/116521/silvergate-ceo-tackles-misinformation-short-sellers-stock-downgrade",
-          "publishedOn": "2022-12-06T13:05:35.000Z",
-          "wordCount": 6991,
-          "title": "Silvergate CEO Tackles 'Misinformation', Short Sellers Amid Stock Downgrade",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/10/silvergate-crypto-bank-gID_1.jpg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/10/silvergate-crypto-bank-gID_1.jpg@png"
         },
         {
           "id": "https://decrypt.co/videos/live-events/uelkvd51/blocknative-ceo-matt-cutler-at-0xpo-crossroads",
