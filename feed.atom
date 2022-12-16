@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-16T19:06:26.733Z</id>
+    <id>urn:2022-12-16T20:08:30.254Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-16T19:06:26.733Z</updated>
+    <updated>2022-12-16T20:08:30.254Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Solana DeFi Exchange Raydium Hacked for Over $2 Million]]></title>
+        <id>https://decrypt.co/?p=117455</id>
+        <link href="https://decrypt.co/117455/solana-raydium-hacked-2-million"/>
+        <updated>2022-12-16T19:36:59.000Z</updated>
+        <summary type="html"><![CDATA[The attacker appears to have used the protocol’s own private keys to drain liquidity pools. It’s unclear how they got them.]]></summary>
+        <author>
+            <name>Sander Lutz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Trump NFTs Top Sales Charts as Traders Buy In for the Lulz]]></title>
         <id>https://decrypt.co/?p=117433</id>
@@ -396,16 +406,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Binance Customer Withdrawals Exceed $3 Billion in 24 Hours]]></title>
-        <id>https://decrypt.co/?p=117155</id>
-        <link href="https://decrypt.co/117155/binance-customer-withdrawals-exceed-3-billion-in-24-hours"/>
-        <updated>2022-12-13T20:06:54.000Z</updated>
-        <summary type="html"><![CDATA[The exchange saw a total net outflow of over $3.6 billion in the past week as crypto firms and users pulled out funds.]]></summary>
-        <author>
-            <name>Kate Irwin</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[gm: Tezos Co-Founder Kathleen Breitman Sounds Off on FTX Collapse]]></title>
         <id>https://decrypt.co/videos/interviews/JzH21gHq/gm-tezos-co-founder-kathleen-breitman-sounds-off-on-ftx-collapse</id>
         <link href="https://decrypt.co/videos/interviews/JzH21gHq/gm-tezos-co-founder-kathleen-breitman-sounds-off-on-ftx-collapse"/>
@@ -476,21 +476,21 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Crypties 2022: Doodles Collab With Shopify Wins Mainstream Award]]></title>
-        <id>https://decrypt.co/videos/live-events/dLlerLlT/the-crypties-2022-doodles-collab-with-shopify-wins-mainstream-award</id>
-        <link href="https://decrypt.co/videos/live-events/dLlerLlT/the-crypties-2022-doodles-collab-with-shopify-wins-mainstream-award"/>
-        <updated>2022-12-06T17:34:44.000Z</updated>
-        <summary type="html"><![CDATA[Shirley Cedeno and Akbar Hamid accepted the Cryptie on behalf of Doodles from presenters Igor Lilic and Gabriela Ramos Lilic of Breakout at the inaugural Crypties Awards from Decrypt Studios in Miami on November 30. The other nominees in the category were RTFKT and Nike, Gmoney and Adidas, Tiffany and CryptoPunks, and TIMEpieces.]]></summary>
-        <author>
-            <name>Decrypt</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Crypties Awards 2022: People of Crypto Wins Metaverse Event of the Year]]></title>
         <id>https://decrypt.co/videos/live-events/z6m8NyuF/the-crypties-awards-2022-people-of-crypto-wins-metaverse-event-of-the-year</id>
         <link href="https://decrypt.co/videos/live-events/z6m8NyuF/the-crypties-awards-2022-people-of-crypto-wins-metaverse-event-of-the-year"/>
         <updated>2022-12-06T17:34:44.000Z</updated>
         <summary type="html"><![CDATA[Simone Berry and Akbar Hamid accepted the Cryptie for People of Crypto's Metaverse Pride Parade from presenter Toni Thai Sterrett of Bad Grrls Creative Club at the inaugural Crypties Awards from Decrypt Studios in Miami on November 30. The other nominees in the category were Decentraland's Metaverse Fashion Week and Heal from The Sandbox and Code Green.]]></summary>
+        <author>
+            <name>Decrypt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Crypties 2022: Doodles Collab With Shopify Wins Mainstream Award]]></title>
+        <id>https://decrypt.co/videos/live-events/dLlerLlT/the-crypties-2022-doodles-collab-with-shopify-wins-mainstream-award</id>
+        <link href="https://decrypt.co/videos/live-events/dLlerLlT/the-crypties-2022-doodles-collab-with-shopify-wins-mainstream-award"/>
+        <updated>2022-12-06T17:34:44.000Z</updated>
+        <summary type="html"><![CDATA[Shirley Cedeno and Akbar Hamid accepted the Cryptie on behalf of Doodles from presenters Igor Lilic and Gabriela Ramos Lilic of Breakout at the inaugural Crypties Awards from Decrypt Studios in Miami on November 30. The other nominees in the category were RTFKT and Nike, Gmoney and Adidas, Tiffany and CryptoPunks, and TIMEpieces.]]></summary>
         <author>
             <name>Decrypt</name>
         </author>
