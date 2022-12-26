@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-26T12:14:33.879Z</id>
+    <id>urn:2022-12-26T13:12:42.060Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-26T12:14:33.879Z</updated>
+    <updated>2022-12-26T13:12:42.060Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[North Korea-linked NFT Phishing Campaign Targets OpenSea, X2Y2, Rarible Users]]></title>
+        <id>https://decrypt.co/?p=117922</id>
+        <link href="https://decrypt.co/117922/north-korea-linked-nft-phishing-campaign-targets-opensea-x2y2-rarible-users"/>
+        <updated>2022-12-26T12:34:01.000Z</updated>
+        <summary type="html"><![CDATA[The phishing scheme used a web of over 500 fraudulent websites to extract key information from NFT users during the minting process.]]></summary>
+        <author>
+            <name>Will McCurdy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crypto Wallet Bitkeep Points to Malicious APK Packages for $8M Exploit]]></title>
         <id>https://decrypt.co/?p=117920</id>
@@ -396,16 +406,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Portion of Bitcoin Supply Held by Retail Investors Reaches All-Time High: Glassnode]]></title>
-        <id>https://decrypt.co/?p=117685</id>
-        <link href="https://decrypt.co/117685/portion-bitcoin-supply-held-retail-reaches-all-time-high-glassnode"/>
-        <updated>2022-12-20T22:47:47.000Z</updated>
-        <summary type="html"><![CDATA[Retail investors are accumulating more and more Bitcoin, according to blockchain data from Glassnode, setting a new peak.]]></summary>
-        <author>
-            <name>Andrew Throuvalas</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How Tezos Was Ahead of the Proof-of-Stake Merge: Web Summit 2022]]></title>
         <id>https://decrypt.co/videos/live-events/pvrRKj4z/how-tezos-was-ahead-of-the-proof-of-stake-merge-web-summit-2022</id>
         <link href="https://decrypt.co/videos/live-events/pvrRKj4z/how-tezos-was-ahead-of-the-proof-of-stake-merge-web-summit-2022"/>
@@ -496,21 +496,21 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Crypties 2022: Doodles Collab With Shopify Wins Mainstream Award]]></title>
-        <id>https://decrypt.co/videos/live-events/dLlerLlT/the-crypties-2022-doodles-collab-with-shopify-wins-mainstream-award</id>
-        <link href="https://decrypt.co/videos/live-events/dLlerLlT/the-crypties-2022-doodles-collab-with-shopify-wins-mainstream-award"/>
-        <updated>2022-12-06T17:34:44.000Z</updated>
-        <summary type="html"><![CDATA[Shirley Cedeno and Akbar Hamid accepted the Cryptie on behalf of Doodles from presenters Igor Lilic and Gabriela Ramos Lilic of Breakout at the inaugural Crypties Awards from Decrypt Studios in Miami on November 30. The other nominees in the category were RTFKT and Nike, Gmoney and Adidas, Tiffany and CryptoPunks, and TIMEpieces.]]></summary>
-        <author>
-            <name>Decrypt</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Crypties Awards 2022: People of Crypto Wins Metaverse Event of the Year]]></title>
         <id>https://decrypt.co/videos/live-events/z6m8NyuF/the-crypties-awards-2022-people-of-crypto-wins-metaverse-event-of-the-year</id>
         <link href="https://decrypt.co/videos/live-events/z6m8NyuF/the-crypties-awards-2022-people-of-crypto-wins-metaverse-event-of-the-year"/>
         <updated>2022-12-06T17:34:44.000Z</updated>
         <summary type="html"><![CDATA[Simone Berry and Akbar Hamid accepted the Cryptie for People of Crypto's Metaverse Pride Parade from presenter Toni Thai Sterrett of Bad Grrls Creative Club at the inaugural Crypties Awards from Decrypt Studios in Miami on November 30. The other nominees in the category were Decentraland's Metaverse Fashion Week and Heal from The Sandbox and Code Green.]]></summary>
+        <author>
+            <name>Decrypt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Crypties 2022: Doodles Collab With Shopify Wins Mainstream Award]]></title>
+        <id>https://decrypt.co/videos/live-events/dLlerLlT/the-crypties-2022-doodles-collab-with-shopify-wins-mainstream-award</id>
+        <link href="https://decrypt.co/videos/live-events/dLlerLlT/the-crypties-2022-doodles-collab-with-shopify-wins-mainstream-award"/>
+        <updated>2022-12-06T17:34:44.000Z</updated>
+        <summary type="html"><![CDATA[Shirley Cedeno and Akbar Hamid accepted the Cryptie on behalf of Doodles from presenters Igor Lilic and Gabriela Ramos Lilic of Breakout at the inaugural Crypties Awards from Decrypt Studios in Miami on November 30. The other nominees in the category were RTFKT and Nike, Gmoney and Adidas, Tiffany and CryptoPunks, and TIMEpieces.]]></summary>
         <author>
             <name>Decrypt</name>
         </author>
