@@ -6,6 +6,21 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=118491",
+          "author": "Mathew Di Salvo",
+          "description": "Mashinsky allegedly duped hundreds of thousands of investors out of billions of dollars of cryptocurrency.",
+          "link": "https://decrypt.co/118491/new-york-attorney-general-ex-celsius-boss-alex-mashinksy",
+          "publishedOn": "2023-01-05T16:21:46.000Z",
+          "wordCount": 6559,
+          "title": "New York Attorney General Sues Ex-Celsius Boss Alex Mashinksy for Fraud",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/08/alex-mashinsky-celsius-gID_4.jpeg@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/08/alex-mashinsky-celsius-gID_4.jpeg@png"
+        },
+        {
           "id": "https://decrypt.co/?p=118449",
           "author": "Andrew Hayward",
           "description": "Venly’s Avalanche app is now available to all Shopify merchants, letting them mint and sell NFTs through a no-code interface.",
@@ -621,21 +636,6 @@
           "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/07/ff7-gID_4.jpeg@png"
         },
         {
-          "id": "https://decrypt.co/?p=118245",
-          "author": "Andrew Hayward",
-          "description": "Cameron Winklevoss penned an open letter over funds reportedly owed to Gemini Earn customers; Barry Silbert denies the accusations.",
-          "link": "https://decrypt.co/118245/geminis-winklevoss-slams-dcg-ceo-silbert-bad-faith-stall-tactics-900m-locked-funds",
-          "publishedOn": "2023-01-02T17:07:16.000Z",
-          "wordCount": 7821,
-          "title": "Gemini’s Winklevoss Slams DCG CEO Silbert for ‘Bad Faith Stall Tactics’ Over $900M in Locked Funds",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/03/winklevoss-twins-crypto-gID_4.jpg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/03/winklevoss-twins-crypto-gID_4.jpg@png"
-        },
-        {
           "id": "https://decrypt.co/videos/interviews/Kt66k2pU/gm-zora-looks-beyond-nfts-to-dao-creation",
           "author": null,
           "description": "Zora sees itself as more than just an NFT marketplace; its next era is about helping people easily launch a DAO. Zora Co-founder Jacob Horne joined Dan Roberts and Andrew Hayward to talk competition, the NFT speculative boom and bust, how Zora and Nouns are connected, and why Zora thinks DAOs are the future. Watch Episode 27 of the gm podcast and make sure to subscribe on Apple or Spotify.",
@@ -709,21 +709,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.jwplayer.com/v2/media/1mGyiVzj/poster.jpg"
-        },
-        {
-          "id": "https://decrypt.co/videos/live-events/yar5ST9N/the-crypties-awards-2022-bored-ape-yacht-club-wins-nft-project-of-the-year",
-          "author": null,
-          "description": "Illa Da Producer accepted the Cryptie on behalf of Yuga Labs from presenter Alanna Roazzi-Laforet at the inaugural Crypties Awards from Decrypt Studios in Miami on November 30. The other nominees in the category were Moonbirds, Azuki, DeGods, and CloneX.",
-          "link": "https://decrypt.co/videos/live-events/yar5ST9N/the-crypties-awards-2022-bored-ape-yacht-club-wins-nft-project-of-the-year",
-          "publishedOn": "2022-12-07T04:17:45.000Z",
-          "wordCount": 5804,
-          "title": "The Crypties Awards 2022: Bored Ape Yacht Club Wins NFT Project of the Year",
-          "enclosure": {
-            "url": "https://cdn.jwplayer.com/v2/media/yar5ST9N/poster.jpg",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.jwplayer.com/v2/media/yar5ST9N/poster.jpg"
         }
       ]
     }
