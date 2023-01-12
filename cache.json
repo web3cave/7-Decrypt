@@ -6,12 +6,42 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=119009",
+          "author": "Max Koopsen",
+          "description": "The World Economic Forum’s 2023 Global Risks Report also highlighted the privacy challenge posed by the metaverse.",
+          "link": "https://decrypt.co/119009/wef-global-risks-report-flags-crypto-asset-bubble-as-polycrisis-looms",
+          "publishedOn": "2023-01-12T12:10:45.000Z",
+          "wordCount": 7268,
+          "title": "WEF Global Risks Report Flags Crypto Asset Bubble as 'Polycrisis' Looms",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/01/wef-world-economic-forum-gID_6.jpg@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/01/wef-world-economic-forum-gID_6.jpg@png"
+        },
+        {
+          "id": "https://decrypt.co/?p=119006",
+          "author": "Alys Key",
+          "description": "Amid official reports that the crypto lender is under investigation in Bulgaria, Nexo insisted that it has followed AML and KYC rules.",
+          "link": "https://decrypt.co/119006/nexo-under-investigation-bulgaria-alleged-money-laundering-tax-offenses",
+          "publishedOn": "2023-01-12T11:33:03.000Z",
+          "wordCount": 6973,
+          "title": "Nexo Under Investigation in Bulgaria for Alleged Money Laundering, Tax Offenses",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/06/nexo-logo-in-front-of-stock-chart-gID_5.jpg@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/06/nexo-logo-in-front-of-stock-chart-gID_5.jpg@png"
+        },
+        {
           "id": "https://decrypt.co/?p=119001",
           "author": "Will McCurdy",
           "description": "The credit rating agency pointed to reduced trading volumes at Coinbase as well as widespread scrutiny from regulators.",
           "link": "https://decrypt.co/119001/sp-downgrades-coinbase-debt-speculative-grade-fresh-layoffs",
           "publishedOn": "2023-01-12T10:57:24.000Z",
-          "wordCount": 7209,
+          "wordCount": 6922,
           "title": "S&#038;P Downgrades Coinbase Debt to ‘Speculative Grade’ Amid Fresh Layoffs",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/01/sp-global-crypto-gID_1.png@png",
@@ -26,7 +56,7 @@
           "description": "El Salvador’s legislative assembly has approved a digital securities bill that also paves the way for the issuance of Bitcoin bonds.",
           "link": "https://decrypt.co/118996/el-salvador-passes-key-bitcoin-legislation-making-way-volcano-bonds",
           "publishedOn": "2023-01-12T10:20:35.000Z",
-          "wordCount": 7855,
+          "wordCount": 7568,
           "title": "El Salvador Passes Key Bitcoin Legislation, Making Way for 'Volcano Bonds'",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/11/bitcoin-el-salvador-flag-concrete-gID_1.jpeg@png",
@@ -41,7 +71,7 @@
           "description": "Following Bitcoin and Ethereum, the broader crypto market capitalization jumped $26 billion ahead of today’s U.S. CPI report.",
           "link": "https://decrypt.co/118997/bitcoin-ethereum-hit-monthly-highs-inflation-report",
           "publishedOn": "2023-01-12T10:06:27.000Z",
-          "wordCount": 7546,
+          "wordCount": 7259,
           "title": "Bitcoin, Ethereum Hit Monthly Highs Ahead of Inflation Report",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/09/bitcoin-ethereum-gID_1.jpg@png",
@@ -56,7 +86,7 @@
           "description": "Apple’s mixed reality headset is reportedly on the horizon, but will its immersive vision tie into the Web3 metaverse?",
           "link": "https://decrypt.co/112030/apple-metaverse-everything-we-know-so-far",
           "publishedOn": "2023-01-11T22:40:44.000Z",
-          "wordCount": 9925,
+          "wordCount": 9638,
           "title": "Apple and the Metaverse: Everything We Know So Far",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/10/apple-store-logo-shutterstock-gID_4.png@png",
@@ -71,7 +101,7 @@
           "description": "The court-ordered cancellation opens the door for new bids to brand the sports arena.",
           "link": "https://decrypt.co/118978/ftx-arena-naming-rights-deal-officially-dead",
           "publishedOn": "2023-01-11T22:24:40.000Z",
-          "wordCount": 7824,
+          "wordCount": 7537,
           "title": "FTX Arena Naming Rights Deal Officially Dead",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/11/ftx-arena-miami-heat-gID_1.jpeg@png",
@@ -86,7 +116,7 @@
           "description": "Ava Labs is joining Amazon’s AWS Marketplace to accelerate institutional adoption of Avalanche.",
           "link": "https://decrypt.co/118972/amazon-web-services-users-can-now-launch-avalanche-blockchain-nodes",
           "publishedOn": "2023-01-11T21:28:18.000Z",
-          "wordCount": 7554,
+          "wordCount": 7267,
           "title": "Amazon Web Services Users Can Now Launch Avalanche Blockchain Nodes",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/07/Ava-Labs-Avalanche-President-John-Wu-gID_4.jpg@png",
@@ -101,7 +131,7 @@
           "description": "Gala Film appears to be working with both stars on documentary film projects, but deleted a tweet that helped spur a massive token surge.",
           "link": "https://decrypt.co/118968/gala-overzealous-tweet-the-rock-mark-wahlberg",
           "publishedOn": "2023-01-11T21:09:28.000Z",
-          "wordCount": 7857,
+          "wordCount": 7570,
           "title": "Gala Deletes 'Overzealous' Tweet About The Rock, Mark Wahlberg—Token Falls 13%",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/01/the-rock-mark-wahlberg-shutterstock-gID_4.png@png",
@@ -116,7 +146,7 @@
           "description": "FTX wants to keep its customer list private, arguing that making it public would prevent the company from later selling it.",
           "link": "https://decrypt.co/118957/ftx-customer-names-hurt-potential-reboot",
           "publishedOn": "2023-01-11T20:34:29.000Z",
-          "wordCount": 7626,
+          "wordCount": 7339,
           "title": "Revealing FTX Customer Names Would Hurt 'Potential Reboot', Bankruptcy Lawyer Says",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/01/ftx-keyboard-gID_2.jpeg@png",
@@ -131,7 +161,7 @@
           "description": "Republican Tom Emmer asked for clarity on the ban last August—but the Treasury Department says a lawsuit prevents it from answering.",
           "link": "https://decrypt.co/118949/treasury-questions-congressman-emmer-tornado-cash",
           "publishedOn": "2023-01-11T19:03:05.000Z",
-          "wordCount": 7592,
+          "wordCount": 7305,
           "title": "Treasury Dodges Questions From Congressman Over Tornado Cash",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/01/tom-emmer-1-gID_4.jpg@png",
@@ -146,7 +176,7 @@
           "description": "The company warned that customers have until January 25 to transfer or withdraw their coins.",
           "link": "https://decrypt.co/118951/robinhood-delist-bitcoin-sv-market-sell",
           "publishedOn": "2023-01-11T18:36:23.000Z",
-          "wordCount": 7795,
+          "wordCount": 7508,
           "title": "Robinhood to Delist Bitcoin SV, Market Sell Remaining User Balances",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/04/Robinhood-Bitcoin-gID_5.jpeg@png",
@@ -161,7 +191,7 @@
           "description": "After blocking retail crypto traders in 2018, Hong Kong is moving ahead with a new regulatory regime. Still, more guard rails are expected.",
           "link": "https://decrypt.co/118948/hong-kong-only-offer-highly-liquid-cryptocurrencies-retail-trading-report",
           "publishedOn": "2023-01-11T16:28:37.000Z",
-          "wordCount": 7360,
+          "wordCount": 7073,
           "title": "Hong Kong to Only Offer ‘Highly Liquid’ Cryptocurrencies for Retail Trading: Report",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/11/Hong-Kong-gID_4.jpg@png",
@@ -176,7 +206,7 @@
           "description": "Known for its popular hardware wallets, Ledger is now adding its first blockchain game to the Ledger Live software app.",
           "link": "https://decrypt.co/118867/web3-game-cometh-battle-launches-on-ledger-live-app",
           "publishedOn": "2023-01-11T16:01:02.000Z",
-          "wordCount": 7517,
+          "wordCount": 7230,
           "title": "Ledger Launches Web3 Game Cometh Battle via Live App",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/01/cometh-battle-pixel-art-gID_4.png@png",
@@ -191,7 +221,7 @@
           "description": "FTX has also identified more than 9 million customer accounts linked to roughly $120 billion associated transactions.",
           "link": "https://decrypt.co/118932/ftx-restructuring-team-has-clawed-back-5b-in-lost-assets",
           "publishedOn": "2023-01-11T15:09:14.000Z",
-          "wordCount": 7239,
+          "wordCount": 6952,
           "title": "FTX Restructuring Team Has Clawed Back $5B in Lost Assets",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/11/ftx-collapse-gID_5.jpeg@png",
@@ -206,7 +236,7 @@
           "description": "The highly-anticipated Game of Thrones’ NFT launch is already sold out despite delays and critics saying it lacked “creative vision.”",
           "link": "https://decrypt.co/118908/crypto-twitter-reacts-official-game-thrones-nfts-worst-thing-ive-ever-seen",
           "publishedOn": "2023-01-11T14:35:39.000Z",
-          "wordCount": 7993,
+          "wordCount": 7706,
           "title": "Crypto Twitter Reacts to Official 'Game of Thrones' NFTs: 'Worst Thing I've Ever Seen'",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/01/game-of-thrones-nfts-gID_4.png@png",
@@ -221,7 +251,7 @@
           "description": "The multiplayer jungle survival strategy game is inspired by a real-life gold rush—and puts gameplay first.",
           "link": "https://decrypt.co/117875/gold-fever-is-evolving-blockchain-gaming-beyond-play-to-earn",
           "publishedOn": "2023-01-11T14:01:02.000Z",
-          "wordCount": 9247,
+          "wordCount": 8960,
           "title": "Gold Fever Is Evolving Blockchain Gaming Beyond Play-To-Earn",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/01/gold-fever-01-gID_5.jpg@png",
@@ -236,7 +266,7 @@
           "description": "The Winklevoss-owned crypto exchange Gemini said returning customer assets remained its “highest priority.”",
           "link": "https://decrypt.co/118905/gemini-officially-terminates-crypto-earn-program-dcg-genesis-spat",
           "publishedOn": "2023-01-11T12:21:17.000Z",
-          "wordCount": 7215,
+          "wordCount": 6928,
           "title": "Gemini Officially Terminates Crypto Earn Program Amid DCG, Genesis Spat",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/11/sorry-closed-shut-down-xapo-bitcoin-venezuela-gID_5.jpg@png",
@@ -251,7 +281,7 @@
           "description": "The Netherlands’ biggest crypto exchange Bitvavo insists on full repayment of the $297 million it is owed by Genesis Trading.",
           "link": "https://decrypt.co/118901/dutch-bitcoin-exchange-bitvavo-says-dcgs-payback-plan-not-acceptable",
           "publishedOn": "2023-01-11T11:45:12.000Z",
-          "wordCount": 7581,
+          "wordCount": 7294,
           "title": "Dutch Bitcoin Exchange Bitvavo Says DCG’s Payback Plan ‘Not Acceptable’",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/01/bitvavo-bitcoin-exchange-gID_2.jpg@png",
@@ -266,7 +296,7 @@
           "description": "Despite tough times for Coinbase, Ark Invest's $1.45 million COIN purchase yesterday makes it the firm's eleventh buy in less than a month.",
           "link": "https://decrypt.co/118898/cathie-woods-ark-invest-boosts-coinbase-holdings-1-45m",
           "publishedOn": "2023-01-11T11:04:19.000Z",
-          "wordCount": 7258,
+          "wordCount": 6971,
           "title": "Cathie Wood’s Ark Invest Boosts Coinbase Holdings by Another $1.45M",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/10/ark-cathie-wood-gID_5.jpg@png",
@@ -281,7 +311,7 @@
           "description": "The deal, which will see the Voyager users get roughly half their assets back, still needs to pass another court hearing to become final.",
           "link": "https://decrypt.co/118897/court-grants-voyager-initial-approval-1b-binance-us-deal",
           "publishedOn": "2023-01-11T10:36:38.000Z",
-          "wordCount": 7402,
+          "wordCount": 7115,
           "title": "Court Grants Voyager Initial Approval for $1B Binance US Deal",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/07/voyager-digital-shutterstock-gID_1.jpg@png",
@@ -296,7 +326,7 @@
           "description": "There has been a flurry of filings leading up to Wednesday’s hearing, including a motion to admit attorneys representing Sam Bankman-Fried.",
           "link": "https://decrypt.co/118889/next-ftx-bankruptcy-hearing-delaware-sbf",
           "publishedOn": "2023-01-11T02:30:46.000Z",
-          "wordCount": 8090,
+          "wordCount": 7803,
           "title": "FTX's Next Bankruptcy Hearing: Deadlines, Leases, and SBF's Attorneys Step Forward",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/07/crypto-bankruptcy-gID_1.jpeg@png",
@@ -311,7 +341,7 @@
           "description": "Bankruptcy attorneys released a long list of names and the number of shares held by former associates and investors.",
           "link": "https://decrypt.co/118888/bankruptcy-filing-tom-brady-kevin-oleary-coinbase-among-major-ftx-creditors",
           "publishedOn": "2023-01-11T01:59:30.000Z",
-          "wordCount": 7307,
+          "wordCount": 7020,
           "title": "Bankruptcy Filing Reveals Tom Brady, Kevin O’Leary, and Coinbase Among Major FTX Creditors",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/07/crypto-markets-down-bitcoin-gID_4.jpeg@png",
@@ -326,7 +356,7 @@
           "description": "The project topped OpenSea charts on Tuesday, prompting some Twitter users to declare the return of “degen season.”",
           "link": "https://decrypt.co/118877/feetpix-foot-fetish-nft-degen-season",
           "publishedOn": "2023-01-11T00:38:48.000Z",
-          "wordCount": 7789,
+          "wordCount": 7502,
           "title": "Crypto’s Foot Fetish? Pixelated Feetpix NFTs Surge",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/01/two-feetpixwtf-gID_4.jpg@png",
@@ -341,7 +371,7 @@
           "description": "Collapsed crypto exchange FTX is currently trying to get out of a six-year lease it signed for WeWork office space in D.C., right across the street from 1600 Pennsylvania Avenue.",
           "link": "https://decrypt.co/118858/ftx-office-across-street-white-house-treasury",
           "publishedOn": "2023-01-10T22:41:32.000Z",
-          "wordCount": 8329,
+          "wordCount": 8042,
           "title": "FTX Had an Office Across the Street From the White House",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/07/the-white-house-1623005_1920-e1593961569887-gID_1.jpg@png",
@@ -356,7 +386,7 @@
           "description": "After selling out, the BONKz NFTs are now trading for 10 times the mint price—but the actual BONK token is still sliding.",
           "link": "https://decrypt.co/118853/bonk-nfts-surge-solana-based-meme-token-down-69",
           "publishedOn": "2023-01-10T21:44:39.000Z",
-          "wordCount": 7706,
+          "wordCount": 7419,
           "title": "BONK NFTs Boom—But Solana-Based Meme Token Is Down 69% Since Peak",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/01/bonk-nft-artwork-gID_4.jpeg@png",
@@ -371,7 +401,7 @@
           "description": "Analysts reveal the crypto exchange undercollateralized its holdings by at least $1 billion, and not just once.",
           "link": "https://decrypt.co/118849/binance-admits-busd-peg-problem",
           "publishedOn": "2023-01-10T21:23:44.000Z",
-          "wordCount": 7737,
+          "wordCount": 7450,
           "title": "Binance Admits to Problems With Its BUSD Peg",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/07/Webp.net-resizeimage-35-gID_6.jpg@png",
@@ -386,7 +416,7 @@
           "description": "Web3 developments were out in force at the conference, as exhibitors attempted to lure conference attendees into the metaverse.",
           "link": "https://decrypt.co/118801/the-hopes-and-horrors-of-the-metaverse-were-in-focus-at-ces-2023",
           "publishedOn": "2023-01-10T20:24:18.000Z",
-          "wordCount": 8047,
+          "wordCount": 7760,
           "title": "The Hopes and Horrors of the Metaverse Were in Focus at CES 2023",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/01/ces-bmw-gID_6.jpg@png",
@@ -401,7 +431,7 @@
           "description": "A dispute between Digital Currency Group and Gemini over locked user funds continues to escalate.",
           "link": "https://decrypt.co/118818/dcg-winklevoss-barry-silbert-ftx-sbf",
           "publishedOn": "2023-01-10T20:22:02.000Z",
-          "wordCount": 7763,
+          "wordCount": 7476,
           "title": "DCG Bites Back at Winklevoss as Barry Silbert Distances Company From FTX and SBF",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/01/barry-silbert-dcg-scaled-gID_4.jpeg@png",
@@ -416,7 +446,7 @@
           "description": "The new feature will allow users to reward individual tweets with “Awards” using “Coins,” which can be withdrawn at a $50 minimum threshold.",
           "link": "https://decrypt.co/118824/twitter-coins-awards-stripe-payments",
           "publishedOn": "2023-01-10T19:11:08.000Z",
-          "wordCount": 7534,
+          "wordCount": 7247,
           "title": "Twitter Developing ‘Coins’ Feature With Stripe Payments",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/01/twitter-coins-shutterstock_2166407537-16x9-1-gID_5.jpg@png",
@@ -431,7 +461,7 @@
           "description": "The exchange said it will no longer facilitate transactions associated with the stablecoin at the end of the month.",
           "link": "https://decrypt.co/118812/crypto-com-delist-tether-canada",
           "publishedOn": "2023-01-10T17:49:36.000Z",
-          "wordCount": 8247,
+          "wordCount": 7960,
           "title": "Crypto.com Will Delist Tether in Canada to Comply With Ontario Regulator",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/06/shutterstock_1234593457-gID_1.jpg@png",
@@ -446,7 +476,7 @@
           "description": "Nikhil Wahi, brother of former Coinbase product manager Ishan Wahi, pleaded guilty in September.",
           "link": "https://decrypt.co/118805/coinbase-manager-brother-sentenced-crypto-insider-trading",
           "publishedOn": "2023-01-10T17:13:26.000Z",
-          "wordCount": 6959,
+          "wordCount": 6672,
           "title": "Former Coinbase Manager's Brother Gets 10-Month Sentence for Insider Trading",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/07/coinbase-nft-nyc-gID_6.jpeg@png",
@@ -461,7 +491,7 @@
           "description": "Gemini's Cameron Winklevoss lanced multiple serious allegations at the crypto conglomerate, including misrepresentation and accounting fraud.",
           "link": "https://decrypt.co/118804/winklevoss-demands-dcg-ceo-barry-silbert-step-down-alleges-accounting-fraud",
           "publishedOn": "2023-01-10T16:22:49.000Z",
-          "wordCount": 7477,
+          "wordCount": 7190,
           "title": "Winklevoss Demands DCG CEO Barry Silbert Step Down, Alleges Accounting Fraud",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/02/gemini-custody-chainlink-link-token-gID_2.jpg@png",
@@ -476,7 +506,7 @@
           "description": "Bitcoin miner Core Scientific is being investigated by Pomerantz LLP over alleged securities fraud \"or other unlawful business practices.\"",
           "link": "https://decrypt.co/118792/bitcoin-miner-core-scientific-investigation-securities-fraud",
           "publishedOn": "2023-01-10T15:43:08.000Z",
-          "wordCount": 7298,
+          "wordCount": 7011,
           "title": "Law Firm Investigating Bitcoin Miner Core Scientific for Alleged Securities Fraud",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/07/shutterstock_773283697-gID_1.jpg@png",
@@ -491,7 +521,7 @@
           "description": "The first interactive show on Thursday will feature a 1:1 Ethereum NFT auctioned in collaboration with Daniel Ellsberg.",
           "link": "https://decrypt.co/118754/edward-snowden-will-auction-activism-nft-via-live-pleasrdao-show",
           "publishedOn": "2023-01-10T14:59:02.000Z",
-          "wordCount": 7729,
+          "wordCount": 7442,
           "title": "Edward Snowden Pentagon Papers NFT to Be Auctioned Via Live PleasrDAO Show",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/01/edward-snowden-camp-decrypt-2022-gID_4.png@png",
@@ -506,7 +536,7 @@
           "description": "Cuban’s request to have his deposition in a recent lawsuit against Voyager split into two sessions was denied by court order yesterday.",
           "link": "https://decrypt.co/118780/mark-cuban-depose-voyager-ponzi-scheme-lawsuit",
           "publishedOn": "2023-01-10T12:32:52.000Z",
-          "wordCount": 7323,
+          "wordCount": 7036,
           "title": "Mark Cuban Will Be Deposed for Promoting Bankrupt Crypto Lender Voyager",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/04/Mark-Cuban-Doug-Ducey-e1617657642272-gID_4.jpeg@png",
@@ -521,7 +551,7 @@
           "description": "After first announcing layoffs last summer, crypto exchange Coinbase is continuing to trim its workforce—this time by 950 employees.",
           "link": "https://decrypt.co/118776/coinbase-announces-further-layoffs-cutting-headcount-by-950-employees",
           "publishedOn": "2023-01-10T12:03:06.000Z",
-          "wordCount": 7369,
+          "wordCount": 7082,
           "title": "Coinbase Announces Further Layoffs, Cutting Headcount by 950 Employees",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/07/coinbase-nft-nyc-gID_5.jpeg@png",
@@ -536,7 +566,7 @@
           "description": "The discount for Grayscale's Bitcoin product hit its lowest value since mid-November, despite investor discontent and legal troubles.",
           "link": "https://decrypt.co/118774/grayscale-bitcoin-trust-shares-jump-narrowing-discount",
           "publishedOn": "2023-01-10T11:31:57.000Z",
-          "wordCount": 7575,
+          "wordCount": 7288,
           "title": "Grayscale Bitcoin Trust Shares Jump 12%, Narrowing Discount",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/12/grayscale-bitcoin-trust-gID_1.jpg@png",
@@ -551,7 +581,7 @@
           "description": "Singh’s possible deal with authorities reportedly revolves around large donations FTX and SBF had made to various political campaigns.",
           "link": "https://decrypt.co/118770/former-ftx-exec-nishad-singh-seeking-cooperation-deal-authorities-report",
           "publishedOn": "2023-01-10T10:18:01.000Z",
-          "wordCount": 7424,
+          "wordCount": 7137,
           "title": "Former FTX Exec Nishad Singh Seeking Cooperation Deal From Authorities: Report",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/09/Bitfinex-Trial-gID_1.jpg@png",
@@ -566,7 +596,7 @@
           "description": "As NFT interest continues to grow, gaming and NFT-related coins, like GALA, are leading this week’s rally.",
           "link": "https://decrypt.co/118767/gala-soars-gaming-nft-coins-rally",
           "publishedOn": "2023-01-10T10:04:55.000Z",
-          "wordCount": 7561,
+          "wordCount": 7274,
           "title": "GALA Soars 140% Over the Week as Gaming, NFT Coins Rally",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/01/gala-nft-metaverse-crypto-gID_1.jpg@png",
@@ -574,36 +604,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/01/gala-nft-metaverse-crypto-gID_1.jpg@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=118753",
-          "author": "Stacy Elliott",
-          "description": "“Binance has shown its commitment to security and compliance,” says a company spokesperson.",
-          "link": "https://decrypt.co/118753/binance-federal-investigation-justice-department",
-          "publishedOn": "2023-01-10T01:37:11.000Z",
-          "wordCount": 7859,
-          "title": "What You Need to Know About the Federal Probe Into Binance",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/01/binance-flag-shutterstock_2121188492-scaled-gID_1.jpg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/01/binance-flag-shutterstock_2121188492-scaled-gID_1.jpg@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=118748",
-          "author": "Andrew Hayward",
-          "description": "Is this Apple’s path to the metaverse? The Reality Pro headset, as it’s reportedly called, is expected to debut soon.",
-          "link": "https://decrypt.co/118748/apple-vr-ar-reality-pro-headset-launch",
-          "publishedOn": "2023-01-10T00:13:17.000Z",
-          "wordCount": 7729,
-          "title": "Apple’s Mixed-Reality Headset to Launch This Spring: Report",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/10/Apple-shutterstock_1156946404-16x9-1-gID_4.jpg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/10/Apple-shutterstock_1156946404-16x9-1-gID_4.jpg@png"
         },
         {
           "id": "https://decrypt.co/videos/interviews/rnZRJOwj/walking-the-red-carpet-at-the-crypties-2022",
