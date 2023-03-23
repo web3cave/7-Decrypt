@@ -6,12 +6,42 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=123768",
+          "author": "Decrypt Staff",
+          "description": "Circle stablecoins USDC and the newly-listed EUROC can now be bought and sold on Bittrex Global for no extra cost.",
+          "link": "https://decrypt.co/123768/bittrex-global-offers-no-fee-trading-on-usdc-and-euroc-markets",
+          "publishedOn": "2023-03-23T14:01:02.000Z",
+          "wordCount": 8458,
+          "title": "Bittrex Global Offers No-Fee Trading on USDC and EUROC Markets",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/usdc-circle-gID_1.jpeg@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/usdc-circle-gID_1.jpeg@png"
+        },
+        {
+          "id": "https://decrypt.co/?p=124385",
+          "author": "Liam J. Kelly",
+          "description": "The highly-anticipated Arbitrum airdrop has finally gone live. Amid the hype, though, the project's homepage has crashed.",
+          "link": "https://decrypt.co/124385/arbitrum-foundation-homepage-crashes-as-users-rush-to-claim-arb-tokens",
+          "publishedOn": "2023-03-23T13:26:37.000Z",
+          "wordCount": 7979,
+          "title": "Arbitrum Foundation Homepage Crashes as Users Rush to Claim ARB Tokens",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/arbitrum-token-ethereum-gID_6.jpg@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/arbitrum-token-ethereum-gID_6.jpg@png"
+        },
+        {
           "id": "https://decrypt.co/?p=124372",
           "author": "Nivesh Rustgi",
           "description": "Alongside transaction activity, DeFi liquidity has soared since Arbitrum announced the launch of its native ARB token.",
           "link": "https://decrypt.co/124372/arbitrum-transaction-activity-outpaces-ethereum-arb-airdrop",
           "publishedOn": "2023-03-23T11:50:07.000Z",
-          "wordCount": 8651,
+          "wordCount": 8710,
           "title": "Arbitrum Transaction Activity Outpaces Ethereum Ahead of ARB Airdrop",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/arbitrum-logo-token-gID_6.jpg@png",
@@ -26,7 +56,7 @@
           "description": "One of the most dreaded letters a crypto firm can get, a Wells notice signals that the SEC has it in its sights.",
           "link": "https://decrypt.co/resources/what-is-wells-notice-what-does-mean",
           "publishedOn": "2023-03-23T09:59:55.000Z",
-          "wordCount": 9329,
+          "wordCount": 9388,
           "title": "What Is a Wells Notice and What Does It Mean?",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/smart-contracts-copy-gID_7-pID_5.png@png",
@@ -41,7 +71,7 @@
           "description": "Crypto Twitter finds a common enemy in the SEC, but some see just desserts after Coinbase delisted XRP.",
           "link": "https://decrypt.co/124316/coinbase-v-sec-crypto-twitter-fired-up-xrp-blowback",
           "publishedOn": "2023-03-23T00:35:12.000Z",
-          "wordCount": 9279,
+          "wordCount": 9338,
           "title": "Crypto Community Fired Up Over SEC Action Against Coinbase",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/07/coinbase-nft-nyc-gID_2.jpeg@png",
@@ -56,7 +86,7 @@
           "description": "Neon's thoughtful extraction-based first-person shooter has elements of Halo, Apex Legends, and Escape From Tarkov—and NFTs, too.",
           "link": "https://decrypt.co/124263/shrapnel-preview-this-web3-shooter-looks-and-plays-like-a-aaa-game",
           "publishedOn": "2023-03-22T21:53:03.000Z",
-          "wordCount": 11301,
+          "wordCount": 11360,
           "title": "Shrapnel Preview: This Web3 Shooter Looks and Plays Like a AAA Game",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/shrapnel-game-artwork-gID_7.jpeg@png",
@@ -71,7 +101,7 @@
           "description": "The SEC's crackdown on crypto staking has hit Coinbase, one month after it fined Kraken $30 million over staking.",
           "link": "https://decrypt.co/124262/sec-wells-notice-coinbase-enforcement-over-staking-products",
           "publishedOn": "2023-03-22T21:31:24.000Z",
-          "wordCount": 9280,
+          "wordCount": 9339,
           "title": "SEC Warns Coinbase of Enforcement Over Its Staking Rewards Products",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/09/SEC-shutterstock_451626715-16x9-1-gID_1.jpg@png",
@@ -86,7 +116,7 @@
           "description": "Users can now send Tether's TRC20 to Telegram contacts.",
           "link": "https://decrypt.co/124243/telegram-announces-usdt-stablecoin-payments-on-tron-network",
           "publishedOn": "2023-03-22T21:19:48.000Z",
-          "wordCount": 8215,
+          "wordCount": 8274,
           "title": "Telegram Announces USDT Stablecoin Payments on Tron Network",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/09/tether-logo-on-computer-circuitry-gID_1.jpg@png",
@@ -101,7 +131,7 @@
           "description": "The SEC also cited celebrities like Jake Paul, Lindsay Lohan, and Soulja Boy for pitching TRX and BTT.",
           "link": "https://decrypt.co/124266/investors-sell-tron-after-sec-hit-founder-justin-sun-with-securities-violations",
           "publishedOn": "2023-03-22T21:11:38.000Z",
-          "wordCount": 8327,
+          "wordCount": 8386,
           "title": "Tron Token Sees Selloff After SEC Files Charges Against Founder Justin Sun",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/04/tron-token-trx-gID_1.jpg@png",
@@ -116,7 +146,7 @@
           "description": "“I think it's really easy to forget about the benefits of decentralization until you need them,\" Friederike Ernst said. \"And then it's too late.”",
           "link": "https://decrypt.co/124229/gnosis-true-decentralization-why-its-so-hard",
           "publishedOn": "2023-03-22T20:10:56.000Z",
-          "wordCount": 9040,
+          "wordCount": 9099,
           "title": "Why True Decentralization at Scale Is Hard and Rare: Gnosis Co-Founder",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/GM23_Ernst3-gID_1.jpg@png",
@@ -131,7 +161,7 @@
           "description": "Tron founder Justin Sun and his companies have been charged with securities violations, while celebs face charges for pumping Tron's tokens.",
           "link": "https://decrypt.co/124260/sec-charges-justin-sun-jake-paul-lindsay-lohan-and-others-for-tron-related-violations",
           "publishedOn": "2023-03-22T20:10:30.000Z",
-          "wordCount": 9062,
+          "wordCount": 9121,
           "title": "SEC Charges Justin Sun, Jake Paul, Lindsay Lohan, and Others for Tron-Related Violations",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/01/tron-ceo-justin-sun-lawsuit-gID_2.jpg@png",
@@ -146,7 +176,7 @@
           "description": "The U.S. central bank is balancing its fight against rising inflation with the recent turmoil in the banking sector.",
           "link": "https://decrypt.co/124244/bitcoin-ethereum-federal-reserve-tightening-quarter-point-rate-hike-25-bps",
           "publishedOn": "2023-03-22T18:30:52.000Z",
-          "wordCount": 9525,
+          "wordCount": 9584,
           "title": "Bitcoin, Ethereum Mixed After Fed Continues Tightening with Quarter-Point Rate Hike",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/11/shutterstock_1032590950a-gID_1.jpg@png",
@@ -161,7 +191,7 @@
           "description": "With Core wallet, Ava Labs is bringing self-custody wallets up to par with the most fully featured centralized exchanges.",
           "link": "https://decrypt.co/123621/how-core-wallet-is-making-crypto-self-custody-simple",
           "publishedOn": "2023-03-22T17:58:40.000Z",
-          "wordCount": 10763,
+          "wordCount": 10822,
           "title": "How Core Wallet is Making Crypto Self-Custody Simple",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/core-wallet-gID_6.jpg@png",
@@ -176,7 +206,7 @@
           "description": "The proposed national legislation comes just days after Florida Governor Ron DeSantis offered up a similar law in his state.",
           "link": "https://decrypt.co/124242/us-senator-ted-cruz-proposes-cbdc-ban-amid-growing-republican-pushback",
           "publishedOn": "2023-03-22T17:53:03.000Z",
-          "wordCount": 8470,
+          "wordCount": 8529,
           "title": "US Senator Ted Cruz Proposes CBDC Ban Amid Growing Republican Pushback",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/ted-cruz-2023-shutterstock-gID_4.png@png",
@@ -191,7 +221,7 @@
           "description": "Can a “dead game” gain a second life in Web3? Immutable and Bazooka believe fresh funding and NFT elements can bring players back.",
           "link": "https://decrypt.co/124211/indie-card-battler-shardbound-revived-web3-game-immutable-zkevm",
           "publishedOn": "2023-03-22T15:06:02.000Z",
-          "wordCount": 10784,
+          "wordCount": 10843,
           "title": "Indie Card-Battler Shardbound Revived as Web3 Game on Immutable zkEVM",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/shardbound-artwork1-gID_4.jpg@png",
@@ -206,7 +236,7 @@
           "description": "Senators Warren and Wyden argue that more has to be done to hold PCAOB-registered audit firms accountable for their work with crypto clients.",
           "link": "https://decrypt.co/124200/elizabeth-warren-takes-aim-shady-crypto-audits-letter-accounting-oversight-board",
           "publishedOn": "2023-03-22T14:00:49.000Z",
-          "wordCount": 9264,
+          "wordCount": 9323,
           "title": "Elizabeth Warren Takes Aim at 'Shady' Crypto Audits in Letter to Accounting Oversight Board",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/11/senator-elizabeth-warren-gID_5.jpeg@png",
@@ -221,7 +251,7 @@
           "description": "Crypto wallets are criticized for their clunky UX, but that may soon change thanks to a few crypto projects—and the world’s largest payment network.",
           "link": "https://decrypt.co/124100/making-crypto-wallets-smarter-ethereum",
           "publishedOn": "2023-03-22T12:40:52.000Z",
-          "wordCount": 10032,
+          "wordCount": 10091,
           "title": "Making Ethereum Wallets Smarter Is the Next Challenge—and Visa Is Among Those Working on It",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/smart-wallet-crypto-gID_4.jpg@png",
@@ -236,7 +266,7 @@
           "description": "The drop consists of 130 limited edition Unicorn sneakers that come with identical NFT kicks designed by Space Runners.",
           "link": "https://decrypt.co/124084/luxury-fashion-house-balmain-drops-unicorn-sneakers-bundled-with-nft-version",
           "publishedOn": "2023-03-22T11:01:02.000Z",
-          "wordCount": 9784,
+          "wordCount": 9843,
           "title": "Luxury Fashion House Balmain Drops Unicorn Sneakers Bundled With NFT Version",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/balmain-space-runners-nft-gID_4.png@png",
@@ -251,7 +281,7 @@
           "description": "A recent Coinbase experiment that used ChatGPT for a token audit has shed light on how close the bots are to joining the security stack.",
           "link": "https://decrypt.co/124186/can-chatgpt-really-replace-crypto-audits-not-yet-say-researchers",
           "publishedOn": "2023-03-22T10:50:05.000Z",
-          "wordCount": 8920,
+          "wordCount": 8979,
           "title": "Can ChatGPT Really Replace Crypto Audits? Not Yet, Say Researchers",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/AI-crypto-security-gID_4.jpg@png",
@@ -266,7 +296,7 @@
           "description": "Innovation in digital assets is \"mostly about creating artificial scarcity,\" the White House says. \"Many of them have no fundamental value.\"",
           "link": "https://decrypt.co/124168/white-house-president-economic-report-digital-crypto-assets-report",
           "publishedOn": "2023-03-22T00:25:24.000Z",
-          "wordCount": 9115,
+          "wordCount": 9174,
           "title": "President's Economic Report Blasts Crypto for 'Ignorance of Basic Economic Principles'",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/White-House-shutterstock_114757342-16x9-1-gID_4.jpg@png",
@@ -281,7 +311,7 @@
           "description": "Cute and on-chain: the massive MapleStory franchise will enter Web3 with its own dedicated Supernet on Ethereum scaling network Polygon.",
           "link": "https://decrypt.co/124144/gaming-giant-nexon-taps-polygon-nft-game-maplestory-universe",
           "publishedOn": "2023-03-21T23:01:02.000Z",
-          "wordCount": 9351,
+          "wordCount": 9410,
           "title": "Gaming Giant Nexon Taps Polygon for NFT Game MapleStory Universe",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/maplestory-universe-artwork-gID_4.png@png",
@@ -296,7 +326,7 @@
           "description": "PleasrHouse will auction off SOCKS token #69—and may set Uniswap creator Hayden Adams’ own crypto socks ablaze, too.",
           "link": "https://decrypt.co/124155/pleasrdao-socks-fire-burn-unisocks-tokens-real-socks",
           "publishedOn": "2023-03-21T22:14:07.000Z",
-          "wordCount": 9765,
+          "wordCount": 9824,
           "title": "SOCKS on Fire: PleasrDAO to Burn Unisocks Tokens, Real Socks Too",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/unisocks-pleasrhouse-gID_4.png@png",
@@ -311,7 +341,7 @@
           "description": "The leading U.S. exchange announced that Brazilian customers would be able to buy and sell crypto using reais.",
           "link": "https://decrypt.co/124156/coinbase-stock-up-with-brazil-expansion",
           "publishedOn": "2023-03-21T21:47:54.000Z",
-          "wordCount": 8436,
+          "wordCount": 8495,
           "title": "Coinbase Stock Surges 12% on Brazil Expansion News",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/06/C8E9B3ED-003A-4C6B-8D6C-48AC2835FCDE-4887-0000020EA90FAA12-gID_5.jpg@png",
@@ -326,7 +356,7 @@
           "description": "The PlayStation 5 maker is stacking NFT-related patent applications, pointing to a more open future for the gaming giant.",
           "link": "https://decrypt.co/124135/sonys-latest-nft-patent-push-suggests-web3-path-for-playstation",
           "publishedOn": "2023-03-21T19:11:28.000Z",
-          "wordCount": 9291,
+          "wordCount": 9350,
           "title": "Sony's Latest NFT Patent Push Suggests Web3 Path for PlayStation",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/playstation-5-controllers-shutterstock-gID_4.png@png",
@@ -341,7 +371,7 @@
           "description": "Sushi’s “head chef” has received a subpoena from the financial watchdog.",
           "link": "https://decrypt.co/124133/sushiswap-dao-subpoena-sec-legal-defense-fund",
           "publishedOn": "2023-03-21T18:38:52.000Z",
-          "wordCount": 8944,
+          "wordCount": 9003,
           "title": "SushiSwap Subpoenaed by SEC, Proposes Legal Defense Fund to Sushi DAO",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/09/Sushiswap_law-scaled-gID_4.jpeg@png",
@@ -356,7 +386,7 @@
           "description": "The top Solana NFT marketplace continues its multi-chain expansion with the addition of support for Ordinals assets.",
           "link": "https://decrypt.co/124078/magic-eden-ordinals-bitcoin-nft-marketplace-launch",
           "publishedOn": "2023-03-21T18:01:02.000Z",
-          "wordCount": 9579,
+          "wordCount": 9638,
           "title": "Magic Eden Launches Ordinals Marketplace for Bitcoin NFTs",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/magic-eden-bitcoin-gID_4.png@png",
@@ -371,7 +401,7 @@
           "description": "The guidance could classify NFTs as collectibles, similar to art and gems, and impact IRAs and capital gains taxes.",
           "link": "https://decrypt.co/124123/irs-considers-taxing-nfts-like-physical-art-collectibles",
           "publishedOn": "2023-03-21T17:37:36.000Z",
-          "wordCount": 9179,
+          "wordCount": 9238,
           "title": "IRS Considers Taxing NFTs Like Physical Art, Collectibles",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/08/IRS-crypto-gID_5.jpeg@png",
@@ -386,7 +416,7 @@
           "description": "CCP Games is bullish on blockchain technology, joining major game makers like Ubisoft and Square Enix.",
           "link": "https://decrypt.co/124115/eve-online-creator-ccp-raises-40m-create-web3-eve-game",
           "publishedOn": "2023-03-21T15:56:00.000Z",
-          "wordCount": 8963,
+          "wordCount": 9022,
           "title": "EVE Online Creator CCP Raises $40M to Create Web3 EVE Game",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/eve-online-gID_4.jpeg@png",
@@ -401,7 +431,7 @@
           "description": "“Orange-pilled” investors and a change at the Fed could boost Bitcoin’s role as a store of value, commentators said.",
           "link": "https://decrypt.co/124103/crypto-enthusiasts-rush-promote-bitcoin-safe-haven-status-banking-crisis",
           "publishedOn": "2023-03-21T11:23:09.000Z",
-          "wordCount": 9283,
+          "wordCount": 9342,
           "title": "Crypto Enthusiasts Rush to Promote Bitcoin's 'Safe Haven' Status Amid Banking Crisis",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/orange-pill-bitcoin-gID_4.jpg@png",
@@ -416,7 +446,7 @@
           "description": "The \"safe haven\" monetization platform has constantly faced resistance from traditional payment processors.",
           "link": "https://decrypt.co/124095/spankpay-spankchain-adult-sex-industry-crypto-payments-shut-down",
           "publishedOn": "2023-03-21T02:38:51.000Z",
-          "wordCount": 9024,
+          "wordCount": 9083,
           "title": "SpankPay Adult Industry Crypto Payment Service Shuts Down",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/SpankPay-Allie-Knox-Ameen-Soliemani-gID_2.png@png",
@@ -431,7 +461,7 @@
           "description": "The organization reached an internal resolution after the data platform was abruptly forked a day earlier.",
           "link": "https://decrypt.co/124083/defi-llama-drama-resolved-no-token",
           "publishedOn": "2023-03-20T22:52:57.000Z",
-          "wordCount": 8807,
+          "wordCount": 8866,
           "title": "DefiLllama Drama Put to Rest: No Token Planned After ‘Poor Communication’",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/10/shutterstock_760467970-1-gID_1.jpg@png",
@@ -446,7 +476,7 @@
           "description": "Hong Kong is eager to become a crypto hub—and digital asset companies are sizing up the opportunities.",
           "link": "https://decrypt.co/124069/hong-kong-web3-crypto-hub",
           "publishedOn": "2023-03-20T21:21:38.000Z",
-          "wordCount": 8561,
+          "wordCount": 8620,
           "title": "Crypto Firms Answering Hong Kong's Call for Web3 Leadership",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/02/hong-kong-gID_6.jpg@png",
@@ -461,7 +491,7 @@
           "description": "The attacker has offered to try to \"come to an agreement\" over the nearly $200 million worth of crypto it swiped last week.",
           "link": "https://decrypt.co/124068/no-intention-of-keeping-what-is-not-ours-euler-finance-hacker-says",
           "publishedOn": "2023-03-20T20:41:09.000Z",
-          "wordCount": 8708,
+          "wordCount": 8767,
           "title": "‘No Intention of Keeping What Is Not Ours,’ Euler Finance Hacker Says",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/09/36-btc-electrum-bitcoin-hackers-gID_2.jpg@png",
@@ -476,7 +506,7 @@
           "description": "DeSantis said CBDCs are all about “surveilling” and “controlling” the populace.",
           "link": "https://decrypt.co/124071/florida-governor-ron-desantis-introduces-legislation-bans-cbdc",
           "publishedOn": "2023-03-20T20:30:03.000Z",
-          "wordCount": 9371,
+          "wordCount": 9430,
           "title": "Florida Governor Ron DeSantis Introduces State Legislation Banning CBDCs",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/03/Ron-DeSantis-gID_4.jpeg@png",
@@ -491,7 +521,7 @@
           "description": "Immutable zkEVM will pair Polygon’s tech and Immutable’s gaming platform for an Ethereum-centric home for Web3 game developers.",
           "link": "https://decrypt.co/124056/polygon-immutable-partner-new-zkevm-ethereum-gaming-network",
           "publishedOn": "2023-03-20T18:18:00.000Z",
-          "wordCount": 10040,
+          "wordCount": 10099,
           "title": "Polygon, Immutable Partner for New zkEVM Ethereum Gaming Network",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/immutable-x-games-gID_4.png@png",
@@ -506,7 +536,7 @@
           "description": "Paul Grewal said the FTX collapse was a huge setback for the entire crypto industry, specifically from the regulatory standpoint of view.",
           "link": "https://decrypt.co/124047/coinbase-chief-legal-officer-what-ftx-did-was-flat-out-fraud",
           "publishedOn": "2023-03-20T16:08:37.000Z",
-          "wordCount": 8543,
+          "wordCount": 8602,
           "title": "Coinbase Chief Legal Officer: What FTX Did Was ‘Flat-Out Fraud’",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/Paul-Grewal-Coinbase-gID_4.jpg@png",
@@ -521,7 +551,7 @@
           "description": "Leaked emails show FTX.US’ policy head Mark Wetjen “begging the federal government to regulate us.”",
           "link": "https://decrypt.co/124041/ftx-met-fdic-before-collapsed",
           "publishedOn": "2023-03-20T15:23:00.000Z",
-          "wordCount": 8896,
+          "wordCount": 8955,
           "title": "New Emails Show FTX Met With FDIC Months Before Its Collapse: Report",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/11/ftx-logo-gID_2.jpeg@png",
@@ -536,7 +566,7 @@
           "description": "One of the most popular Ethereum scaling solutions, Arbitrum aims to speed up transaction times and cut fees on the Ethereum blockchain.",
           "link": "https://decrypt.co/resources/what-is-arbitrum-speeding-up-ethereum-using-optimistic-rollups",
           "publishedOn": "2023-03-20T13:31:02.000Z",
-          "wordCount": 10176,
+          "wordCount": 10235,
           "title": "What Is Arbitrum? Speeding Up Ethereum Using Optimistic Rollups",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/03/Arbitrum-gID_2-pID_5.png@png",
@@ -551,7 +581,7 @@
           "description": "The leading cryptocurrency is trading at its highest level this year, with some experts predicting further bullish price action.",
           "link": "https://decrypt.co/124025/bitcoin-week-global-banks-roil",
           "publishedOn": "2023-03-20T12:06:44.000Z",
-          "wordCount": 9241,
+          "wordCount": 9300,
           "title": "Bitcoin Soars 30% Over the Week as Global Banks Roil",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/09/bitcoin-stacks-shutterstock-gID_5.jpg@png",
@@ -566,7 +596,7 @@
           "description": "With Arbitrum’s latest airdrop hitting the market on Thursday, analysts are scrambling to put a price on the latest layer-2 token.",
           "link": "https://decrypt.co/124016/arbitrum-airdrop-around-corner-how-much-will-arb-be-worth",
           "publishedOn": "2023-03-20T10:46:43.000Z",
-          "wordCount": 9942,
+          "wordCount": 10001,
           "title": "Arbitrum’s Airdrop Is Just Around the Corner—How Much Will ARB Be Worth?",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/arbitrum-logo-token-gID_5.jpg@png",
@@ -574,36 +604,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/arbitrum-logo-token-gID_5.jpg@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=124007",
-          "author": "André Beganski",
-          "description": "Balaji Srinivasan predicted that Bitcoin would reach $1 million in around 90 days.",
-          "link": "https://decrypt.co/124007/1-million-bitcoin-price-balaji-srinivasan-plausible-debate",
-          "publishedOn": "2023-03-19T21:53:39.000Z",
-          "wordCount": 10077,
-          "title": "How Realistic Is Former Coinbase CTO’s $2 Million Bitcoin Wager on US Hyperinflation?",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/01/bitcoin-moon-gID_1.jpg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/01/bitcoin-moon-gID_1.jpg@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=123985",
-          "author": "André Beganski",
-          "description": "Employees behind the decentralized finance dashboard are split on the future of the leading llama-based crypto brand.",
-          "link": "https://decrypt.co/123985/defillama-llamafi-team-fork-dispute-token-launch",
-          "publishedOn": "2023-03-19T19:03:29.000Z",
-          "wordCount": 9937,
-          "title": "DefiLlama Team Fractures Over Potential Token Launch",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/Two-Llamas-shutterstock_610357943-16x9-1-gID_2.jpg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/Two-Llamas-shutterstock_610357943-16x9-1-gID_2.jpg@png"
         },
         {
           "id": "https://decrypt.co/videos/live-events/BHN8nxxH/big-brands-get-serious-about-nfts-salesforce-vw-panerai-absolute-labs-at-nft-paris",
