@@ -6,6 +6,36 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=124647",
+          "author": "Stacy Elliott",
+          "description": "A recent filing with the SEC revealed that Microstrategy has conveniently paid off its loan with the failed Silvergate Bank.",
+          "link": "https://decrypt.co/124647/microstrategy-repays-silvergate-loan-spends-150m-buying-bitcoin",
+          "publishedOn": "2023-03-27T14:19:06.000Z",
+          "wordCount": 8855,
+          "title": "MicroStrategy Repays Silvergate Loan, Spends $150M Buying More Bitcoin",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/08/microstrategy-bitcoin-investment-gID_1.jpg@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/08/microstrategy-bitcoin-investment-gID_1.jpg@png"
+        },
+        {
+          "id": "https://decrypt.co/?p=124631",
+          "author": "Liam J. Kelly",
+          "description": "It’s the final mainnet from Polygon, but co-founder Mihailo Bjelic advises proceeding with caution when using the new zkEVM.",
+          "link": "https://decrypt.co/124631/polygon-launches-final-mainnet-zkevm-solution-scale-ethereum",
+          "publishedOn": "2023-03-27T14:00:02.000Z",
+          "wordCount": 8421,
+          "title": "Polygon Launches Final Mainnet for zkEVM Solution to Scale Ethereum",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/10/polygon-crypto-rollup-gID_5.jpg@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/10/polygon-crypto-rollup-gID_5.jpg@png"
+        },
+        {
           "id": "https://decrypt.co/?p=124623",
           "author": "Mattis Meichler",
           "description": "After SushiSwap, DeFi exchange dYdX is also making the leap to Cosmos, citing slow transaction speeds on Ethereum.",
@@ -296,7 +326,7 @@
           "description": "The Bitcoin community turned the \"Skull of Satoshi\" installation into a new meme while ridiculing the idea of abandoning proof-of-work.",
           "link": "https://decrypt.co/124486/greenpeaces-new-skull-of-satoshi-artwork-hits-meme-status-bitcoin-fans",
           "publishedOn": "2023-03-24T14:25:57.000Z",
-          "wordCount": 9416,
+          "wordCount": 9415,
           "title": "‘Badass’: Greenpeace’s New ‘Skull of Satoshi’ Artwork Is a Hit With Bitcoin Fans",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/bitcoin-skull-green-peace-gID_2.jpg@png",
@@ -619,51 +649,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/GM23_Ernst3-gID_1.jpg@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=124260",
-          "author": "André Beganski",
-          "description": "Tron founder Justin Sun and his companies have been charged with securities violations, while celebs face charges for pumping Tron's tokens.",
-          "link": "https://decrypt.co/124260/sec-charges-justin-sun-jake-paul-lindsay-lohan-and-others-for-tron-related-violations",
-          "publishedOn": "2023-03-22T20:10:30.000Z",
-          "wordCount": 9202,
-          "title": "SEC Charges Justin Sun, Jake Paul, Lindsay Lohan, and Others for Tron-Related Violations",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/01/tron-ceo-justin-sun-lawsuit-gID_2.jpg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/01/tron-ceo-justin-sun-lawsuit-gID_2.jpg@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=124244",
-          "author": "André Beganski,Mathew Di Salvo",
-          "description": "The U.S. central bank is balancing its fight against rising inflation with the recent turmoil in the banking sector.",
-          "link": "https://decrypt.co/124244/bitcoin-ethereum-federal-reserve-tightening-quarter-point-rate-hike-25-bps",
-          "publishedOn": "2023-03-22T18:30:52.000Z",
-          "wordCount": 9665,
-          "title": "Bitcoin, Ethereum Mixed After Fed Continues Tightening with Quarter-Point Rate Hike",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/11/shutterstock_1032590950a-gID_1.jpg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/11/shutterstock_1032590950a-gID_1.jpg@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=123621",
-          "author": "Will McCurdy",
-          "description": "With Core wallet, Ava Labs is bringing self-custody wallets up to par with the most fully featured centralized exchanges.",
-          "link": "https://decrypt.co/123621/how-core-wallet-is-making-crypto-self-custody-simple",
-          "publishedOn": "2023-03-22T17:58:40.000Z",
-          "wordCount": 10903,
-          "title": "How Core Wallet is Making Crypto Self-Custody Simple",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/core-wallet-gID_6.jpg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/core-wallet-gID_6.jpg@png"
         },
         {
           "id": "https://decrypt.co/videos/live-events/BHN8nxxH/big-brands-get-serious-about-nfts-salesforce-vw-panerai-absolute-labs-at-nft-paris",
