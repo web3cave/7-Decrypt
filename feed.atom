@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-10T21:07:04.475Z</id>
+    <id>urn:2023-04-10T22:07:31.597Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-10T21:07:04.475Z</updated>
+    <updated>2023-04-10T22:07:31.597Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA['Dogumentary' Film to Chronicle Rise of Meme That Inspired Dogecoin]]></title>
+        <id>https://decrypt.co/?p=125893</id>
+        <link href="https://decrypt.co/125893/dogumentary-film-chronicle-rise-meme-inspired-dogecoin"/>
+        <updated>2023-04-10T21:57:06.000Z</updated>
+        <summary type="html"><![CDATA[The feature-length film, produced by PleasrDAO and Own the Doge, hopes to attract a major Hollywood studio or backer.]]></summary>
+        <author>
+            <name>Sander Lutz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Kryptonite: Why Artificial Intelligence Can't Handle Hands]]></title>
+        <id>https://decrypt.co/?p=125865</id>
+        <link href="https://decrypt.co/125865/generative-ai-art-images-hands-fingers-teeth"/>
+        <updated>2023-04-10T21:11:22.000Z</updated>
+        <summary type="html"><![CDATA[...or teeth, or toes, or abs. Yet.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FTX CEO Slams Exchange for Keeping Private Keys on Amazon Web Services]]></title>
         <id>https://decrypt.co/?p=125866</id>
@@ -26,7 +46,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How the Ethereum Shanghai Upgrade May Impact the Price of ETH]]></title>
+        <title type="html"><![CDATA[How the Ethereum Shanghai Upgrade Could Impact the Price of ETH]]></title>
         <id>https://decrypt.co/?p=125859</id>
         <link href="https://decrypt.co/125859/ethereum-shanghai-upgrade-price-eth"/>
         <updated>2023-04-10T19:54:16.000Z</updated>
@@ -431,26 +451,6 @@
         <link href="https://decrypt.co/125566/bitcoin-environmental-harm-report"/>
         <updated>2023-04-06T01:08:58.000Z</updated>
         <summary type="html"><![CDATA[The Environmental Working Group continues to rail against proof-of-work blockchains.]]></summary>
-        <author>
-            <name>Andrew Throuvalas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Has Amazon Lost The AI Race?]]></title>
-        <id>https://decrypt.co/?p=125558</id>
-        <link href="https://decrypt.co/125558/amazon-ai-artificial-intelligence-aws-accelerator"/>
-        <updated>2023-04-06T00:25:09.000Z</updated>
-        <summary type="html"><![CDATA[Despite flagging demand for Alexa, experts say Amazon could still pull ahead of the pack.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘Bitcoin Stamps’ NFTs Are Gaining On Ordinals]]></title>
-        <id>https://decrypt.co/?p=125556</id>
-        <link href="https://decrypt.co/125556/bitcoin-stamps-nfts-are-gaining-on-ordinals"/>
-        <updated>2023-04-05T22:51:53.000Z</updated>
-        <summary type="html"><![CDATA[The creator of the new protocol claims it is the “most permanent” means of inscribing data on the Bitcoin blockchain.]]></summary>
         <author>
             <name>Andrew Throuvalas</name>
         </author>
