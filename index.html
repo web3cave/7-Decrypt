@@ -59,6 +59,54 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-04-20 datetime="2023-04-20T02:13:03.000Z">2023-04-20</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-04-20 datetime="2023-04-20T02:13:03.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Decrypt</button>
+                  <a class="source-heading__link" href="https://decrypt.co/feed">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://decrypt.co/?p&#x3D;137330"
+                        open
+                      >
+                        <summary class="article-expander__title">Sam Bankman-Fried&#x27;s Legal Team Can&#x27;t Figure Out How to Install Spyware on His Parents’ Smartphones</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://decrypt.co/137330/sam-bankman-fried-smartphone-monitoring-spyware">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/06/ftx-ceo-tsm-esports-gID_7.png@png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>The disgraced FTX founder was supposed to be automatically monitored across devices, but some have proven resistant.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;31
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-04-19 datetime="2023-04-19T23:54:59.000Z">2023-04-19</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-04-19 datetime="2023-04-19T23:54:59.000Z"></time>
           </button>
@@ -696,7 +744,7 @@
                               <img src="https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/05/do-kwon-terra-gID_7.jpeg@png" loading="lazy" class="media-object__media article-image" />
                             <span class="media-object__text">
                               <span>A judge rejected Do Kwon&#x27;s request to block SEC access to documents related to Terraform Labs’ activities in Singapore.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;29
+                                &ensp;<span class="article-reading-time">(&hairsp;28
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -825,26 +873,6 @@
                             <span class="media-object__text">
                               <span>Experts warn that AI could harm humans but also say the future may be brighter than we think.</span>
                                 &ensp;<span class="article-reading-time">(&hairsp;31
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://decrypt.co/?p&#x3D;136990"
-                        open
-                      >
-                        <summary class="article-expander__title">SEC Labels Algorand and Five Other Tokens as Securities in Bittrex Lawsuit</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://decrypt.co/136990/sec-bittrex-lawsuit-algorand-five-tokens-securities">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/09/algorand-cryptocurrency-shutterstock-gID_7.png@png" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>A legal expert said the coins’ inclusion resembles another SEC lawsuit brought against a former Coinbase employee.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;34
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -1418,8 +1446,8 @@
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/web3cave/7-Decrypt/actions/runs/4749692526">
-        <time id="build-timestamp" datetime="2023-04-20T01:58:09.530Z">2023-04-20T01:58:09.530Z</time>
+      <a class="footer-link" href="https://github.com/web3cave/7-Decrypt/actions/runs/4749883056">
+        <time id="build-timestamp" datetime="2023-04-20T02:29:14.848Z">2023-04-20T02:29:14.848Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
