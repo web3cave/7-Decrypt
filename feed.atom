@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-02T16:09:46.570Z</id>
+    <id>urn:2023-05-02T17:07:18.890Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-02T16:09:46.570Z</updated>
+    <updated>2023-05-02T17:07:18.890Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What Is Sui? The Latest 'Solana Killer' From Former Diem Devs]]></title>
+        <id>https://decrypt.co/?p=138597</id>
+        <link href="https://decrypt.co/resources/what-is-sui-the-latest-solana-killer-from-former-diem-devs"/>
+        <updated>2023-05-02T16:42:23.000Z</updated>
+        <summary type="html"><![CDATA[Sui sets itself apart from other Layer 1 chains with its focus on instant transaction finality, reduced latency in smart contract deployment, and overall transaction speed.]]></summary>
+        <author>
+            <name>Euny Hong</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dubai Reprimands Three Arrows Capital Founders Over New Exchange OPNX]]></title>
         <id>https://decrypt.co/?p=138581</id>
@@ -416,16 +426,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Berenberg Analysts: Bitcoin 'Could Rally' Near Next Year's Halving Event]]></title>
-        <id>https://decrypt.co/?p=138269</id>
-        <link href="https://decrypt.co/138269/berenberg-analysts-bitcoin-could-rally-near-next-years-halving-event"/>
-        <updated>2023-04-28T15:20:20.000Z</updated>
-        <summary type="html"><![CDATA[Analysts suggest the next Bitcoin halving event could, yet again, bring the leading cryptocurrency out of its crypto winter.]]></summary>
-        <author>
-            <name>Andrew Asmakov</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Aurory Is 'Pokemon Meets The Matrix,' Says Executive Producer]]></title>
         <id>https://decrypt.co/videos/live-events/AotiTeMz/aurory-is-pokemon-meets-the-matrix-says-executive-producer</id>
         <link href="https://decrypt.co/videos/live-events/AotiTeMz/aurory-is-pokemon-meets-the-matrix-says-executive-producer"/>
@@ -561,16 +561,6 @@
         <link href="https://decrypt.co/videos/live-events/Exb7eWKj/web3-youtuber-cryptostache-gaming-will-be-the-catalyst-that-takes-nfts-mainstream"/>
         <updated>2023-04-07T02:51:05.000Z</updated>
         <summary type="html"><![CDATA[Web3 gaming YouTuber CryptoStache talks to Decrypt's Jason Nelson at Outer Edge LA about why Web3 gaming will bring NFTs mainstream, the partnerships that prove it's already happening, how gamers will change their tune on NFTs, and how the terminology is likely to change.]]></summary>
-        <author>
-            <name>Decrypt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fordefi Aims to Dramatically Simplify the Institutional Crypto Wallet]]></title>
-        <id>https://decrypt.co/videos/live-events/LGxyFJP5/fordefi-aims-to-dramatically-simplify-the-institutional-crypto-wallet</id>
-        <link href="https://decrypt.co/videos/live-events/LGxyFJP5/fordefi-aims-to-dramatically-simplify-the-institutional-crypto-wallet"/>
-        <updated>2023-04-07T02:39:54.000Z</updated>
-        <summary type="html"><![CDATA[Steve H., VP of sales from Fordefi, which raised $18 million in funding last year, tells Decrypt's Jason Nelson at Outer Edge LA how Fordefi uses multi-party computation to make signing transactions on an institutional crypto wallet much simpler—no seed phrase needed.]]></summary>
         <author>
             <name>Decrypt</name>
         </author>
