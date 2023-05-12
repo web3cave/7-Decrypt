@@ -6,6 +6,21 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/videos/interviews/7TTEckkZ/the-state-of-web3-gaming-on-hedera",
+          "author": null,
+          "description": "Hedera VP Alex Russman tells Decrypt's Kate Irwin about Hedera's Web3 gaming ecosystem and shares a game he's particularly excited about.",
+          "link": "https://decrypt.co/videos/interviews/7TTEckkZ/the-state-of-web3-gaming-on-hedera",
+          "publishedOn": "2023-05-12T14:56:00.000Z",
+          "wordCount": 5967,
+          "title": "The State Of Web3 Gaming On Hedera",
+          "enclosure": {
+            "url": "https://cdn.jwplayer.com/v2/media/7TTEckkZ/poster.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.jwplayer.com/v2/media/7TTEckkZ/poster.jpg"
+        },
+        {
           "id": "https://decrypt.co/?p=139877",
           "author": "Liam J. Kelly,Nivesh Rustgi",
           "description": "Low liquidity and volumes on Binance have led to a serious uptick in volatility in the price action for Bitcoin.",
@@ -83,10 +98,10 @@
         {
           "id": "https://decrypt.co/?p=139861",
           "author": "Nivesh Rustgi",
-          "description": "dropped to a two-month low of $26,188 early this morning amid rising dollar strength and a cooldown in the Ordinals hype. The dollar index (DXY), which values the dollar against other global reserve currencies, recorded a strong uptick on Thursday, inching toward monthly highs. Bitcoin, which usually has an inverse relationship with the dollar, started […]",
+          "description": "Bitcoin took a hit this morning amid rising economic uncertainty around the U.S. debt limit crisis and a slowdown in Ordinals hype.",
           "link": "https://decrypt.co/139861/bitcoin-hits-two-month-low-dollar-strength-cooling-ordinals-activity",
           "publishedOn": "2023-05-12T09:45:24.000Z",
-          "wordCount": 9263,
+          "wordCount": 9025,
           "title": "Bitcoin Hits Two-Month Low Amid Dollar Strength, Cooling Ordinals Activity",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/04/bitcoin-down-gID_7.jpg@png",
@@ -581,7 +596,7 @@
           "description": "Creators are pioneering a high-stakes, gamified media distribution system on Stealcam, but can it be more than a wild NFT experiment?",
           "link": "https://decrypt.co/138820/steal-this-article-you-could-make-author-very-rich",
           "publishedOn": "2023-05-10T15:59:15.000Z",
-          "wordCount": 12809,
+          "wordCount": 12810,
           "title": "Steal This Article—And You Could Make Its Author Very Rich",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/05/art-thief-shutterstock-gID_7.png@png",
@@ -844,21 +859,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.jwplayer.com/v2/media/AotiTeMz/poster.jpg"
-        },
-        {
-          "id": "https://decrypt.co/videos/interviews/JDZuMy3q/gm-marco-santori",
-          "author": null,
-          "description": "There's no doubt that the SEC dealt Kraken—and the outlook for crypto staking products in the U.S.—a big blow when it announced a $30 million settlement and ordered the company to stop offering the service to its customers in the states in February. Now Marco Santori, the company's chief legal officer, says the exchange is eager to move on from it. That means reckoning with a really challenging regulatory environment and growing its customer base overseas. And as Santori quips: \"Kraken's master account application has not yet been rejected.\"",
-          "link": "https://decrypt.co/videos/interviews/JDZuMy3q/gm-marco-santori",
-          "publishedOn": "2023-04-27T18:53:33.000Z",
-          "wordCount": 6283,
-          "title": "gm: Marco Santori",
-          "enclosure": {
-            "url": "https://cdn.jwplayer.com/v2/media/JDZuMy3q/poster.jpg",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.jwplayer.com/v2/media/JDZuMy3q/poster.jpg"
         }
       ]
     }
