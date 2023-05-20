@@ -6,12 +6,27 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/videos/interviews/E2erJr3t/gary-vee-discusses-the-rise-and-impact-of-ai",
+          "author": null,
+          "description": "During VeeCon 2023, entrepreneur spoke with Decrypt's Andrew Hayward about the rise of AI tools, what excites him about the technology, and what kind of impact he thinks it will have on creators and business.",
+          "link": "https://decrypt.co/videos/interviews/E2erJr3t/gary-vee-discusses-the-rise-and-impact-of-ai",
+          "publishedOn": "2023-05-20T16:46:55.000Z",
+          "wordCount": 6049,
+          "title": "Gary Vee Discusses the Rise and Impact of AI",
+          "enclosure": {
+            "url": "https://cdn.jwplayer.com/v2/media/E2erJr3t/poster.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.jwplayer.com/v2/media/E2erJr3t/poster.jpg"
+        },
+        {
           "id": "https://decrypt.co/?p=140683",
           "author": "Jason Nelson",
           "description": "Ordinals hype has spread from Bitcoin to both Dogecoin and Litecoin, driving network activity on all three chains to recent all-time peaks.",
           "link": "https://decrypt.co/140683/meme-tokens-nfts-took-over-bitcoin-now-happening-dogecoin-litecoin",
           "publishedOn": "2023-05-20T13:27:49.000Z",
-          "wordCount": 11105,
+          "wordCount": 11182,
           "title": "Meme Tokens and NFTs Took Over Bitcoin—Now It's Happening on Dogecoin and Litecoin",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/04/dogecoin-price-trading-gID_7.jpeg@png",
@@ -236,7 +251,7 @@
           "description": "After Crypto Twitter took Ledger to the chopping block over its Recover service, the firm’s co-founder took to Reddit to explain his views",
           "link": "https://decrypt.co/140692/so-much-anger-so-much-hate-says-ledger-co-founder-amid-botched-recover-service-launch",
           "publishedOn": "2023-05-19T11:00:32.000Z",
-          "wordCount": 9951,
+          "wordCount": 9952,
           "title": "'So Much Anger, So Much Hate', Says Ledger Co-Founder Amid Botched Recover Service Launch",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/05/ledger-wallet-bitcoin-gID_7.jpg@png",
@@ -859,21 +874,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.jwplayer.com/v2/media/03W3KZjM/poster.jpg"
-        },
-        {
-          "id": "https://decrypt.co/videos/interviews/2vTAgpTC/gm-meet-immunefis-white-hat-whisperer",
-          "author": null,
-          "description": "When Web3 bug bounty platform Immunefi launched two years ago, CEO and founder Mitchell Amador says the bug bounties weren't great and adoption was slow. But the tides started to turn because even if exploiting a smart contract nets a bigger payday than a bounty, it comes with a huge drawback. \"There's a ton of risk when you engage in this, you know, wantonly criminal behavior and steal $200 million from someone else,\" he said. \"There's no way someone's not going to come looking.\"",
-          "link": "https://decrypt.co/videos/interviews/2vTAgpTC/gm-meet-immunefis-white-hat-whisperer",
-          "publishedOn": "2023-05-02T17:30:38.000Z",
-          "wordCount": 6276,
-          "title": "gm: Meet Immunefi's White Hat Whisperer",
-          "enclosure": {
-            "url": "https://cdn.jwplayer.com/v2/media/2vTAgpTC/poster.jpg",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.jwplayer.com/v2/media/2vTAgpTC/poster.jpg"
         }
       ]
     }
