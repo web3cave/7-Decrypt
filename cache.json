@@ -6,12 +6,42 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=5728",
+          "author": "Matt Hussey,Adriana Hamacher,Stephen Graves",
+          "description": "DAOs use smart contracts and governance tokens to enable participants to make consensus decisions on how the organization's resources are allocated.",
+          "link": "https://decrypt.co/resources/decentralized-autonomous-organization-dao",
+          "publishedOn": "2023-06-12T12:31:02.000Z",
+          "wordCount": 10771,
+          "title": "What Is a Decentralized Autonomous Organization (DAO)?",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2019/03/51f43919-dd49-4e1c-9a19-e27675166b60_-gID_1-pID_5.png@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2019/03/51f43919-dd49-4e1c-9a19-e27675166b60_-gID_1-pID_5.png@png"
+        },
+        {
+          "id": "https://decrypt.co/?p=103949",
+          "author": "Jason Nelson",
+          "description": "Here's a beginner's guide to the tools and apps you need to start a Decentralized Autonomous Organization.",
+          "link": "https://decrypt.co/resources/how-to-launch-decentralized-autonomous-organization-dao",
+          "publishedOn": "2023-06-12T12:26:03.000Z",
+          "wordCount": 10909,
+          "title": "How to Launch a DAO",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/06/setup-dao-gID_5-pID_6.png@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/06/setup-dao-gID_5-pID_6.png@png"
+        },
+        {
           "id": "https://decrypt.co/?p=144193",
           "author": "Andrew Asmakov",
           "description": "The Blockstream co-founder told Decrypt that the U.S. crypto crackdown won’t have far-reaching consequences for Bitcoin traders.",
           "link": "https://decrypt.co/144193/bitcoin-antifragile-to-regulatory-pressures-blockstream-ceo-adam-back",
           "publishedOn": "2023-06-12T12:01:20.000Z",
-          "wordCount": 8865,
+          "wordCount": 8832,
           "title": "Bitcoin ‘Antifragile’ to Regulatory Pressures: Blockstream CEO Adam Back",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/06/Adam-Back-Blocksream-gID_7.jpg@png",
@@ -251,7 +281,7 @@
           "description": "Corporate executives are optimistic about the benefits of generative AI, according to a KPMG study, but it'll take time to implement.",
           "link": "https://decrypt.co/144011/generative-ai-enormous-impact-business-execs-admit-not-right-away",
           "publishedOn": "2023-06-09T21:30:39.000Z",
-          "wordCount": 9460,
+          "wordCount": 9427,
           "title": "Generative AI Will Have 'Enormous Impact' on Business, Execs Admit—But Not Right Away",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/06/jaldps_a_bustling_tech_startup_office._In_the_center_of_the_fra_e71c03db-14fc-4dcb-aaca-56e60d4627e5-gID_7.png@png",
@@ -296,7 +326,7 @@
           "description": "Nearly a year after making the announcement, Microsoft shares an update about Minecraft’s intended NFT ban.",
           "link": "https://decrypt.co/143996/minecraft-still-hasnt-officially-banned-nfts-but-coming",
           "publishedOn": "2023-06-09T19:31:08.000Z",
-          "wordCount": 8919,
+          "wordCount": 8886,
           "title": "Minecraft Still Hasn't Officially Banned NFTs—But It's Coming",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/06/minecraft-gID_7.png@png",
@@ -326,7 +356,7 @@
           "description": "Singapore-based cryptocurrency exchange Crypto.com said Friday that it will wind down its institutional service in the States.",
           "link": "https://decrypt.co/143988/crypto-com-close-us-institutional-service-amid-sec-crypto-crackdown",
           "publishedOn": "2023-06-09T18:04:09.000Z",
-          "wordCount": 7948,
+          "wordCount": 7915,
           "title": "Crypto.com to Close US Institutional Service Amid SEC's Crypto Crackdown",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/03/Crypto.com-Chain-gID_7.jpg@png",
@@ -491,7 +521,7 @@
           "description": "Gary Gensler is stepping up his language amid a wider crackdown on the crypto industry which intensified last week with a pair of fresh lawsuits.",
           "link": "https://decrypt.co/143940/sec-chair-gensler-says-crypto-is-rife-hucksters-fraudsters-scam-artists",
           "publishedOn": "2023-06-09T12:24:24.000Z",
-          "wordCount": 8933,
+          "wordCount": 8900,
           "title": "SEC Chair Gensler Says Crypto Is Rife With ‘Hucksters, Fraudsters, Scam Artists’",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/09/gary-gensler-congress-senate-sec-gID_7.jpg@png",
@@ -536,7 +566,7 @@
           "description": "The round was co-led by Griffin Gaming Partners and Bitkraft Ventures, and will fuel HyperPlay’s growth and expansion.",
           "link": "https://decrypt.co/143913/hyperplay-raises-12-million-accelerate-web3-game-launcher",
           "publishedOn": "2023-06-08T21:50:11.000Z",
-          "wordCount": 8150,
+          "wordCount": 8183,
           "title": "HyperPlay Raises $12 Million to Accelerate Web3 Game Launcher",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2019/03/iost-blockchain-gaming-zhong-endless-game-gID_7.jpg@png",
@@ -551,7 +581,7 @@
           "description": "According to a translated copy of an internal memo, Binance's CEO said the leaked chat logs \"did a lot of damage.\"",
           "link": "https://decrypt.co/143907/cz-messages-employees-after-sec-leaks-binance-chat-logs",
           "publishedOn": "2023-06-08T21:28:23.000Z",
-          "wordCount": 8703,
+          "wordCount": 8670,
           "title": "If You Don’t Like It, Leave: CZ's Message to Employees After SEC Leaks Chat Logs",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/05/cz-ethereal-gID_7.jpg@png",
@@ -604,51 +634,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/06/circle-centre-coinbase-usdc-ethereum-algorand-gID_7.jpg@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=143856",
-          "author": "Jose Antonio Lanz",
-          "description": "ChatGPT’s penchant for using the words \"others\" and \"researchers\" over words like \"however,\" \"but,\" and \"although\" proved to be a dead giveaway",
-          "link": "https://decrypt.co/143856/researchers-identify-ai-generated-academic-writing-with-99-accuracy",
-          "publishedOn": "2023-06-08T18:28:36.000Z",
-          "wordCount": 8847,
-          "title": "Researchers Can Identify AI-Generated Academic Writing with '99% Accuracy'",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/06/jaldps_An_AI_humanoid_robot_inspecting_a_digital_document_for_c_d4d20e86-202c-48cf-8f68-fe04089a5663-gID_7.png@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/06/jaldps_An_AI_humanoid_robot_inspecting_a_digital_document_for_c_d4d20e86-202c-48cf-8f68-fe04089a5663-gID_7.png@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=143863",
-          "author": "Mathew Di Salvo",
-          "description": "ARK Invest’s CEO said that the SEC’s prompt action against Coinbase following the Binance lawsuit was “unfortunate.”",
-          "link": "https://decrypt.co/143863/cathie-wood-slams-the-sec-claims-coinbase-will-come-out-a-winner",
-          "publishedOn": "2023-06-08T18:11:11.000Z",
-          "wordCount": 8421,
-          "title": "Cathie Wood Slams the SEC, Claims Coinbase Will Come Out a Winner",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/06/Screenshot-128-gID_7.png@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/06/Screenshot-128-gID_7.png@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=143872",
-          "author": "Ali Shutler",
-          "description": "Developed with health experts, PairedWorld is designed to add value to existing NFT communities and encourage physical world interactions.",
-          "link": "https://decrypt.co/143872/new-type-social-token-pairedworld-incentivize-real-world-connection",
-          "publishedOn": "2023-06-08T18:00:30.000Z",
-          "wordCount": 10642,
-          "title": "A New Type of 'Social Token': PairedWorld Aims to Incentivize Real-World Connection",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/06/pairedworld-lead-gID_7.png@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/06/pairedworld-lead-gID_7.png@png"
         },
         {
           "id": "https://decrypt.co/videos/interviews/5bcrE8nL/is-gala-safe-gala-games-head-of-blockchain-on-gala-crypto-and-sec-regulatory-turmoil",
@@ -791,7 +776,7 @@
           "description": "Decrypt contributor Ryan S. Gladwin shares an inside look at The Machines Arena, an upcoming top-down 4v4 shooter from Directive Games that will offer NFTs minted on Ethereum sidechain network Ronin.",
           "link": "https://decrypt.co/videos/explainers/tT0qWy4s/the-machines-arena-game-preview-is-this-the-next-overwatch",
           "publishedOn": "2023-06-02T22:00:00.000Z",
-          "wordCount": 6023,
+          "wordCount": 6056,
           "title": "The Machines Arena Game Preview: Is This the Next Overwatch?",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/tT0qWy4s/poster.jpg",
@@ -806,7 +791,7 @@
           "description": "InfiniGods developers Damon Gura and Owen O’Donoghue share their stance on why mobile gaming is essential to Web3 adoption and general success in the video games industry.",
           "link": "https://decrypt.co/videos/interviews/l3KBurz4/you-have-to-be-on-mobile-infinigods-cofounders-on-gaming",
           "publishedOn": "2023-06-01T15:10:00.000Z",
-          "wordCount": 6038,
+          "wordCount": 6005,
           "title": "You 'Have' to Be on Mobile: InfiniGods Cofounders on Gaming",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/l3KBurz4/poster.jpg",
@@ -896,7 +881,7 @@
           "description": "The Unioverse is a multimedia sci-fi franchise with plans to facilitate user-generated content. Decrypt reporter and GG producer Kate Irwin checked out the Unioverse as Reyu, an alien character, and navigated the Proving Grounds with him. In the Proving Grounds, you'll fight an array of different drone-like flying robots (some have tentacles!!) as you navigate the puzzle-like dystopian environment. Alien meets Portal, anyone?",
           "link": "https://decrypt.co/videos/explainers/t68sovuN/unioverse-game-preview-hands-on-with-the-cinematic-proving-grounds",
           "publishedOn": "2023-05-29T15:00:00.000Z",
-          "wordCount": 6210,
+          "wordCount": 6177,
           "title": "Unioverse Game Preview: Hands-on With the Cinematic Proving Grounds",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/t68sovuN/poster.jpg",
