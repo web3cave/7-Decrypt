@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-13T20:08:25.538Z</id>
+    <id>urn:2023-06-13T21:06:57.313Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-13T20:08:25.538Z</updated>
+    <updated>2023-06-13T21:06:57.313Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How Much Energy Does Bitcoin Really Use? Less Than You Might Think]]></title>
+        <id>https://decrypt.co/?p=144438</id>
+        <link href="https://decrypt.co/144438/how-much-energy-does-bitcoin-really-use-less-than-you-might-think"/>
+        <updated>2023-06-13T21:02:50.000Z</updated>
+        <summary type="html"><![CDATA[The study uses ASIC model "fingerprints" to understand Bitcoin’s energy use, saying it's wrong to assume the same efficiency across mining rigs.]]></summary>
+        <author>
+            <name>André Beganski</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Will ‘10X’ With Regulatory Clarity, Says Michael Saylor]]></title>
+        <id>https://decrypt.co/?p=144465</id>
+        <link href="https://decrypt.co/144465/bitcoin-will-10x-with-regulatory-clarity-says-michael-saylor"/>
+        <updated>2023-06-13T20:28:56.000Z</updated>
+        <summary type="html"><![CDATA[The head of MicroStrategy says it’s time to accept that ‘Bitcoin is the next Bitcoin.’]]></summary>
+        <author>
+            <name>Andrew Throuvalas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adidas Reveals Sneaker Collab With NFT Artist Fewocious]]></title>
+        <id>https://decrypt.co/?p=144457</id>
+        <link href="https://decrypt.co/144457/adidas-reveals-sneaker-collab-nft-artist-fewocious"/>
+        <updated>2023-06-13T20:15:44.000Z</updated>
+        <summary type="html"><![CDATA[Fewocious, a prominent Web3 artist, has teamed with the apparel giant to launch the Adidas Originals Campus 00s via NFT redemption ticket.]]></summary>
+        <author>
+            <name>Tom Farren</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Are NFTs the Next SEC Target?]]></title>
+        <id>https://decrypt.co/videos/interviews/YaGgY87J/are-nfts-the-next-sec-target</id>
+        <link href="https://decrypt.co/videos/interviews/YaGgY87J/are-nfts-the-next-sec-target"/>
+        <updated>2023-06-13T20:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Decrypt's Kate Irwin discusses the current regulatory climate in the U.S. with Gala Games' President of Blockchain Jason Brink.]]></summary>
+        <author>
+            <name>Decrypt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[North Korean Hackers Pocketed More Than $100M in Atomic Wallet Hack]]></title>
         <id>https://decrypt.co/?p=144444</id>
@@ -376,36 +416,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Launch a DAO]]></title>
-        <id>https://decrypt.co/?p=103949</id>
-        <link href="https://decrypt.co/resources/how-to-launch-decentralized-autonomous-organization-dao"/>
-        <updated>2023-06-12T12:26:03.000Z</updated>
-        <summary type="html"><![CDATA[Here's a beginner's guide to the tools and apps you need to start a Decentralized Autonomous Organization.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin ‘Antifragile’ to Regulatory Pressures: Blockstream CEO Adam Back]]></title>
-        <id>https://decrypt.co/?p=144193</id>
-        <link href="https://decrypt.co/144193/bitcoin-antifragile-to-regulatory-pressures-blockstream-ceo-adam-back"/>
-        <updated>2023-06-12T12:01:20.000Z</updated>
-        <summary type="html"><![CDATA[The Blockstream co-founder told Decrypt that the U.S. crypto crackdown won’t have far-reaching consequences for Bitcoin traders.]]></summary>
-        <author>
-            <name>Andrew Asmakov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeFi Lending Protocol Sturdy Finance Hit By Exploit, Over $750K Drained]]></title>
-        <id>https://decrypt.co/?p=144188</id>
-        <link href="https://decrypt.co/144188/defi-lending-protocol-sturdy-finance-hit-by-exploit-over-750k-drained"/>
-        <updated>2023-06-12T11:09:19.000Z</updated>
-        <summary type="html"><![CDATA[The DeFi platform’s team is trying to communicate with the attackers as its stolen ETH is moved through Tornado Cash.]]></summary>
-        <author>
-            <name>Nivesh Rustgi</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Ava Labs Announces Avalanche Arcad3 for Game Developers at 3XP]]></title>
         <id>https://decrypt.co/videos/interviews/XPHp9r4j/ava-labs-announces-avalanche-arcad3-for-game-developers-at-3xp</id>
         <link href="https://decrypt.co/videos/interviews/XPHp9r4j/ava-labs-announces-avalanche-arcad3-for-game-developers-at-3xp"/>
@@ -561,16 +571,6 @@
         <link href="https://decrypt.co/videos/interviews/PDArXOkZ/crypto-chaos-of-2022-didnt-damage-technology-underlying-the-industry-x-ventures-co-founder-matthias-reiser"/>
         <updated>2023-06-01T13:13:27.000Z</updated>
         <summary type="html"><![CDATA[Ahead of this month's Proof of Talk event in Paris on June 14 and June 15, X Ventures co-founder and the event's co-organizer Dr. Matthias Reiser said nothing's changed for those with a "long-term view" of the industry. Still, events like the collapse of Terra and FTX in 20222 have certainly damaged investors' trust in crypto.]]></summary>
-        <author>
-            <name>Decrypt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tron's Justin Sun Thinks Hong Kong Will Be a Big Fiat Onramp for Crypto]]></title>
-        <id>https://decrypt.co/videos/interviews/agBnfg7Z/trons-justin-sun-thinks-hong-kong-will-be-a-big-fiat-onramp-for-crypto</id>
-        <link href="https://decrypt.co/videos/interviews/agBnfg7Z/trons-justin-sun-thinks-hong-kong-will-be-a-big-fiat-onramp-for-crypto"/>
-        <updated>2023-06-01T12:19:02.000Z</updated>
-        <summary type="html"><![CDATA[Justin Sun, Tron founder and advisor to crypto exchange Huobi, talks to Decrypt's Liam Kelly and Stacy Elliott about the impact of Hong Kong allowing residents to trade crypto, complications of restricting access based on location, and how AI will change the industry.]]></summary>
         <author>
             <name>Decrypt</name>
         </author>
