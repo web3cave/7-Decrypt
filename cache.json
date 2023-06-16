@@ -6,12 +6,42 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=144920",
+          "author": "Andrew Asmakov",
+          "description": "The world’s largest cryptocurrency exchange today announced the termination of its operations in the Netherlands.",
+          "link": "https://decrypt.co/144920/binance-to-leave-netherlands-after-failing-to-acquire-vasp-license",
+          "publishedOn": "2023-06-16T11:57:02.000Z",
+          "wordCount": 8593,
+          "title": "Binance to Leave Netherlands After Failing to Acquire VASP License",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/04/bitcoin-netherlands-gID_7.jpg@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/04/bitcoin-netherlands-gID_7.jpg@png"
+        },
+        {
+          "id": "https://decrypt.co/?p=144918",
+          "author": "Mattis Meichler",
+          "description": "The U.S. Federal Deposit Insurance Corporation has warned OKCoin over “misleading” claims on its website implying FDIC account protection.",
+          "link": "https://decrypt.co/144918/fdic-targets-crypto-exchange-okcoin-over-false-insurance-assertions",
+          "publishedOn": "2023-06-16T11:16:56.000Z",
+          "wordCount": 8292,
+          "title": "FDIC Targets Crypto Exchange OKCoin Over ‘False’ Insurance Assertions",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/02/okcoin-app-gID_7.jpg@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/02/okcoin-app-gID_7.jpg@png"
+        },
+        {
           "id": "https://decrypt.co/?p=144908",
           "author": "Mattis Meichler",
           "description": "Owen Simonin, aka Hasheur, spoke to Decrypt at the Proof-of-Talk conference about the U.S. crypto crackdown—and the opportunity it presents.",
           "link": "https://decrypt.co/144908/french-crypto-entrepreneur-hasheur-u-s-crackdown-chance-for-eu-asia-to-capture-volume",
           "publishedOn": "2023-06-16T10:33:38.000Z",
-          "wordCount": 9218,
+          "wordCount": 9161,
           "title": "French Crypto Entrepreneur Hasheur: U.S. Crackdown Chance for EU, Asia to 'Capture' Volume",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/06/owen-simonin-hasheur-e1686908585729-gID_7.jpg@png",
@@ -26,7 +56,7 @@
           "description": "Artificial intelligence (AI) as a concept dates back to ancient times, but modern AI began in the mid-20th century with pioneers like Alan Turing.",
           "link": "https://decrypt.co/resources/a-brief-history-of-artificial-intelligence-ai-from-turing-to-iot",
           "publishedOn": "2023-06-16T09:06:02.000Z",
-          "wordCount": 10502,
+          "wordCount": 10478,
           "title": "A Brief History of Artificial Intelligence (AI): From Turing to IoT",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/1-intro-to-crypto-tax-gID_7-pID_1.png@png",
@@ -41,7 +71,7 @@
           "description": "The luxury automaker is set to integrate OpenAI's ChatGPT chatbot into its Mercedes-Benz User Experience (MBUX) feature in the U.S.",
           "link": "https://decrypt.co/144872/mercedes-benz-adding-chatgpt-cars-ai-voice-commands",
           "publishedOn": "2023-06-16T01:55:31.000Z",
-          "wordCount": 8476,
+          "wordCount": 8452,
           "title": "Mercedes-Benz Is Adding ChatGPT to Cars for AI Voice Commands",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/06/Decrypt-Wallpaper-Format-45-gID_7.png@png",
@@ -56,7 +86,7 @@
           "description": "The bankrupt crypto exchange wants to surrender its license, but regulators are insisting on what BlockFi says would be an expensive court proceeding.",
           "link": "https://decrypt.co/144879/blockfi-sues-connecticut-banking-commission",
           "publishedOn": "2023-06-16T01:23:54.000Z",
-          "wordCount": 8950,
+          "wordCount": 8926,
           "title": "BlockFi Sues State Commission for Not Accepting Its Surrendered License",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/06/blockfi-logo-on-smartphone-gID_7.jpg@png",
@@ -71,7 +101,7 @@
           "description": "Alchemy’s new GPT-4 plugin harnesses the power of AI to deliver user-friendly, real-time blockchain analysis.",
           "link": "https://decrypt.co/144856/alchemy-chatgpt-ai-plugin-enables-easier-blockchain-analysis",
           "publishedOn": "2023-06-15T23:02:05.000Z",
-          "wordCount": 8821,
+          "wordCount": 8797,
           "title": "Alchemy's ChatGPT Plugin Enables Easier Blockchain Analysis Via AI",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/12/Artificial-Intelligence-gID_7.png@png",
@@ -101,7 +131,7 @@
           "description": "New York Attorney General Letitia James announced a $1.7 million settlement with Hong Kong-based CoinEx over securities violations.",
           "link": "https://decrypt.co/144820/banned-in-new-york-coinex-returns-1-7-million-to-settle-lawsuit",
           "publishedOn": "2023-06-15T22:50:28.000Z",
-          "wordCount": 8935,
+          "wordCount": 8911,
           "title": "Banned In New York, CoinEx Returns $1.7 Million to Settle Lawsuit",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/06/new-york-attorney-general-letitia-james-nyag-gID_7.jpg@png",
@@ -116,7 +146,7 @@
           "description": "Prometheum's co-CEO gave remarks on Capitol Hill that mirrored the SEC's stance. Now industry observers are poring over the startup’s paper trail.",
           "link": "https://decrypt.co/144833/prometheum-sec-poster-child-crypto-compliance",
           "publishedOn": "2023-06-15T22:21:52.000Z",
-          "wordCount": 11833,
+          "wordCount": 11809,
           "title": "Prometheum: What You Need to Know About the SEC’s Poster Child for Crypto Compliance",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/11/under-a-magnifying-glass-gID_7.jpg@png",
@@ -131,7 +161,7 @@
           "description": "More than 100,000 simultaneous viewers watched streamers play clumsy climbing game Only Up, which is packed with Goblintown references.",
           "link": "https://decrypt.co/144815/twitch-new-game-only-up-goblintown-nft",
           "publishedOn": "2023-06-15T21:31:53.000Z",
-          "wordCount": 9438,
+          "wordCount": 9414,
           "title": "Twitch's New Favorite Game 'Only Up' Is Loaded With Goblintown NFT Art",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/06/FynQl09X0AMqULf-scaled-gID_7.jpeg@png",
@@ -146,7 +176,7 @@
           "description": "BlackRock, with Coinbase as its partner, has submitted an application for a spot Bitcoin ETF following a Thursday morning report.",
           "link": "https://decrypt.co/144782/blackrock-filing-bitcoin-etf-application-soon-reports",
           "publishedOn": "2023-06-15T21:28:54.000Z",
-          "wordCount": 8469,
+          "wordCount": 8445,
           "title": "BlackRock Files Bitcoin ETF Application With the SEC",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/12/blackrock-blockchain-vp-gID_7.jpg@png",
@@ -161,7 +191,7 @@
           "description": "Bitkey will allow beta users to withdraw Bitcoin from Coinbase and Cashapp using \"copy and paste.\"",
           "link": "https://decrypt.co/144825/jack-dorseys-block-bitcoin-wallet-opens-beta-announces-coinbase-support",
           "publishedOn": "2023-06-15T21:05:14.000Z",
-          "wordCount": 8483,
+          "wordCount": 8459,
           "title": "Jack Dorsey's Block Bitcoin Wallet Opens Beta, Announces Coinbase Support",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/12/bitcoin-wallet-gID_7.jpeg@png",
@@ -176,7 +206,7 @@
           "description": "Ringers #879, a.k.a. \"The Goose,\" sold for over $6.2 million with fees at today's Sotheby's Grails: Part II live auction.",
           "link": "https://decrypt.co/144816/nft-artwork-owned-three-arrows-capital-sells-6-2-million-sothebys",
           "publishedOn": "2023-06-15T20:37:25.000Z",
-          "wordCount": 9374,
+          "wordCount": 9350,
           "title": "NFT Artwork Owned by Three Arrows Capital Sells for $6.2 Million at Sotheby's",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/06/ringers-autoglyphs-sothebys-gID_7.png@png",
@@ -191,7 +221,7 @@
           "description": "The SEC's actions against the largest crypto exchanges were barely a footnote during the NFT extravaganza at NFC Lisbon in Portugal.",
           "link": "https://decrypt.co/144748/crypto-burned-stateside-nft-believers-partied-through-night-lisbon",
           "publishedOn": "2023-06-15T19:22:58.000Z",
-          "wordCount": 10160,
+          "wordCount": 10136,
           "title": "As Crypto Burned Stateside, NFT Believers Partied Through the Night in Lisbon",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/06/nfc-lisbon-sandbox-agoria-gID_7.jpg@png",
@@ -206,7 +236,7 @@
           "description": "Despite a dark episode at FTX Ventures, Wu has now joined Menlo Ventures to help spearhead its investments in AI and consumer tech.",
           "link": "https://decrypt.co/144795/former-ftx-ventures-head-amy-wu-turns-to-ai",
           "publishedOn": "2023-06-15T18:26:27.000Z",
-          "wordCount": 8769,
+          "wordCount": 8745,
           "title": "Former FTX Ventures Head Amy Wu Turns to AI After Being 'Duped' by SBF",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/06/00346-2994118091-gID_7.png@png",
@@ -221,7 +251,7 @@
           "description": "Colombia already makes use of Ripple's technology for land distribution efforts in the country.",
           "link": "https://decrypt.co/144799/colombia-central-bank-ripple-cbdc",
           "publishedOn": "2023-06-15T18:15:54.000Z",
-          "wordCount": 8901,
+          "wordCount": 8877,
           "title": "Colombia’s Central Bank Taps Ripple to Pilot CBDC",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2019/08/colombia-bitcoin-ethereum-cryptocurrency-gID_7.jpg@png",
@@ -236,7 +266,7 @@
           "description": "There's a few licenses that Ethereum devs consider the mark of a truly open source project. The one Uniswap chose for its v4 isn't one of them.",
           "link": "https://decrypt.co/144802/ethereum-devs-cry-foul-on-uniswap-v4-open-source-promises",
           "publishedOn": "2023-06-15T17:54:36.000Z",
-          "wordCount": 9267,
+          "wordCount": 9243,
           "title": "Ethereum Devs Cry Foul on Uniswap v4 'Open Source' Promises",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/06/uniswap-uni-decentralized-exchange-dex-gID_7.jpg@png",
@@ -251,7 +281,7 @@
           "description": "The company's new MI300X AI Chip will be a direct competitor to the dominance of Nvidia's H100.",
           "link": "https://decrypt.co/144788/amd-debuts-ai-chip-to-challenge-nvidia",
           "publishedOn": "2023-06-15T17:29:05.000Z",
-          "wordCount": 8959,
+          "wordCount": 8935,
           "title": "AMD Debuts AI Chip to Challenge Nvidia",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/06/image-8-gID_7.png@png",
@@ -266,7 +296,7 @@
           "description": "Huobi has joined the Hong Kong Virtual Assets Consortium (HKVAC), while its Hong Kong arm now offers crypto spot trading and virtual asset custody.",
           "link": "https://decrypt.co/142955/crypto-heads-east-as-huobi-hk-launches-trading-service-in-hong-kong",
           "publishedOn": "2023-06-15T17:25:34.000Z",
-          "wordCount": 9321,
+          "wordCount": 9297,
           "title": "Crypto Heads East as Huobi HK Launches Trading Service in Hong Kong",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/06/image1-gID_7.jpg@png",
@@ -281,7 +311,7 @@
           "description": "Some long-term investors are moving their stashes after years of remaining dormant.",
           "link": "https://decrypt.co/144786/bitcoin-whale-moves-million-after-13-years",
           "publishedOn": "2023-06-15T16:53:50.000Z",
-          "wordCount": 8560,
+          "wordCount": 8536,
           "title": "Bitcoin Whale Moves $1.2 Million After 13 Years of Inactivity",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/12/large-crypto-whale-gID_7.jpg@png",
@@ -296,7 +326,7 @@
           "description": "Dedicated gaming network Xai is launching with support from Offchain Labs, with games like Final Form and LAMOverse up first.",
           "link": "https://decrypt.co/144775/arbitrums-new-layer-3-xai-network-built-power-web3-games",
           "publishedOn": "2023-06-15T16:01:06.000Z",
-          "wordCount": 9800,
+          "wordCount": 9776,
           "title": "Arbitrum's New 'Layer-3' Xai Network Is Built to Power Web3 Games",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/06/lamoverse-gID_7.jpeg@png",
@@ -311,7 +341,7 @@
           "description": "Fedi CEO Obi Nwosu has big plans for kickstarting Bitcoin adoption via a unique, Lightning-powered community app called \"Federations.\"",
           "link": "https://decrypt.co/144599/fedis-bitcoin-federations-could-onboard-next-1-billion-users-says-ceo",
           "publishedOn": "2023-06-15T14:21:47.000Z",
-          "wordCount": 11009,
+          "wordCount": 10985,
           "title": "Fedi's Bitcoin Federations Could Onboard Next 1 Billion Users, Says CEO",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/06/Obi-Nwosu-Fedi-gID_7.jpg@png",
@@ -326,7 +356,7 @@
           "description": "Ransomware actors are increasingly trying to pass off their own funds as proceeds received from cryptocurrency mining, claims Chainalysis.",
           "link": "https://decrypt.co/144762/cyber-criminals-are-turning-crypto-mining-pools-wash-ill-gotten-funds-chainalysis",
           "publishedOn": "2023-06-15T13:01:11.000Z",
-          "wordCount": 9585,
+          "wordCount": 9561,
           "title": "Cyber Criminals Are Turning to Crypto Mining Pools to Wash Ill-Gotten Funds: Chainalysis",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/06/Webp.net-resizeimage-7-gID_7.jpg@png",
@@ -341,7 +371,7 @@
           "description": "Jobs requiring human ingenuity or creativity, or which rely heavily on social and emotional skills, might be the safest.",
           "link": "https://decrypt.co/resources/will-artificial-intelligence-take-over-your-job-decryptu",
           "publishedOn": "2023-06-15T10:39:56.000Z",
-          "wordCount": 10635,
+          "wordCount": 10611,
           "title": "Will Artificial Intelligence (AI) Take Over Your Job?",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/04/ai-history-gID_7-pID_2.png@png",
@@ -356,7 +386,7 @@
           "description": "After the largest altcoins, Bitcoin is also shedding value as the crypto market continues to digest yesterday’s fed notes.",
           "link": "https://decrypt.co/144741/ethereum-cardano-dogecoin-lead-weekly-crypto-losses",
           "publishedOn": "2023-06-15T09:59:03.000Z",
-          "wordCount": 8361,
+          "wordCount": 8337,
           "title": "Ethereum, Cardano, and Dogecoin Lead Weekly Crypto Losses",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/10/bitcoin-ethereum-bear-gID_7.jpg@png",
@@ -371,7 +401,7 @@
           "description": "The Government is willing to wait a bit longer to try the FTX founder Sam Bankman-Fried on several additional counts.",
           "link": "https://decrypt.co/144740/sam-bankman-fried-trial-can-only-proceed-original-charges-says-doj",
           "publishedOn": "2023-06-15T09:23:00.000Z",
-          "wordCount": 8647,
+          "wordCount": 8656,
           "title": "Sam Bankman-Fried Trial Can Proceed on Original Charges Only, Says DoJ",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/01/sam-bankman-fried-ftx-gID_7.jpeg@png",
@@ -386,7 +416,7 @@
           "description": "With the market's largest stablecoin waffling, the Tether CTO took to Twitter to assure investors that redemptions won't be a problem.",
           "link": "https://decrypt.co/144735/tether-cto-says-let-them-come-stablecoin-peg-wobbles",
           "publishedOn": "2023-06-15T08:00:05.000Z",
-          "wordCount": 9188,
+          "wordCount": 9164,
           "title": "Tether CTO Says 'Let Them Come' as Stablecoin's Dollar Peg Wobbles",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/10/tether-stablecoin-gID_7.jpeg@png",
@@ -401,7 +431,7 @@
           "description": "The official called for the creation of something akin to the International Atomic Energy Agency to regulate AI tech.",
           "link": "https://decrypt.co/144692/take-ai-warnings-seriously-un-secretary-general",
           "publishedOn": "2023-06-14T23:54:14.000Z",
-          "wordCount": 9116,
+          "wordCount": 9092,
           "title": "Take AI Warnings Seriously, Says UN Secretary-General",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/06/Decrypt-Wallpaper-Format-42-gID_7.png@png",
@@ -416,7 +446,7 @@
           "description": "House Financial Services Committee leaders warned that the SEC’s suggested new definition of “exchange” would hurt innovation.",
           "link": "https://decrypt.co/144671/republicans-continue-to-defend-crypto-in-letter-to-sec",
           "publishedOn": "2023-06-14T23:00:32.000Z",
-          "wordCount": 8587,
+          "wordCount": 8563,
           "title": "Republicans Continue to Defend Crypto in Latest Letter to SEC",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/12/Tom-Emmer-Gary-Gensler-Decrypt-scaled-gID_7.jpg@png",
@@ -431,7 +461,7 @@
           "description": "The documentary, executive produced by musician Shaggy, debuted at the Tribeca Film Festival with help from Decentralized Pictures.",
           "link": "https://decrypt.co/144614/bad-like-brooklyn-dancehall-brings-shaggy-jamaican-culture-tribeca",
           "publishedOn": "2023-06-14T22:54:03.000Z",
-          "wordCount": 9805,
+          "wordCount": 9781,
           "title": "'Bad Like Brooklyn Dancehall' Brings Shaggy and Jamaican Culture to Tribeca",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/06/shaggy-lead-tribeca-gID_7.png@png",
@@ -446,7 +476,7 @@
           "description": "Generative AI could be a major player in the AI industry as a whole, which could be worth $15.7 trillion by 2030.",
           "link": "https://decrypt.co/144684/ai-gold-rush-generative-ai-4-trillion-into-global-economy-annually",
           "publishedOn": "2023-06-14T22:53:56.000Z",
-          "wordCount": 8974,
+          "wordCount": 8950,
           "title": "AI Gold Rush: Generative AI Poised to Pump $4.4 Trillion Into Global Economy Annually",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/06/jaldps_ai_contributing_to_economic_growth_millions_of_dollars_2d4a369e-08d7-4475-8a40-71c872e96bbc-gID_7.png@png",
@@ -461,7 +491,7 @@
           "description": "Francis X. Suarez has been an outspoken advocate of cryptocurrency since taking office in 2017.",
           "link": "https://decrypt.co/144682/miamis-bitcoin-mayor-files-to-run-for-u-s-president",
           "publishedOn": "2023-06-14T22:08:01.000Z",
-          "wordCount": 8540,
+          "wordCount": 8516,
           "title": "Miami's 'Bitcoin Mayor' Will Challenge Donald Trump for US President",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/05/Miami-Mayor-Francis-Suarez-2020-gID_7.jpeg@png",
@@ -476,7 +506,7 @@
           "description": "Congress invited crypto executives to testify on a bill that some say may undermine the SEC",
           "link": "https://decrypt.co/144663/crypto-leaders-praise-draft-gop-bill-dems-raise-concerns",
           "publishedOn": "2023-06-14T21:37:12.000Z",
-          "wordCount": 9112,
+          "wordCount": 9088,
           "title": "Crypto Leaders Praise Draft GOP Bill, Dems Raise Concerns",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2019/08/blockchain-lobbying-Congress-gID_7.jpg@png",
@@ -491,7 +521,7 @@
           "description": "Delio is the second South Korean platform to suspend withdrawals this week after Haru Invest.",
           "link": "https://decrypt.co/144675/crypto-lender-delio-freezes-withdrawals-citing-market-volatility",
           "publishedOn": "2023-06-14T21:01:09.000Z",
-          "wordCount": 8364,
+          "wordCount": 8340,
           "title": "Crypto Lender Delio Freezes Withdrawals Citing 'Market Volatility'",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/07/crypto-exchanges-ciphertrace-freeze-transactions-bitcoin-gID_7.jpg@png",
@@ -506,7 +536,7 @@
           "description": "Prime Trust is set to be acquired by BitGo after a period of \"garbage\" spending last summer.",
           "link": "https://decrypt.co/144672/prime-trust-partner-banq-files-for-bankruptcy-following-bitgo-acquisition-deal",
           "publishedOn": "2023-06-14T20:55:04.000Z",
-          "wordCount": 8382,
+          "wordCount": 8358,
           "title": "Prime Trust Partner Banq Files for Bankruptcy Following BitGo Deal",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/04/bitgo-crypto-custodian-gID_7.jpg@png",
@@ -521,7 +551,7 @@
           "description": "ChatGPT plugins integrate other apps into the OpenAI chatbot, enhancing it with diverse, user-friendly AI features.",
           "link": "https://decrypt.co/144661/unleash-chatgpt-the-top-7-plugins-you-should-know-in-2023",
           "publishedOn": "2023-06-14T20:32:19.000Z",
-          "wordCount": 9441,
+          "wordCount": 9417,
           "title": "Unleash ChatGPT: The Top 7 Plugins You Should Know in 2023",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/06/Decrypt-Wallpaper-Format-41-gID_7.png@png",
@@ -536,7 +566,7 @@
           "description": "Justin Kan was a co-founder of Twitch and now works on Fractal, a Web3 gaming startup. Kan tells Decrypt's Kate Irwin about his new company and what he's up to.",
           "link": "https://decrypt.co/videos/interviews/6r6Mdwt6/fractal-is-like-an-arcade-says-twitch-co-founder-justin-kan",
           "publishedOn": "2023-06-14T20:30:00.000Z",
-          "wordCount": 6053,
+          "wordCount": 6020,
           "title": "Fractal Is Like an Arcade, Says Twitch Co-Founder Justin Kan",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/6r6Mdwt6/poster.jpg",
@@ -551,7 +581,7 @@
           "description": "REVIEW: Stack sats or eke out ETH in Ethereum Blast, a solid but simplistic (and ad-heavy) iOS and Android puzzle game.",
           "link": "https://decrypt.co/144601/this-mobile-puzzle-game-earns-you-bitcoin-ethereum-playing",
           "publishedOn": "2023-06-14T20:23:46.000Z",
-          "wordCount": 9203,
+          "wordCount": 9179,
           "title": "This Mobile Puzzle Game Earns You Bitcoin or Ethereum for Playing",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/06/ethereum-blast-lead-gID_7.png@png",
@@ -566,7 +596,7 @@
           "description": "It’s the first time the Fed has not raised rates at a meeting in 18 months.",
           "link": "https://decrypt.co/144620/bitcoin-ethereum-trade-sideways-fed-skips-rate-hike",
           "publishedOn": "2023-06-14T19:48:11.000Z",
-          "wordCount": 10090,
+          "wordCount": 10099,
           "title": "Bitcoin, Ethereum Trade Sideways as Fed Skips Rate Hike",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/01/jerome-powell-fed-chair-gID_7.jpeg@png",
@@ -574,36 +604,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/01/jerome-powell-fed-chair-gID_7.jpeg@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=144595",
-          "author": "Mathew Di Salvo",
-          "description": "The exchange said it's looking to focus elsewhere in Europe—and “will continue to comply with applicable laws of the European Union.\"",
-          "link": "https://decrypt.co/144595/binance-moves-to-deregister-cyprus-entity-ahead-of-mica-legislation",
-          "publishedOn": "2023-06-14T19:13:22.000Z",
-          "wordCount": 8385,
-          "title": "Binance Set to Leave Cyprus Ahead of MiCA Legislation",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/07/Binance-Phone-gID_7.jpg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/07/Binance-Phone-gID_7.jpg@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=144579",
-          "author": "Tim Hakki",
-          "description": "At this year’s NFC, the Superduper founders stressed that getting NFTs to mass adoption won’t be easy.",
-          "link": "https://decrypt.co/144579/nfts-cant-scale-current-format-say-superduper-founders",
-          "publishedOn": "2023-06-14T16:44:14.000Z",
-          "wordCount": 8524,
-          "title": "'NFTs Can't Scale' in Current Form, Say Superduper Co-founders",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/06/liam-super-duper-gID_7.jpg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/06/liam-super-duper-gID_7.jpg@png"
         },
         {
           "id": "https://decrypt.co/videos/interviews/YaGgY87J/are-nfts-the-next-sec-target",
@@ -716,7 +716,7 @@
           "description": "Zerion's move to launch a mobile-first crypto wallet not only helped NFT users swap jpegs on the go but was also a play to get away from crypto's desktop-centric user experience. And with such little competition, Zerion's head of growth Alexander Guy told Decrypt at NFC Lisbon it's managed to rake in 150,000 funded wallets. Next step? Taking on MetaMask and contending as a browser-extension wallet.",
           "link": "https://decrypt.co/videos/live-events/vCg8O2oy/competition-was-rather-low-in-mobile-wallet-space-says-zerion-head-of-growth",
           "publishedOn": "2023-06-09T13:33:49.000Z",
-          "wordCount": 6220,
+          "wordCount": 6253,
           "title": "'Competition Was Rather Low' in Mobile Wallet Space, Says Zerion Head of Growth",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/vCg8O2oy/poster.jpg",
@@ -731,7 +731,7 @@
           "description": "The Sandbox COO Sebastien Borget told Decrypt at this year’s NFC Lisbon that despite the high price point, Apple’s new VR headset is nonetheless “groundbreaking.” And though the tech giant never used the term “metaverse” in its reveal, Borget is sure that the technology will be key in growing participation in various digital worlds.",
           "link": "https://decrypt.co/videos/live-events/GQ29RaHw/weve-never-seen-anything-like-this-in-vr-says-the-sandbox-coo-on-apples-vision-pro-headset",
           "publishedOn": "2023-06-09T13:33:28.000Z",
-          "wordCount": 6184,
+          "wordCount": 6217,
           "title": "‘We’ve Never Seen Anything Like This in VR’, Says The Sandbox COO on Apple’s Vision Pro Headset",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/GQ29RaHw/poster.jpg",
@@ -836,7 +836,7 @@
           "description": "Fractal and Twitch co-founder Justin Kan gives Decrypt's Kate Irwin an update on all things Fractal and his perspective on blockchain technology in gaming.",
           "link": "https://decrypt.co/videos/interviews/rKVvsPFb/twitch-co-founder-justin-kan-18-months-is-several-decades-in-crypto",
           "publishedOn": "2023-06-07T20:00:00.000Z",
-          "wordCount": 5996,
+          "wordCount": 6029,
           "title": "Twitch Co-Founder Justin Kan: 18 Months is 'Several Decades' in Crypto",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/rKVvsPFb/poster.jpg",
@@ -851,7 +851,7 @@
           "description": "Twitch and Fractal co-founder Justin Kan and Fractal co-founder Dan Borstelmann share their perspectives on Web3 gaming's changing landscape with Decrypt's Kate Irwin.",
           "link": "https://decrypt.co/videos/interviews/MQG3SaBM/playing-for-money-in-web3-games-not-durable-says-fractals-justin-kan",
           "publishedOn": "2023-06-06T14:00:00.000Z",
-          "wordCount": 5997,
+          "wordCount": 6030,
           "title": "Playing for Money in Web3 Games Not 'Durable,' Says Fractal's Justin Kan",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/MQG3SaBM/poster.jpg",
