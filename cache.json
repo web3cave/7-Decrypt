@@ -6,6 +6,21 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=147635",
+          "author": "Nivesh Rustgi",
+          "description": "A preliminary monthly report on the U.S. job sector jolted risk-on sentiments yesterday, as the market prepared for higher interest rates in July.",
+          "link": "https://decrypt.co/147635/bitcoin-falls-to-30000-amid-expectations-of-fed-rate-hike",
+          "publishedOn": "2023-07-07T12:15:44.000Z",
+          "wordCount": 8735,
+          "title": "Bitcoin Falls to $30,000 Amid Expectations of Fed Rate Hike",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/05/bitcoin-on-dollar-usd-btc-stablecoin-gID_7.jpg@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/05/bitcoin-on-dollar-usd-btc-stablecoin-gID_7.jpg@png"
+        },
+        {
           "id": "https://decrypt.co/?p=147633",
           "author": "Stephen Graves",
           "description": "A trade body for Europe’s wholesale financial markets says that decentralized activities need to be regulated.",
@@ -266,7 +281,7 @@
           "description": "Developed by co-creators of the billion-downloaded 8 Ball Pool, the iOS and Android game will be built on Immutable zkEVM.",
           "link": "https://decrypt.co/147528/eyeball-pool-puts-nft-twist-classic-8-ball-game",
           "publishedOn": "2023-07-06T16:01:02.000Z",
-          "wordCount": 8757,
+          "wordCount": 8790,
           "title": "Eyeball Pool Puts an NFT Twist on the Classic 8-Ball Game",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/07/pool-shutterstock-gID_7.png@png",
@@ -281,7 +296,7 @@
           "description": "Meta claims the new text-based app has attracted over 10 million users in its first hours. But it has also committed them to policies that could result in the unwanted deletion of millions of Instagram accounts.",
           "link": "https://decrypt.co/147503/metas-twitter-killer-threads-onboards-millions-but-snags-some-with-fine-print",
           "publishedOn": "2023-07-06T14:03:56.000Z",
-          "wordCount": 9200,
+          "wordCount": 9233,
           "title": "Meta’s ‘Twitter Killer’ Threads Onboards Millions, But They Could Lose Their Instagram Accounts",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/09/meta-facebook-ceo-mark-zuckerberg-gID_7.jpeg@png",
@@ -356,7 +371,7 @@
           "description": "In 2022, a record $3.8 billion in cryptocurrency was stolen as a result of targeted attacks and hacks.",
           "link": "https://decrypt.co/resources/the-boldest-blockchain-hacks-ever",
           "publishedOn": "2023-07-06T06:53:21.000Z",
-          "wordCount": 11937,
+          "wordCount": 11939,
           "title": "The Boldest Blockchain Hacks Ever",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/11/how-to-buy-gID_5-pID_2.png@png",
@@ -576,21 +591,6 @@
           "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/10/china-digital-yuan-pilot-1-billion-gID_7.jpg@png"
         },
         {
-          "id": "https://decrypt.co/?p=147347",
-          "author": "Andrew Asmakov",
-          "description": "If the Starknet community approves, the latest upgrade to the popular Ethereum scaling solution will hit mainnet next week.",
-          "link": "https://decrypt.co/147347/ethereum-scaler-starknet-launches-testnet-latest-quantum-leap-upgrade",
-          "publishedOn": "2023-07-05T16:09:52.000Z",
-          "wordCount": 8942,
-          "title": "Ethereum Scaler Starknet Launches Testnet for Latest 'Quantum Leap' Upgrade",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/12/Ethereum-against-coins-gID_7.jpeg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/12/Ethereum-against-coins-gID_7.jpeg@png"
-        },
-        {
           "id": "https://decrypt.co/videos/live-events/eQ71oapI/behind-the-scenes-with-amgi-studios-and-my-pet-hooligan",
           "author": null,
           "description": "Decrypt's Kate Irwin goes to Burbank, California for a behind-the-scenes tour of AMGI Studios, the developers of upcoming game My Pet Hooligan.",
@@ -626,7 +626,7 @@
           "description": "Decrypt's Kate Irwin shares a first look at Delabs' upcoming lawn mower racing game Rumble Racing Star, which offers a large cast of quirky characters pulled from the worlds of Bored Ape Yacht Club, Pudgy Penguins, and more.",
           "link": "https://decrypt.co/videos/explainers/lXVkuaeq/rumble-racing-star-game-preview-is-this-mario-kart-with-nfts",
           "publishedOn": "2023-06-29T16:47:46.000Z",
-          "wordCount": 6083,
+          "wordCount": 6116,
           "title": "Rumble Racing Star Game Preview: Is This Mario Kart With NFTs?",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/lXVkuaeq/poster.jpg",
@@ -731,7 +731,7 @@
           "description": "Marc Mercuri, Head of Platform for Web3 shooter Shrapnel, speaks with Decrypt's Kate Irwin at the 3XP expo about GameBridge, a feature that simplifies blockchain item composability and interoperability.",
           "link": "https://decrypt.co/videos/live-events/xqVjzGLr/what-is-gamebridge-inside-shrapnels-gaming-innovation",
           "publishedOn": "2023-06-22T21:30:00.000Z",
-          "wordCount": 6018,
+          "wordCount": 6051,
           "title": "What Is GameBridge? Inside Shrapnel's Gaming Innovation",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/xqVjzGLr/poster.jpg",
@@ -746,7 +746,7 @@
           "description": "Daniel Paez, Executive Producer on Immutable X-based card-battler Gods Unchained, discusses the long-running NFT game's launch on the Epic Games Store and the opportunity it provides.",
           "link": "https://decrypt.co/videos/interviews/hjLymzUL/gods-unchained-executive-producer-discusses-epic-games-store-move",
           "publishedOn": "2023-06-22T00:00:00.000Z",
-          "wordCount": 6013,
+          "wordCount": 6046,
           "title": "Gods Unchained Executive Producer Discusses Epic Games Store Move",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/hjLymzUL/poster.jpg",
@@ -806,7 +806,7 @@
           "description": "Justin Kan was a co-founder of Twitch and now works on Fractal, a Web3 gaming startup. Kan tells Decrypt's Kate Irwin about his new company and what he's up to.",
           "link": "https://decrypt.co/videos/interviews/6r6Mdwt6/fractal-is-like-an-arcade-says-twitch-co-founder-justin-kan",
           "publishedOn": "2023-06-14T20:30:00.000Z",
-          "wordCount": 6072,
+          "wordCount": 6039,
           "title": "Fractal Is Like an Arcade, Says Twitch Co-Founder Justin Kan",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/6r6Mdwt6/poster.jpg",
@@ -836,7 +836,7 @@
           "description": "CCO and co-founder of Collab.Land Anjali Young explained at this year’s NFC Lisbon the origins of the crypto community tool kit, which industry niches are turning to its suite of products, and what’s next for the project since its token distribution event last February.",
           "link": "https://decrypt.co/videos/live-events/kcBRKFGk/collabland-co-founder-said-there-was-no-aha-moment-when-launching-dao-toolkit",
           "publishedOn": "2023-06-13T09:00:58.000Z",
-          "wordCount": 6123,
+          "wordCount": 6156,
           "title": "Collab.Land Co-Founder Said There Was No ‘Aha Moment’ When Launching DAO Toolkit",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/kcBRKFGk/poster.jpg",
