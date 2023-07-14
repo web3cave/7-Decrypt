@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-14T00:53:51.105Z</id>
+    <id>urn:2023-07-14T02:26:30.303Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-14T00:53:51.106Z</updated>
+    <updated>2023-07-14T02:26:30.303Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What Is Maximal Extractable Value (MEV)? What Blockchain Miners Need To Know]]></title>
+        <id>https://decrypt.co/?p=148542</id>
+        <link href="https://decrypt.co/resources/what-is-maximal-extractable-value-mev-what-blockchain-miners-need-to-know"/>
+        <updated>2023-07-14T02:22:56.000Z</updated>
+        <summary type="html"><![CDATA[MEV hinges on the fact that miners and other participants in the validation process can reorder and manipulate transactions for their own personal gain.]]></summary>
+        <author>
+            <name>Nathan Reiff</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Unpacking the Federal Lawsuits Against Celsius Network and Its Ex-CEO]]></title>
         <id>https://decrypt.co/?p=148522</id>
@@ -373,16 +383,6 @@
         <summary type="html"><![CDATA[While Threads and Twitter are similar in many ways, key differences include the bifurcated newsfeed feature for Twitter since Musk’s takeover. Threads currently offers only a single newsfeed.]]></summary>
         <author>
             <name>Nathan Reiff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase Introduces Messaging Service to Its Self-Custody Wallet]]></title>
-        <id>https://decrypt.co/?p=148187</id>
-        <link href="https://decrypt.co/148187/coinbase-wallet-web3-xmtp-messaging"/>
-        <updated>2023-07-12T14:31:02.000Z</updated>
-        <summary type="html"><![CDATA[The feature is essentially an interoperable cross between Telegram and Cash App.]]></summary>
-        <author>
-            <name>André Beganski</name>
         </author>
     </entry>
     <entry>
