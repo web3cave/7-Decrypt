@@ -6,6 +6,21 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=150302",
+          "author": "Liam J. Kelly",
+          "description": "To mark Beatport’s Web3 launch on Polkadot, it's issuing the limited collection ‘NACHTS’ from Berlin-based photographer Mischa Fanghaenel.",
+          "link": "https://decrypt.co/150302/iconic-electronic-music-platform-beatport-launches-nft-marketplace-polkadot",
+          "publishedOn": "2023-07-27T14:01:02.000Z",
+          "wordCount": 8906,
+          "title": "Iconic Electronic Music Platform Beatport Launches NFT Marketplace on Polkadot",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/07/Len_Faki_NACHTS-gID_7.jpg@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/07/Len_Faki_NACHTS-gID_7.jpg@png"
+        },
+        {
           "id": "https://decrypt.co/?p=150278",
           "author": "Pedro Solimano",
           "description": "Web2 in the front, crypto in the back; Beam, Eco’s second product launch aims to onboard the “truly mainstream.”",
@@ -27,7 +42,7 @@
           "link": "https://decrypt.co/150297/palm-network-to-launch-web3-creators-platform-polygon-supernet",
           "publishedOn": "2023-07-27T13:01:02.000Z",
           "wordCount": 8700,
-          "title": "Palm Network to Launch Web3 Creators' Platform on Polygon Supernet",
+          "title": "Palm Network to Launch NFT Creators' Platform on Polygon Supernet",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/07/Andrea-Lerdo-and-Sandeep-Nailwal-1-gID_7.jpg@png",
             "length": "1000000",
@@ -57,7 +72,7 @@
           "link": "https://decrypt.co/150294/metaverse-giant-animoca-brands-plunges-30m-web3-super-app-hi",
           "publishedOn": "2023-07-27T11:01:02.000Z",
           "wordCount": 8654,
-          "title": "Metaverse Giant Animoca Brands Plunges $30M Into Web3 Super App hi",
+          "title": "Metaverse Giant Animoca Brands Plunges $30M Into Crypto 'Super App' hi",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/animoca-yat-siu-gID_7.jpeg@png",
             "length": "1000000",
@@ -101,7 +116,7 @@
           "description": "According to crypto investigator ZachXBT, the hack may be linked to Lazarus due to the group’s \"very distinct fingerprint on-chain.\"",
           "link": "https://decrypt.co/150282/north-korean-hacker-cell-lazarus-allegedly-behind-60m-alphapo-hack",
           "publishedOn": "2023-07-27T09:20:34.000Z",
-          "wordCount": 8422,
+          "wordCount": 8455,
           "title": "North Korean Hacker Cell Lazarus Allegedly Behind $60M Alphapo Hack",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/06/north-korea-lazarus-group-covid-stimulus-gID_7.jpg@png",
@@ -606,21 +621,6 @@
           "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/11/twitter-dogecoin-elon-musk-gID_7.jpg@png"
         },
         {
-          "id": "https://decrypt.co/?p=149991",
-          "author": "André Beganski",
-          "description": "KuCoin’s clarification follows a claim that its new KYC policy is cutting into its profits.",
-          "link": "https://decrypt.co/149991/kucoin-denies-layoffs-says-cuts-are-result-of-biannual-appraisal",
-          "publishedOn": "2023-07-25T18:00:26.000Z",
-          "wordCount": 9001,
-          "title": "KuCoin Denies Layoffs, Says Cuts Are Result of 'Biannual Appraisal'",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/09/shutterstock_1213623928-gID_7.jpg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/09/shutterstock_1213623928-gID_7.jpg@png"
-        },
-        {
           "id": "https://decrypt.co/videos/live-events/XU5MbCGE/big-respect-between-ethereum-and-cosmos-developer-communities-dydx-foundation-ceo",
           "author": "Liam J. Kelly",
           "description": "CEO of the dYdX Foundation Charles d'Haussy unpacks the decision behind moving one of the largest decentralized exchange protocol's over to its very own chain built on Cosmos. A key driver, he told Decrypt at this year's EthCC event, was that instead of launching on a rollup or another layer-1, launching a fully customized chain will allow dYdX to fine tune the network for its product's needs.",
@@ -656,7 +656,7 @@
           "description": "Ev.io is a web-based first-person shooter that's free to play, but lets NFT holders earn in-game currency that can be redeemed for Solana (SOL). Decrypt contributor Ryan Gladwin shares his review of the fun throwback to Quake-style blasting, albeit with a modern crypto twist.",
           "link": "https://decrypt.co/videos/interviews/2ZmkuhL2/evio-game-review-earn-solana-while-blasting-enemies",
           "publishedOn": "2023-07-24T22:21:19.000Z",
-          "wordCount": 6130,
+          "wordCount": 6097,
           "title": "'Ev.io' Game Review: Earn Solana While Blasting Enemies",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/2ZmkuhL2/poster.jpg",
