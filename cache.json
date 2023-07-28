@@ -6,6 +6,21 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/videos/interviews/pYMZRoYy/com2us-is-going-full-speed-on-crypto-gaming-kyu-lee",
+          "author": null,
+          "description": "Kyu Lee is the President of game studio Com2uS USA. In an interview, he shares the studio's approach to Web3 and crypto gaming with Decrypt GG's Kate Irwin.",
+          "link": "https://decrypt.co/videos/interviews/pYMZRoYy/com2us-is-going-full-speed-on-crypto-gaming-kyu-lee",
+          "publishedOn": "2023-07-28T18:10:00.000Z",
+          "wordCount": 6062,
+          "title": "Com2uS Is Going \"Full Speed\" on Crypto Gaming: Kyu Lee",
+          "enclosure": {
+            "url": "https://cdn.jwplayer.com/v2/media/pYMZRoYy/poster.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.jwplayer.com/v2/media/pYMZRoYy/poster.jpg"
+        },
+        {
           "id": "https://decrypt.co/?p=150495",
           "author": "Connor Sephton",
           "description": "Shibarium is one step closer to launch, and Doge-themed meme coins are reaping the benefits.",
@@ -66,12 +81,27 @@
           "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/07/DSCF7370-scaled-gID_7.jpeg@png"
         },
         {
+          "id": "https://decrypt.co/?p=145202",
+          "author": "Nathan Reiff",
+          "description": "Code Canvas and Art Blocks are examples of platforms built with the assistance of blockchain tools which allow users to quickly and easily mint high-quality NFTs.",
+          "link": "https://decrypt.co/resources/ai-driven-generative-art-art-that-responds-to-input-2",
+          "publishedOn": "2023-07-28T14:17:23.000Z",
+          "wordCount": 11147,
+          "title": "AI-Driven Generative Art: Art That Responds to Input",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/06/nft-lives-copy-gID_5-pID_3.png@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/06/nft-lives-copy-gID_5-pID_3.png@png"
+        },
+        {
           "id": "https://decrypt.co/?p=150473",
           "author": "Connor Sephton",
           "description": "On Friday, French privacy watchdog CNIL said the legality of Worldcoin's approach \"seems questionable.\"",
           "link": "https://decrypt.co/150473/france-germany-corrdinate-worldcoin-investigation",
           "publishedOn": "2023-07-28T14:14:06.000Z",
-          "wordCount": 8565,
+          "wordCount": 8670,
           "title": "France and Germany Coordinating on Worldcoin Investigation",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/07/worldcoin-wld-logo-gID_7.jpg@png",
@@ -131,7 +161,7 @@
           "description": "FTX claims Genesis owes it $2 billion while Genesis claims it owes nothing. A joint letter to the courts now suggests they’ve settled.",
           "link": "https://decrypt.co/150442/feuding-bankrupt-crypto-firms-genesis-and-ftx-reach-principle-agreement",
           "publishedOn": "2023-07-28T11:04:21.000Z",
-          "wordCount": 8594,
+          "wordCount": 8561,
           "title": "Feuding Bankrupt Crypto Firms Genesis and FTX Reach in Principle Agreement",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/07/court-gavel-red-blue-gID_7.jpg@png",
@@ -176,7 +206,7 @@
           "description": "The cultural institution plans to establish an interactive space within the Ethereum-based world, as well as offer up NFT collectibles.",
           "link": "https://decrypt.co/150405/british-museum-enter-metaverse-via-sandbox",
           "publishedOn": "2023-07-27T22:24:47.000Z",
-          "wordCount": 9039,
+          "wordCount": 9072,
           "title": "The British Museum Will Enter the Metaverse via 'The Sandbox'",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/07/british-museum-shutterstock-gID_7.png@png",
@@ -416,7 +446,7 @@
           "description": "The Democratic candidate for U.S. President also blasted banks for succumbing to political pressure.",
           "link": "https://decrypt.co/150273/robert-kennedy-jr-bought-14-bitcoin-in-may",
           "publishedOn": "2023-07-27T01:19:34.000Z",
-          "wordCount": 9199,
+          "wordCount": 9232,
           "title": "Robert F. Kennedy Jr. Says He Bought 14 Bitcoin for His Kids",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/05/DSCF6578-scaled-gID_7.jpg@png",
@@ -461,7 +491,7 @@
           "description": "Decrypt's Jason Nelson interviews Alchemy: Battle for Ankhos Creative Director Alex Finden at the Solana PlayGG event in San Diego, California.",
           "link": "https://decrypt.co/videos/interviews/mF18GHGo/building-a-discord-game-with-ai-and-blockchain-alchemy-battle-for-ankhos-creative-lead-alex-finden",
           "publishedOn": "2023-07-26T21:55:41.000Z",
-          "wordCount": 6030,
+          "wordCount": 6063,
           "title": "Building a Discord Game with AI and Blockchain: 'Alchemy: Battle for Ankhos' Creative Lead Alex Finden",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/mF18GHGo/poster.jpg",
@@ -551,7 +581,7 @@
           "description": "A team at MIT says injecting tiny disruptive bits of code can cause distorted deepfake images.",
           "link": "https://decrypt.co/150216/deepfake-image-protection-mit-immunization",
           "publishedOn": "2023-07-26T19:05:33.000Z",
-          "wordCount": 8588,
+          "wordCount": 8621,
           "title": "Researchers Pitch ‘Immunizing’ Images Against Deepfake Manipulation",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/05/jaldps_president_Biden_dressed_as_Liberacce_on_a_public_event_7194cfd9-aeaa-458e-abc9-f1069bcae135-gID_7.png@png",
@@ -581,7 +611,7 @@
           "description": "The Federal Reserve today said it would continue to hike interest rates—but Bitcoin and Ethereum did not immediately move.",
           "link": "https://decrypt.co/150203/bitcoin-holds-steady-after-federal-reserve-raises-rates-to-22-year-high",
           "publishedOn": "2023-07-26T18:16:01.000Z",
-          "wordCount": 8758,
+          "wordCount": 8791,
           "title": "Bitcoin Holds Steady After Federal Reserve Raises Rates to 22-Year High",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/03/Jerome-Powell-Brookings-e1616100217470-gID_7.jpeg@png",
@@ -589,21 +619,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/03/Jerome-Powell-Brookings-e1616100217470-gID_7.jpeg@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=9571",
-          "author": "Ki Chong Tran",
-          "description": "We explore what tokenization is, how it works, and how it's revolutionizing the way assets can be issued, managed, and traded.",
-          "link": "https://decrypt.co/resources/what-is-tokenization",
-          "publishedOn": "2023-07-26T17:18:12.000Z",
-          "wordCount": 10756,
-          "title": "What Is Tokenization?",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2019/09/Tokenization-1-gID_4-pID_2.png@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2019/09/Tokenization-1-gID_4-pID_2.png@png"
         },
         {
           "id": "https://decrypt.co/videos/live-events/XU5MbCGE/big-respect-between-ethereum-and-cosmos-developer-communities-dydx-foundation-ceo",
@@ -626,7 +641,7 @@
           "description": "Marin Tvrdić, a business development contributor to the Lido DAO, sat down with Decrypt during this year's EthCC to break down how the liquid staking protocol has managed such a massive lead, how it plans to keep that lead, and the protocol's new dual-governance tokenomics.",
           "link": "https://decrypt.co/videos/live-events/fUHhelhV/ethereum-staking-solution-lido-had-perfect-product-market-fit-at-launch-says-daos-biz-dev-contributor",
           "publishedOn": "2023-07-25T08:43:36.000Z",
-          "wordCount": 6152,
+          "wordCount": 6185,
           "title": "Ethereum Staking Solution Lido 'Had Perfect Product Market Fit' at Launch, Says DAO's Biz Dev Contributor",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/fUHhelhV/poster.jpg",
@@ -641,7 +656,7 @@
           "description": "OpenZeppelin's security solutions architect Michael Lewellen sat down with Decrypt to discuss how the industry can become a little safer for users at this year's EthCC Paris. The key? Introducing security standards across the industry so folks know what an audit actually means and where risks lie, be it bad faith actors or poor implementation.",
           "link": "https://decrypt.co/videos/live-events/aYNuFdAi/whats-going-to-stop-all-the-defi-hacks-standards-says-openzepplin-security-architect",
           "publishedOn": "2023-07-25T08:04:15.000Z",
-          "wordCount": 6184,
+          "wordCount": 6217,
           "title": "What's Going to Stop All the DeFi Hacks? 'Standards,' Says OpenZepplin Security Architect",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/aYNuFdAi/poster.jpg",
@@ -671,7 +686,7 @@
           "description": "Account abstraction this, smart wallets that. Discussions at EthCC Paris about improving user experience have pointed at industry leader MetaMask as an example of what not to do. But that may soon change, with a host of updates and optimizations coming to crypto's number one wallet, said its product lead Alex Jupiter. It still may take some time, though, before these changes take effect.",
           "link": "https://decrypt.co/videos/live-events/l1EbLgl3/moving-fast-and-breaking-things-isnt-the-web3-ethos-metamask-product-lead",
           "publishedOn": "2023-07-24T15:45:12.000Z",
-          "wordCount": 6223,
+          "wordCount": 6256,
           "title": "'Moving Fast and Breaking Things Isn't the Web3 Ethos': MetaMask Product Lead",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/l1EbLgl3/poster.jpg",
