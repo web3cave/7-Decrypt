@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-03T17:06:40.897Z</id>
+    <id>urn:2023-08-03T18:09:25.068Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-03T17:06:40.897Z</updated>
+    <updated>2023-08-03T18:09:25.068Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[New York Times Pushes Back Against Sam Bankman-Fried Gag Order]]></title>
+        <id>https://decrypt.co/?p=151169</id>
+        <link href="https://decrypt.co/151169/nyt-pushes-back-against-sam-bankman-fried-gag-order"/>
+        <updated>2023-08-03T17:24:05.000Z</updated>
+        <summary type="html"><![CDATA[The Gray Lady’s letter follows a report that landed Bankman-Fried back in court.]]></summary>
+        <author>
+            <name>André Beganski</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitfinex Hacker Revealed: Razzlekhan's Husband Admits He Stole Billions in Bitcoin]]></title>
         <id>https://decrypt.co/?p=151168</id>
@@ -373,16 +383,6 @@
         <summary type="html"><![CDATA[The team behind Ordinals said its Bitcoin-based protocol's development will be supported by a nonprofit structure moving forward.]]></summary>
         <author>
             <name>André Beganski</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nvidia AI Image Personalization Method Fits on a Floppy Disk and Takes 4 Minutes to Train]]></title>
-        <id>https://decrypt.co/?p=150861</id>
-        <link href="https://decrypt.co/150861/nvidia-ai-image-generator-floppy-disk-4-minutes"/>
-        <updated>2023-08-01T17:44:55.000Z</updated>
-        <summary type="html"><![CDATA[Nvidia's new Perfusion image presonalization method takes 100KB of space and needs only 4 minutes of training to reproduce a concept.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
         </author>
     </entry>
     <entry>
