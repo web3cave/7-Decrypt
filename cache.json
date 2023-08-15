@@ -6,6 +6,21 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=152383",
+          "author": "Liam J. Kelly",
+          "description": "Mainstream audiences may never know that the promise of crypto has finally been realized.",
+          "link": "https://decrypt.co/152383/fintech-front-defi-back-cryptos-quiet-revolution-is-underway",
+          "publishedOn": "2023-08-15T12:11:13.000Z",
+          "wordCount": 10381,
+          "title": "Fintech in the Front, DeFi in the Back—Crypto's Quiet Revolution Is Underway",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/08/crypto-television-static-gID_7.jpg@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/08/crypto-television-static-gID_7.jpg@png"
+        },
+        {
           "id": "https://decrypt.co/?p=152527",
           "author": "Mattis Meichler",
           "description": "Co-CEO of FTX Digital Markets will invoke his constitutional right against self-incrimination, opting to remain silent throughout the trial.",
@@ -296,7 +311,7 @@
           "description": "Led by Bitcoin entrepreneur and influencer Trevor Owens, the fund offers seed investments and mentorship to Ordinals-based startups.",
           "link": "https://decrypt.co/152406/bitcoin-frontier-fund-launches-accelerator-to-boost-ordinals-adoption",
           "publishedOn": "2023-08-14T14:38:14.000Z",
-          "wordCount": 9451,
+          "wordCount": 9418,
           "title": "Bitcoin Frontier Fund Launches Accelerator to Boost Ordinals Adoption",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/05/bitcoin-rocket-digital-illustration-gID_7.jpg@png",
@@ -591,21 +606,6 @@
           "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/08/Decrypt-Wallpaper-Format-2023-08-11T154142.848-gID_7.png@png"
         },
         {
-          "id": "https://decrypt.co/?p=152245",
-          "author": "Pedro Solimano",
-          "description": "“The bar is very high for banks to launch, and we cleared it,\" Custodia Bank CEO Caitlin Long told Decrypt.",
-          "link": "https://decrypt.co/152245/custodia-bank-now-accepting-us-dollar-deposits-adding-bitcoin-custody",
-          "publishedOn": "2023-08-11T20:50:18.000Z",
-          "wordCount": 8741,
-          "title": "Custodia Bank Now Accepting US Dollar Deposits, Adding Bitcoin Custody",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/03/Screen-Shot-2022-03-29-at-9.59.21-AM-e1648562439130-gID_7.png@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/03/Screen-Shot-2022-03-29-at-9.59.21-AM-e1648562439130-gID_7.png@png"
-        },
-        {
           "id": "https://decrypt.co/videos/explainers/q8YVWJh4/parallel-tcg-inside-the-sci-fi-card-games-closed-beta",
           "author": null,
           "description": "Decrypt's Kate Irwin goes hands-on with Parallel’s closed beta on Windows PC to find out what sets it apart from other crypto card-battlers.",
@@ -761,7 +761,7 @@
           "description": "OpenZeppelin's security solutions architect Michael Lewellen sat down with Decrypt to discuss how the industry can become a little safer for users at this year's EthCC Paris. The key? Introducing security standards across the industry so folks know what an audit actually means and where risks lie, be it bad faith actors or poor implementation.",
           "link": "https://decrypt.co/videos/live-events/aYNuFdAi/whats-going-to-stop-all-the-defi-hacks-standards-says-openzepplin-security-architect",
           "publishedOn": "2023-07-25T08:04:15.000Z",
-          "wordCount": 6327,
+          "wordCount": 6360,
           "title": "What's Going to Stop All the DeFi Hacks? 'Standards,' Says OpenZepplin Security Architect",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/aYNuFdAi/poster.jpg",
@@ -776,7 +776,7 @@
           "description": "Ev.io is a web-based first-person shooter that's free to play, but lets NFT holders earn in-game currency that can be redeemed for Solana (SOL). Decrypt contributor Ryan Gladwin shares his review of the fun throwback to Quake-style blasting, albeit with a modern crypto twist.",
           "link": "https://decrypt.co/videos/interviews/2ZmkuhL2/evio-game-review-earn-solana-while-blasting-enemies",
           "publishedOn": "2023-07-24T22:21:19.000Z",
-          "wordCount": 6240,
+          "wordCount": 6273,
           "title": "'Ev.io' Game Review: Earn Solana While Blasting Enemies",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/2ZmkuhL2/poster.jpg",
