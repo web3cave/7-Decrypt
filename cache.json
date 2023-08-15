@@ -6,6 +6,36 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=152496",
+          "author": "Jason Nelson",
+          "description": "The arrival of the pivotal moment for civilization may arrive ahead of schedule, says SingularityNET COO Janet Adams.",
+          "link": "https://decrypt.co/152496/the-singularity-ai-general-artificial-intelligence",
+          "publishedOn": "2023-08-15T00:23:04.000Z",
+          "wordCount": 10497,
+          "title": "Achieving the Singularity is \"All About Progress\": AI Executive",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/08/Decrypt-Wallpaper-Format-2023-08-14T163937.864-gID_7.png@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/08/Decrypt-Wallpaper-Format-2023-08-14T163937.864-gID_7.png@png"
+        },
+        {
+          "id": "https://decrypt.co/?p=152490",
+          "author": "Kate Irwin",
+          "description": "Gaming is an enormous industry, and streaming giant Netflix could fuel even further growth by serving on-demand games via nearly any device.",
+          "link": "https://decrypt.co/152490/netflix-now-streaming-video-games-heres-why-big-deal",
+          "publishedOn": "2023-08-14T23:11:27.000Z",
+          "wordCount": 9768,
+          "title": "Netflix Starts Streaming Video Games—Here's Why It's a Big Deal",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/08/Oxenfreewallpaper-gID_7.jpg@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/08/Oxenfreewallpaper-gID_7.jpg@png"
+        },
+        {
           "id": "https://decrypt.co/?p=152481",
           "author": "Kate Irwin",
           "description": "Immutable zkEVM's testnet launched today. From strategy games to shooters, here are five of the biggest NFT games coming to the network.",
@@ -86,7 +116,7 @@
           "description": "Anthropic’s war chest gets a bit bigger, as firms line up to bet on the OpenAI rival.",
           "link": "https://decrypt.co/152450/claude-ai-developer-anthropic-raises-100-million-from-south-korean-telecom-sk",
           "publishedOn": "2023-08-14T18:12:15.000Z",
-          "wordCount": 9062,
+          "wordCount": 9080,
           "title": "Claude AI Developer Anthropic Raises $100M From South Korean Telco Giant SK",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/08/gen_00031_-gID_7.png@png",
@@ -191,7 +221,7 @@
           "description": "Maker protocol's governance move to increase DAI returns and increasing U.S. Treasury yields are boosting the protocol’s revenue.",
           "link": "https://decrypt.co/152398/maker-protocol-revenues-hit-2-year-high-165m-interest-rates-soar",
           "publishedOn": "2023-08-14T14:04:44.000Z",
-          "wordCount": 8659,
+          "wordCount": 8692,
           "title": "Maker Protocol Revenues Hit 2-Year High of $165M as Interest Rates Soar",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/07/maker-ethereum-total-value-locked-in-defi-gID_7.jpg@png",
@@ -311,7 +341,7 @@
           "description": "There were also strong indications of incoming Ethereum Futures ETFs this week.",
           "link": "https://decrypt.co/152350/this-week-on-crypto-twitter-paypal-announces-stablecoin-while-sec-saves-face-in-ripple-lawsuit",
           "publishedOn": "2023-08-13T20:55:49.000Z",
-          "wordCount": 11833,
+          "wordCount": 11866,
           "title": "This Week on Crypto Twitter: PayPal Announces Stablecoin While SEC Saves Face in Ripple Lawsuit",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/12/PayPal-gID_7.jpg@png",
@@ -566,7 +596,7 @@
           "description": "Two research papers evaluating ChatGPT's accuracy conclude that the AI chatbot seems to be better at writing prescriptions than writing code.",
           "link": "https://decrypt.co/152107/chatgpt-good-doctor-bad-coder",
           "publishedOn": "2023-08-11T17:13:42.000Z",
-          "wordCount": 9128,
+          "wordCount": 9146,
           "title": "There’s More Evidence ChatGPT Is a Good Doctor But a Bad Coder",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/08/jaldps_a_doctor_robot_with_a_lab_coat_and_a_computer_b9af7019-a366-4f64-b6a0-f61df1e64584-gID_7.png@png",
@@ -574,36 +604,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/08/jaldps_a_doctor_robot_with_a_lab_coat_and_a_computer_b9af7019-a366-4f64-b6a0-f61df1e64584-gID_7.png@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=152202",
-          "author": "Nivesh Rustgi",
-          "description": "DeBank plans to launch a social media platform, DeBank Stream, by leveraging the 200,000-plus users on its chat app DeBank Hi.",
-          "link": "https://decrypt.co/152202/ethereum-defi-dashboard-debank-launches-layer-2-on-optimisms-op-stack",
-          "publishedOn": "2023-08-11T16:19:14.000Z",
-          "wordCount": 8382,
-          "title": "Ethereum DeFi Dashboard DeBank Launches Layer-2 on Optimism’s OP Stack",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/08/debank-gID_7.jpg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/08/debank-gID_7.jpg@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=152075",
-          "author": "Kate Irwin",
-          "description": "PREVIEW: Parallel is a competitive trading card game with NFTs—for fans of the genre and space operas alike. We go hands-on with the beta.",
-          "link": "https://decrypt.co/152075/parallel-puts-epic-sci-fi-spin-complex-nft-card-battles-preview",
-          "publishedOn": "2023-08-11T16:02:39.000Z",
-          "wordCount": 12109,
-          "title": "'Parallel' Puts an Epic Sci-Fi Spin on Complex NFT Card Battles",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/08/parallel-tcg-artwork-gID_7.png@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/08/parallel-tcg-artwork-gID_7.png@png"
         },
         {
           "id": "https://decrypt.co/videos/explainers/q8YVWJh4/parallel-tcg-inside-the-sci-fi-card-games-closed-beta",
@@ -641,7 +641,7 @@
           "description": "\"I wrote them off,\" Twitch streamer Alliestrasza said of her initial thoughts on many early blockchain games. She tells Decrypt's Jason Nelson about how her perspective on Web3 games has evolved over time and now sees blockchain games getting significantly better.",
           "link": "https://decrypt.co/videos/interviews/BA4yE45A/many-early-blockchain-games-were-cash-grabs-says-twitch-streamer-alliestrasza",
           "publishedOn": "2023-08-07T16:38:00.000Z",
-          "wordCount": 6243,
+          "wordCount": 6276,
           "title": "Many Early Blockchain Games Were 'Cash Grabs,' Says Twitch Streamer Alliestrasza",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/BA4yE45A/poster.jpg",
@@ -731,7 +731,7 @@
           "description": "CEO of the dYdX Foundation Charles d'Haussy unpacks the decision behind moving one of the largest decentralized exchange protocol's over to its very own chain built on Cosmos. A key driver, he told Decrypt at this year's EthCC event, was that instead of launching on a rollup or another layer-1, launching a fully customized chain will allow dYdX to fine tune the network for its product's needs.",
           "link": "https://decrypt.co/videos/live-events/XU5MbCGE/big-respect-between-ethereum-and-cosmos-developer-communities-dydx-foundation-ceo",
           "publishedOn": "2023-07-25T13:24:12.000Z",
-          "wordCount": 6375,
+          "wordCount": 6408,
           "title": "'Big Respect Between Ethereum and Cosmos Developer Communities': dYdX Foundation CEO",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/XU5MbCGE/poster.jpg",
