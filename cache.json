@@ -6,6 +6,21 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=153374",
+          "author": "Jason Nelson",
+          "description": "As creators call AI-generated art plagiarism and infringement, the technology was not allowed to stand alone in a landmark case.",
+          "link": "https://decrypt.co/153374/denial-of-copyright-for-generative-ai-tool-landmark-case",
+          "publishedOn": "2023-08-22T21:04:26.000Z",
+          "wordCount": 10233,
+          "title": "Generative AI Faces Uphill Battle in Earning Copyright Protection",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/04/Robot-Painting-gID_7.png@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/04/Robot-Painting-gID_7.png@png"
+        },
+        {
           "id": "https://decrypt.co/?p=153373",
           "author": "André Beganski",
           "description": "Nathaniel Chastain was arrested last June. At the time, authorities called his case the first insider trading scheme involving digital assets.",
@@ -116,7 +131,7 @@
           "description": "NFTs establish digital scarcity and unique, provable identifiers. They indicate which digital asset is the original—like a certified painting in a room full of duplicate prints.",
           "link": "https://decrypt.co/resources/nft-real-life-use-cases",
           "publishedOn": "2023-08-22T16:09:19.000Z",
-          "wordCount": 13701,
+          "wordCount": 13725,
           "title": "NFT Real-Life Use Cases",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/11/nft-use-cases-gID_5-pID_2.png@png",
@@ -146,7 +161,7 @@
           "description": "Detractors have accused generative AI of plagiarism, copyright infringement, and stealing from human creators.",
           "link": "https://decrypt.co/resources/what-is-generative-ai-the-technology-that-can-teach-itself",
           "publishedOn": "2023-08-22T13:22:32.000Z",
-          "wordCount": 10838,
+          "wordCount": 10871,
           "title": "What Is Generative AI? The Tech Shaping the Future of Content Creation",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/04/ai-history-gID_4-pID_4.png@png",
@@ -446,7 +461,7 @@
           "description": "The move comes just three weeks after the African nation's authorities suspended Worldcoin’s activities in the country.",
           "link": "https://decrypt.co/153186/kenyan-government-launches-committee-examine-worldcoin",
           "publishedOn": "2023-08-21T16:57:32.000Z",
-          "wordCount": 8749,
+          "wordCount": 8782,
           "title": "Kenyan Government Launches Committee to Examine Worldcoin",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/07/Worldcoin-shutterstock_2068725362-16x9-1-gID_7.jpg@png",
@@ -461,7 +476,7 @@
           "description": "At Solana's PlayGG, Star Atlas CEO Michael Wagner shares his \"controversial take\" on crypto in games, shares the challenges of developing the upcoming scifi game, and how crypto's volatility has changed his perspective with Decrypt's Jason Nelson.",
           "link": "https://decrypt.co/videos/interviews/tc2nKeqA/michael-wagners-controversial-take-on-crypto-in-games",
           "publishedOn": "2023-08-21T16:51:00.000Z",
-          "wordCount": 6578,
+          "wordCount": 6263,
           "title": "Michael Wagner's 'Controversial Take' on Crypto in Games",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/tc2nKeqA/poster.jpg",
@@ -621,21 +636,6 @@
           "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/08/Hacker-in-Red-shutterstock_2249685481-gID_7.jpg@png"
         },
         {
-          "id": "https://decrypt.co/?p=153092",
-          "author": "André Beganski",
-          "description": "The FTX founder needs better access to evidence, his lawyers argue, even as his defense may be that his lawyers made him do it.",
-          "link": "https://decrypt.co/153092/sam-bankman-fried-wants-regular-release-from-jail-may-blame-lawyers-in-his-defense",
-          "publishedOn": "2023-08-20T18:16:48.000Z",
-          "wordCount": 9199,
-          "title": "Sam Bankman-Fried Wants Regular Release From Jail, May Blame Lawyers In His Defense",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/08/SBF-at-Metropolitan-Detention-Center-RKO-scaled-gID_7.jpg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/08/SBF-at-Metropolitan-Detention-Center-RKO-scaled-gID_7.jpg@png"
-        },
-        {
           "id": "https://decrypt.co/videos/interviews/uCzW3K7P/interview-angelic-ceo-on-building-the-sci-fi-rpg-on-solana-and-ethereum",
           "author": null,
           "description": "Angelic is a sci-fi roleplay game in development that will be free-to-play and offer optional, opt-in crypto features on Solana and Ethereum and a governance token. Metaverse Game Studios CEO and Founder Erkan Bayol tells Decrypt's Jason Nelson about how he sees AAA traditional games as Angelic's main competitors and shares his vision for the game.",
@@ -671,7 +671,7 @@
           "description": "Decrypt's Jason Nelson speaks with Star Atlas Founder and CEO Michael Wagner about the MMO game's approach to development, marketing, and blockchain integrations.",
           "link": "https://decrypt.co/videos/interviews/WQCaahmH/star-atlas-ceo-on-developing-an-mmo-game",
           "publishedOn": "2023-08-15T13:57:00.000Z",
-          "wordCount": 6508,
+          "wordCount": 6193,
           "title": "Star Atlas CEO on Developing an MMO Game",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/WQCaahmH/poster.jpg",
@@ -686,7 +686,7 @@
           "description": "Decrypt's Jason Nelson talks to Aurory's Head of Marketing and Business Development Michael Natoli about the origins of the Aurory crypto games at the Solana PlayGG event.",
           "link": "https://decrypt.co/videos/interviews/O0S201TB/aurorys-origin-story-how-jrpgs-inspired-the-games",
           "publishedOn": "2023-08-14T16:57:00.000Z",
-          "wordCount": 6528,
+          "wordCount": 6213,
           "title": "Aurory's Origin Story: How JRPGs Inspired the Games",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/O0S201TB/poster.jpg",
@@ -701,7 +701,7 @@
           "description": "Decrypt's Kate Irwin goes hands-on with Parallel’s closed beta on Windows PC to find out what sets it apart from other crypto card-battlers.",
           "link": "https://decrypt.co/videos/explainers/q8YVWJh4/parallel-tcg-inside-the-sci-fi-card-games-closed-beta",
           "publishedOn": "2023-08-11T15:27:00.000Z",
-          "wordCount": 6490,
+          "wordCount": 6197,
           "title": "Parallel TCG: Inside the Sci-Fi Card Game’s Closed Beta",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/q8YVWJh4/poster.jpg",
@@ -731,7 +731,7 @@
           "description": "\"I wrote them off,\" Twitch streamer Alliestrasza said of her initial thoughts on many early blockchain games. She tells Decrypt's Jason Nelson about how her perspective on Web3 games has evolved over time and now sees blockchain games getting significantly better.",
           "link": "https://decrypt.co/videos/interviews/BA4yE45A/many-early-blockchain-games-were-cash-grabs-says-twitch-streamer-alliestrasza",
           "publishedOn": "2023-08-07T16:38:00.000Z",
-          "wordCount": 6616,
+          "wordCount": 6301,
           "title": "Many Early Blockchain Games Were 'Cash Grabs,' Says Twitch Streamer Alliestrasza",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/BA4yE45A/poster.jpg",
@@ -761,7 +761,7 @@
           "description": "Aurory is an NFT-driven game franchise that started life on Solana and is expanding to other chains. Decrypt's Jason Nelson spoke with Aurory Head of Marketing Michael Natoli at Solana's PlayGG event, where Natoli shared his thoughts on the challenges that blockchain games face in reaching players.",
           "link": "https://decrypt.co/videos/interviews/nBNKKZdK/give-projects-a-chance-says-aurorys-michael-natoli-on-nft-game-challenges",
           "publishedOn": "2023-08-02T18:40:00.000Z",
-          "wordCount": 6337,
+          "wordCount": 6652,
           "title": "'Give Projects a Chance,' Says Aurory's Michael Natoli on NFT Game Challenges",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/nBNKKZdK/poster.jpg",
@@ -836,7 +836,7 @@
           "description": "Marin Tvrdić, a business development contributor to the Lido DAO, sat down with Decrypt during this year's EthCC to break down how the liquid staking protocol has managed such a massive lead, how it plans to keep that lead, and the protocol's new dual-governance tokenomics.",
           "link": "https://decrypt.co/videos/live-events/fUHhelhV/ethereum-staking-solution-lido-had-perfect-product-market-fit-at-launch-says-daos-biz-dev-contributor",
           "publishedOn": "2023-07-25T08:43:36.000Z",
-          "wordCount": 6737,
+          "wordCount": 6353,
           "title": "Ethereum Staking Solution Lido 'Had Perfect Product Market Fit' at Launch, Says DAO's Biz Dev Contributor",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/fUHhelhV/poster.jpg",
@@ -881,7 +881,7 @@
           "description": "Account abstraction this, smart wallets that. Discussions at EthCC Paris about improving user experience have pointed at industry leader MetaMask as an example of what not to do. But that may soon change, with a host of updates and optimizations coming to crypto's number one wallet, said its product lead Alex Jupiter. It still may take some time, though, before these changes take effect.",
           "link": "https://decrypt.co/videos/live-events/l1EbLgl3/moving-fast-and-breaking-things-isnt-the-web3-ethos-metamask-product-lead",
           "publishedOn": "2023-07-24T15:45:12.000Z",
-          "wordCount": 6424,
+          "wordCount": 6808,
           "title": "'Moving Fast and Breaking Things Isn't the Web3 Ethos': MetaMask Product Lead",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/l1EbLgl3/poster.jpg",
