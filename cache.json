@@ -6,6 +6,21 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=153315",
+          "author": "Jason Nelson",
+          "description": "Detractors have accused generative AI of plagiarism, copyright infringement, and stealing from human creators.",
+          "link": "https://decrypt.co/resources/what-is-generative-ai-the-technology-that-can-teach-itself",
+          "publishedOn": "2023-08-22T13:22:32.000Z",
+          "wordCount": 10807,
+          "title": "What Is Generative AI? The Technology That Can Teach Itself",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/04/ai-history-gID_4-pID_4.png@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/04/ai-history-gID_4-pID_4.png@png"
+        },
+        {
           "id": "https://decrypt.co/?p=153310",
           "author": "Nivesh Rustgi",
           "description": "Traders are putting on hefty bids that point to continued bullishness surrounding to the newly launched Friend.tech app.",
@@ -41,7 +56,7 @@
           "description": "The Shiba Inu team is preparing to begin implementing its ShibPaper to develop a working system for governance and management.",
           "link": "https://decrypt.co/153306/shibarium-devs-say-enhanced-network-almost-ready-to-reopen",
           "publishedOn": "2023-08-22T10:47:07.000Z",
-          "wordCount": 9073,
+          "wordCount": 9040,
           "title": "Shibarium Devs Say Enhanced Network ‘Almost Ready’ to Reopen",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/04/Shiba-Inu-shutterstock_1585340284-16x9-1-gID_7.jpg@png",
@@ -67,11 +82,11 @@
         },
         {
           "id": "https://decrypt.co/?p=153296",
-          "author": "Liam J. Kelly",
+          "author": "Pedro Solimano",
           "description": "Although “the Foundation has it listed on its roadmap” said one core developer, the current debate hasn’t seen any concrete proposals.",
           "link": "https://decrypt.co/153296/dogecoin-community-has-become-hyper-reactionary-over-proof-stake-switch-says-core-dev",
           "publishedOn": "2023-08-22T09:33:02.000Z",
-          "wordCount": 10010,
+          "wordCount": 10003,
           "title": "Dogecoin ‘Community Has Become Hyper Reactionary’ Over Proof-of-Stake Switch, Says Core Dev",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/08/shutterstock_593424440-1-gID_7.jpg@png",
@@ -551,7 +566,7 @@
           "description": "A major selloff this week sent the prices of all leading cryptocurrencies spiraling down.",
           "link": "https://decrypt.co/153053/this-week-in-coins-flash-crash-bitcoin-ethereum-altcoins-down",
           "publishedOn": "2023-08-19T17:29:18.000Z",
-          "wordCount": 8966,
+          "wordCount": 8999,
           "title": "This Week in Coins: Flash Crash! Bitcoin and Ethereum Shed 10% as Altcoins Tumble",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/08/Bitcoin-in-the-Red-shutterstock_2132501507-16x9-1-gID_7.jpg@png",
@@ -589,21 +604,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/03/opensea-nft-marketplace-ethereum-gID_7.jpeg@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=153024",
-          "author": "Mathew Di Salvo",
-          "description": "Elon or Evergrande—or something else entirely? Experts share what caused Bitcoin's flash crash Thursday, and what to expect ahead.",
-          "link": "https://decrypt.co/153024/bitcoin-down-bad-again-why-what-comes-next",
-          "publishedOn": "2023-08-18T22:40:45.000Z",
-          "wordCount": 9325,
-          "title": "Bitcoin Is Down Bad Again—Here's Why and What Comes Next",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/02/shutterstock_7855058471-gID_7.jpg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/02/shutterstock_7855058471-gID_7.jpg@png"
         },
         {
           "id": "https://decrypt.co/videos/interviews/uCzW3K7P/interview-angelic-ceo-on-building-the-sci-fi-rpg-on-solana-and-ethereum",
@@ -656,7 +656,7 @@
           "description": "Decrypt's Jason Nelson talks to Aurory's Head of Marketing and Business Development Michael Natoli about the origins of the Aurory crypto games at the Solana PlayGG event.",
           "link": "https://decrypt.co/videos/interviews/O0S201TB/aurorys-origin-story-how-jrpgs-inspired-the-games",
           "publishedOn": "2023-08-14T16:57:00.000Z",
-          "wordCount": 6569,
+          "wordCount": 6213,
           "title": "Aurory's Origin Story: How JRPGs Inspired the Games",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/O0S201TB/poster.jpg",
@@ -671,7 +671,7 @@
           "description": "Decrypt's Kate Irwin goes hands-on with Parallel’s closed beta on Windows PC to find out what sets it apart from other crypto card-battlers.",
           "link": "https://decrypt.co/videos/explainers/q8YVWJh4/parallel-tcg-inside-the-sci-fi-card-games-closed-beta",
           "publishedOn": "2023-08-11T15:27:00.000Z",
-          "wordCount": 6490,
+          "wordCount": 6197,
           "title": "Parallel TCG: Inside the Sci-Fi Card Game’s Closed Beta",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/q8YVWJh4/poster.jpg",
@@ -686,7 +686,7 @@
           "description": "Solana Foundation's General Manager of Games Johnny Lee tells Decrypt's Jason Nelson about Solana's PlayGG conference and shares his take on crypto gaming and the \"play-to-earn\" concept.",
           "link": "https://decrypt.co/videos/interviews/Ud9wTd4s/web3-games-need-to-compete-with-all-games-says-solana-foundation-gm",
           "publishedOn": "2023-08-09T19:55:00.000Z",
-          "wordCount": 6593,
+          "wordCount": 6237,
           "title": "Web3 Games Need to Compete with All Games, Says Solana Foundation GM",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/Ud9wTd4s/poster.jpg",
@@ -701,7 +701,7 @@
           "description": "\"I wrote them off,\" Twitch streamer Alliestrasza said of her initial thoughts on many early blockchain games. She tells Decrypt's Jason Nelson about how her perspective on Web3 games has evolved over time and now sees blockchain games getting significantly better.",
           "link": "https://decrypt.co/videos/interviews/BA4yE45A/many-early-blockchain-games-were-cash-grabs-says-twitch-streamer-alliestrasza",
           "publishedOn": "2023-08-07T16:38:00.000Z",
-          "wordCount": 6657,
+          "wordCount": 6301,
           "title": "Many Early Blockchain Games Were 'Cash Grabs,' Says Twitch Streamer Alliestrasza",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/BA4yE45A/poster.jpg",
@@ -731,7 +731,7 @@
           "description": "Aurory is an NFT-driven game franchise that started life on Solana and is expanding to other chains. Decrypt's Jason Nelson spoke with Aurory Head of Marketing Michael Natoli at Solana's PlayGG event, where Natoli shared his thoughts on the challenges that blockchain games face in reaching players.",
           "link": "https://decrypt.co/videos/interviews/nBNKKZdK/give-projects-a-chance-says-aurorys-michael-natoli-on-nft-game-challenges",
           "publishedOn": "2023-08-02T18:40:00.000Z",
-          "wordCount": 6693,
+          "wordCount": 6337,
           "title": "'Give Projects a Chance,' Says Aurory's Michael Natoli on NFT Game Challenges",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/nBNKKZdK/poster.jpg",
