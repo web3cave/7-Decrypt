@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-24T00:34:51.050Z</id>
+    <id>urn:2023-08-24T01:38:42.008Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-24T00:34:51.050Z</updated>
+    <updated>2023-08-24T01:38:42.008Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[NVIDIA Rides AI Boom to Record-Setting Revenue]]></title>
+        <id>https://decrypt.co/?p=153565</id>
+        <link href="https://decrypt.co/153565/nvidia-ai-business-record-quarterly-revenue"/>
+        <updated>2023-08-24T01:01:09.000Z</updated>
+        <summary type="html"><![CDATA[The company's data center and gaming products also boosted the bottom line.]]></summary>
+        <author>
+            <name>Decrypt AI, Edited by Ryan Ozawa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dogecoin Millionaire's Fortune Fell From $3M to $50,000—But He Hasn’t Lost the Faith]]></title>
+        <id>https://decrypt.co/?p=153563</id>
+        <link href="https://decrypt.co/153563/dogecoin-millionaire-bags-3-million-to-50000-dollars-has-not-lost-faith"/>
+        <updated>2023-08-24T00:49:38.000Z</updated>
+        <summary type="html"><![CDATA[‘SlumDOGE Millionaire’ Glauber Contessoto still believes in the popular memecoin.]]></summary>
+        <author>
+            <name>Mathew Di Salvo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Patrick Mahomes Can't Quit Crypto]]></title>
         <id>https://decrypt.co/?p=153558</id>
@@ -406,26 +426,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Crypto Lending Platform Maple Finance Raises $5M in Funding for Asia Expansion]]></title>
-        <id>https://decrypt.co/?p=153302</id>
-        <link href="https://decrypt.co/153302/crypto-lending-platform-maple-finance-5m-funding-asia-expansion"/>
-        <updated>2023-08-22T12:01:02.000Z</updated>
-        <summary type="html"><![CDATA[Maple Finance will also put the new money to work building out its newly launched pure-play lending arm, Maple Direct.]]></summary>
-        <author>
-            <name>Liam J. Kelly</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shibarium Devs Say Enhanced Network ‘Almost Ready’ to Reopen]]></title>
-        <id>https://decrypt.co/?p=153306</id>
-        <link href="https://decrypt.co/153306/shibarium-devs-say-enhanced-network-almost-ready-to-reopen"/>
-        <updated>2023-08-22T10:47:07.000Z</updated>
-        <summary type="html"><![CDATA[The Shiba Inu team is preparing to begin implementing its ShibPaper to develop a working system for governance and management.]]></summary>
-        <author>
-            <name>Andrew Asmakov</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Michael Wagner's 'Controversial Take' on Crypto in Games]]></title>
         <id>https://decrypt.co/videos/interviews/tc2nKeqA/michael-wagners-controversial-take-on-crypto-in-games</id>
         <link href="https://decrypt.co/videos/interviews/tc2nKeqA/michael-wagners-controversial-take-on-crypto-in-games"/>
@@ -553,16 +553,6 @@
         <summary type="html"><![CDATA[Decrypt's Jason Nelson interviews Alchemy: Battle for Ankhos Creative Director Alex Finden at the Solana PlayGG event in San Diego, California.]]></summary>
         <author>
             <name>Decrypt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['Big Respect Between Ethereum and Cosmos Developer Communities': dYdX Foundation CEO]]></title>
-        <id>https://decrypt.co/videos/live-events/XU5MbCGE/big-respect-between-ethereum-and-cosmos-developer-communities-dydx-foundation-ceo</id>
-        <link href="https://decrypt.co/videos/live-events/XU5MbCGE/big-respect-between-ethereum-and-cosmos-developer-communities-dydx-foundation-ceo"/>
-        <updated>2023-07-25T13:24:12.000Z</updated>
-        <summary type="html"><![CDATA[CEO of the dYdX Foundation Charles d'Haussy unpacks the decision behind moving one of the largest decentralized exchange protocol's over to its very own chain built on Cosmos. A key driver, he told Decrypt at this year's EthCC event, was that instead of launching on a rollup or another layer-1, launching a fully customized chain will allow dYdX to fine tune the network for its product's needs.]]></summary>
-        <author>
-            <name>Liam J. Kelly</name>
         </author>
     </entry>
 </feed>
