@@ -6,12 +6,42 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=154510",
+          "author": "Jason Nelson",
+          "description": "Hiber3D has integrated Google's AI tools to give creators the ability to type what they want to see—and generate an immersive world.",
+          "link": "https://decrypt.co/154510/google-generative-ai-tools-turn-text-online-worlds",
+          "publishedOn": "2023-08-31T20:54:58.000Z",
+          "wordCount": 9338,
+          "title": "Google's Generative AI Tools Now Turn Text Into Online Worlds",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/08/hiberworld-screen-gID_7.jpeg@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/08/hiberworld-screen-gID_7.jpeg@png"
+        },
+        {
+          "id": "https://decrypt.co/?p=154499",
+          "author": "Alyssa Hertig",
+          "description": "Researchers found a way to use a local \"mesh network\" to connect nodes via Bluetooth and WiFi, building a local Lightning Network they call LNMesh.",
+          "link": "https://decrypt.co/154499/no-internet-you-could-still-use-bitcoin-on-the-lightning-network",
+          "publishedOn": "2023-08-31T20:05:29.000Z",
+          "wordCount": 10296,
+          "title": "No Internet? You Could Still Use Bitcoin on the Lightning Network",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/08/you-are-offline-bitcoin-btc-gID_7.jpg@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/08/you-are-offline-bitcoin-btc-gID_7.jpg@png"
+        },
+        {
           "id": "https://decrypt.co/?p=154505",
           "author": "Stacy Elliott",
           "description": "Wisdom Tree Funds, Invesco and Galaxy Digital, and Valkyrie Funds applications have all been delayed until October at the earliest.",
           "link": "https://decrypt.co/154505/sec-bitcoin-etfs-more-delays",
           "publishedOn": "2023-08-31T19:50:43.000Z",
-          "wordCount": 8293,
+          "wordCount": 9128,
           "title": "SEC Punts on Three Bitcoin ETFs—With More Delays Expected",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/02/sec-crypto-regulations-gID_1.jpg@png",
@@ -86,7 +116,7 @@
           "description": "Worldcoin has introduced a concept called “proof of personhood\" to keep AI bots out of its global financial network.",
           "link": "https://decrypt.co/resources/what-is-worldcoin-the-app-and-token-that-protects-your-personhood",
           "publishedOn": "2023-08-31T13:44:29.000Z",
-          "wordCount": 12389,
+          "wordCount": 12397,
           "title": "What is Worldcoin? Sam Altman's Eye-Scanning Global ID 'Orb' Project Hits Regulatory Roadblocks",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/07/4-gID_5-pID_5.png@png",
@@ -251,7 +281,7 @@
           "description": "Google’s James Tromans is bullish on the role AI can play in accelerating tasks like smart contract writing and auditing.",
           "link": "https://decrypt.co/154412/ai-can-shrink-web3-startup-time-to-market-google-cloud",
           "publishedOn": "2023-08-31T01:31:00.000Z",
-          "wordCount": 9476,
+          "wordCount": 9484,
           "title": "AI Can Shrink 'Time to Market' for Web3 Startups: Google Cloud Executive",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/04/Google-Cloud-shutterstock_1528609619-16x9-1-gID_7.jpg@png",
@@ -296,7 +326,7 @@
           "description": "Activision has introduced AI chat moderation in Call of Duty games in an effort to curtail toxic behavior in real time.",
           "link": "https://decrypt.co/154375/ai-make-call-duty-matches-less-toxic-about-find-out",
           "publishedOn": "2023-08-30T22:50:20.000Z",
-          "wordCount": 8909,
+          "wordCount": 8917,
           "title": "Can AI Make 'Call of Duty' Matches Less Toxic? We're About to Find Out",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/08/angry-gamer-shutterstock-gID_7.png@png",
@@ -326,7 +356,7 @@
           "description": "America’s military leaders are racing to deploy thousands of autonomous weapons and an AI-powered air monitoring system for Washington D.C.",
           "link": "https://decrypt.co/154373/the-pentagon-is-accelerating-ai-and-autonomous-technology",
           "publishedOn": "2023-08-30T22:00:52.000Z",
-          "wordCount": 9182,
+          "wordCount": 9190,
           "title": "The Pentagon Is Accelerating AI and Autonomous Technology",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/08/jaldps_hundreds_of_tiny_futuristic_AI-enabled_war_drones_flying_0703b3f4-a482-423e-aced-a9ac05db6c66-gID_7.png@png",
@@ -356,7 +386,7 @@
           "description": "The one-time peer-to-peer music sharing giant is adding AI tools to its current NFT focus. LimeWire COO Marcus Feistl shares more.",
           "link": "https://decrypt.co/154338/after-music-nft-relaunch-limewire-is-adding-ai-tools-heres-why",
           "publishedOn": "2023-08-30T21:21:32.000Z",
-          "wordCount": 10899,
+          "wordCount": 10907,
           "title": "After Music NFT Relaunch, LimeWire Is Adding AI Tools—Here's Why",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/08/limes-shutterstock-gID_7.png@png",
@@ -401,7 +431,7 @@
           "description": "Executives discuss potential AI regulations at Google Cloud Next, highlighting the need to balance AI development and regulatory oversight.",
           "link": "https://decrypt.co/154326/ai-government-regulation-google-cloud-next-panel",
           "publishedOn": "2023-08-30T19:48:08.000Z",
-          "wordCount": 10598,
+          "wordCount": 10606,
           "title": "Business Leaders Are Cautiously Optimistic About AI Regulation",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/08/Decrypt-Wallpaper-Format-2023-08-30T120310.000-gID_7.png@png",
@@ -476,7 +506,7 @@
           "description": "\"Chile is our first flag thanks to its vibrant technological ecosystem,” Dante Disparte, Circle chief strategy officer and global policy head told Decrypt.",
           "link": "https://decrypt.co/154301/circle-gains-latin-american-foothold-as-mercadopago-adds-usdc",
           "publishedOn": "2023-08-30T17:33:38.000Z",
-          "wordCount": 9207,
+          "wordCount": 9240,
           "title": "Circle Gains Latin American Foothold as MercadoPago Adds USDC",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/08/mercado-pago-mercadopago-app-gID_7.jpg@png",
@@ -529,36 +559,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/04/bitcoin-etf-gID_7.jpg@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=154225",
-          "author": "Decrypt Staff",
-          "description": "Shibarium is looking to showcase the potential of the Shiba Inu project beyond its origins as a meme coin.",
-          "link": "https://decrypt.co/resources/what-is-shibarium-the-shib-backed-network-that-tripled-wallet-numbers-overnight",
-          "publishedOn": "2023-08-30T13:13:14.000Z",
-          "wordCount": 8807,
-          "title": "What is Shibarium, the SHIB-Backed Network that Tripled Wallet Numbers Overnight?",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/11/loan-crypto-gID_5-pID_2.png@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/11/loan-crypto-gID_5-pID_2.png@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=154227",
-          "author": "Mattis Meichler",
-          "description": "Shavonne Wong is also unveiling three new pieces at the NFT Factory launch in collaboration with Marie Claire Arabia.",
-          "link": "https://decrypt.co/154227/3d-digital-artist-shavonne-wong-kicks-off-european-solo-exhibit-nft-factory",
-          "publishedOn": "2023-08-30T12:23:08.000Z",
-          "wordCount": 9519,
-          "title": "Digital Artist Shavonne Wong Kicks Off European Solo Exhibit",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/08/shavonne-wong-nft-factory-gID_7.jpg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/08/shavonne-wong-nft-factory-gID_7.jpg@png"
         },
         {
           "id": "https://decrypt.co/videos/explainers/HQGt1Vrq/mastering-nft-trading-degen-u",
@@ -701,7 +701,7 @@
           "description": "Decrypt's Jason Nelson speaks with Star Atlas Founder and CEO Michael Wagner about the MMO game's approach to development, marketing, and blockchain integrations.",
           "link": "https://decrypt.co/videos/interviews/WQCaahmH/star-atlas-ceo-on-developing-an-mmo-game",
           "publishedOn": "2023-08-15T13:57:00.000Z",
-          "wordCount": 6230,
+          "wordCount": 6543,
           "title": "Star Atlas CEO on Developing an MMO Game",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/WQCaahmH/poster.jpg",
@@ -716,7 +716,7 @@
           "description": "Decrypt's Jason Nelson talks to Aurory's Head of Marketing and Business Development Michael Natoli about the origins of the Aurory crypto games at the Solana PlayGG event.",
           "link": "https://decrypt.co/videos/interviews/O0S201TB/aurorys-origin-story-how-jrpgs-inspired-the-games",
           "publishedOn": "2023-08-14T16:57:00.000Z",
-          "wordCount": 6563,
+          "wordCount": 6250,
           "title": "Aurory's Origin Story: How JRPGs Inspired the Games",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/O0S201TB/poster.jpg",
@@ -746,7 +746,7 @@
           "description": "Solana Foundation's General Manager of Games Johnny Lee tells Decrypt's Jason Nelson about Solana's PlayGG conference and shares his take on crypto gaming and the \"play-to-earn\" concept.",
           "link": "https://decrypt.co/videos/interviews/Ud9wTd4s/web3-games-need-to-compete-with-all-games-says-solana-foundation-gm",
           "publishedOn": "2023-08-09T19:55:00.000Z",
-          "wordCount": 6587,
+          "wordCount": 6274,
           "title": "Web3 Games Need to Compete with All Games, Says Solana Foundation GM",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/Ud9wTd4s/poster.jpg",
@@ -791,7 +791,7 @@
           "description": "Aurory is an NFT-driven game franchise that started life on Solana and is expanding to other chains. Decrypt's Jason Nelson spoke with Aurory Head of Marketing Michael Natoli at Solana's PlayGG event, where Natoli shared his thoughts on the challenges that blockchain games face in reaching players.",
           "link": "https://decrypt.co/videos/interviews/nBNKKZdK/give-projects-a-chance-says-aurorys-michael-natoli-on-nft-game-challenges",
           "publishedOn": "2023-08-02T18:40:00.000Z",
-          "wordCount": 6374,
+          "wordCount": 6687,
           "title": "'Give Projects a Chance,' Says Aurory's Michael Natoli on NFT Game Challenges",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/nBNKKZdK/poster.jpg",
