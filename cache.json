@@ -6,6 +6,21 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=154566",
+          "author": "Liam J. Kelly",
+          "description": "With more than $3.3 million in profit generated since its mainnet launch on August 9, the Base network is firing on all cylinders.",
+          "link": "https://decrypt.co/154566/base-network-rakes-fees-riding-cryptos-favorite-memes",
+          "publishedOn": "2023-09-02T10:01:02.000Z",
+          "wordCount": 9116,
+          "title": "Base Network Rakes in the Fees Riding Crypto's Favorite Memes",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/07/Base-16x9-1-gID_7.jpg@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/07/Base-16x9-1-gID_7.jpg@png"
+        },
+        {
           "id": "https://decrypt.co/?p=154663",
           "author": "Mathew Di Salvo",
           "description": "FTX’s new management is starting to move its holdings around. Amid fears of an impending dump, a Solana co-founder has an idea.",
@@ -606,27 +621,12 @@
           "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/08/Brian-Armstrong-Coinbase-RKO-gID_7.jpg@png"
         },
         {
-          "id": "https://decrypt.co/?p=154375",
-          "author": "Jason Nelson",
-          "description": "Activision has introduced AI chat moderation in Call of Duty games in an effort to curtail toxic behavior in real time.",
-          "link": "https://decrypt.co/154375/ai-make-call-duty-matches-less-toxic-about-find-out",
-          "publishedOn": "2023-08-30T22:50:20.000Z",
-          "wordCount": 8823,
-          "title": "Can AI Make 'Call of Duty' Matches Less Toxic? We're About to Find Out",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/08/angry-gamer-shutterstock-gID_7.png@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/08/angry-gamer-shutterstock-gID_7.png@png"
-        },
-        {
           "id": "https://decrypt.co/videos/explainers/HQGt1Vrq/mastering-nft-trading-degen-u",
           "author": null,
           "description": "Take Degen U's new course, Mastering NFT Trading, and earn an on-chain certificate. A top instructor will help you identify trends, seize the right moment to trade, weed out scams—and have fun while doing it!",
           "link": "https://decrypt.co/videos/explainers/HQGt1Vrq/mastering-nft-trading-degen-u",
           "publishedOn": "2023-08-29T07:08:35.000Z",
-          "wordCount": 6276,
+          "wordCount": 6555,
           "title": "Mastering NFT Trading - Degen U",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/HQGt1Vrq/poster.jpg",
@@ -716,7 +716,7 @@
           "description": "At Solana's PlayGG, Star Atlas CEO Michael Wagner shares his \"controversial take\" on crypto in games, shares the challenges of developing the upcoming scifi game, and how crypto's volatility has changed his perspective with Decrypt's Jason Nelson.",
           "link": "https://decrypt.co/videos/interviews/tc2nKeqA/michael-wagners-controversial-take-on-crypto-in-games",
           "publishedOn": "2023-08-21T16:51:00.000Z",
-          "wordCount": 6300,
+          "wordCount": 6267,
           "title": "Michael Wagner's 'Controversial Take' on Crypto in Games",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/tc2nKeqA/poster.jpg",
@@ -731,7 +731,7 @@
           "description": "Angelic is a sci-fi roleplay game in development that will be free-to-play and offer optional, opt-in crypto features on Solana and Ethereum and a governance token. Metaverse Game Studios CEO and Founder Erkan Bayol tells Decrypt's Jason Nelson about how he sees AAA traditional games as Angelic's main competitors and shares his vision for the game.",
           "link": "https://decrypt.co/videos/interviews/uCzW3K7P/interview-angelic-ceo-on-building-the-sci-fi-rpg-on-solana-and-ethereum",
           "publishedOn": "2023-08-18T15:58:00.000Z",
-          "wordCount": 6722,
+          "wordCount": 6419,
           "title": "Interview: Angelic CEO on Building the Sci-Fi RPG on Solana and Ethereum",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/uCzW3K7P/poster.jpg",
@@ -776,7 +776,7 @@
           "description": "Decrypt's Jason Nelson talks to Aurory's Head of Marketing and Business Development Michael Natoli about the origins of the Aurory crypto games at the Solana PlayGG event.",
           "link": "https://decrypt.co/videos/interviews/O0S201TB/aurorys-origin-story-how-jrpgs-inspired-the-games",
           "publishedOn": "2023-08-14T16:57:00.000Z",
-          "wordCount": 6250,
+          "wordCount": 6553,
           "title": "Aurory's Origin Story: How JRPGs Inspired the Games",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/O0S201TB/poster.jpg",
@@ -806,7 +806,7 @@
           "description": "Solana Foundation's General Manager of Games Johnny Lee tells Decrypt's Jason Nelson about Solana's PlayGG conference and shares his take on crypto gaming and the \"play-to-earn\" concept.",
           "link": "https://decrypt.co/videos/interviews/Ud9wTd4s/web3-games-need-to-compete-with-all-games-says-solana-foundation-gm",
           "publishedOn": "2023-08-09T19:55:00.000Z",
-          "wordCount": 6274,
+          "wordCount": 6241,
           "title": "Web3 Games Need to Compete with All Games, Says Solana Foundation GM",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/Ud9wTd4s/poster.jpg",
@@ -836,7 +836,7 @@
           "description": "MetalCore is an upcoming mech shooter developed by Studio 369, and it's being developed on Ethereum scaling network Immutable zkEVM. Decrypt contributor Ryan Gladwin played through the prologue and tested out the recent Alpha 3 online experience to get a sense of the NFT-infused mashup of Titanfall and Destiny.",
           "link": "https://decrypt.co/videos/live-events/tjK6i7lv/metalcore-game-preview-hands-on-with-the-titanfall-meets-destiny-nft-mashup",
           "publishedOn": "2023-08-04T19:46:06.000Z",
-          "wordCount": 6380,
+          "wordCount": 6347,
           "title": "'MetalCore' Game Preview: Hands-on With the 'Titanfall' Meets 'Destiny' NFT Mashup",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/tjK6i7lv/poster.jpg",
