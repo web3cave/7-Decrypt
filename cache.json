@@ -6,6 +6,21 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=156571",
+          "author": "Andrew Throuvalas",
+          "description": "Paxos is now working with the lucky miner who received the fee to get its money back.",
+          "link": "https://decrypt.co/156571/it-wasnt-paypal-paxos-fat-fingered-510000-bitcoin-transaction",
+          "publishedOn": "2023-09-13T20:29:28.000Z",
+          "wordCount": 8422,
+          "title": "It Wasn't PayPal—Paxos Fat Fingered $510,000 Bitcoin Transaction",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/06/shutterstock_1073580749-gID_7.jpg@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/06/shutterstock_1073580749-gID_7.jpg@png"
+        },
+        {
           "id": "https://decrypt.co/?p=156558",
           "author": "Jason Nelson",
           "description": "The IWF says AI-generated child sexual abuse material is being spread on the dark web, complicating law enforcement efforts.",
@@ -526,27 +541,12 @@
           "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/06/2021_-_Centre_Stage_PO1_0057_51654289843-1-gID_7.jpg@png"
         },
         {
-          "id": "https://decrypt.co/?p=156008",
-          "author": "Nivesh Rustgi",
-          "description": "The launch of the new feature follows PayPal's introduction last month of a crypto on-ramp service through MetaMask and Ledger.",
-          "link": "https://decrypt.co/156008/paypal-launches-crypto-to-usd-off-ramps",
-          "publishedOn": "2023-09-12T10:15:10.000Z",
-          "wordCount": 8335,
-          "title": "PayPal Launches Crypto to USD Off-Ramps",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/05/paypal-ventures-crypto-wallet-startup-magic-gID_7.jpg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/05/paypal-ventures-crypto-wallet-startup-magic-gID_7.jpg@png"
-        },
-        {
           "id": "https://decrypt.co/videos/interviews/SrT1Afj7/how-mino-games-is-using-artificial-intelligence",
           "author": null,
           "description": "Mino Games CEO Sasha McKinnon tells Decrypt's Kate Irwin about how the studio's upcoming game Dimensionals will use real-time AI.",
           "link": "https://decrypt.co/videos/interviews/SrT1Afj7/how-mino-games-is-using-artificial-intelligence",
           "publishedOn": "2023-09-05T22:35:00.000Z",
-          "wordCount": 6208,
+          "wordCount": 6491,
           "title": "How Mino Games is Using Artificial Intelligence",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/SrT1Afj7/poster.jpg",
@@ -606,7 +606,7 @@
           "description": "Jerome Wu, CEO of Space Nation, tells Decrypt's Kate Irwin about the upcoming Space Nation Online game in development and shares details on Space Nation Cofounder Roland Emmerich's role in the project.",
           "link": "https://decrypt.co/videos/interviews/LpznLhtx/space-nation-ceo-on-working-with-independence-day-director-roland-emmerich",
           "publishedOn": "2023-08-28T17:34:00.000Z",
-          "wordCount": 6292,
+          "wordCount": 6575,
           "title": "Space Nation CEO on Working With 'Independence Day' Director Roland Emmerich",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/LpznLhtx/poster.jpg",
@@ -621,7 +621,7 @@
           "description": "Champions Arena is a turn-based fantasy RPG from Gala Games, where characters can become NFTs and crypto can be used to purchase gems, one of the game's synthetic currencies. Decrypt's Kate Irwin takes us inside the game for her thoughts on the fun, mobile-first title.",
           "link": "https://decrypt.co/videos/interviews/qUE1RlDx/game-review-champions-arena-from-gala-games",
           "publishedOn": "2023-08-25T23:00:00.000Z",
-          "wordCount": 6333,
+          "wordCount": 6616,
           "title": "GAME REVIEW: Champions Arena from Gala Games",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/qUE1RlDx/poster.jpg",
@@ -636,7 +636,7 @@
           "description": "Voice actor Ben Prendergast, who's voiced characters in games like Apex Legends and God of War Ragnarok, shares his opinions on the tech space's history of \"bubbles\" and whether blockchain gaming has a future.",
           "link": "https://decrypt.co/videos/interviews/X3RKdsaG/apex-legends-voice-actor-ben-prendergast-on-the-future-of-gaming",
           "publishedOn": "2023-08-24T18:15:00.000Z",
-          "wordCount": 6585,
+          "wordCount": 6302,
           "title": "Apex Legends Voice Actor Ben Prendergast on the Future of Gaming",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/X3RKdsaG/poster.jpg",
@@ -666,7 +666,7 @@
           "description": "Mino Games CEO Sasha MacKinnon, developer of the upcoming Dimensionals game, tells Decrypt's Kate Irwin about the studio's approach to digital collectibles.",
           "link": "https://decrypt.co/videos/interviews/rdynom8C/crypto-a-no-brainer-for-video-games-says-mino-games-ceo",
           "publishedOn": "2023-08-22T18:41:00.000Z",
-          "wordCount": 6519,
+          "wordCount": 6236,
           "title": "Crypto a 'No-Brainer' for Video Games, Says Mino Games CEO",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/rdynom8C/poster.jpg",
@@ -696,7 +696,7 @@
           "description": "Angelic is a sci-fi roleplay game in development that will be free-to-play and offer optional, opt-in crypto features on Solana and Ethereum and a governance token. Metaverse Game Studios CEO and Founder Erkan Bayol tells Decrypt's Jason Nelson about how he sees AAA traditional games as Angelic's main competitors and shares his vision for the game.",
           "link": "https://decrypt.co/videos/interviews/uCzW3K7P/interview-angelic-ceo-on-building-the-sci-fi-rpg-on-solana-and-ethereum",
           "publishedOn": "2023-08-18T15:58:00.000Z",
-          "wordCount": 6701,
+          "wordCount": 6418,
           "title": "Interview: Angelic CEO on Building the Sci-Fi RPG on Solana and Ethereum",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/uCzW3K7P/poster.jpg",
@@ -711,7 +711,7 @@
           "description": "Ben Prendergast is an actor who has voiced characters like Apex Legends' Fuse, God of War Ragnarok's Tyr, and Patroclus in Hades. But as debates swirl around the use of artificial intelligence in entertainment in light of the SAG-AFTRA and WGA strikes, Prendergast gives Decrypt's Kate Irwin his honest take on the potential use of AI actors in games.",
           "link": "https://decrypt.co/videos/interviews/IOIrmb0N/apex-legends-voice-actor-on-ais-impact-on-video-games",
           "publishedOn": "2023-08-16T17:28:14.000Z",
-          "wordCount": 6704,
+          "wordCount": 6421,
           "title": "Apex Legends Voice Actor on AI's Impact on Video Games",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/IOIrmb0N/poster.jpg",
