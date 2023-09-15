@@ -6,6 +6,36 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=155780",
+          "author": "Nathan Reiff",
+          "description": "While centralized exchanges expose customers to security risk in the event that they collapse, and to unpredictable liquidity, inflexible staking rules, and more, YieldFlow aims for a smooth user experience governed by trust, security, and decentralization.",
+          "link": "https://decrypt.co/resources/how-to-use-yieldflow-the-defi-protocol-for-passive-growth-of-digital-assets",
+          "publishedOn": "2023-09-15T16:17:23.000Z",
+          "wordCount": 14964,
+          "title": "How to Use Yieldflow: the DeFi Protocol for Passive Growth of Digital Assets",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/09/yieldflow-2-gID_1-pID_3.png@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/09/yieldflow-2-gID_1-pID_3.png@png"
+        },
+        {
+          "id": "https://decrypt.co/?p=197320",
+          "author": "Matt Hussey",
+          "description": "TON uses a sharded, proof of stake consensus mechanism, meaning it can process transactions in parallel, improving transaction speed.",
+          "link": "https://decrypt.co/resources/what-is-toncoin-the-cryptocurrency-conceived-by-telegram",
+          "publishedOn": "2023-09-15T16:12:36.000Z",
+          "wordCount": 11299,
+          "title": "What Is Toncoin, the Cryptocurrency Conceived by Telegram?",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/11/BLOCKCHAIN-gID_5-pID_5.png@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/11/BLOCKCHAIN-gID_5-pID_5.png@png"
+        },
+        {
           "id": "https://decrypt.co/?p=156798",
           "author": "Sander Lutz",
           "description": "Bernard Arnault is preparing to choose which child will inherit his $400 billion luxury empire. The decision could have major implications for crypto.",
@@ -34,36 +64,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/05/wrapped_coins_no_BG-gID_1-pID_4.png@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=197320",
-          "author": "Matt Hussey",
-          "description": "TON uses a sharded, proof of stake consensus mechanism, meaning it can process transactions in parallel, improving transaction speed.",
-          "link": "https://decrypt.co/resources/what-is-toncoin-the-cryptocurrency-conceived-by-telegram",
-          "publishedOn": "2023-09-15T14:42:36.000Z",
-          "wordCount": 11399,
-          "title": "What Is Toncoin, the Cryptocurrency Conceived by Telegram?",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/11/BLOCKCHAIN-gID_5-pID_5.png@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/11/BLOCKCHAIN-gID_5-pID_5.png@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=155780",
-          "author": "Nathan Reiff",
-          "description": "While centralized exchanges expose customers to security risk in the event that they collapse, and to unpredictable liquidity, inflexible staking rules, and more, YieldFlow aims for a smooth user experience governed by trust, security, and decentralization.",
-          "link": "https://decrypt.co/resources/how-to-use-yieldflow-the-defi-protocol-for-passive-growth-of-digital-assets",
-          "publishedOn": "2023-09-15T14:18:02.000Z",
-          "wordCount": 14964,
-          "title": "How to Use Yieldflow: the DeFi Protocol for Passive Growth of Digital Assets",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/09/yieldflow-2-gID_1-pID_3.png@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/09/yieldflow-2-gID_1-pID_3.png@png"
         },
         {
           "id": "https://decrypt.co/?p=197291",
@@ -491,7 +491,7 @@
           "description": "Don’t call it New Coke. Global beverage giant Coca-Cola offers a glimpse of the future with a new flavor co-created with AI.",
           "link": "https://decrypt.co/156609/you-cant-beat-real-thing-ai-making-coca-cola-flavors-now",
           "publishedOn": "2023-09-13T21:52:14.000Z",
-          "wordCount": 9614,
+          "wordCount": 9647,
           "title": "You Can't Beat the Real Thing? AI Is Making Coca-Cola Flavors Now",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/09/a_robot_drinking_cocacola_in_a_futuristic_city__photorealistic___-blurry__text__ugly__poorly_drawned__drawing__2d__art_2870752566-gID_7.png@png",
@@ -506,7 +506,7 @@
           "description": "Paxos is now working with the lucky miner who received the fee to get its money back.",
           "link": "https://decrypt.co/156571/it-wasnt-paypal-paxos-fat-fingered-510000-bitcoin-transaction",
           "publishedOn": "2023-09-13T20:29:28.000Z",
-          "wordCount": 8875,
+          "wordCount": 8908,
           "title": "It Wasn't PayPal—Paxos Fat Fingered $510,000 Bitcoin Transaction",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/06/shutterstock_1073580749-gID_7.jpg@png",
@@ -536,7 +536,7 @@
           "description": "Questions remain as to the fate of the star-studded NFT animated series which was slapped with an SEC action Wednesday. Here's what we know.",
           "link": "https://decrypt.co/156555/what-happens-mila-kunis-stoner-cats-nfts-after-sec-settlement",
           "publishedOn": "2023-09-13T19:44:20.000Z",
-          "wordCount": 10359,
+          "wordCount": 10392,
           "title": "What Happens to Mila Kunis' Stoner Cats NFTs After SEC Settlement?",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/09/mila-kunis-shutterstock-gID_7.png@png",
@@ -566,7 +566,7 @@
           "description": "Enforcement action against the Mila Kunis-led cartoon series Stoner Cats has apparently led to a jump in NFT sales and prices alike.",
           "link": "https://decrypt.co/156428/stoner-cats-nft-sales-surge-after-sec-reveals-charges",
           "publishedOn": "2023-09-13T17:52:10.000Z",
-          "wordCount": 9731,
+          "wordCount": 9764,
           "title": "Stoner Cats NFT Sales Surge After SEC Reveals Charges",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/09/stoner-cats-artwork2-gID_7.jpeg@png",
@@ -621,7 +621,7 @@
           "description": "Michael Natoli, Aurory's Head of Marketing and Business Development, tells Decrypt's Jason Nelson about how the Aurory games will use NFTs and crypto and shares the studio's broader stance on the tech.",
           "link": "https://decrypt.co/videos/interviews/qv3VwNmM/interview-how-will-aurory-use-nfts-and-crypto",
           "publishedOn": "2023-09-01T15:27:00.000Z",
-          "wordCount": 6242,
+          "wordCount": 6275,
           "title": "INTERVIEW: How Will Aurory Use NFTs and Crypto?",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/qv3VwNmM/poster.jpg",
@@ -636,7 +636,7 @@
           "description": "Google's Global Head of Google Cloud for Web3 James Tromans sat down with Decrypt's Jason Nelson to discuss how AI can help Web3 companies come to market faster and the real value of Web3 tools.",
           "link": "https://decrypt.co/videos/interviews/OeD4uoLj/google-clouds-james-tromans-on-the-intersection-of-ai-and-web3",
           "publishedOn": "2023-09-01T14:00:00.000Z",
-          "wordCount": 6275,
+          "wordCount": 6308,
           "title": "Google Cloud's James Tromans on the Intersection of AI and Web3",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/OeD4uoLj/poster.jpg",
@@ -696,7 +696,7 @@
           "description": "Voice actor Ben Prendergast, who's voiced characters in games like Apex Legends and God of War Ragnarok, shares his opinions on the tech space's history of \"bubbles\" and whether blockchain gaming has a future.",
           "link": "https://decrypt.co/videos/interviews/X3RKdsaG/apex-legends-voice-actor-ben-prendergast-on-the-future-of-gaming",
           "publishedOn": "2023-08-24T18:15:00.000Z",
-          "wordCount": 6270,
+          "wordCount": 6303,
           "title": "Apex Legends Voice Actor Ben Prendergast on the Future of Gaming",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/X3RKdsaG/poster.jpg",
@@ -726,7 +726,7 @@
           "description": "Mino Games CEO Sasha MacKinnon, developer of the upcoming Dimensionals game, tells Decrypt's Kate Irwin about the studio's approach to digital collectibles.",
           "link": "https://decrypt.co/videos/interviews/rdynom8C/crypto-a-no-brainer-for-video-games-says-mino-games-ceo",
           "publishedOn": "2023-08-22T18:41:00.000Z",
-          "wordCount": 6204,
+          "wordCount": 6237,
           "title": "Crypto a 'No-Brainer' for Video Games, Says Mino Games CEO",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/rdynom8C/poster.jpg",
@@ -741,7 +741,7 @@
           "description": "At Solana's PlayGG, Star Atlas CEO Michael Wagner shares his \"controversial take\" on crypto in games, shares the challenges of developing the upcoming scifi game, and how crypto's volatility has changed his perspective with Decrypt's Jason Nelson.",
           "link": "https://decrypt.co/videos/interviews/tc2nKeqA/michael-wagners-controversial-take-on-crypto-in-games",
           "publishedOn": "2023-08-21T16:51:00.000Z",
-          "wordCount": 6267,
+          "wordCount": 6300,
           "title": "Michael Wagner's 'Controversial Take' on Crypto in Games",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/tc2nKeqA/poster.jpg",
