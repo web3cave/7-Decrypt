@@ -6,6 +6,21 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=112290",
+          "author": "Jason Nelson",
+          "description": "Know-your-customer (KYC) requirements are a growing part of Web3, as crypto becomes more integrated with the existing financial system.",
+          "link": "https://decrypt.co/resources/what-is-kyc-how-crypto-exchanges-prevent-money-laundering",
+          "publishedOn": "2023-09-16T09:51:02.000Z",
+          "wordCount": 11442,
+          "title": "What is KYC? How Crypto Exchanges Prevent Money Laundering",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/10/KYC-gID_1-pID_1.png@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/10/KYC-gID_1-pID_1.png@png"
+        },
+        {
           "id": "https://decrypt.co/?p=197407",
           "author": "Andrew Throuvalas",
           "description": "Adding to the tally is the $54 million hack of crypto exchange CoinEx, which blockchain sleuths at Elliptic now believe Lazarus was likely behind.",
@@ -161,7 +176,7 @@
           "description": "TON uses a sharded, proof of stake consensus mechanism, meaning it can process transactions in parallel, improving transaction speed.",
           "link": "https://decrypt.co/resources/what-is-toncoin-the-cryptocurrency-conceived-by-telegram",
           "publishedOn": "2023-09-15T16:12:36.000Z",
-          "wordCount": 11284,
+          "wordCount": 11317,
           "title": "What Is Toncoin, the Cryptocurrency Conceived by Telegram?",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/11/BLOCKCHAIN-gID_5-pID_5.png@png",
@@ -606,27 +621,12 @@
           "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/09/angry-programmer-shutterstock-gID_7.png@png"
         },
         {
-          "id": "https://decrypt.co/?p=155352",
-          "author": "Abigail Carlson",
-          "description": "The generative art world is thriving, and exciting new artists keep emerging all the time. Here are a few that you should know.",
-          "link": "https://decrypt.co/155352/community-spotlight-generative-artists-keep-your-eye-on",
-          "publishedOn": "2023-09-13T22:16:46.000Z",
-          "wordCount": 11439,
-          "title": "5 Up-and-Coming Generative Artists to Keep Your Eye On",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/09/Untitled-design-42-gID_7.png@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/09/Untitled-design-42-gID_7.png@png"
-        },
-        {
           "id": "https://decrypt.co/videos/interviews/SrT1Afj7/how-mino-games-is-using-artificial-intelligence",
           "author": null,
           "description": "Mino Games CEO Sasha McKinnon tells Decrypt's Kate Irwin about how the studio's upcoming game Dimensionals will use real-time AI.",
           "link": "https://decrypt.co/videos/interviews/SrT1Afj7/how-mino-games-is-using-artificial-intelligence",
           "publishedOn": "2023-09-05T22:35:00.000Z",
-          "wordCount": 6489,
+          "wordCount": 6209,
           "title": "How Mino Games is Using Artificial Intelligence",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/SrT1Afj7/poster.jpg",
@@ -701,7 +701,7 @@
           "description": "Champions Arena is a turn-based fantasy RPG from Gala Games, where characters can become NFTs and crypto can be used to purchase gems, one of the game's synthetic currencies. Decrypt's Kate Irwin takes us inside the game for her thoughts on the fun, mobile-first title.",
           "link": "https://decrypt.co/videos/interviews/qUE1RlDx/game-review-champions-arena-from-gala-games",
           "publishedOn": "2023-08-25T23:00:00.000Z",
-          "wordCount": 6334,
+          "wordCount": 6614,
           "title": "GAME REVIEW: Champions Arena from Gala Games",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/qUE1RlDx/poster.jpg",
