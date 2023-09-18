@@ -6,6 +6,21 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=197592",
+          "author": "Nathan Reiff",
+          "description": "For many in the areas of cybersecurity, social justice, privacy law, and other fields, deepfake pornography is one of the greatest threats to emerge from the AI era.",
+          "link": "https://decrypt.co/resources/deepfake-pornography-is-consent-over-your-image-a-lost-cause",
+          "publishedOn": "2023-09-18T14:28:44.000Z",
+          "wordCount": 14237,
+          "title": "Deepfake Pornography: Is Consent Over Your Image a Lost Cause?",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/06/industries-ai-revolution-1-gID_4-pID_1.png@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/06/industries-ai-revolution-1-gID_4-pID_1.png@png"
+        },
+        {
           "id": "https://decrypt.co/?p=197573",
           "author": "Matt Hussey",
           "description": "Joseph Lam’s arrest followed the suspension of trading on crypto exchange JPEX, which regulators allege was operating without a license.",
@@ -386,8 +401,8 @@
           "description": "TON uses a sharded, proof of stake consensus mechanism, meaning it can process transactions in parallel, improving transaction speed.",
           "link": "https://decrypt.co/resources/what-is-toncoin-the-cryptocurrency-conceived-by-telegram",
           "publishedOn": "2023-09-15T16:12:36.000Z",
-          "wordCount": 11235,
-          "title": "What Is Toncoin, the Cryptocurrency Conceived by Telegram?",
+          "wordCount": 11522,
+          "title": "What Is Toncoin, the Native Currency of the Telegram Open Network?",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/11/BLOCKCHAIN-gID_5-pID_5.png@png",
             "length": "1000000",
@@ -576,27 +591,12 @@
           "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/09/bitcoin-costa-rica-shutterstock-gID_7.png@png"
         },
         {
-          "id": "https://decrypt.co/?p=156719",
-          "author": "Kate Irwin",
-          "description": "The Nintendo Direct stream offered fans a look at loads of upcoming Switch games. Here's a look at the biggest announcements and trailers.",
-          "link": "https://decrypt.co/156719/from-princess-peach-to-pikachu-6-biggest-reveals-from-nintendo-direct",
-          "publishedOn": "2023-09-14T18:58:20.000Z",
-          "wordCount": 10620,
-          "title": "From Princess Peach to Pikachu: 6 Biggest Reveals From Nintendo Direct",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/09/Screenshot-2023-09-14-at-11.24.01-AM-Cropped-gID_7.png@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/09/Screenshot-2023-09-14-at-11.24.01-AM-Cropped-gID_7.png@png"
-        },
-        {
           "id": "https://decrypt.co/videos/interviews/SrT1Afj7/how-mino-games-is-using-artificial-intelligence",
           "author": null,
           "description": "Mino Games CEO Sasha McKinnon tells Decrypt's Kate Irwin about how the studio's upcoming game Dimensionals will use real-time AI.",
           "link": "https://decrypt.co/videos/interviews/SrT1Afj7/how-mino-games-is-using-artificial-intelligence",
           "publishedOn": "2023-09-05T22:35:00.000Z",
-          "wordCount": 6489,
+          "wordCount": 6209,
           "title": "How Mino Games is Using Artificial Intelligence",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/SrT1Afj7/poster.jpg",
@@ -656,7 +656,7 @@
           "description": "Jerome Wu, CEO of Space Nation, tells Decrypt's Kate Irwin about the upcoming Space Nation Online game in development and shares details on Space Nation Cofounder Roland Emmerich's role in the project.",
           "link": "https://decrypt.co/videos/interviews/LpznLhtx/space-nation-ceo-on-working-with-independence-day-director-roland-emmerich",
           "publishedOn": "2023-08-28T17:34:00.000Z",
-          "wordCount": 6573,
+          "wordCount": 6293,
           "title": "Space Nation CEO on Working With 'Independence Day' Director Roland Emmerich",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/LpznLhtx/poster.jpg",
@@ -686,7 +686,7 @@
           "description": "Voice actor Ben Prendergast, who's voiced characters in games like Apex Legends and God of War Ragnarok, shares his opinions on the tech space's history of \"bubbles\" and whether blockchain gaming has a future.",
           "link": "https://decrypt.co/videos/interviews/X3RKdsaG/apex-legends-voice-actor-ben-prendergast-on-the-future-of-gaming",
           "publishedOn": "2023-08-24T18:15:00.000Z",
-          "wordCount": 6583,
+          "wordCount": 6303,
           "title": "Apex Legends Voice Actor Ben Prendergast on the Future of Gaming",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/X3RKdsaG/poster.jpg",
