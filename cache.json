@@ -6,6 +6,21 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=198282",
+          "author": "Ryan Gladwin",
+          "description": "Skyrim can only hold a fantasy fan's attention for so long. Luckily, The Elder Scrolls VI is officially on the horizon. Here's the latest.",
+          "link": "https://decrypt.co/198282/elder-scrolls-vi-everything-you-need-know-leaks-rumors-news",
+          "publishedOn": "2023-09-21T23:05:01.000Z",
+          "wordCount": 11897,
+          "title": "The Elder Scrolls VI: Everything You Need to Know",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/09/elder-scrolls-6-image-gID_7.png@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/09/elder-scrolls-6-image-gID_7.png@png"
+        },
+        {
           "id": "https://decrypt.co/?p=198276",
           "author": "Ali Shutler",
           "description": "Krist Novoselic says he's interested in using AI to finish new Nirvana songs from old scraps—after using the tech on concert recordings.",
@@ -41,7 +56,7 @@
           "description": "\"Every actor has the right to protect themselves and their rights,\" said Slumdog Millionaire star Anil Kapoor after the Indian court verdict.",
           "link": "https://decrypt.co/198256/not-only-me-actor-anil-kapoor-wins-ai-deepfake-court-case",
           "publishedOn": "2023-09-21T22:06:53.000Z",
-          "wordCount": 10717,
+          "wordCount": 10909,
           "title": "'Not Only Me': Actor Anil Kapoor Wins AI Deepfake Court Case",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/09/anil-kapoor-shutterstock-gID_7.png@png",
@@ -431,7 +446,7 @@
           "description": "Police raided a house in the capital city of Santiago and found marijuana, ketamine, and 19 Bitcoin mining machines.",
           "link": "https://decrypt.co/198009/santiago-chile-bitcoin-mining-drug-bust-report",
           "publishedOn": "2023-09-20T18:05:53.000Z",
-          "wordCount": 9693,
+          "wordCount": 9726,
           "title": "Chilean Drug Trafficking Ring Was Also Mining Bitcoin: Report",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/12/shutterstock_2063398196-gID_7.jpg@png",
@@ -636,21 +651,6 @@
           "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/06/binance-us-gID_7.jpg@png"
         },
         {
-          "id": "https://decrypt.co/?p=197868",
-          "author": "Jason Nelson",
-          "description": "To improve its AI models, OpenAI invites penetration experts to find holes in its widely-used AI chatbot platform.",
-          "link": "https://decrypt.co/197868/openai-chatgpt-ai-safety-security-cybersecurity-red-team",
-          "publishedOn": "2023-09-19T23:13:44.000Z",
-          "wordCount": 10108,
-          "title": "With Its Security Under Scrutiny, OpenAI Is Recruiting a Cybersecurity ‘Red Team’",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/09/OpenAI-Security-shutterstock_2290404943-16x9-1-gID_7.jpg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/09/OpenAI-Security-shutterstock_2290404943-16x9-1-gID_7.jpg@png"
-        },
-        {
           "id": "https://decrypt.co/videos/interviews/RnMigbJP/max-zim-talks-memecoins-and-socialfi-this-time-will-be-different",
           "author": null,
           "description": "Max and Reza dive into conversations about the current memecoin meta, the rising popularity of SocialFi and social tokens, and discuss lessons learned from big wins and big losses.",
@@ -671,7 +671,7 @@
           "description": "You can now mine Bitcoin in Minecraft. Decrypt contributor Ryan S. Gladwin shows us how.\n\nSatlantis website: https://satlantis.net/\nMinecraft server address: play.satlantis.net",
           "link": "https://decrypt.co/videos/explainers/z8rit7yN/heres-how-much-bitcoin-we-earned-playing-minecraft",
           "publishedOn": "2023-09-18T16:49:32.000Z",
-          "wordCount": 6217,
+          "wordCount": 6486,
           "title": "Here's How Much Bitcoin We Earned Playing Minecraft",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/z8rit7yN/poster.jpg",
@@ -701,7 +701,7 @@
           "description": "Mino Games CEO Sasha McKinnon tells Decrypt's Kate Irwin about how the studio's upcoming game Dimensionals will use real-time AI.",
           "link": "https://decrypt.co/videos/interviews/SrT1Afj7/how-mino-games-is-using-artificial-intelligence",
           "publishedOn": "2023-09-05T22:35:00.000Z",
-          "wordCount": 6209,
+          "wordCount": 6519,
           "title": "How Mino Games is Using Artificial Intelligence",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/SrT1Afj7/poster.jpg",
@@ -716,7 +716,7 @@
           "description": "Michael Natoli, Aurory's Head of Marketing and Business Development, tells Decrypt's Jason Nelson about how the Aurory games will use NFTs and crypto and shares the studio's broader stance on the tech.",
           "link": "https://decrypt.co/videos/interviews/qv3VwNmM/interview-how-will-aurory-use-nfts-and-crypto",
           "publishedOn": "2023-09-01T15:27:00.000Z",
-          "wordCount": 6275,
+          "wordCount": 6585,
           "title": "INTERVIEW: How Will Aurory Use NFTs and Crypto?",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/qv3VwNmM/poster.jpg",
@@ -731,7 +731,7 @@
           "description": "Google's Global Head of Google Cloud for Web3 James Tromans sat down with Decrypt's Jason Nelson to discuss how AI can help Web3 companies come to market faster and the real value of Web3 tools.",
           "link": "https://decrypt.co/videos/interviews/OeD4uoLj/google-clouds-james-tromans-on-the-intersection-of-ai-and-web3",
           "publishedOn": "2023-09-01T14:00:00.000Z",
-          "wordCount": 6308,
+          "wordCount": 6618,
           "title": "Google Cloud's James Tromans on the Intersection of AI and Web3",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/OeD4uoLj/poster.jpg",
@@ -746,7 +746,7 @@
           "description": "Take Degen U's new course, Mastering NFT Trading, and earn an on-chain certificate. A top instructor will help you identify trends, seize the right moment to trade, weed out scams—and have fun while doing it!",
           "link": "https://decrypt.co/videos/explainers/HQGt1Vrq/mastering-nft-trading-degen-u",
           "publishedOn": "2023-08-29T07:08:35.000Z",
-          "wordCount": 6276,
+          "wordCount": 6545,
           "title": "Mastering NFT Trading - Degen U",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/HQGt1Vrq/poster.jpg",
@@ -791,7 +791,7 @@
           "description": "Voice actor Ben Prendergast, who's voiced characters in games like Apex Legends and God of War Ragnarok, shares his opinions on the tech space's history of \"bubbles\" and whether blockchain gaming has a future.",
           "link": "https://decrypt.co/videos/interviews/X3RKdsaG/apex-legends-voice-actor-ben-prendergast-on-the-future-of-gaming",
           "publishedOn": "2023-08-24T18:15:00.000Z",
-          "wordCount": 6303,
+          "wordCount": 6613,
           "title": "Apex Legends Voice Actor Ben Prendergast on the Future of Gaming",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/X3RKdsaG/poster.jpg",
