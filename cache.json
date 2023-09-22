@@ -6,6 +6,36 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=198369",
+          "author": "Andrew Asmakov",
+          "description": "A European regulatory framework targeting digital assets should be in greater accord with global efforts, argues new research.",
+          "link": "https://decrypt.co/198369/european-parliament-calls-for-tighter-oversight-of-global-cryptocurrency-market",
+          "publishedOn": "2023-09-22T16:07:50.000Z",
+          "wordCount": 10109,
+          "title": "European Parliament Calls for Tighter Oversight of Global Cryptocurrency Market",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/02/shutterstock_585708452-gID_7.jpg@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/02/shutterstock_585708452-gID_7.jpg@png"
+        },
+        {
+          "id": "https://decrypt.co/videos/live-events/YOHhQtWS/huddle01-ceo-ayush-ranjan-on-why-decentralized-audio-and-video-infrastructure-is-needed",
+          "author": null,
+          "description": "Huddle01 co-founder and CEO Ayush Ranjan joined Decrypt reporter André Beganski at Messari Mainnet 2023 to discuss the \"people-powered communications network,\" which provides audio and video capabilities via a decentralized network and can be integrated into social media platforms.",
+          "link": "https://decrypt.co/videos/live-events/YOHhQtWS/huddle01-ceo-ayush-ranjan-on-why-decentralized-audio-and-video-infrastructure-is-needed",
+          "publishedOn": "2023-09-22T15:11:51.000Z",
+          "wordCount": 6342,
+          "title": "Huddle01 CEO Ayush Ranjan on Why Decentralized Audio and Video Infrastructure is Needed",
+          "enclosure": {
+            "url": "https://cdn.jwplayer.com/v2/media/YOHhQtWS/poster.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.jwplayer.com/v2/media/YOHhQtWS/poster.jpg"
+        },
+        {
           "id": "https://decrypt.co/?p=198356",
           "author": "Nivesh Rustgi",
           "description": "Analysts found that investors are actively purchasing claims with an expectation of strong returns as the settlement progresses.",
@@ -131,7 +161,7 @@
           "description": "Krist Novoselic says he's interested in using AI to finish new Nirvana songs from old scraps—after using the tech on concert recordings.",
           "link": "https://decrypt.co/198276/nirvana-bassist-says-ai-could-help-complete-old-demo-songs",
           "publishedOn": "2023-09-21T22:31:27.000Z",
-          "wordCount": 10022,
+          "wordCount": 9992,
           "title": "Nirvana Bassist Says AI Could Help Complete Old Demo Songs",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/09/nirvana-cassettes-shutterstock-gID_7.png@png",
@@ -161,7 +191,7 @@
           "description": "\"Every actor has the right to protect themselves and their rights,\" said Slumdog Millionaire star Anil Kapoor after the Indian court verdict.",
           "link": "https://decrypt.co/198256/not-only-me-actor-anil-kapoor-wins-ai-deepfake-court-case",
           "publishedOn": "2023-09-21T22:06:53.000Z",
-          "wordCount": 10873,
+          "wordCount": 10843,
           "title": "'Not Only Me': Actor Anil Kapoor Wins AI Deepfake Court Case",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/09/anil-kapoor-shutterstock-gID_7.png@png",
@@ -326,7 +356,7 @@
           "description": "Coinbase Chief Legal Officer talks to Decrypt's Andre Beganski about the recent Uniswap court ruling, tokenizing its Base L2, and the company's own battle for clearer regulations in the U.S..",
           "link": "https://decrypt.co/videos/interviews/oWMD6y1W/will-base-ever-have-a-token-not-something-weve-ruled-out-entirely-says-coinbases-paul-grewal",
           "publishedOn": "2023-09-21T11:01:20.000Z",
-          "wordCount": 6623,
+          "wordCount": 6313,
           "title": "Will Base Ever Have a Token? 'Not Something We've Ruled Out Entirely,' Says Coinbase's Paul Grewal",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/oWMD6y1W/poster.jpg",
@@ -386,7 +416,7 @@
           "description": "Neuralink is ready to take things to the inevitable next level, testing its brain-reading chip in humans.",
           "link": "https://decrypt.co/198110/neuralink-brain-implant-chip-human-testing-fda",
           "publishedOn": "2023-09-21T00:55:02.000Z",
-          "wordCount": 10043,
+          "wordCount": 10013,
           "title": "Brain Implant Testing: Neuralink Begins Recruiting for Human Thought-Reading Trials",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/09/refine_00027_-gID_7.png@png",
@@ -416,7 +446,7 @@
           "description": "Prominent authors are joining the Authors Guild in a lawsuit against OpenAI, alleging copyright infringement in training ChatGPT.",
           "link": "https://decrypt.co/198076/game-of-thrones-george-rr-martin-ai-openai",
           "publishedOn": "2023-09-20T22:45:58.000Z",
-          "wordCount": 10716,
+          "wordCount": 10686,
           "title": "Game of Thrones Creator George R.R. Martin Joins Lawsuit Against OpenAI",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/09/Decrypt-Wallpaper-Format-2023-09-20T152041.666-gID_7.png@png",
@@ -446,7 +476,7 @@
           "description": "OpenAI’s new model stands up well against MidJourney and SDXL, and refuses to mimic living artists.",
           "link": "https://decrypt.co/198035/new-dall-e-3-image-generator-is-a-big-upgrade-with-guardrails",
           "publishedOn": "2023-09-20T21:41:17.000Z",
-          "wordCount": 10656,
+          "wordCount": 10626,
           "title": "New DALL-E 3 Image Generator is a Big Upgrade—With Guardrails",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/09/F6fDIIeaQAAYSsT-gID_7.jpeg@png",
@@ -461,7 +491,7 @@
           "description": "The fund, if approved by the Securities and Exchange Commission, would be separate from the firm’s proposed Bitcoin ETF.",
           "link": "https://decrypt.co/198032/grayscale-etf-ethereum-futures-sec-application",
           "publishedOn": "2023-09-20T20:57:02.000Z",
-          "wordCount": 8813,
+          "wordCount": 8783,
           "title": "Grayscale Investments Applies to Offer Ethereum Futures ETF",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/01/grayscale-digital-assets-gID_7.jpg@png",
@@ -476,7 +506,7 @@
           "description": "The company will slowly fade out its custodial features and focus on Beam, a recently launched non-custodial crypto wallet.",
           "link": "https://decrypt.co/198037/andreesen-horowitz-backed-fintech-eco-app-pivots-non-custodial-crypto",
           "publishedOn": "2023-09-20T20:51:01.000Z",
-          "wordCount": 9654,
+          "wordCount": 9624,
           "title": "Andreessen-Backed Fintech Eco App ‘Doubles Down’ On Non-Custodial Crypto",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/09/beam_product_v1-gID_7.png@png",
@@ -521,7 +551,7 @@
           "description": "Select Venmo users can already buy the payment platform’s ERC-20 stablecoin.",
           "link": "https://decrypt.co/198022/paypal-brings-pyusd-stablecoin-to-venmo",
           "publishedOn": "2023-09-20T19:49:20.000Z",
-          "wordCount": 9225,
+          "wordCount": 9195,
           "title": "PayPal Brings PYUSD Stablecoin to Venmo",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/08/venmo-crypto-gID_7.jpg@png",
@@ -536,7 +566,7 @@
           "description": "Musixy.ai also takes requests and sells the rights to unofficial takes on hit singles, but it's entering a divisive and legally thorny space.",
           "link": "https://decrypt.co/197995/ai-music-streaming-service-launching-people-pay-musixy",
           "publishedOn": "2023-09-20T18:59:51.000Z",
-          "wordCount": 13131,
+          "wordCount": 13101,
           "title": "AI Music Streaming Service Launching—Will People Pay?",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/09/robot-ai-music2-gID_7.png@png",
@@ -551,7 +581,7 @@
           "description": "Police raided a house in the capital city of Santiago and found marijuana, ketamine, and 19 Bitcoin mining machines.",
           "link": "https://decrypt.co/198009/santiago-chile-bitcoin-mining-drug-bust-report",
           "publishedOn": "2023-09-20T18:05:53.000Z",
-          "wordCount": 9690,
+          "wordCount": 9660,
           "title": "Chilean Drug Trafficking Ring Was Also Mining Bitcoin: Report",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/12/shutterstock_2063398196-gID_7.jpg@png",
@@ -566,7 +596,7 @@
           "description": "Toncoin (TON) is now the 10th-largest digital asset by market cap, following news of a Telegram crypto wallet launch.",
           "link": "https://decrypt.co/197987/toncoin-surges-top-10-cryptocurrencies-briefly-topping-dogecoin",
           "publishedOn": "2023-09-20T17:53:51.000Z",
-          "wordCount": 9031,
+          "wordCount": 9001,
           "title": "Toncoin Surges Into Top 10 Cryptocurrencies, Briefly Topping Dogecoin",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/09/ton-gID_7.jpg@png",
@@ -581,7 +611,7 @@
           "description": "Epic Games is paying out nearly a quarter of a billion dollars in refunds to Fortnite players. Here’s how to file a claim.",
           "link": "https://decrypt.co/197988/how-to-get-a-refund-for-fortnite-from-epic-games",
           "publishedOn": "2023-09-20T16:27:42.000Z",
-          "wordCount": 9134,
+          "wordCount": 9104,
           "title": "Fortnite Players Can Claim Part of a $245 Million Settlement—Here's Who Is Eligible",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/06/fortnite-wilds-artwork-gID_7.webp@png",
@@ -626,7 +656,7 @@
           "description": "Charles Randell said that some crypto firms that the FCA was pressured to approve now face criminal investigations in the U.S.",
           "link": "https://decrypt.co/197965/ex-fca-chair-uk-regulator-faced-political-pressure-to-welcome-crypto-firms",
           "publishedOn": "2023-09-20T12:52:12.000Z",
-          "wordCount": 9037,
+          "wordCount": 9007,
           "title": "Ex-FCA Chair: UK Regulator Faced 'Political Pressure' to Welcome Crypto Firms",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/08/Archax-FCA-License-gID_7.jpg@png",
@@ -634,21 +664,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/08/Archax-FCA-License-gID_7.jpg@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=197959",
-          "author": "Mattis Meichler",
-          "description": "Sam Bankman-Fried’s parents are accused of using their influence within FTX to channel millions of dollars to their employer, Stanford University.",
-          "link": "https://decrypt.co/197959/stanford-university-to-return-over-5-5m-in-gifts-from-ftx",
-          "publishedOn": "2023-09-20T12:28:49.000Z",
-          "wordCount": 10366,
-          "title": "Stanford University to Return Over $5.5M in 'Gifts' from FTX",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/09/stanford-university-gID_7.jpg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/09/stanford-university-gID_7.jpg@png"
         },
         {
           "id": "https://decrypt.co/videos/interviews/RnMigbJP/max-zim-talks-memecoins-and-socialfi-this-time-will-be-different",
@@ -686,7 +701,7 @@
           "description": "Daniel Paez, executive producer on NFT card-battling game Gods Unchained, speaks with Decrypt Culture Editor Andrew Hayward about what the future of NFT game interoperability will really look like—and what it won't.",
           "link": "https://decrypt.co/videos/interviews/obt7FGYr/gods-unchaineds-daniel-paez-on-the-future-of-nft-gaming-interoperability",
           "publishedOn": "2023-09-14T20:27:35.000Z",
-          "wordCount": 6603,
+          "wordCount": 6293,
           "title": "Gods Unchained's Daniel Paez on the Future of NFT Gaming Interoperability",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/obt7FGYr/poster.jpg",
