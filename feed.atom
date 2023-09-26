@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-26T11:06:35.122Z</id>
+    <id>urn:2023-09-26T12:15:03.784Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-26T11:06:35.122Z</updated>
+    <updated>2023-09-26T12:15:03.784Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Ordinals Creator Announces New Fungible Token Protocol 'Runes']]></title>
+        <id>https://decrypt.co/?p=198744</id>
+        <link href="https://decrypt.co/198744/bitcoin-ordinals-creator-launches-new-fungible-token-protocol-runes"/>
+        <updated>2023-09-26T11:10:55.000Z</updated>
+        <summary type="html"><![CDATA[The development of a new token standard and trading of Runes-based tokens is expected in the coming weeks.]]></summary>
+        <author>
+            <name>Nivesh Rustgi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Celsius Network Creditors Approve $2B Restructuring Plan]]></title>
         <id>https://decrypt.co/?p=198736</id>
@@ -13,6 +23,16 @@
         <summary type="html"><![CDATA[Celsius Network's reorganization plan received overwhelming support from creditors, pending final approval from the U.S. Bankruptcy Court.]]></summary>
         <author>
             <name>Andrew Asmakov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Decentralize Derivatives Trading with Custom Blockchain]]></title>
+        <id>https://decrypt.co/videos/interviews/lfmwAjB9/decentralize-derivatives-trading-with-custom-blockchain</id>
+        <link href="https://decrypt.co/videos/interviews/lfmwAjB9/decentralize-derivatives-trading-with-custom-blockchain"/>
+        <updated>2023-09-26T10:37:37.000Z</updated>
+        <summary type="html"><![CDATA[David Gogel of dYdX discusses how the decentralized exchange is building a custom blockchain to fully decentralize derivatives trading. He explained how the new dYdX chain will allow validators to run order books in memory, enabling decentralized order matching at scale. This shift aims to increase security and transparency for traders while maintaining the performance of centralized exchanges.]]></summary>
+        <author>
+            <name>Decrypt</name>
         </author>
     </entry>
     <entry>
@@ -43,6 +63,36 @@
         <summary type="html"><![CDATA[A week from his trial, Bankman-Fried's lawyers have again requested his temporary release, citing the case’s complexity.]]></summary>
         <author>
             <name>Mattis Meichler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Newly Partnered with Visa, Solana Focuses on Reliability]]></title>
+        <id>https://decrypt.co/videos/interviews/MZoxvulr/newly-partnered-with-visa-solana-focuses-on-reliability</id>
+        <link href="https://decrypt.co/videos/interviews/MZoxvulr/newly-partnered-with-visa-solana-focuses-on-reliability"/>
+        <updated>2023-09-26T05:41:11.000Z</updated>
+        <summary type="html"><![CDATA[Solana has improved network reliability through upgrades like Quick and local fee markets. It recently partnered with Visa to allow settling transactions in USDC on Solana. This could enable merchants to receive instant payments and save on credit card processing fees. Stacy Elliott spoke with Austin Federa, Head of Strategy for the Solana Foundation, at Messari Mainnet 2023.]]></summary>
+        <author>
+            <name>Decrypt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crypto Accounting Challenges and Opportunities]]></title>
+        <id>https://decrypt.co/videos/interviews/0Sezz6pZ/crypto-accounting-challenges-and-opportunities</id>
+        <link href="https://decrypt.co/videos/interviews/0Sezz6pZ/crypto-accounting-challenges-and-opportunities"/>
+        <updated>2023-09-26T05:41:11.000Z</updated>
+        <summary type="html"><![CDATA[As crypto matures, accounting and tax regulations are evolving. Amy Kalnoki of Bitwave explains how her company helps crypto companies properly account for digital assets. She notes the importance of flexibility as new crypto assets emerge and regulations change. Stacy Elliott interviewed her at Messari Mainnet 2023.]]></summary>
+        <author>
+            <name>Decrypt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Regulation Threatens US Dominance of Financial Markets]]></title>
+        <id>https://decrypt.co/videos/interviews/C3wgGtrZ/regulation-threatens-us-dominance-of-financial-markets</id>
+        <link href="https://decrypt.co/videos/interviews/C3wgGtrZ/regulation-threatens-us-dominance-of-financial-markets"/>
+        <updated>2023-09-26T05:41:10.000Z</updated>
+        <summary type="html"><![CDATA[Dave Weisberger, Co-Founder and CEO of CoinRoutes, argued that excessive regulation in the US threatens to undermine the country's long-standing dominance in global financial markets. He warned that other countries are embracing blockchain and crypto to build more efficient digital markets, which could cause the US to lose its competitive edge and trillions in GDP. Weisberger said CoinRoutes is now focusing more on expanding internationally due to restrictive policies in the U.S. He was interviewed by André Beganski of Decrypt at Messari Mainnet 2023.]]></summary>
+        <author>
+            <name>Decrypt</name>
         </author>
     </entry>
     <entry>
@@ -456,16 +506,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Unity Apologizes, Walks Back Fee Changes After Game Developer Backlash]]></title>
-        <id>https://decrypt.co/?p=198404</id>
-        <link href="https://decrypt.co/198404/unity-apologizes-walks-back-fee-changes-after-game-developer-backlash"/>
-        <updated>2023-09-22T19:35:39.000Z</updated>
-        <summary type="html"><![CDATA[Game engine giant Unity isn’t killing its despised runtime fee, but it is offering developers options to avoid it or otherwise reduce costs.]]></summary>
-        <author>
-            <name>Kate Irwin</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA['Twitter Is Where Financial Conversation Happens': Why eToro Partnered With Elon Musk]]></title>
         <id>https://decrypt.co/videos/live-events/BJ1oWUrl/twitter-is-where-financial-conversation-happens-why-etoro-partnered-with-elon-musk</id>
         <link href="https://decrypt.co/videos/live-events/BJ1oWUrl/twitter-is-where-financial-conversation-happens-why-etoro-partnered-with-elon-musk"/>
@@ -556,46 +596,6 @@ Original description: You can now mine Bitcoin in Minecraft. Decrypt contributor
 
 Satlantis website: https://satlantis.net/
 Minecraft server address: play.satlantis.net]]></summary>
-        <author>
-            <name>Decrypt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gods Unchained's Daniel Paez on the Future of NFT Gaming Interoperability]]></title>
-        <id>https://decrypt.co/videos/interviews/obt7FGYr/gods-unchaineds-daniel-paez-on-the-future-of-nft-gaming-interoperability</id>
-        <link href="https://decrypt.co/videos/interviews/obt7FGYr/gods-unchaineds-daniel-paez-on-the-future-of-nft-gaming-interoperability"/>
-        <updated>2023-09-14T20:27:35.000Z</updated>
-        <summary type="html"><![CDATA[Daniel Paez, executive producer on NFT card-battling game Gods Unchained, speaks with Decrypt Culture Editor Andrew Hayward about what the future of NFT game interoperability will really look like—and what it won't.]]></summary>
-        <author>
-            <name>Decrypt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Mino Games is Using Artificial Intelligence]]></title>
-        <id>https://decrypt.co/videos/interviews/SrT1Afj7/how-mino-games-is-using-artificial-intelligence</id>
-        <link href="https://decrypt.co/videos/interviews/SrT1Afj7/how-mino-games-is-using-artificial-intelligence"/>
-        <updated>2023-09-05T22:35:00.000Z</updated>
-        <summary type="html"><![CDATA[Mino Games CEO Sasha McKinnon tells Decrypt's Kate Irwin about how the studio's upcoming game Dimensionals will use real-time AI.]]></summary>
-        <author>
-            <name>Decrypt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[INTERVIEW: How Will Aurory Use NFTs and Crypto?]]></title>
-        <id>https://decrypt.co/videos/interviews/qv3VwNmM/interview-how-will-aurory-use-nfts-and-crypto</id>
-        <link href="https://decrypt.co/videos/interviews/qv3VwNmM/interview-how-will-aurory-use-nfts-and-crypto"/>
-        <updated>2023-09-01T15:27:00.000Z</updated>
-        <summary type="html"><![CDATA[Michael Natoli, Aurory's Head of Marketing and Business Development, tells Decrypt's Jason Nelson about how the Aurory games will use NFTs and crypto and shares the studio's broader stance on the tech.]]></summary>
-        <author>
-            <name>Decrypt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Cloud's James Tromans on the Intersection of AI and Web3]]></title>
-        <id>https://decrypt.co/videos/interviews/OeD4uoLj/google-clouds-james-tromans-on-the-intersection-of-ai-and-web3</id>
-        <link href="https://decrypt.co/videos/interviews/OeD4uoLj/google-clouds-james-tromans-on-the-intersection-of-ai-and-web3"/>
-        <updated>2023-09-01T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Google's Global Head of Google Cloud for Web3 James Tromans sat down with Decrypt's Jason Nelson to discuss how AI can help Web3 companies come to market faster and the real value of Web3 tools.]]></summary>
         <author>
             <name>Decrypt</name>
         </author>
