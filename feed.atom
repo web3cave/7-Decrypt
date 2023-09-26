@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-26T10:08:59.823Z</id>
+    <id>urn:2023-09-26T11:06:35.122Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-26T10:08:59.823Z</updated>
+    <updated>2023-09-26T11:06:35.122Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Celsius Network Creditors Approve $2B Restructuring Plan]]></title>
+        <id>https://decrypt.co/?p=198736</id>
+        <link href="https://decrypt.co/198736/celsius-network-creditors-approve-2b-restructuring-plan"/>
+        <updated>2023-09-26T10:56:44.000Z</updated>
+        <summary type="html"><![CDATA[Celsius Network's reorganization plan received overwhelming support from creditors, pending final approval from the U.S. Bankruptcy Court.]]></summary>
+        <author>
+            <name>Andrew Asmakov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ben ‘Bitboy’ Armstrong Reportedly Arrested After Livestream Rant]]></title>
+        <id>https://decrypt.co/?p=198741</id>
+        <link href="https://decrypt.co/198741/ben-bitboy-armstrong-reportedly-arrested-after-livestream-rant"/>
+        <updated>2023-09-26T10:37:03.000Z</updated>
+        <summary type="html"><![CDATA[Former Bitboy Crypto host, Ben Armstrong, appears to have been arrested after a 37-minute livestream outside his ex-business partner's house.]]></summary>
+        <author>
+            <name>Ryan Gladwin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA['Hoofster' NFT-Backed Shoe Hits AVAVAV's Milan Fashion Week Runway]]></title>
         <id>https://decrypt.co/?p=198704</id>
@@ -23,6 +43,16 @@
         <summary type="html"><![CDATA[A week from his trial, Bankman-Fried's lawyers have again requested his temporary release, citing the case’s complexity.]]></summary>
         <author>
             <name>Mattis Meichler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Developer-Friendly zkRollup to Scale Ethereum]]></title>
+        <id>https://decrypt.co/videos/interviews/OvAFgxTd/building-a-developer-friendly-zkrollup-to-scale-ethereum</id>
+        <link href="https://decrypt.co/videos/interviews/OvAFgxTd/building-a-developer-friendly-zkrollup-to-scale-ethereum"/>
+        <updated>2023-09-26T05:41:10.000Z</updated>
+        <summary type="html"><![CDATA[Daniel Helm, head of Developer Relations at Scroll, discussess how they are building a zkRollup to scale Ethereum transactions and lower fees. He explained their focus on creating a seamless developer experience by maintaining Ethereum's ethos and tooling. Scroll aims to launch their mainnet soon, providing more scalable blockspace for Ethereum developers. Stacy Elliott of Decrypt interviewed him at Messari Mainnet 2023.]]></summary>
+        <author>
+            <name>Decrypt</name>
         </author>
     </entry>
     <entry>
@@ -436,26 +466,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bitcoin Critic Senator Menendez Charged With Corruption, Bribery]]></title>
-        <id>https://decrypt.co/?p=198398</id>
-        <link href="https://decrypt.co/198398/bitcoin-critic-senator-menendez-corruption-bribery"/>
-        <updated>2023-09-22T18:39:56.000Z</updated>
-        <summary type="html"><![CDATA[Senator Menendez, a long-time critic of Bitcoin and other crypto for its alleged association with criminals, faces up to 20 years in prison if convicted.]]></summary>
-        <author>
-            <name>Andrew Throuvalas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gucci's Milan Fashion Week Show Debuts on Roblox and Zepeto]]></title>
-        <id>https://decrypt.co/?p=198384</id>
-        <link href="https://decrypt.co/198384/guccis-milan-fashion-week-show-debuts-on-roblox-and-zepeto"/>
-        <updated>2023-09-22T17:46:54.000Z</updated>
-        <summary type="html"><![CDATA[Gucci creative director Sabato de Sarno's first runway show for the fashion giant is also now in the metaverse.]]></summary>
-        <author>
-            <name>Stephanie Hirschmiller</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA['Twitter Is Where Financial Conversation Happens': Why eToro Partnered With Elon Musk]]></title>
         <id>https://decrypt.co/videos/live-events/BJ1oWUrl/twitter-is-where-financial-conversation-happens-why-etoro-partnered-with-elon-musk</id>
         <link href="https://decrypt.co/videos/live-events/BJ1oWUrl/twitter-is-where-financial-conversation-happens-why-etoro-partnered-with-elon-musk"/>
@@ -586,16 +596,6 @@ Minecraft server address: play.satlantis.net]]></summary>
         <link href="https://decrypt.co/videos/interviews/OeD4uoLj/google-clouds-james-tromans-on-the-intersection-of-ai-and-web3"/>
         <updated>2023-09-01T14:00:00.000Z</updated>
         <summary type="html"><![CDATA[Google's Global Head of Google Cloud for Web3 James Tromans sat down with Decrypt's Jason Nelson to discuss how AI can help Web3 companies come to market faster and the real value of Web3 tools.]]></summary>
-        <author>
-            <name>Decrypt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mastering NFT Trading - Degen U]]></title>
-        <id>https://decrypt.co/videos/explainers/HQGt1Vrq/mastering-nft-trading-degen-u</id>
-        <link href="https://decrypt.co/videos/explainers/HQGt1Vrq/mastering-nft-trading-degen-u"/>
-        <updated>2023-08-29T07:08:35.000Z</updated>
-        <summary type="html"><![CDATA[Take Degen U's new course, Mastering NFT Trading, and earn an on-chain certificate. A top instructor will help you identify trends, seize the right moment to trade, weed out scams—and have fun while doing it!]]></summary>
         <author>
             <name>Decrypt</name>
         </author>
