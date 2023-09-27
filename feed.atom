@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-27T11:06:57.765Z</id>
+    <id>urn:2023-09-27T12:14:57.244Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-27T11:06:57.765Z</updated>
+    <updated>2023-09-27T12:14:57.244Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Chainlink Extends Cross-Chain Protocol to Coinbase’s Base]]></title>
+        <id>https://decrypt.co/?p=198926</id>
+        <link href="https://decrypt.co/198926/chainlink-extends-cross-chain-protocol-to-coinbases-base"/>
+        <updated>2023-09-27T12:01:03.000Z</updated>
+        <summary type="html"><![CDATA[The oracle platform has integrated its CCIP communication protocol with Base to enable the development of cross-chain dapps and services.]]></summary>
+        <author>
+            <name>Nivesh Rustgi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hollywood Writers End Strike Following Successful Agreement Negotiations]]></title>
+        <id>https://decrypt.co/?p=198919</id>
+        <link href="https://decrypt.co/198919/hollywood-writers-end-strike-following-successful-agreement-negotiations"/>
+        <updated>2023-09-27T11:09:20.000Z</updated>
+        <summary type="html"><![CDATA[The new agreement includes clear guidelines regarding the use of artificial intelligence in the film and TV industry.]]></summary>
+        <author>
+            <name>Mattis Meichler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Binance Quits Russia With Sale of Local Business to CommEX]]></title>
         <id>https://decrypt.co/?p=198916</id>
@@ -306,21 +326,21 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building a Developer-Friendly zkRollup to Scale Ethereum]]></title>
-        <id>https://decrypt.co/videos/interviews/OvAFgxTd/building-a-developer-friendly-zkrollup-to-scale-ethereum</id>
-        <link href="https://decrypt.co/videos/interviews/OvAFgxTd/building-a-developer-friendly-zkrollup-to-scale-ethereum"/>
-        <updated>2023-09-26T05:41:10.000Z</updated>
-        <summary type="html"><![CDATA[Daniel Helm, head of Developer Relations at Scroll, discussess how they are building a zkRollup to scale Ethereum transactions and lower fees. He explained their focus on creating a seamless developer experience by maintaining Ethereum's ethos and tooling. Scroll aims to launch their mainnet soon, providing more scalable blockspace for Ethereum developers. Stacy Elliott of Decrypt interviewed him at Messari Mainnet 2023.]]></summary>
-        <author>
-            <name>Decrypt</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Regulation Threatens U.S. Dominance of Financial Markets, Says CoinRoutes CEO]]></title>
         <id>https://decrypt.co/videos/interviews/CrpvzFjL/regulation-threatens-us-dominance-of-financial-markets-says-coinroutes-ceo</id>
         <link href="https://decrypt.co/videos/interviews/CrpvzFjL/regulation-threatens-us-dominance-of-financial-markets-says-coinroutes-ceo"/>
         <updated>2023-09-26T05:41:10.000Z</updated>
         <summary type="html"><![CDATA[Dave Weisberger, Co-Founder and CEO of CoinRoutes, argued that excessive regulation in the U.S. threatens to undermine the country's long-standing dominance in global financial markets. He warned that other countries are embracing blockchain and crypto to build more efficient digital markets, which could cause the US to lose its competitive edge and trillions in GDP. Weisberger said CoinRoutes is now focusing more on expanding internationally due to restrictive policies in the U.S. He was interviewed by André Beganski of Decrypt at Messari Mainnet 2023.]]></summary>
+        <author>
+            <name>Decrypt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Developer-Friendly zkRollup to Scale Ethereum]]></title>
+        <id>https://decrypt.co/videos/interviews/OvAFgxTd/building-a-developer-friendly-zkrollup-to-scale-ethereum</id>
+        <link href="https://decrypt.co/videos/interviews/OvAFgxTd/building-a-developer-friendly-zkrollup-to-scale-ethereum"/>
+        <updated>2023-09-26T05:41:10.000Z</updated>
+        <summary type="html"><![CDATA[Daniel Helm, head of Developer Relations at Scroll, discussess how they are building a zkRollup to scale Ethereum transactions and lower fees. He explained their focus on creating a seamless developer experience by maintaining Ethereum's ethos and tooling. Scroll aims to launch their mainnet soon, providing more scalable blockspace for Ethereum developers. Stacy Elliott of Decrypt interviewed him at Messari Mainnet 2023.]]></summary>
         <author>
             <name>Decrypt</name>
         </author>
@@ -503,26 +523,6 @@
         <summary type="html"><![CDATA[The cloud software firm has put another $147 million into Bitcoin, increasing its cryptocurrency holdings to a total of 158,245 Bitcoin.]]></summary>
         <author>
             <name>Andrew Asmakov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[European Investors More Bullish on Crypto Than American, Says CoinShares Report]]></title>
-        <id>https://decrypt.co/?p=198591</id>
-        <link href="https://decrypt.co/198591/european-investors-more-bullish-crypto-than-american-says-coinshares-report"/>
-        <updated>2023-09-25T13:06:44.000Z</updated>
-        <summary type="html"><![CDATA[A new CoinShares report indicates that EU investors have been more bullish on crypto than their U.S. counterparts.]]></summary>
-        <author>
-            <name>Ryan Gladwin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Stake AVAX on Avalanche Using Core]]></title>
-        <id>https://decrypt.co/?p=156056</id>
-        <link href="https://decrypt.co/resources/how-to-stake-avax-on-avalanche-using-core"/>
-        <updated>2023-09-25T12:01:02.000Z</updated>
-        <summary type="html"><![CDATA[Streamlined and user-friendly, Core is the go-to staking solution for Avalanche. Here's our simple guide to staking AVAX with Core.]]></summary>
-        <author>
-            <name>Nathan Reiff</name>
         </author>
     </entry>
     <entry>
