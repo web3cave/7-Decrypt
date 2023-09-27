@@ -101,7 +101,7 @@
           "description": "Our host Reza Jafery is joined by Gareth Fenney aka 500Altcoins. They discuss the glory days of DeFi Summer and whether or not its a smart move for builders in the crypto space to relocate to Dubai.",
           "link": "https://decrypt.co/videos/interviews/cI7p8AK3/500altcoins-discusses-defi-summer-and-the-dubai-crypto-scene-this-time-will-be-different-episode-2",
           "publishedOn": "2023-09-26T20:00:00.000Z",
-          "wordCount": 6393,
+          "wordCount": 6763,
           "title": "500Altcoins discusses DeFi Summer and the Dubai Crypto Scene - This Time Will Be Different - Episode 2",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/cI7p8AK3/poster.jpg",
@@ -146,7 +146,7 @@
           "description": "An Amazon spokesperson emphasized that the company allows customers to opt-out of sharing data with the e-commerce giant.",
           "link": "https://decrypt.co/198835/amazon-alexa-ai-voice-recordings-training",
           "publishedOn": "2023-09-26T19:33:42.000Z",
-          "wordCount": 10259,
+          "wordCount": 10292,
           "title": "Amazon Clarifies the Use of Customer Conversations to Train Its AI",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/09/Decrypt-Wallpaper-Format-2023-09-26T122537.216-gID_7.png@png",
@@ -296,7 +296,7 @@
           "description": "Celsius Network's reorganization plan received overwhelming support from creditors, pending final approval from the U.S. Bankruptcy Court.",
           "link": "https://decrypt.co/198736/celsius-network-creditors-approve-2b-restructuring-plan",
           "publishedOn": "2023-09-26T10:56:44.000Z",
-          "wordCount": 9823,
+          "wordCount": 9790,
           "title": "Celsius Network Creditors Approve $2 Billion Restructuring Plan",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/06/celsius-network-gID_7.jpg@png",
@@ -371,7 +371,7 @@
           "description": "Solana has improved network reliability through upgrades like Quick and local fee markets. It recently partnered with Visa to allow settling transactions in USDC on Solana. This could enable merchants to receive instant payments and save on credit card processing fees. Stacy Elliott spoke with Austin Federa, Head of Strategy for the Solana Foundation, at Messari Mainnet 2023.",
           "link": "https://decrypt.co/videos/interviews/MZoxvulr/newly-partnered-with-visa-solana-focuses-on-reliability",
           "publishedOn": "2023-09-26T05:41:11.000Z",
-          "wordCount": 6799,
+          "wordCount": 6438,
           "title": "Newly Partnered with Visa, Solana Focuses on Reliability",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/MZoxvulr/poster.jpg",
@@ -411,21 +411,6 @@
           "imageUrl": "https://cdn.jwplayer.com/v2/media/0Sezz6pZ/poster.jpg"
         },
         {
-          "id": "https://decrypt.co/videos/interviews/OvAFgxTd/building-a-developer-friendly-zkrollup-to-scale-ethereum",
-          "author": null,
-          "description": "Daniel Helm, head of Developer Relations at Scroll, discussess how they are building a zkRollup to scale Ethereum transactions and lower fees. He explained their focus on creating a seamless developer experience by maintaining Ethereum's ethos and tooling. Scroll aims to launch their mainnet soon, providing more scalable blockspace for Ethereum developers. Stacy Elliott of Decrypt interviewed him at Messari Mainnet 2023.",
-          "link": "https://decrypt.co/videos/interviews/OvAFgxTd/building-a-developer-friendly-zkrollup-to-scale-ethereum",
-          "publishedOn": "2023-09-26T05:41:10.000Z",
-          "wordCount": 6452,
-          "title": "Building a Developer-Friendly zkRollup to Scale Ethereum",
-          "enclosure": {
-            "url": "https://cdn.jwplayer.com/v2/media/OvAFgxTd/poster.jpg",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.jwplayer.com/v2/media/OvAFgxTd/poster.jpg"
-        },
-        {
           "id": "https://decrypt.co/videos/interviews/CrpvzFjL/regulation-threatens-us-dominance-of-financial-markets-says-coinroutes-ceo",
           "author": null,
           "description": "Dave Weisberger, Co-Founder and CEO of CoinRoutes, argued that excessive regulation in the U.S. threatens to undermine the country's long-standing dominance in global financial markets. He warned that other countries are embracing blockchain and crypto to build more efficient digital markets, which could cause the US to lose its competitive edge and trillions in GDP. Weisberger said CoinRoutes is now focusing more on expanding internationally due to restrictive policies in the U.S. He was interviewed by André Beganski of Decrypt at Messari Mainnet 2023.",
@@ -439,6 +424,21 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.jwplayer.com/v2/media/CrpvzFjL/poster.jpg"
+        },
+        {
+          "id": "https://decrypt.co/videos/interviews/OvAFgxTd/building-a-developer-friendly-zkrollup-to-scale-ethereum",
+          "author": null,
+          "description": "Daniel Helm, head of Developer Relations at Scroll, discussess how they are building a zkRollup to scale Ethereum transactions and lower fees. He explained their focus on creating a seamless developer experience by maintaining Ethereum's ethos and tooling. Scroll aims to launch their mainnet soon, providing more scalable blockspace for Ethereum developers. Stacy Elliott of Decrypt interviewed him at Messari Mainnet 2023.",
+          "link": "https://decrypt.co/videos/interviews/OvAFgxTd/building-a-developer-friendly-zkrollup-to-scale-ethereum",
+          "publishedOn": "2023-09-26T05:41:10.000Z",
+          "wordCount": 6452,
+          "title": "Building a Developer-Friendly zkRollup to Scale Ethereum",
+          "enclosure": {
+            "url": "https://cdn.jwplayer.com/v2/media/OvAFgxTd/poster.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.jwplayer.com/v2/media/OvAFgxTd/poster.jpg"
         },
         {
           "id": "https://decrypt.co/?p=198681",
@@ -461,7 +461,7 @@
           "description": "Billy Sebell of the XDC Foundation discussed the proliferation of new layer-1 and layer-2 blockchain solutions. While this expands possibilities, he noted projects must still attract users amidst growing competition. Sebell highlighted the benefits of targeting niche use cases and bringing real-world assets on-chain via tokenization. He was interviewed by André Beganski of Decrypt at Messari Mainnet 2023.",
           "link": "https://decrypt.co/videos/interviews/7Ys4Rxay/new-blockchains-boom-creates-opportunity-and-challenges",
           "publishedOn": "2023-09-26T02:07:52.000Z",
-          "wordCount": 6399,
+          "wordCount": 6432,
           "title": "New Blockchains Boom Creates Opportunity and Challenges",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/7Ys4Rxay/poster.jpg",
@@ -791,7 +791,7 @@
           "description": "eToro US CEO Lule Demmissie joined Decrypt Markets Editor at Messari Mainnet 2023 to discuss the impact of the recent Ripple vs. SEC court decision on retail traders and why the social trading platform partnered with Elon Musk's Twitter.",
           "link": "https://decrypt.co/videos/live-events/BJ1oWUrl/twitter-is-where-financial-conversation-happens-why-etoro-partnered-with-elon-musk",
           "publishedOn": "2023-09-22T15:12:06.000Z",
-          "wordCount": 6369,
+          "wordCount": 6696,
           "title": "'Twitter Is Where Financial Conversation Happens': Why eToro Partnered With Elon Musk",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/BJ1oWUrl/poster.jpg",
@@ -806,7 +806,7 @@
           "description": "Blockchain Association CEO Kristin Smith joined Decrypt reporter André Beganski at Messari Mainnet 2023 to talk cryptocurrency regulation, the status of pending stablecoin legislation, and why Congress has struggled to reach consensus.",
           "link": "https://decrypt.co/videos/live-events/u1Wj2plr/why-has-stablecoin-legislation-stalled-blockchain-associations-kristin-smith-explains",
           "publishedOn": "2023-09-22T15:12:01.000Z",
-          "wordCount": 6322,
+          "wordCount": 6649,
           "title": "Why Has Stablecoin Legislation Stalled? Blockchain Association’s Kristin Smith Explains",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/u1Wj2plr/poster.jpg",
@@ -866,7 +866,7 @@
           "description": "Coinbase Chief Legal Officer talks to Decrypt's Andre Beganski about the recent Uniswap court ruling, tokenizing its Base L2, and the company's own battle for clearer regulations in the U.S..",
           "link": "https://decrypt.co/videos/interviews/oWMD6y1W/will-base-ever-have-a-token-not-something-weve-ruled-out-entirely-says-coinbases-paul-grewal",
           "publishedOn": "2023-09-21T11:01:20.000Z",
-          "wordCount": 6707,
+          "wordCount": 6346,
           "title": "Will Base Ever Have a Token? 'Not Something We've Ruled Out Entirely,' Says Coinbase's Paul Grewal",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/oWMD6y1W/poster.jpg",
