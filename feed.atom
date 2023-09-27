@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-27T22:06:59.983Z</id>
+    <id>urn:2023-09-27T23:07:34.152Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-27T22:06:59.983Z</updated>
+    <updated>2023-09-27T23:07:34.152Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Is a Tokenized Pokémon Card a Security? SEC Chair Gary Gensler Responds—Kinda]]></title>
+        <id>https://decrypt.co/?p=199009</id>
+        <link href="https://decrypt.co/199009/tokenized-pokemon-card-security-sec-chair-gary-gensler-responds-kinda"/>
+        <updated>2023-09-27T22:15:04.000Z</updated>
+        <summary type="html"><![CDATA[U.S. Representative Ritchie Torres questioned Gensler, using Pokémon cards as an example—and told Decrypt the SEC Chair's responses were "incoherent."]]></summary>
+        <author>
+            <name>Kate Irwin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nintendo Switch 2: Everything You Need to Know]]></title>
         <id>https://decrypt.co/?p=197793</id>
@@ -406,13 +416,13 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lawyers Again Urge Release for Sam Bankman-Fried Ahead of Trial Date]]></title>
-        <id>https://decrypt.co/?p=198733</id>
-        <link href="https://decrypt.co/198733/lawyers-again-urge-release-bankman-fried-ahead-trial-date"/>
-        <updated>2023-09-26T09:25:40.000Z</updated>
-        <summary type="html"><![CDATA[A week from his trial, Bankman-Fried's lawyers have again requested his temporary release, citing the case’s complexity.]]></summary>
+        <title type="html"><![CDATA[Newly Partnered with Visa, Solana Focuses on Reliability]]></title>
+        <id>https://decrypt.co/videos/interviews/MZoxvulr/newly-partnered-with-visa-solana-focuses-on-reliability</id>
+        <link href="https://decrypt.co/videos/interviews/MZoxvulr/newly-partnered-with-visa-solana-focuses-on-reliability"/>
+        <updated>2023-09-26T05:41:11.000Z</updated>
+        <summary type="html"><![CDATA[Solana has improved network reliability through upgrades like Quick and local fee markets. It recently partnered with Visa to allow settling transactions in USDC on Solana. This could enable merchants to receive instant payments and save on credit card processing fees. Stacy Elliott spoke with Austin Federa, Head of Strategy for the Solana Foundation, at Messari Mainnet 2023.]]></summary>
         <author>
-            <name>Mattis Meichler</name>
+            <name>Decrypt</name>
         </author>
     </entry>
     <entry>
@@ -421,16 +431,6 @@
         <link href="https://decrypt.co/videos/interviews/fxygwLvH/indias-1-crypto-tax-has-been-a-nightmare-for-high-frequency-traders-says-shardeum-ceo"/>
         <updated>2023-09-26T05:41:11.000Z</updated>
         <summary type="html"><![CDATA[As India figures out its regulatory approach to the crypto industry, one thing is clear to Shardeum co-founder Nischal Shetty: “If you're a high-frequency trader, you can't afford to lose a percentage every time you sell,” he told Decrypt's Andre Beganski at Messari Mainnet in New York. “That's something that's caused a lot of issues.”]]></summary>
-        <author>
-            <name>Decrypt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Newly Partnered with Visa, Solana Focuses on Reliability]]></title>
-        <id>https://decrypt.co/videos/interviews/MZoxvulr/newly-partnered-with-visa-solana-focuses-on-reliability</id>
-        <link href="https://decrypt.co/videos/interviews/MZoxvulr/newly-partnered-with-visa-solana-focuses-on-reliability"/>
-        <updated>2023-09-26T05:41:11.000Z</updated>
-        <summary type="html"><![CDATA[Solana has improved network reliability through upgrades like Quick and local fee markets. It recently partnered with Visa to allow settling transactions in USDC on Solana. This could enable merchants to receive instant payments and save on credit card processing fees. Stacy Elliott spoke with Austin Federa, Head of Strategy for the Solana Foundation, at Messari Mainnet 2023.]]></summary>
         <author>
             <name>Decrypt</name>
         </author>
@@ -456,6 +456,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Base as a 'Bridge, Not an Island']]></title>
+        <id>https://decrypt.co/videos/interviews/oZPr7bzY/base-as-a-bridge-not-an-island</id>
+        <link href="https://decrypt.co/videos/interviews/oZPr7bzY/base-as-a-bridge-not-an-island"/>
+        <updated>2023-09-26T05:41:10.000Z</updated>
+        <summary type="html"><![CDATA[Coinbase's Jesse Pollak, creator of layer-2 blockchain Base, says the launch of the network has exceeded expectations, even if plans changed along the way. He believes Arbitrum One will help bring billions onto blockchain by enabling seamless user experiences. Stacy Elliott interviewed him at Messari Mainnet 2023.]]></summary>
+        <author>
+            <name>Decrypt</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Regulation Threatens U.S. Dominance of Financial Markets, Says CoinRoutes CEO]]></title>
         <id>https://decrypt.co/videos/interviews/CrpvzFjL/regulation-threatens-us-dominance-of-financial-markets-says-coinroutes-ceo</id>
         <link href="https://decrypt.co/videos/interviews/CrpvzFjL/regulation-threatens-us-dominance-of-financial-markets-says-coinroutes-ceo"/>
@@ -471,6 +481,26 @@
         <link href="https://decrypt.co/videos/interviews/OvAFgxTd/building-a-developer-friendly-zkrollup-to-scale-ethereum"/>
         <updated>2023-09-26T05:41:10.000Z</updated>
         <summary type="html"><![CDATA[Daniel Helm, head of Developer Relations at Scroll, discussess how they are building a zkRollup to scale Ethereum transactions and lower fees. He explained their focus on creating a seamless developer experience by maintaining Ethereum's ethos and tooling. Scroll aims to launch their mainnet soon, providing more scalable blockspace for Ethereum developers. Stacy Elliott of Decrypt interviewed him at Messari Mainnet 2023.]]></summary>
+        <author>
+            <name>Decrypt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Explosive Growth Ahead for Enterprise Blockchain]]></title>
+        <id>https://decrypt.co/videos/interviews/xXOrNbX9/explosive-growth-ahead-for-enterprise-blockchain</id>
+        <link href="https://decrypt.co/videos/interviews/xXOrNbX9/explosive-growth-ahead-for-enterprise-blockchain"/>
+        <updated>2023-09-26T05:41:10.000Z</updated>
+        <summary type="html"><![CDATA[Paul Brody drives Ernst & Young (EY) initiatives and investments in blockchain technology across consulting, audit, and tax business lines. He says enterprise blockchain adoption is nearing an inflection point. Brody believes blockchains will one day handle 40 billion transactions daily across industries like automotive and pharma. Stacy Elliott interviewed him at Messari Mainnet 2023.]]></summary>
+        <author>
+            <name>Decrypt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin's Narrative Is Shifting Towards Layer-2 Solutions]]></title>
+        <id>https://decrypt.co/videos/interviews/axArPRp3/bitcoins-narrative-is-shifting-towards-layer-2-solutions</id>
+        <link href="https://decrypt.co/videos/interviews/axArPRp3/bitcoins-narrative-is-shifting-towards-layer-2-solutions"/>
+        <updated>2023-09-26T05:41:10.000Z</updated>
+        <summary type="html"><![CDATA[Rich Rhines, original Core DAO contributor and former Coinbase engineer, discusses how the narrative around Bitcoin is shifting in 2023. While Bitcoin remains digital gold, new layer 2 solutionsare emerging to unlock more utility and value from the huge amounts of capital stored in Bitcoin. He says these innovations can benefit Bitcoin holders while keeping Bitcoin maximalists happy by building outside the base layer. André Beganski interviewed him at Messari Mainnet 2023.]]></summary>
         <author>
             <name>Decrypt</name>
         </author>
@@ -561,36 +591,6 @@
         <link href="https://decrypt.co/videos/live-events/09yKTjge/what-a-bitcoin-etf-means-for-crypto-adoption-polygon-head-of-institutional-capital"/>
         <updated>2023-09-22T15:12:13.000Z</updated>
         <summary type="html"><![CDATA[Colin Butler, Polygon’s head of institutional capital, spoke with Decrypt reporter André Beganski at Messari Mainnet 2023 about the various reasons big institutions are now tokenizing real-world assets, and what it means for on-chain assets to go institutional in the form of ETFs and other investment products.]]></summary>
-        <author>
-            <name>Decrypt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['Twitter Is Where Financial Conversation Happens': Why eToro Partnered With Elon Musk]]></title>
-        <id>https://decrypt.co/videos/live-events/BJ1oWUrl/twitter-is-where-financial-conversation-happens-why-etoro-partnered-with-elon-musk</id>
-        <link href="https://decrypt.co/videos/live-events/BJ1oWUrl/twitter-is-where-financial-conversation-happens-why-etoro-partnered-with-elon-musk"/>
-        <updated>2023-09-22T15:12:06.000Z</updated>
-        <summary type="html"><![CDATA[eToro US CEO Lule Demmissie joined Decrypt Markets Editor at Messari Mainnet 2023 to discuss the impact of the recent Ripple vs. SEC court decision on retail traders and why the social trading platform partnered with Elon Musk's Twitter.]]></summary>
-        <author>
-            <name>Decrypt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Has Stablecoin Legislation Stalled? Blockchain Association’s Kristin Smith Explains]]></title>
-        <id>https://decrypt.co/videos/live-events/u1Wj2plr/why-has-stablecoin-legislation-stalled-blockchain-associations-kristin-smith-explains</id>
-        <link href="https://decrypt.co/videos/live-events/u1Wj2plr/why-has-stablecoin-legislation-stalled-blockchain-associations-kristin-smith-explains"/>
-        <updated>2023-09-22T15:12:01.000Z</updated>
-        <summary type="html"><![CDATA[Blockchain Association CEO Kristin Smith joined Decrypt reporter André Beganski at Messari Mainnet 2023 to talk cryptocurrency regulation, the status of pending stablecoin legislation, and why Congress has struggled to reach consensus.]]></summary>
-        <author>
-            <name>Decrypt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Huddle01 CEO Ayush Ranjan on Why Decentralized Audio and Video Infrastructure is Needed]]></title>
-        <id>https://decrypt.co/videos/live-events/YOHhQtWS/huddle01-ceo-ayush-ranjan-on-why-decentralized-audio-and-video-infrastructure-is-needed</id>
-        <link href="https://decrypt.co/videos/live-events/YOHhQtWS/huddle01-ceo-ayush-ranjan-on-why-decentralized-audio-and-video-infrastructure-is-needed"/>
-        <updated>2023-09-22T15:11:51.000Z</updated>
-        <summary type="html"><![CDATA[Huddle01 co-founder and CEO Ayush Ranjan joined Decrypt reporter André Beganski at Messari Mainnet 2023 to discuss the "people-powered communications network," which provides audio and video capabilities via a decentralized network and can be integrated into social media platforms.]]></summary>
         <author>
             <name>Decrypt</name>
         </author>
