@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-29T21:06:46.613Z</id>
+    <id>urn:2023-09-29T22:07:02.116Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-29T21:06:46.613Z</updated>
+    <updated>2023-09-29T22:07:02.116Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Galaxy and Invesco Join Growing Ethereum ETF Race]]></title>
+        <id>https://decrypt.co/?p=199379</id>
+        <link href="https://decrypt.co/199379/galaxy-invesco-join-growing-ethereum-etf-race"/>
+        <updated>2023-09-29T21:46:39.000Z</updated>
+        <summary type="html"><![CDATA[Galaxy and Invesco added their names to the Ethereum spot ETF field on Friday, even as worry of a government shutdown and SEC delays loom.]]></summary>
+        <author>
+            <name>Andrew Throuvalas</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Quantum Leap: Researchers Achieve Major Milestone for Reliable Quantum Computers]]></title>
         <id>https://decrypt.co/?p=199380</id>
@@ -396,16 +406,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Law Must Evolve To Make CBDCs Possible, Says BIS Chief]]></title>
-        <id>https://decrypt.co/?p=199007</id>
-        <link href="https://decrypt.co/199007/the-law-must-evolve-to-make-cbdcs-possible-says-bis-chief"/>
-        <updated>2023-09-28T01:20:23.000Z</updated>
-        <summary type="html"><![CDATA[“It is simply unacceptable that unclear or outdated legal frameworks could hinder [CBDC] deployment,” said BIS General Manager Agustín Carstens.]]></summary>
-        <author>
-            <name>Andrew Throuvalas</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Social Media Sentiment Is Key to Crypto Price Discovery]]></title>
         <id>https://decrypt.co/videos/live-events/981TBppa/social-media-sentiment-is-key-to-crypto-price-discovery</id>
         <link href="https://decrypt.co/videos/live-events/981TBppa/social-media-sentiment-is-key-to-crypto-price-discovery"/>
@@ -496,21 +496,21 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Regulation Threatens U.S. Dominance of Financial Markets, Says CoinRoutes CEO]]></title>
-        <id>https://decrypt.co/videos/live-events/CrpvzFjL/regulation-threatens-us-dominance-of-financial-markets-says-coinroutes-ceo</id>
-        <link href="https://decrypt.co/videos/live-events/CrpvzFjL/regulation-threatens-us-dominance-of-financial-markets-says-coinroutes-ceo"/>
-        <updated>2023-09-26T05:41:10.000Z</updated>
-        <summary type="html"><![CDATA[Dave Weisberger, Co-Founder and CEO of CoinRoutes, argued that excessive regulation in the U.S. threatens to undermine the country's long-standing dominance in global financial markets. He warned that other countries are embracing blockchain and crypto to build more efficient digital markets, which could cause the US to lose its competitive edge and trillions in GDP. Weisberger said CoinRoutes is now focusing more on expanding internationally due to restrictive policies in the U.S. He was interviewed by André Beganski of Decrypt at Messari Mainnet 2023.]]></summary>
-        <author>
-            <name>Decrypt</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Building a Developer-Friendly zkRollup to Scale Ethereum]]></title>
         <id>https://decrypt.co/videos/live-events/OvAFgxTd/building-a-developer-friendly-zkrollup-to-scale-ethereum</id>
         <link href="https://decrypt.co/videos/live-events/OvAFgxTd/building-a-developer-friendly-zkrollup-to-scale-ethereum"/>
         <updated>2023-09-26T05:41:10.000Z</updated>
         <summary type="html"><![CDATA[Daniel Helm, head of Developer Relations at Scroll, discussess how they are building a zkRollup to scale Ethereum transactions and lower fees. He explained their focus on creating a seamless developer experience by maintaining Ethereum's ethos and tooling. Scroll aims to launch their mainnet soon, providing more scalable blockspace for Ethereum developers. Stacy Elliott of Decrypt interviewed him at Messari Mainnet 2023.]]></summary>
+        <author>
+            <name>Decrypt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Regulation Threatens U.S. Dominance of Financial Markets, Says CoinRoutes CEO]]></title>
+        <id>https://decrypt.co/videos/live-events/CrpvzFjL/regulation-threatens-us-dominance-of-financial-markets-says-coinroutes-ceo</id>
+        <link href="https://decrypt.co/videos/live-events/CrpvzFjL/regulation-threatens-us-dominance-of-financial-markets-says-coinroutes-ceo"/>
+        <updated>2023-09-26T05:41:10.000Z</updated>
+        <summary type="html"><![CDATA[Dave Weisberger, Co-Founder and CEO of CoinRoutes, argued that excessive regulation in the U.S. threatens to undermine the country's long-standing dominance in global financial markets. He warned that other countries are embracing blockchain and crypto to build more efficient digital markets, which could cause the US to lose its competitive edge and trillions in GDP. Weisberger said CoinRoutes is now focusing more on expanding internationally due to restrictive policies in the U.S. He was interviewed by André Beganski of Decrypt at Messari Mainnet 2023.]]></summary>
         <author>
             <name>Decrypt</name>
         </author>
