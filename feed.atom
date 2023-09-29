@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-29T05:07:41.455Z</id>
+    <id>urn:2023-09-29T06:10:42.417Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-29T05:07:41.455Z</updated>
+    <updated>2023-09-29T06:10:42.417Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Musée d’Orsay Embraces NFTs in Push to Reach New Audiences]]></title>
+        <id>https://decrypt.co/?p=199278</id>
+        <link href="https://decrypt.co/199278/musee-dorsay-embraces-nfts-push-reach-new-audiences"/>
+        <updated>2023-09-29T06:01:02.000Z</updated>
+        <summary type="html"><![CDATA[The French art museum announced a partnership with the Tezos Foundation that will bring its collections into conversation with on-chain digital artists and blockchain-backed experiences.]]></summary>
+        <author>
+            <name>Sander Lutz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Republican FCC Commissioner Calls Renewed Net Neutrality Push 'Unlawful']]></title>
         <id>https://decrypt.co/?p=199253</id>
@@ -376,16 +386,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cloudflare Launches AI Platform to Support Scalable AI Applications]]></title>
-        <id>https://decrypt.co/?p=198900</id>
-        <link href="https://decrypt.co/198900/cloudflare-launches-ai-platform-for-deploying-scalable-ai-applications"/>
-        <updated>2023-09-27T13:01:02.000Z</updated>
-        <summary type="html"><![CDATA[The tech giant says its new platform, Cloudflare AI, allows developers to build scalable AI applications quickly and affordably.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[500Altcoins discusses DeFi Summer and the Dubai Crypto Scene - This Time Will Be Different - Episode 2]]></title>
         <id>https://decrypt.co/videos/interviews/cI7p8AK3/500altcoins-discusses-defi-summer-and-the-dubai-crypto-scene-this-time-will-be-different-episode-2</id>
         <link href="https://decrypt.co/videos/interviews/cI7p8AK3/500altcoins-discusses-defi-summer-and-the-dubai-crypto-scene-this-time-will-be-different-episode-2"/>
@@ -406,21 +406,21 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Newly Partnered with Visa, Solana Focuses on Reliability]]></title>
-        <id>https://decrypt.co/videos/live-events/MZoxvulr/newly-partnered-with-visa-solana-focuses-on-reliability</id>
-        <link href="https://decrypt.co/videos/live-events/MZoxvulr/newly-partnered-with-visa-solana-focuses-on-reliability"/>
-        <updated>2023-09-26T05:41:11.000Z</updated>
-        <summary type="html"><![CDATA[Solana has improved network reliability through upgrades like Quick and local fee markets. It recently partnered with Visa to allow settling transactions in USDC on Solana. This could enable merchants to receive instant payments and save on credit card processing fees. Stacy Elliott spoke with Austin Federa, Head of Strategy for the Solana Foundation, at Messari Mainnet 2023.]]></summary>
-        <author>
-            <name>Decrypt</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[India's 1% Crypto Tax Has Been a Nightmare for High-Frequency Traders, Says Shardeum CEO]]></title>
         <id>https://decrypt.co/videos/live-events/fxygwLvH/indias-1-crypto-tax-has-been-a-nightmare-for-high-frequency-traders-says-shardeum-ceo</id>
         <link href="https://decrypt.co/videos/live-events/fxygwLvH/indias-1-crypto-tax-has-been-a-nightmare-for-high-frequency-traders-says-shardeum-ceo"/>
         <updated>2023-09-26T05:41:11.000Z</updated>
         <summary type="html"><![CDATA[As India figures out its regulatory approach to the crypto industry, one thing is clear to Shardeum co-founder Nischal Shetty: “If you're a high-frequency trader, you can't afford to lose a percentage every time you sell,” he told Decrypt's Andre Beganski at Messari Mainnet in New York. “That's something that's caused a lot of issues.”]]></summary>
+        <author>
+            <name>Decrypt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Newly Partnered with Visa, Solana Focuses on Reliability]]></title>
+        <id>https://decrypt.co/videos/live-events/MZoxvulr/newly-partnered-with-visa-solana-focuses-on-reliability</id>
+        <link href="https://decrypt.co/videos/live-events/MZoxvulr/newly-partnered-with-visa-solana-focuses-on-reliability"/>
+        <updated>2023-09-26T05:41:11.000Z</updated>
+        <summary type="html"><![CDATA[Solana has improved network reliability through upgrades like Quick and local fee markets. It recently partnered with Visa to allow settling transactions in USDC on Solana. This could enable merchants to receive instant payments and save on credit card processing fees. Stacy Elliott spoke with Austin Federa, Head of Strategy for the Solana Foundation, at Messari Mainnet 2023.]]></summary>
         <author>
             <name>Decrypt</name>
         </author>
