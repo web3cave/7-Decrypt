@@ -11,7 +11,7 @@
           "description": "The network is deflationary over shorter time frames, but inflationary on longer ones. What gives?",
           "link": "https://decrypt.co/199635/ethereum-supply-is-starting-to-grow-again-as-gas-prices-plummet",
           "publishedOn": "2023-09-30T21:33:53.000Z",
-          "wordCount": 9968,
+          "wordCount": 9935,
           "title": "Ethereum Supply Is Starting to Grow Again as Gas Prices Plummet",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/09/Ethereum-Gas-shutterstock_2299359143-16x9-1-gID_7.jpg@png",
@@ -476,7 +476,7 @@
           "description": "The U.S. regulator alleged that participants of an insider trading scheme used Xbox audio chat to share info, netting thousands in profits.",
           "link": "https://decrypt.co/199252/xbox-chat-used-share-insider-trading-secrets-says-sec",
           "publishedOn": "2023-09-29T00:16:14.000Z",
-          "wordCount": 10415,
+          "wordCount": 10448,
           "title": "Xbox Chat Was Used to Share Insider Trading Secrets, Says SEC",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/09/xbox-secret-gID_7.png@png",
@@ -671,7 +671,7 @@
           "description": "David Gogel of dYdX discusses how the decentralized exchange is building a custom blockchain to fully decentralize derivatives trading. He explained how the new dYdX chain will allow validators to run order books in memory, enabling decentralized order matching at scale. This shift aims to increase security and transparency for traders while maintaining the performance of centralized exchanges.",
           "link": "https://decrypt.co/videos/live-events/lfmwAjB9/decentralize-derivatives-trading-with-custom-blockchain",
           "publishedOn": "2023-09-26T10:37:37.000Z",
-          "wordCount": 6750,
+          "wordCount": 6434,
           "title": "Decentralize Derivatives Trading with Custom Blockchain",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/lfmwAjB9/poster.jpg",
@@ -679,21 +679,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.jwplayer.com/v2/media/lfmwAjB9/poster.jpg"
-        },
-        {
-          "id": "https://decrypt.co/videos/live-events/MZoxvulr/newly-partnered-with-visa-solana-focuses-on-reliability",
-          "author": null,
-          "description": "Solana has improved network reliability through upgrades like Quick and local fee markets. It recently partnered with Visa to allow settling transactions in USDC on Solana. This could enable merchants to receive instant payments and save on credit card processing fees. Stacy Elliott spoke with Austin Federa, Head of Strategy for the Solana Foundation, at Messari Mainnet 2023.",
-          "link": "https://decrypt.co/videos/live-events/MZoxvulr/newly-partnered-with-visa-solana-focuses-on-reliability",
-          "publishedOn": "2023-09-26T05:41:11.000Z",
-          "wordCount": 6795,
-          "title": "Newly Partnered with Visa, Solana Focuses on Reliability",
-          "enclosure": {
-            "url": "https://cdn.jwplayer.com/v2/media/MZoxvulr/poster.jpg",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.jwplayer.com/v2/media/MZoxvulr/poster.jpg"
         },
         {
           "id": "https://decrypt.co/videos/live-events/fxygwLvH/indias-1-crypto-tax-has-been-a-nightmare-for-high-frequency-traders-says-shardeum-ceo",
@@ -709,6 +694,21 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.jwplayer.com/v2/media/fxygwLvH/poster.jpg"
+        },
+        {
+          "id": "https://decrypt.co/videos/live-events/MZoxvulr/newly-partnered-with-visa-solana-focuses-on-reliability",
+          "author": null,
+          "description": "Solana has improved network reliability through upgrades like Quick and local fee markets. It recently partnered with Visa to allow settling transactions in USDC on Solana. This could enable merchants to receive instant payments and save on credit card processing fees. Stacy Elliott spoke with Austin Federa, Head of Strategy for the Solana Foundation, at Messari Mainnet 2023.",
+          "link": "https://decrypt.co/videos/live-events/MZoxvulr/newly-partnered-with-visa-solana-focuses-on-reliability",
+          "publishedOn": "2023-09-26T05:41:11.000Z",
+          "wordCount": 6446,
+          "title": "Newly Partnered with Visa, Solana Focuses on Reliability",
+          "enclosure": {
+            "url": "https://cdn.jwplayer.com/v2/media/MZoxvulr/poster.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.jwplayer.com/v2/media/MZoxvulr/poster.jpg"
         },
         {
           "id": "https://decrypt.co/videos/live-events/0Sezz6pZ/crypto-accounting-challenges-and-opportunities",
@@ -746,7 +746,7 @@
           "description": "Coinbase's Jesse Pollak, creator of layer-2 blockchain Base, says the launch of the network has exceeded expectations, even if plans changed along the way. He believes Arbitrum One will help bring billions onto blockchain by enabling seamless user experiences. Stacy Elliott interviewed him at Messari Mainnet 2023.",
           "link": "https://decrypt.co/videos/live-events/oZPr7bzY/base-as-a-bridge-not-an-island",
           "publishedOn": "2023-09-26T05:41:10.000Z",
-          "wordCount": 6734,
+          "wordCount": 6385,
           "title": "Base as a 'Bridge, Not an Island'",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/oZPr7bzY/poster.jpg",
@@ -776,7 +776,7 @@
           "description": "Daniel Helm, head of Developer Relations at Scroll, discussess how they are building a zkRollup to scale Ethereum transactions and lower fees. He explained their focus on creating a seamless developer experience by maintaining Ethereum's ethos and tooling. Scroll aims to launch their mainnet soon, providing more scalable blockspace for Ethereum developers. Stacy Elliott of Decrypt interviewed him at Messari Mainnet 2023.",
           "link": "https://decrypt.co/videos/live-events/OvAFgxTd/building-a-developer-friendly-zkrollup-to-scale-ethereum",
           "publishedOn": "2023-09-26T05:41:10.000Z",
-          "wordCount": 6427,
+          "wordCount": 6460,
           "title": "Building a Developer-Friendly zkRollup to Scale Ethereum",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/OvAFgxTd/poster.jpg",
