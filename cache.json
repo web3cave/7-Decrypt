@@ -296,7 +296,7 @@
           "description": "Timmu Tõke, co-founder and CEO of Ready Player Me, joins Decrypt contributor Ryan Gladwin to discuss the startup's approach to powering avatars that are interoperable across games and metaverse platforms—and what's needed to convince the industry to adopt standards and open up.",
           "link": "https://decrypt.co/videos/interviews/TH3KEAI0/there-are-no-real-standards-ready-player-me-ceo-timmu-tke-on-building-for-an-open-gaming-ecosystem",
           "publishedOn": "2023-09-29T17:29:40.000Z",
-          "wordCount": 6780,
+          "wordCount": 6424,
           "title": "'There Are No Real Standards': Ready Player Me CEO Timmu Tõke on Building for an Open Gaming Ecosystem",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/TH3KEAI0/poster.jpg",
@@ -416,7 +416,7 @@
           "description": "For every tokenized t-bill an investor purchases, OpenTrade will be buy an actual treasury bill and provide an on-chain identifier it.",
           "link": "https://decrypt.co/199291/opentrade-launches-tokenized-treasury-bills-on-protocol-developed-by-circle",
           "publishedOn": "2023-09-29T12:59:04.000Z",
-          "wordCount": 9819,
+          "wordCount": 9786,
           "title": "OpenTrade Launches Tokenized Treasury Bills on Protocol Developed by Circle",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/09/us-treasury-savings-bonds-gID_7.jpg@png",
@@ -656,7 +656,7 @@
           "description": "Our host Reza Jafery is joined by Gareth Fenney aka 500Altcoins. They discuss the glory days of DeFi Summer and whether or not its a smart move for builders in the crypto space to relocate to Dubai.",
           "link": "https://decrypt.co/videos/interviews/cI7p8AK3/500altcoins-discusses-defi-summer-and-the-dubai-crypto-scene-this-time-will-be-different-episode-2",
           "publishedOn": "2023-09-26T20:00:00.000Z",
-          "wordCount": 6755,
+          "wordCount": 6399,
           "title": "500Altcoins discusses DeFi Summer and the Dubai Crypto Scene - This Time Will Be Different - Episode 2",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/cI7p8AK3/poster.jpg",
@@ -681,6 +681,21 @@
           "imageUrl": "https://cdn.jwplayer.com/v2/media/lfmwAjB9/poster.jpg"
         },
         {
+          "id": "https://decrypt.co/videos/live-events/MZoxvulr/newly-partnered-with-visa-solana-focuses-on-reliability",
+          "author": null,
+          "description": "Solana has improved network reliability through upgrades like Quick and local fee markets. It recently partnered with Visa to allow settling transactions in USDC on Solana. This could enable merchants to receive instant payments and save on credit card processing fees. Stacy Elliott spoke with Austin Federa, Head of Strategy for the Solana Foundation, at Messari Mainnet 2023.",
+          "link": "https://decrypt.co/videos/live-events/MZoxvulr/newly-partnered-with-visa-solana-focuses-on-reliability",
+          "publishedOn": "2023-09-26T05:41:11.000Z",
+          "wordCount": 6446,
+          "title": "Newly Partnered with Visa, Solana Focuses on Reliability",
+          "enclosure": {
+            "url": "https://cdn.jwplayer.com/v2/media/MZoxvulr/poster.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.jwplayer.com/v2/media/MZoxvulr/poster.jpg"
+        },
+        {
           "id": "https://decrypt.co/videos/live-events/fxygwLvH/indias-1-crypto-tax-has-been-a-nightmare-for-high-frequency-traders-says-shardeum-ceo",
           "author": null,
           "description": "As India figures out its regulatory approach to the crypto industry, one thing is clear to Shardeum co-founder Nischal Shetty: “If you're a high-frequency trader, you can't afford to lose a percentage every time you sell,” he told Decrypt's Andre Beganski at Messari Mainnet in New York. “That's something that's caused a lot of issues.”",
@@ -694,21 +709,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.jwplayer.com/v2/media/fxygwLvH/poster.jpg"
-        },
-        {
-          "id": "https://decrypt.co/videos/live-events/MZoxvulr/newly-partnered-with-visa-solana-focuses-on-reliability",
-          "author": null,
-          "description": "Solana has improved network reliability through upgrades like Quick and local fee markets. It recently partnered with Visa to allow settling transactions in USDC on Solana. This could enable merchants to receive instant payments and save on credit card processing fees. Stacy Elliott spoke with Austin Federa, Head of Strategy for the Solana Foundation, at Messari Mainnet 2023.",
-          "link": "https://decrypt.co/videos/live-events/MZoxvulr/newly-partnered-with-visa-solana-focuses-on-reliability",
-          "publishedOn": "2023-09-26T05:41:11.000Z",
-          "wordCount": 6795,
-          "title": "Newly Partnered with Visa, Solana Focuses on Reliability",
-          "enclosure": {
-            "url": "https://cdn.jwplayer.com/v2/media/MZoxvulr/poster.jpg",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.jwplayer.com/v2/media/MZoxvulr/poster.jpg"
         },
         {
           "id": "https://decrypt.co/videos/live-events/0Sezz6pZ/crypto-accounting-challenges-and-opportunities",
@@ -761,7 +761,7 @@
           "description": "Paul Brody drives Ernst & Young (EY) initiatives and investments in blockchain technology across consulting, audit, and tax business lines. He says enterprise blockchain adoption is nearing an inflection point. Brody believes blockchains will one day handle 40 billion transactions daily across industries like automotive and pharma. Stacy Elliott interviewed him at Messari Mainnet 2023.",
           "link": "https://decrypt.co/videos/live-events/xXOrNbX9/explosive-growth-ahead-for-enterprise-blockchain",
           "publishedOn": "2023-09-26T05:41:10.000Z",
-          "wordCount": 6768,
+          "wordCount": 6419,
           "title": "Explosive Growth Ahead for Enterprise Blockchain",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/xXOrNbX9/poster.jpg",
@@ -769,21 +769,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.jwplayer.com/v2/media/xXOrNbX9/poster.jpg"
-        },
-        {
-          "id": "https://decrypt.co/videos/live-events/CrpvzFjL/regulation-threatens-us-dominance-of-financial-markets-says-coinroutes-ceo",
-          "author": null,
-          "description": "Dave Weisberger, Co-Founder and CEO of CoinRoutes, argued that excessive regulation in the U.S. threatens to undermine the country's long-standing dominance in global financial markets. He warned that other countries are embracing blockchain and crypto to build more efficient digital markets, which could cause the US to lose its competitive edge and trillions in GDP. Weisberger said CoinRoutes is now focusing more on expanding internationally due to restrictive policies in the U.S. He was interviewed by André Beganski of Decrypt at Messari Mainnet 2023.",
-          "link": "https://decrypt.co/videos/live-events/CrpvzFjL/regulation-threatens-us-dominance-of-financial-markets-says-coinroutes-ceo",
-          "publishedOn": "2023-09-26T05:41:10.000Z",
-          "wordCount": 6937,
-          "title": "Regulation Threatens U.S. Dominance of Financial Markets, Says CoinRoutes CEO",
-          "enclosure": {
-            "url": "https://cdn.jwplayer.com/v2/media/CrpvzFjL/poster.jpg",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.jwplayer.com/v2/media/CrpvzFjL/poster.jpg"
         },
         {
           "id": "https://decrypt.co/videos/live-events/OvAFgxTd/building-a-developer-friendly-zkrollup-to-scale-ethereum",
@@ -801,12 +786,27 @@
           "imageUrl": "https://cdn.jwplayer.com/v2/media/OvAFgxTd/poster.jpg"
         },
         {
+          "id": "https://decrypt.co/videos/live-events/CrpvzFjL/regulation-threatens-us-dominance-of-financial-markets-says-coinroutes-ceo",
+          "author": null,
+          "description": "Dave Weisberger, Co-Founder and CEO of CoinRoutes, argued that excessive regulation in the U.S. threatens to undermine the country's long-standing dominance in global financial markets. He warned that other countries are embracing blockchain and crypto to build more efficient digital markets, which could cause the US to lose its competitive edge and trillions in GDP. Weisberger said CoinRoutes is now focusing more on expanding internationally due to restrictive policies in the U.S. He was interviewed by André Beganski of Decrypt at Messari Mainnet 2023.",
+          "link": "https://decrypt.co/videos/live-events/CrpvzFjL/regulation-threatens-us-dominance-of-financial-markets-says-coinroutes-ceo",
+          "publishedOn": "2023-09-26T05:41:10.000Z",
+          "wordCount": 6588,
+          "title": "Regulation Threatens U.S. Dominance of Financial Markets, Says CoinRoutes CEO",
+          "enclosure": {
+            "url": "https://cdn.jwplayer.com/v2/media/CrpvzFjL/poster.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.jwplayer.com/v2/media/CrpvzFjL/poster.jpg"
+        },
+        {
           "id": "https://decrypt.co/videos/live-events/axArPRp3/bitcoins-narrative-is-shifting-towards-layer-2-solutions",
           "author": null,
           "description": "Rich Rines, original Core DAO contributor and former Coinbase engineer, discusses how the narrative around Bitcoin is shifting in 2023. While Bitcoin remains digital gold, new layer 2 solutions are emerging to unlock more utility and value from the huge amounts of capital stored in Bitcoin. He says these innovations can benefit Bitcoin holders while keeping Bitcoin maximalists happy by building outside the base layer. André Beganski interviewed him at Messari Mainnet 2023.",
           "link": "https://decrypt.co/videos/live-events/axArPRp3/bitcoins-narrative-is-shifting-towards-layer-2-solutions",
           "publishedOn": "2023-09-26T05:41:10.000Z",
-          "wordCount": 6864,
+          "wordCount": 6515,
           "title": "Bitcoin's Narrative Is Shifting Towards Layer-2 Solutions",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/axArPRp3/poster.jpg",
@@ -881,7 +881,7 @@
           "description": "Amanda Tuminelli of the Defi Education Fund discusses the need for sensible crypto regulation. She says regulators should work with the industry to understand how protocols work before proposing expansive rules that could stifle innovation. Stacy Elliott of Decrypt interviewed her at Messari Mainnet 2023.",
           "link": "https://decrypt.co/videos/live-events/xD0CzPUF/defi-education-fund-advocates-for-responsible-crypto-regulation",
           "publishedOn": "2023-09-26T00:32:21.000Z",
-          "wordCount": 6730,
+          "wordCount": 6381,
           "title": "Defi Education Fund Advocates for Responsible Crypto Regulation",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/xD0CzPUF/poster.jpg",
