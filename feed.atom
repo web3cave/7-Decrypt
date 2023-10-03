@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-03T12:15:04.196Z</id>
+    <id>urn:2023-10-03T13:11:27.050Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-03T12:15:04.196Z</updated>
+    <updated>2023-10-03T13:11:27.050Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ledger and Sotheby's Team Up for Digital Art Exclusives]]></title>
+        <id>https://decrypt.co/?p=199870</id>
+        <link href="https://decrypt.co/199870/ledger-sothebys-team-digital-art-exclusives"/>
+        <updated>2023-10-03T13:01:03.000Z</updated>
+        <summary type="html"><![CDATA[Sotheby’s collectors will be provided with exclusive hardware wallets from Ledger as part of this collaboration.]]></summary>
+        <author>
+            <name>Mattis Meichler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Is Coming to Cosmos With New Nomic Bridge]]></title>
+        <id>https://decrypt.co/?p=199875</id>
+        <link href="https://decrypt.co/199875/bitcoin-is-coming-cosmos-new-nomics-bridge"/>
+        <updated>2023-10-03T12:30:22.000Z</updated>
+        <summary type="html"><![CDATA[An upgrade to the Nomic blockchain will enable the issuance of Bitcoin-based tokens within the Cosmos ecosystem.]]></summary>
+        <author>
+            <name>Liam J. Kelly</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hong Kong Adds ‘Potential Tailwind’ for East Asia Crypto Trading Volumes: Chainalysis]]></title>
         <id>https://decrypt.co/?p=199874</id>
@@ -376,26 +396,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What's Stopping Fortnite and Call of Duty From Using the Same Items? It's Not Just NFTs]]></title>
-        <id>https://decrypt.co/?p=199378</id>
-        <link href="https://decrypt.co/199378/whats-stopping-fortnite-call-duty-using-same-items-not-just-nfts"/>
-        <updated>2023-09-29T19:28:46.000Z</updated>
-        <summary type="html"><![CDATA[Will the video game industry open up and play nice? These are the hurdles left to overcome to enable interoperable items at scale.]]></summary>
-        <author>
-            <name>Ryan Gladwin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Terra's Do Kwon Admits to Faking Trading Volume in Leaked Chat: Court Docs]]></title>
-        <id>https://decrypt.co/?p=199375</id>
-        <link href="https://decrypt.co/199375/terras-do-kwon-admits-to-faking-trading-volume-in-leaked-chat-court-docs"/>
-        <updated>2023-09-29T19:15:26.000Z</updated>
-        <summary type="html"><![CDATA["I won't tell if you won't," Terra's Do Kwon said, according to SEC documents.]]></summary>
-        <author>
-            <name>Mathew Di Salvo</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA['There Are No Real Standards': Ready Player Me CEO Timmu Tõke on Building for an Open Gaming Ecosystem]]></title>
         <id>https://decrypt.co/videos/interviews/TH3KEAI0/there-are-no-real-standards-ready-player-me-ceo-timmu-tke-on-building-for-an-open-gaming-ecosystem</id>
         <link href="https://decrypt.co/videos/interviews/TH3KEAI0/there-are-no-real-standards-ready-player-me-ceo-timmu-tke-on-building-for-an-open-gaming-ecosystem"/>
@@ -446,21 +446,21 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Crypto Accounting Challenges and Opportunities]]></title>
-        <id>https://decrypt.co/videos/live-events/0Sezz6pZ/crypto-accounting-challenges-and-opportunities</id>
-        <link href="https://decrypt.co/videos/live-events/0Sezz6pZ/crypto-accounting-challenges-and-opportunities"/>
-        <updated>2023-09-26T05:41:11.000Z</updated>
-        <summary type="html"><![CDATA[As crypto matures, accounting and tax regulations are evolving. Amy Kalnoki of Bitwave explains how her company helps crypto companies properly account for digital assets. She notes the importance of flexibility as new crypto assets emerge and regulations change. Stacy Elliott interviewed her at Messari Mainnet 2023.]]></summary>
-        <author>
-            <name>Decrypt</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Most Crypto Users Don't Trust Themselves to Keep Their Seed Phrase Safe: Ledger CEO]]></title>
         <id>https://decrypt.co/videos/live-events/0kYf2Qed/most-crypto-users-dont-trust-themselves-to-keep-their-seed-phrase-safe-ledger-ceo</id>
         <link href="https://decrypt.co/videos/live-events/0kYf2Qed/most-crypto-users-dont-trust-themselves-to-keep-their-seed-phrase-safe-ledger-ceo"/>
         <updated>2023-09-26T05:41:11.000Z</updated>
         <summary type="html"><![CDATA[Decrypt's Stacy Elliott sat down with Ledger CEO Pascal Gauthier to discuss crypto custody post-FTX, and the hardware wallet manufacturer's controversial Ledger Recover service.]]></summary>
+        <author>
+            <name>Decrypt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crypto Accounting Challenges and Opportunities]]></title>
+        <id>https://decrypt.co/videos/live-events/0Sezz6pZ/crypto-accounting-challenges-and-opportunities</id>
+        <link href="https://decrypt.co/videos/live-events/0Sezz6pZ/crypto-accounting-challenges-and-opportunities"/>
+        <updated>2023-09-26T05:41:11.000Z</updated>
+        <summary type="html"><![CDATA[As crypto matures, accounting and tax regulations are evolving. Amy Kalnoki of Bitwave explains how her company helps crypto companies properly account for digital assets. She notes the importance of flexibility as new crypto assets emerge and regulations change. Stacy Elliott interviewed her at Messari Mainnet 2023.]]></summary>
         <author>
             <name>Decrypt</name>
         </author>
