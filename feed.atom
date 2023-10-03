@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-03T21:07:00.034Z</id>
+    <id>urn:2023-10-03T22:07:05.080Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-03T21:07:00.034Z</updated>
+    <updated>2023-10-03T22:07:05.080Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[AI Raves in the Metaverse Are a Thing—Here's What It's Like Inside]]></title>
+        <id>https://decrypt.co/?p=199958</id>
+        <link href="https://decrypt.co/199958/ai-raves-in-the-metaverse-are-a-thing-heres-what-its-like-inside"/>
+        <updated>2023-10-03T21:43:06.000Z</updated>
+        <summary type="html"><![CDATA[Influential DJ Carl Cox is set to launch his own metaverse rave in a lava-filled venue, complete with AI dancers. Here's what to expect.]]></summary>
+        <author>
+            <name>Ryan Gladwin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Energy FUD Is The New Bitcoin Mining FUD: HIVE Digital]]></title>
+        <id>https://decrypt.co/?p=200007</id>
+        <link href="https://decrypt.co/200007/artificial-intelligence-energy-consumption-versus-bitcoin-mining"/>
+        <updated>2023-10-03T21:20:05.000Z</updated>
+        <summary type="html"><![CDATA[Despite improvements, criticisms of AI energy use are quite familiar.]]></summary>
+        <author>
+            <name>Andrew Throuvalas</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Former Alameda CEO Sam Trabucco, Anthony Scaramucci May Be Called to Testify in SBF Trial]]></title>
         <id>https://decrypt.co/?p=199989</id>
@@ -386,26 +406,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ethereum Supply Is Starting to Grow Again as Gas Prices Plummet]]></title>
-        <id>https://decrypt.co/?p=199635</id>
-        <link href="https://decrypt.co/199635/ethereum-supply-is-starting-to-grow-again-as-gas-prices-plummet"/>
-        <updated>2023-09-30T21:33:53.000Z</updated>
-        <summary type="html"><![CDATA[The network is deflationary over shorter time frames, but inflationary on longer ones. What gives?]]></summary>
-        <author>
-            <name>Pedro Solimano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In Emerging Economies Like Chile, Worldcoin Is Seeing Strong Success]]></title>
-        <id>https://decrypt.co/?p=199393</id>
-        <link href="https://decrypt.co/199393/chile-worldcoin-eye-scanning-orb-adoption"/>
-        <updated>2023-09-30T21:22:58.000Z</updated>
-        <summary type="html"><![CDATA[Having your eyeballs scanned earns you about $42—not an insignificant sum in some countries.]]></summary>
-        <author>
-            <name>Pedro Solimano</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA['There Are No Real Standards': Ready Player Me CEO Timmu Tõke on Building for an Open Gaming Ecosystem]]></title>
         <id>https://decrypt.co/videos/interviews/TH3KEAI0/there-are-no-real-standards-ready-player-me-ceo-timmu-tke-on-building-for-an-open-gaming-ecosystem</id>
         <link href="https://decrypt.co/videos/interviews/TH3KEAI0/there-are-no-real-standards-ready-player-me-ceo-timmu-tke-on-building-for-an-open-gaming-ecosystem"/>
@@ -506,16 +506,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bitcoin's Narrative Is Shifting Towards Layer-2 Solutions]]></title>
-        <id>https://decrypt.co/videos/live-events/axArPRp3/bitcoins-narrative-is-shifting-towards-layer-2-solutions</id>
-        <link href="https://decrypt.co/videos/live-events/axArPRp3/bitcoins-narrative-is-shifting-towards-layer-2-solutions"/>
-        <updated>2023-09-26T05:41:10.000Z</updated>
-        <summary type="html"><![CDATA[Rich Rines, original Core DAO contributor and former Coinbase engineer, discusses how the narrative around Bitcoin is shifting in 2023. While Bitcoin remains digital gold, new layer 2 solutions are emerging to unlock more utility and value from the huge amounts of capital stored in Bitcoin. He says these innovations can benefit Bitcoin holders while keeping Bitcoin maximalists happy by building outside the base layer. André Beganski interviewed him at Messari Mainnet 2023.]]></summary>
-        <author>
-            <name>Decrypt</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Regulation Threatens U.S. Dominance of Financial Markets, Says CoinRoutes CEO]]></title>
         <id>https://decrypt.co/videos/live-events/CrpvzFjL/regulation-threatens-us-dominance-of-financial-markets-says-coinroutes-ceo</id>
         <link href="https://decrypt.co/videos/live-events/CrpvzFjL/regulation-threatens-us-dominance-of-financial-markets-says-coinroutes-ceo"/>
@@ -531,6 +521,16 @@
         <link href="https://decrypt.co/videos/live-events/OvAFgxTd/building-a-developer-friendly-zkrollup-to-scale-ethereum"/>
         <updated>2023-09-26T05:41:10.000Z</updated>
         <summary type="html"><![CDATA[Daniel Helm, head of Developer Relations at Scroll, discussess how they are building a zkRollup to scale Ethereum transactions and lower fees. He explained their focus on creating a seamless developer experience by maintaining Ethereum's ethos and tooling. Scroll aims to launch their mainnet soon, providing more scalable blockspace for Ethereum developers. Stacy Elliott of Decrypt interviewed him at Messari Mainnet 2023.]]></summary>
+        <author>
+            <name>Decrypt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin's Narrative Is Shifting Towards Layer-2 Solutions]]></title>
+        <id>https://decrypt.co/videos/live-events/axArPRp3/bitcoins-narrative-is-shifting-towards-layer-2-solutions</id>
+        <link href="https://decrypt.co/videos/live-events/axArPRp3/bitcoins-narrative-is-shifting-towards-layer-2-solutions"/>
+        <updated>2023-09-26T05:41:10.000Z</updated>
+        <summary type="html"><![CDATA[Rich Rines, original Core DAO contributor and former Coinbase engineer, discusses how the narrative around Bitcoin is shifting in 2023. While Bitcoin remains digital gold, new layer 2 solutions are emerging to unlock more utility and value from the huge amounts of capital stored in Bitcoin. He says these innovations can benefit Bitcoin holders while keeping Bitcoin maximalists happy by building outside the base layer. André Beganski interviewed him at Messari Mainnet 2023.]]></summary>
         <author>
             <name>Decrypt</name>
         </author>
