@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-04T15:08:35.270Z</id>
+    <id>urn:2023-10-04T16:10:25.674Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-04T15:08:35.270Z</updated>
+    <updated>2023-10-04T16:10:25.674Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ex-BlackRock Director Says SEC Will Approve a Bitcoin ETF in '3 to 6 Months']]></title>
+        <id>https://decrypt.co/?p=200129</id>
+        <link href="https://decrypt.co/200129/ex-blackrock-director-says-sec-will-approve-bitcoin-etf-3-6-months"/>
+        <updated>2023-10-04T16:02:19.000Z</updated>
+        <summary type="html"><![CDATA[Two former managing directors at BlackRock say that U.S. approval of a spot Bitcoin ETF is basically a done deal.]]></summary>
+        <author>
+            <name>Tim Hakki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The 12 People Who Will Decide Sam Bankman-Fried's Fate]]></title>
+        <id>https://decrypt.co/?p=199907</id>
+        <link href="https://decrypt.co/199907/jurors-who-will-decide-sam-bankman-frieds-fate"/>
+        <updated>2023-10-04T15:55:38.000Z</updated>
+        <summary type="html"><![CDATA[The jurors who will decide Sam Bankman-Fried's fate include a retired corrections officer, librarian, and former prosecutor.]]></summary>
+        <author>
+            <name>Mathew Di Salvo,André Beganski</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fashion Designer Christian Louboutin and Marvel Turn Superhero Shoes Into NFTs]]></title>
         <id>https://decrypt.co/?p=200116</id>
@@ -266,16 +286,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The 12 People Who Will Decide Sam Bankman-Fried's Fate]]></title>
-        <id>https://decrypt.co/?p=199907</id>
-        <link href="https://decrypt.co/199907/jurors-who-will-decide-sam-bankman-frieds-fate"/>
-        <updated>2023-10-03T17:25:05.000Z</updated>
-        <summary type="html"><![CDATA[The process is underway to choose the 12 jurors who will decide disgraced crypto mogul Sam Bankman-Fried's fate.]]></summary>
-        <author>
-            <name>Mathew Di Salvo,André Beganski</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[What Can AI Do in Gaming?]]></title>
         <id>https://decrypt.co/videos/interviews/JKuqCMao/what-can-ai-do-in-gaming</id>
         <link href="https://decrypt.co/videos/interviews/JKuqCMao/what-can-ai-do-in-gaming"/>
@@ -396,16 +406,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Crowdfunding Site BackerKit Bans AI-Generated Imagery from Campaigns]]></title>
-        <id>https://decrypt.co/?p=199835</id>
-        <link href="https://decrypt.co/199835/crowdfunding-site-backerkit-bans-ai-generated-imagery-from-campaigns"/>
-        <updated>2023-10-02T22:56:32.000Z</updated>
-        <summary type="html"><![CDATA[Following Kickstarter's move, BackerKit is the latest crowdfunding site requiring users to disclose the use of AI-generated images in campaigns.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA['There Are No Real Standards': Ready Player Me CEO Timmu Tõke on Building for an Open Gaming Ecosystem]]></title>
         <id>https://decrypt.co/videos/interviews/TH3KEAI0/there-are-no-real-standards-ready-player-me-ceo-timmu-tke-on-building-for-an-open-gaming-ecosystem</id>
         <link href="https://decrypt.co/videos/interviews/TH3KEAI0/there-are-no-real-standards-ready-player-me-ceo-timmu-tke-on-building-for-an-open-gaming-ecosystem"/>
@@ -506,6 +506,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Bitcoin's Narrative Is Shifting Towards Layer-2 Solutions]]></title>
+        <id>https://decrypt.co/videos/live-events/axArPRp3/bitcoins-narrative-is-shifting-towards-layer-2-solutions</id>
+        <link href="https://decrypt.co/videos/live-events/axArPRp3/bitcoins-narrative-is-shifting-towards-layer-2-solutions"/>
+        <updated>2023-09-26T05:41:10.000Z</updated>
+        <summary type="html"><![CDATA[Rich Rines, original Core DAO contributor and former Coinbase engineer, discusses how the narrative around Bitcoin is shifting in 2023. While Bitcoin remains digital gold, new layer 2 solutions are emerging to unlock more utility and value from the huge amounts of capital stored in Bitcoin. He says these innovations can benefit Bitcoin holders while keeping Bitcoin maximalists happy by building outside the base layer. André Beganski interviewed him at Messari Mainnet 2023.]]></summary>
+        <author>
+            <name>Decrypt</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Regulation Threatens U.S. Dominance of Financial Markets, Says CoinRoutes CEO]]></title>
         <id>https://decrypt.co/videos/live-events/CrpvzFjL/regulation-threatens-us-dominance-of-financial-markets-says-coinroutes-ceo</id>
         <link href="https://decrypt.co/videos/live-events/CrpvzFjL/regulation-threatens-us-dominance-of-financial-markets-says-coinroutes-ceo"/>
@@ -521,16 +531,6 @@
         <link href="https://decrypt.co/videos/live-events/OvAFgxTd/building-a-developer-friendly-zkrollup-to-scale-ethereum"/>
         <updated>2023-09-26T05:41:10.000Z</updated>
         <summary type="html"><![CDATA[Daniel Helm, head of Developer Relations at Scroll, discussess how they are building a zkRollup to scale Ethereum transactions and lower fees. He explained their focus on creating a seamless developer experience by maintaining Ethereum's ethos and tooling. Scroll aims to launch their mainnet soon, providing more scalable blockspace for Ethereum developers. Stacy Elliott of Decrypt interviewed him at Messari Mainnet 2023.]]></summary>
-        <author>
-            <name>Decrypt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin's Narrative Is Shifting Towards Layer-2 Solutions]]></title>
-        <id>https://decrypt.co/videos/live-events/axArPRp3/bitcoins-narrative-is-shifting-towards-layer-2-solutions</id>
-        <link href="https://decrypt.co/videos/live-events/axArPRp3/bitcoins-narrative-is-shifting-towards-layer-2-solutions"/>
-        <updated>2023-09-26T05:41:10.000Z</updated>
-        <summary type="html"><![CDATA[Rich Rines, original Core DAO contributor and former Coinbase engineer, discusses how the narrative around Bitcoin is shifting in 2023. While Bitcoin remains digital gold, new layer 2 solutions are emerging to unlock more utility and value from the huge amounts of capital stored in Bitcoin. He says these innovations can benefit Bitcoin holders while keeping Bitcoin maximalists happy by building outside the base layer. André Beganski interviewed him at Messari Mainnet 2023.]]></summary>
         <author>
             <name>Decrypt</name>
         </author>
