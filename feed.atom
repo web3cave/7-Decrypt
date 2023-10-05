@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-05T18:10:29.959Z</id>
+    <id>urn:2023-10-05T19:06:15.031Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-05T18:10:29.959Z</updated>
+    <updated>2023-10-05T19:06:15.031Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Are Developers Leaving Crypto? Here’s What’s Going On]]></title>
+        <id>https://decrypt.co/?p=200328</id>
+        <link href="https://decrypt.co/200328/are-developers-leaving-crypto-heres-whats-going-on"/>
+        <updated>2023-10-05T18:40:35.000Z</updated>
+        <summary type="html"><![CDATA[If you look at open source crypto projects, active developers are at a 3-year low. But that's not necessarily bad, says a16z.]]></summary>
+        <author>
+            <name>Andrew Throuvalas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Sluggish After Sunday Surge—But Toncoin, Aave and Maker Make Gains]]></title>
+        <id>https://decrypt.co/?p=200319</id>
+        <link href="https://decrypt.co/200319/bitcoin-sluggish-toncoin-aave-and-maker-make-gains"/>
+        <updated>2023-10-05T18:20:52.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin's price hasn't moved much, but a number of DeFi tokens are on the up.]]></summary>
+        <author>
+            <name>Mathew Di Salvo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[UK Won’t Be ‘Copying’ MiCA: Crypto Parliamentary Group Chair]]></title>
         <id>https://decrypt.co/?p=200289</id>
@@ -336,26 +356,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SEC Claims Coinbase ‘Cries Foul’ in Court Filing to Oppose Case Dismissal]]></title>
-        <id>https://decrypt.co/?p=200079</id>
-        <link href="https://decrypt.co/200079/sec-claims-coinbase-cries-foul-in-court-filing-to-oppose-case-dismissal"/>
-        <updated>2023-10-04T11:00:30.000Z</updated>
-        <summary type="html"><![CDATA[The U.S. securities regulator argued that the age-old Howey Test applies to certain crypto assets, giving it full authority.]]></summary>
-        <author>
-            <name>Nivesh Rustgi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DOJ Announces 8 Indicments With Ties to Fentanyl Trade, Links to Crypto Transactions]]></title>
-        <id>https://decrypt.co/?p=200072</id>
-        <link href="https://decrypt.co/200072/doj-charges-8-with-ties-to-fentanyl-trade-links-crypto-transactions"/>
-        <updated>2023-10-04T10:29:57.000Z</updated>
-        <summary type="html"><![CDATA[The DOJ’s latest action comes as worries mount over the use of crypto in facilitating the deadly opioid trade.]]></summary>
-        <author>
-            <name>Mattis Meichler</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Martin Shkreli on E/ACC and SBF in Prison]]></title>
         <id>https://decrypt.co/videos/interviews/QONaWXKZ/martin-shkreli-on-e-acc-and-sbf-in-prison</id>
         <link href="https://decrypt.co/videos/interviews/QONaWXKZ/martin-shkreli-on-e-acc-and-sbf-in-prison"/>
@@ -426,21 +426,21 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Most Crypto Users Don't Trust Themselves to Keep Their Seed Phrase Safe: Ledger CEO]]></title>
-        <id>https://decrypt.co/videos/live-events/0kYf2Qed/most-crypto-users-dont-trust-themselves-to-keep-their-seed-phrase-safe-ledger-ceo</id>
-        <link href="https://decrypt.co/videos/live-events/0kYf2Qed/most-crypto-users-dont-trust-themselves-to-keep-their-seed-phrase-safe-ledger-ceo"/>
-        <updated>2023-09-26T05:41:11.000Z</updated>
-        <summary type="html"><![CDATA[Decrypt's Stacy Elliott sat down with Ledger CEO Pascal Gauthier to discuss crypto custody post-FTX, and the hardware wallet manufacturer's controversial Ledger Recover service.]]></summary>
-        <author>
-            <name>Decrypt</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Crypto Accounting Challenges and Opportunities]]></title>
         <id>https://decrypt.co/videos/live-events/0Sezz6pZ/crypto-accounting-challenges-and-opportunities</id>
         <link href="https://decrypt.co/videos/live-events/0Sezz6pZ/crypto-accounting-challenges-and-opportunities"/>
         <updated>2023-09-26T05:41:11.000Z</updated>
         <summary type="html"><![CDATA[As crypto matures, accounting and tax regulations are evolving. Amy Kalnoki of Bitwave explains how her company helps crypto companies properly account for digital assets. She notes the importance of flexibility as new crypto assets emerge and regulations change. Stacy Elliott interviewed her at Messari Mainnet 2023.]]></summary>
+        <author>
+            <name>Decrypt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Most Crypto Users Don't Trust Themselves to Keep Their Seed Phrase Safe: Ledger CEO]]></title>
+        <id>https://decrypt.co/videos/live-events/0kYf2Qed/most-crypto-users-dont-trust-themselves-to-keep-their-seed-phrase-safe-ledger-ceo</id>
+        <link href="https://decrypt.co/videos/live-events/0kYf2Qed/most-crypto-users-dont-trust-themselves-to-keep-their-seed-phrase-safe-ledger-ceo"/>
+        <updated>2023-09-26T05:41:11.000Z</updated>
+        <summary type="html"><![CDATA[Decrypt's Stacy Elliott sat down with Ledger CEO Pascal Gauthier to discuss crypto custody post-FTX, and the hardware wallet manufacturer's controversial Ledger Recover service.]]></summary>
         <author>
             <name>Decrypt</name>
         </author>
@@ -476,16 +476,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bitcoin's Narrative Is Shifting Towards Layer-2 Solutions]]></title>
-        <id>https://decrypt.co/videos/live-events/axArPRp3/bitcoins-narrative-is-shifting-towards-layer-2-solutions</id>
-        <link href="https://decrypt.co/videos/live-events/axArPRp3/bitcoins-narrative-is-shifting-towards-layer-2-solutions"/>
-        <updated>2023-09-26T05:41:10.000Z</updated>
-        <summary type="html"><![CDATA[Rich Rines, original Core DAO contributor and former Coinbase engineer, discusses how the narrative around Bitcoin is shifting in 2023. While Bitcoin remains digital gold, new layer 2 solutions are emerging to unlock more utility and value from the huge amounts of capital stored in Bitcoin. He says these innovations can benefit Bitcoin holders while keeping Bitcoin maximalists happy by building outside the base layer. André Beganski interviewed him at Messari Mainnet 2023.]]></summary>
-        <author>
-            <name>Decrypt</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Regulation Threatens U.S. Dominance of Financial Markets, Says CoinRoutes CEO]]></title>
         <id>https://decrypt.co/videos/live-events/CrpvzFjL/regulation-threatens-us-dominance-of-financial-markets-says-coinroutes-ceo</id>
         <link href="https://decrypt.co/videos/live-events/CrpvzFjL/regulation-threatens-us-dominance-of-financial-markets-says-coinroutes-ceo"/>
@@ -501,6 +491,16 @@
         <link href="https://decrypt.co/videos/live-events/OvAFgxTd/building-a-developer-friendly-zkrollup-to-scale-ethereum"/>
         <updated>2023-09-26T05:41:10.000Z</updated>
         <summary type="html"><![CDATA[Daniel Helm, head of Developer Relations at Scroll, discussess how they are building a zkRollup to scale Ethereum transactions and lower fees. He explained their focus on creating a seamless developer experience by maintaining Ethereum's ethos and tooling. Scroll aims to launch their mainnet soon, providing more scalable blockspace for Ethereum developers. Stacy Elliott of Decrypt interviewed him at Messari Mainnet 2023.]]></summary>
+        <author>
+            <name>Decrypt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin's Narrative Is Shifting Towards Layer-2 Solutions]]></title>
+        <id>https://decrypt.co/videos/live-events/axArPRp3/bitcoins-narrative-is-shifting-towards-layer-2-solutions</id>
+        <link href="https://decrypt.co/videos/live-events/axArPRp3/bitcoins-narrative-is-shifting-towards-layer-2-solutions"/>
+        <updated>2023-09-26T05:41:10.000Z</updated>
+        <summary type="html"><![CDATA[Rich Rines, original Core DAO contributor and former Coinbase engineer, discusses how the narrative around Bitcoin is shifting in 2023. While Bitcoin remains digital gold, new layer 2 solutions are emerging to unlock more utility and value from the huge amounts of capital stored in Bitcoin. He says these innovations can benefit Bitcoin holders while keeping Bitcoin maximalists happy by building outside the base layer. André Beganski interviewed him at Messari Mainnet 2023.]]></summary>
         <author>
             <name>Decrypt</name>
         </author>
