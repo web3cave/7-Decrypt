@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-05T12:15:41.284Z</id>
+    <id>urn:2023-10-05T13:12:59.128Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-05T12:15:41.285Z</updated>
+    <updated>2023-10-05T13:12:59.128Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -13,6 +13,16 @@
         <summary type="html"><![CDATA[Hong Kong's police force and leading securities regulator are integrating their efforts to monitor illegal exchange activities after the JPEX incident.]]></summary>
         <author>
             <name>Tim Hakki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Decrypt Learn: Digital Ownership Explained]]></title>
+        <id>https://decrypt.co/videos/explainers/6udZCotB/decrypt-learn-digital-ownership-explained</id>
+        <link href="https://decrypt.co/videos/explainers/6udZCotB/decrypt-learn-digital-ownership-explained"/>
+        <updated>2023-10-05T10:57:43.000Z</updated>
+        <summary type="html"><![CDATA[One of the most powerful aspects of blockchain technology is its ability to provide us genuine ownership of our digital assets. This is called digital ownership. In this video, we’ll deep dive into digital ownership, why it matters, and how web3 makes owning digital assets like our social networks, music libraries, personal data, and beyond possible. Author: Clarissa Watson, Senior Writer at Consensys.]]></summary>
+        <author>
+            <name>Decrypt</name>
         </author>
     </entry>
     <entry>
@@ -541,16 +551,6 @@
         <link href="https://decrypt.co/videos/live-events/7Ys4Rxay/new-blockchains-boom-creates-opportunity-and-challenges"/>
         <updated>2023-09-26T02:07:52.000Z</updated>
         <summary type="html"><![CDATA[Billy Sebell of the XDC Foundation discussed the proliferation of new layer-1 and layer-2 blockchain solutions. While this expands possibilities, he noted projects must still attract users amidst growing competition. Sebell highlighted the benefits of targeting niche use cases and bringing real-world assets on-chain via tokenization. He was interviewed by André Beganski of Decrypt at Messari Mainnet 2023.]]></summary>
-        <author>
-            <name>Decrypt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Accessible Self-Custody for Crypto]]></title>
-        <id>https://decrypt.co/videos/live-events/kA1Bqu4H/accessible-self-custody-for-crypto</id>
-        <link href="https://decrypt.co/videos/live-events/kA1Bqu4H/accessible-self-custody-for-crypto"/>
-        <updated>2023-09-26T00:52:07.000Z</updated>
-        <summary type="html"><![CDATA[Dave Lemke is the CFO & CCO at Giddy, creators of a crypto wallet with decentralized private key security. He explains how their solution allows self-custody while still being recoverable. He highlighted increasing demand for self-custody after the FTX collapse. Lemke also touched on upcoming US crypto regulations and Getty's roadmap to simplify staking and other complex processes. Stacy Elliott interviewed him at Messari Mainnet 2023.]]></summary>
         <author>
             <name>Decrypt</name>
         </author>
