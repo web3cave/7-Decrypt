@@ -206,7 +206,7 @@
           "description": "Will Pumpkin Spice Latte aficionados go for $20 NFTs inspired by the popular seasonal drinks? Starbucks is about to find out.",
           "link": "https://decrypt.co/200163/starbucks-selling-pumpkin-spice-latte-nfts-no-really",
           "publishedOn": "2023-10-04T18:33:32.000Z",
-          "wordCount": 9364,
+          "wordCount": 9397,
           "title": "Starbucks Is Selling Pumpkin Spice Latte NFTs—No, Really",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/10/starbucks-pumpkin-spice-latte-gID_7.png@png",
@@ -236,7 +236,7 @@
           "description": "Step through our portal to the far side of the future, where AI is only the beginning.",
           "link": "https://decrypt.co/199925/emerge-emerging-technology-news-hub",
           "publishedOn": "2023-10-04T18:01:02.000Z",
-          "wordCount": 9724,
+          "wordCount": 9757,
           "title": "Introducing Emerge: Decrypt's New Hub Exploring Beyond the Cutting Edge",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/10/Emerge-16x9-Rodrigo-Martinez-gID_7.jpg@png",
@@ -251,7 +251,7 @@
           "description": "Two former managing directors at BlackRock say that U.S. approval of a spot Bitcoin ETF is basically a done deal.",
           "link": "https://decrypt.co/200129/ex-blackrock-director-says-sec-will-approve-bitcoin-etf-3-6-months",
           "publishedOn": "2023-10-04T16:02:19.000Z",
-          "wordCount": 10265,
+          "wordCount": 10258,
           "title": "Ex-BlackRock Director Says SEC Will Approve a Bitcoin ETF in '3 to 6 Months'",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/10/bitcoin-etf-jacobi-gID_7.jpg@png",
@@ -626,7 +626,7 @@
           "description": "David Gogel of dYdX discusses how the decentralized exchange is building a custom blockchain to fully decentralize derivatives trading. He explained how the new dYdX chain will allow validators to run order books in memory, enabling decentralized order matching at scale. This shift aims to increase security and transparency for traders while maintaining the performance of centralized exchanges.",
           "link": "https://decrypt.co/videos/live-events/lfmwAjB9/decentralize-derivatives-trading-with-custom-blockchain",
           "publishedOn": "2023-09-26T10:37:37.000Z",
-          "wordCount": 6439,
+          "wordCount": 6788,
           "title": "Decentralize Derivatives Trading with Custom Blockchain",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/lfmwAjB9/poster.jpg",
@@ -634,21 +634,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.jwplayer.com/v2/media/lfmwAjB9/poster.jpg"
-        },
-        {
-          "id": "https://decrypt.co/videos/live-events/0kYf2Qed/most-crypto-users-dont-trust-themselves-to-keep-their-seed-phrase-safe-ledger-ceo",
-          "author": null,
-          "description": "Decrypt's Stacy Elliott sat down with Ledger CEO Pascal Gauthier to discuss crypto custody post-FTX, and the hardware wallet manufacturer's controversial Ledger Recover service.",
-          "link": "https://decrypt.co/videos/live-events/0kYf2Qed/most-crypto-users-dont-trust-themselves-to-keep-their-seed-phrase-safe-ledger-ceo",
-          "publishedOn": "2023-09-26T05:41:11.000Z",
-          "wordCount": 6317,
-          "title": "Most Crypto Users Don't Trust Themselves to Keep Their Seed Phrase Safe: Ledger CEO",
-          "enclosure": {
-            "url": "https://cdn.jwplayer.com/v2/media/0kYf2Qed/poster.jpg",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.jwplayer.com/v2/media/0kYf2Qed/poster.jpg"
         },
         {
           "id": "https://decrypt.co/videos/live-events/0Sezz6pZ/crypto-accounting-challenges-and-opportunities",
@@ -664,6 +649,21 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.jwplayer.com/v2/media/0Sezz6pZ/poster.jpg"
+        },
+        {
+          "id": "https://decrypt.co/videos/live-events/0kYf2Qed/most-crypto-users-dont-trust-themselves-to-keep-their-seed-phrase-safe-ledger-ceo",
+          "author": null,
+          "description": "Decrypt's Stacy Elliott sat down with Ledger CEO Pascal Gauthier to discuss crypto custody post-FTX, and the hardware wallet manufacturer's controversial Ledger Recover service.",
+          "link": "https://decrypt.co/videos/live-events/0kYf2Qed/most-crypto-users-dont-trust-themselves-to-keep-their-seed-phrase-safe-ledger-ceo",
+          "publishedOn": "2023-09-26T05:41:11.000Z",
+          "wordCount": 6317,
+          "title": "Most Crypto Users Don't Trust Themselves to Keep Their Seed Phrase Safe: Ledger CEO",
+          "enclosure": {
+            "url": "https://cdn.jwplayer.com/v2/media/0kYf2Qed/poster.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.jwplayer.com/v2/media/0kYf2Qed/poster.jpg"
         },
         {
           "id": "https://decrypt.co/videos/live-events/fxygwLvH/indias-1-crypto-tax-has-been-a-nightmare-for-high-frequency-traders-says-shardeum-ceo",
@@ -686,7 +686,7 @@
           "description": "Solana has improved network reliability through upgrades like Quick and local fee markets. It recently partnered with Visa to allow settling transactions in USDC on Solana. This could enable merchants to receive instant payments and save on credit card processing fees. Stacy Elliott spoke with Austin Federa, Head of Strategy for the Solana Foundation, at Messari Mainnet 2023.",
           "link": "https://decrypt.co/videos/live-events/MZoxvulr/newly-partnered-with-visa-solana-focuses-on-reliability",
           "publishedOn": "2023-09-26T05:41:11.000Z",
-          "wordCount": 6451,
+          "wordCount": 6800,
           "title": "Newly Partnered with Visa, Solana Focuses on Reliability",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/MZoxvulr/poster.jpg",
