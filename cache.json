@@ -6,6 +6,21 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=200251",
+          "author": "Jason Nelson",
+          "description": "To fight deepfakes, Canva’s new platform restricts its AI from generating images of celebrities.",
+          "link": "https://decrypt.co/200251/canva-ai-magic-generative-tool-runway",
+          "publishedOn": "2023-10-05T01:43:44.000Z",
+          "wordCount": 11234,
+          "title": "Canva Bolsters AI Toolkit with Video Generation by Runway",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/10/Decrypt-Wallpaper-Format-2023-10-04T182457.141-gID_7.png@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/10/Decrypt-Wallpaper-Format-2023-10-04T182457.141-gID_7.png@png"
+        },
+        {
           "id": "https://decrypt.co/?p=200244",
           "author": "Sander Lutz",
           "description": "Oana Ruxandra, Warner’s chief digital officer, is officially departing the label after spearheading its aggressive push to embrace emerging technologies.",
@@ -236,7 +251,7 @@
           "description": "Two former managing directors at BlackRock say that U.S. approval of a spot Bitcoin ETF is basically a done deal.",
           "link": "https://decrypt.co/200129/ex-blackrock-director-says-sec-will-approve-bitcoin-etf-3-6-months",
           "publishedOn": "2023-10-04T16:02:19.000Z",
-          "wordCount": 10274,
+          "wordCount": 10281,
           "title": "Ex-BlackRock Director Says SEC Will Approve a Bitcoin ETF in '3 to 6 Months'",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/10/bitcoin-etf-jacobi-gID_7.jpg@png",
@@ -561,21 +576,6 @@
           "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/09/bitcoin-mining-energy-nuclear-gID_7.jpg@png"
         },
         {
-          "id": "https://decrypt.co/?p=199989",
-          "author": "Mathew Di Salvo",
-          "description": "The two weren't expected to be involved in the trial, but may be called to testify.",
-          "link": "https://decrypt.co/199989/former-alameda-ceo-sam-trabucco-anthony-scaramucci-may-be-called-to-testify-in-sbf-trial",
-          "publishedOn": "2023-10-03T20:57:03.000Z",
-          "wordCount": 9131,
-          "title": "Former Alameda CEO Sam Trabucco, Anthony Scaramucci May Be Called to Testify in SBF Trial",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/11/alameda-research-crypto-trading-gID_7.jpeg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/11/alameda-research-crypto-trading-gID_7.jpeg@png"
-        },
-        {
           "id": "https://decrypt.co/videos/interviews/JKuqCMao/what-can-ai-do-in-gaming",
           "author": null,
           "description": "AI Arena CEO Brandon Da Silva and COO Wei Xie discuss how artificial intelligence can shape the video game experience.",
@@ -666,21 +666,6 @@
           "imageUrl": "https://cdn.jwplayer.com/v2/media/lfmwAjB9/poster.jpg"
         },
         {
-          "id": "https://decrypt.co/videos/live-events/0kYf2Qed/most-crypto-users-dont-trust-themselves-to-keep-their-seed-phrase-safe-ledger-ceo",
-          "author": null,
-          "description": "Decrypt's Stacy Elliott sat down with Ledger CEO Pascal Gauthier to discuss crypto custody post-FTX, and the hardware wallet manufacturer's controversial Ledger Recover service.",
-          "link": "https://decrypt.co/videos/live-events/0kYf2Qed/most-crypto-users-dont-trust-themselves-to-keep-their-seed-phrase-safe-ledger-ceo",
-          "publishedOn": "2023-09-26T05:41:11.000Z",
-          "wordCount": 6284,
-          "title": "Most Crypto Users Don't Trust Themselves to Keep Their Seed Phrase Safe: Ledger CEO",
-          "enclosure": {
-            "url": "https://cdn.jwplayer.com/v2/media/0kYf2Qed/poster.jpg",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.jwplayer.com/v2/media/0kYf2Qed/poster.jpg"
-        },
-        {
           "id": "https://decrypt.co/videos/live-events/0Sezz6pZ/crypto-accounting-challenges-and-opportunities",
           "author": null,
           "description": "As crypto matures, accounting and tax regulations are evolving. Amy Kalnoki of Bitwave explains how her company helps crypto companies properly account for digital assets. She notes the importance of flexibility as new crypto assets emerge and regulations change. Stacy Elliott interviewed her at Messari Mainnet 2023.",
@@ -694,6 +679,21 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.jwplayer.com/v2/media/0Sezz6pZ/poster.jpg"
+        },
+        {
+          "id": "https://decrypt.co/videos/live-events/0kYf2Qed/most-crypto-users-dont-trust-themselves-to-keep-their-seed-phrase-safe-ledger-ceo",
+          "author": null,
+          "description": "Decrypt's Stacy Elliott sat down with Ledger CEO Pascal Gauthier to discuss crypto custody post-FTX, and the hardware wallet manufacturer's controversial Ledger Recover service.",
+          "link": "https://decrypt.co/videos/live-events/0kYf2Qed/most-crypto-users-dont-trust-themselves-to-keep-their-seed-phrase-safe-ledger-ceo",
+          "publishedOn": "2023-09-26T05:41:11.000Z",
+          "wordCount": 6317,
+          "title": "Most Crypto Users Don't Trust Themselves to Keep Their Seed Phrase Safe: Ledger CEO",
+          "enclosure": {
+            "url": "https://cdn.jwplayer.com/v2/media/0kYf2Qed/poster.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.jwplayer.com/v2/media/0kYf2Qed/poster.jpg"
         },
         {
           "id": "https://decrypt.co/videos/live-events/fxygwLvH/indias-1-crypto-tax-has-been-a-nightmare-for-high-frequency-traders-says-shardeum-ceo",
@@ -791,7 +791,7 @@
           "description": "Paul Brody drives Ernst & Young (EY) initiatives and investments in blockchain technology across consulting, audit, and tax business lines. He says enterprise blockchain adoption is nearing an inflection point. Brody believes blockchains will one day handle 40 billion transactions daily across industries like automotive and pharma. Stacy Elliott interviewed him at Messari Mainnet 2023.",
           "link": "https://decrypt.co/videos/live-events/xXOrNbX9/explosive-growth-ahead-for-enterprise-blockchain",
           "publishedOn": "2023-09-26T05:41:10.000Z",
-          "wordCount": 6773,
+          "wordCount": 6424,
           "title": "Explosive Growth Ahead for Enterprise Blockchain",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/xXOrNbX9/poster.jpg",
@@ -851,7 +851,7 @@
           "description": "Dave Lemke is the CFO & CCO at Giddy, creators of a crypto wallet with decentralized private key security. He explains how their solution allows self-custody while still being recoverable. He highlighted increasing demand for self-custody after the FTX collapse. Lemke also touched on upcoming US crypto regulations and Getty's roadmap to simplify staking and other complex processes. Stacy Elliott interviewed him at Messari Mainnet 2023.",
           "link": "https://decrypt.co/videos/live-events/kA1Bqu4H/accessible-self-custody-for-crypto",
           "publishedOn": "2023-09-26T00:52:07.000Z",
-          "wordCount": 6467,
+          "wordCount": 6816,
           "title": "Accessible Self-Custody for Crypto",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/kA1Bqu4H/poster.jpg",
