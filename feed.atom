@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-06T15:08:25.756Z</id>
+    <id>urn:2023-10-06T16:09:58.305Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-06T15:08:25.756Z</updated>
+    <updated>2023-10-06T16:09:58.305Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bored Ape Yacht Club NFT Creator Yuga Labs Confirms Layoffs]]></title>
+        <id>https://decrypt.co/?p=200455</id>
+        <link href="https://decrypt.co/200455/bored-ape-yacht-club-nft-creator-yuga-labs-confirms-layoffs"/>
+        <updated>2023-10-06T15:53:14.000Z</updated>
+        <summary type="html"><![CDATA[Yuga Labs reveals a restructuring effort that has impacted U.S. employees as the $4 billion Bored Ape startup rethinks its priorities.]]></summary>
+        <author>
+            <name>Andrew Hayward</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Trial of Sam Bankman-Fried: Live Blog, Latest News and Insights]]></title>
         <id>https://decrypt.co/?p=199892</id>
@@ -40,7 +50,7 @@
         <id>https://decrypt.co/?p=200388</id>
         <link href="https://decrypt.co/200388/rune-plummets-thorswap-freezes-operations-amid-potential-illicit-activity"/>
         <updated>2023-10-06T10:56:45.000Z</updated>
-        <summary type="html"><![CDATA[Thorswap, a decentralized exchange (DEX) that supports multiple blockchains atop the Thorchain network, announced that it had paused activity. The exchange has moved to “maintenance mode” after detecting a series of illicitly-linked funds had been funneled through the platform. The native token powering the Thorchain network RUNE has since plummeted by 9%, per CoinGecko data. […]]]></summary>
+        <summary type="html"><![CDATA[Thorswap has halted activity after it was revealed that illicit funds may have been funneled through the decentralized exchange.]]></summary>
         <author>
             <name>Liam J. Kelly</name>
         </author>
@@ -376,16 +386,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[U.S. Government Debt Grows by $275 Billion in One Day]]></title>
-        <id>https://decrypt.co/?p=200179</id>
-        <link href="https://decrypt.co/200179/national-debt-33-trillion-275-billion-in-one-day"/>
-        <updated>2023-10-04T19:51:09.000Z</updated>
-        <summary type="html"><![CDATA[Analysts look at Bitcoin's deflationary prospects amid surging debt levels, which raise concerns about the nation's ability to fund essential services.]]></summary>
-        <author>
-            <name>Pedro Solimano</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Martin Shkreli on E/ACC and SBF in Prison]]></title>
         <id>https://decrypt.co/videos/interviews/QONaWXKZ/martin-shkreli-on-e-acc-and-sbf-in-prison</id>
         <link href="https://decrypt.co/videos/interviews/QONaWXKZ/martin-shkreli-on-e-acc-and-sbf-in-prison"/>
@@ -456,21 +456,21 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Most Crypto Users Don't Trust Themselves to Keep Their Seed Phrase Safe: Ledger CEO]]></title>
-        <id>https://decrypt.co/videos/live-events/0kYf2Qed/most-crypto-users-dont-trust-themselves-to-keep-their-seed-phrase-safe-ledger-ceo</id>
-        <link href="https://decrypt.co/videos/live-events/0kYf2Qed/most-crypto-users-dont-trust-themselves-to-keep-their-seed-phrase-safe-ledger-ceo"/>
-        <updated>2023-09-26T05:41:11.000Z</updated>
-        <summary type="html"><![CDATA[Decrypt's Stacy Elliott sat down with Ledger CEO Pascal Gauthier to discuss crypto custody post-FTX, and the hardware wallet manufacturer's controversial Ledger Recover service.]]></summary>
-        <author>
-            <name>Decrypt</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Crypto Accounting Challenges and Opportunities]]></title>
         <id>https://decrypt.co/videos/live-events/0Sezz6pZ/crypto-accounting-challenges-and-opportunities</id>
         <link href="https://decrypt.co/videos/live-events/0Sezz6pZ/crypto-accounting-challenges-and-opportunities"/>
         <updated>2023-09-26T05:41:11.000Z</updated>
         <summary type="html"><![CDATA[As crypto matures, accounting and tax regulations are evolving. Amy Kalnoki of Bitwave explains how her company helps crypto companies properly account for digital assets. She notes the importance of flexibility as new crypto assets emerge and regulations change. Stacy Elliott interviewed her at Messari Mainnet 2023.]]></summary>
+        <author>
+            <name>Decrypt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Most Crypto Users Don't Trust Themselves to Keep Their Seed Phrase Safe: Ledger CEO]]></title>
+        <id>https://decrypt.co/videos/live-events/0kYf2Qed/most-crypto-users-dont-trust-themselves-to-keep-their-seed-phrase-safe-ledger-ceo</id>
+        <link href="https://decrypt.co/videos/live-events/0kYf2Qed/most-crypto-users-dont-trust-themselves-to-keep-their-seed-phrase-safe-ledger-ceo"/>
+        <updated>2023-09-26T05:41:11.000Z</updated>
+        <summary type="html"><![CDATA[Decrypt's Stacy Elliott sat down with Ledger CEO Pascal Gauthier to discuss crypto custody post-FTX, and the hardware wallet manufacturer's controversial Ledger Recover service.]]></summary>
         <author>
             <name>Decrypt</name>
         </author>
