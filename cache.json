@@ -221,7 +221,7 @@
           "description": "Decrypt's Kate Irwin chats with Shrapnel's Head of Studio Don Norbury to get the latest updates on how the NFT-powered first-person sci-fi extraction shooter's development is progressing.",
           "link": "https://decrypt.co/videos/interviews/F5RQCmvH/inside-shrapnels-marketplace-new-map-and-ai-director-feature",
           "publishedOn": "2023-10-06T16:53:00.000Z",
-          "wordCount": 6627,
+          "wordCount": 6301,
           "title": "Inside Shrapnel's Marketplace, New Map, and 'AI Director' Feature",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/F5RQCmvH/poster.jpg",
@@ -656,7 +656,7 @@
           "description": "Timmu Tõke, co-founder and CEO of Ready Player Me, joins Decrypt contributor Ryan Gladwin to discuss the startup's approach to powering avatars that are interoperable across games and metaverse platforms—and what's needed to convince the industry to adopt standards and open up.",
           "link": "https://decrypt.co/videos/interviews/TH3KEAI0/there-are-no-real-standards-ready-player-me-ceo-timmu-tke-on-building-for-an-open-gaming-ecosystem",
           "publishedOn": "2023-09-29T17:29:40.000Z",
-          "wordCount": 6430,
+          "wordCount": 6397,
           "title": "'There Are No Real Standards': Ready Player Me CEO Timmu Tõke on Building for an Open Gaming Ecosystem",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/TH3KEAI0/poster.jpg",
@@ -716,7 +716,7 @@
           "description": "David Gogel of dYdX discusses how the decentralized exchange is building a custom blockchain to fully decentralize derivatives trading. He explained how the new dYdX chain will allow validators to run order books in memory, enabling decentralized order matching at scale. This shift aims to increase security and transparency for traders while maintaining the performance of centralized exchanges.",
           "link": "https://decrypt.co/videos/live-events/lfmwAjB9/decentralize-derivatives-trading-with-custom-blockchain",
           "publishedOn": "2023-09-26T10:37:37.000Z",
-          "wordCount": 6440,
+          "wordCount": 6789,
           "title": "Decentralize Derivatives Trading with Custom Blockchain",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/lfmwAjB9/poster.jpg",
@@ -724,6 +724,21 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.jwplayer.com/v2/media/lfmwAjB9/poster.jpg"
+        },
+        {
+          "id": "https://decrypt.co/videos/live-events/0kYf2Qed/most-crypto-users-dont-trust-themselves-to-keep-their-seed-phrase-safe-ledger-ceo",
+          "author": null,
+          "description": "Decrypt's Stacy Elliott sat down with Ledger CEO Pascal Gauthier to discuss crypto custody post-FTX, and the hardware wallet manufacturer's controversial Ledger Recover service.",
+          "link": "https://decrypt.co/videos/live-events/0kYf2Qed/most-crypto-users-dont-trust-themselves-to-keep-their-seed-phrase-safe-ledger-ceo",
+          "publishedOn": "2023-09-26T05:41:11.000Z",
+          "wordCount": 6285,
+          "title": "Most Crypto Users Don't Trust Themselves to Keep Their Seed Phrase Safe: Ledger CEO",
+          "enclosure": {
+            "url": "https://cdn.jwplayer.com/v2/media/0kYf2Qed/poster.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.jwplayer.com/v2/media/0kYf2Qed/poster.jpg"
         },
         {
           "id": "https://decrypt.co/videos/live-events/0Sezz6pZ/crypto-accounting-challenges-and-opportunities",
@@ -739,21 +754,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.jwplayer.com/v2/media/0Sezz6pZ/poster.jpg"
-        },
-        {
-          "id": "https://decrypt.co/videos/live-events/0kYf2Qed/most-crypto-users-dont-trust-themselves-to-keep-their-seed-phrase-safe-ledger-ceo",
-          "author": null,
-          "description": "Decrypt's Stacy Elliott sat down with Ledger CEO Pascal Gauthier to discuss crypto custody post-FTX, and the hardware wallet manufacturer's controversial Ledger Recover service.",
-          "link": "https://decrypt.co/videos/live-events/0kYf2Qed/most-crypto-users-dont-trust-themselves-to-keep-their-seed-phrase-safe-ledger-ceo",
-          "publishedOn": "2023-09-26T05:41:11.000Z",
-          "wordCount": 6318,
-          "title": "Most Crypto Users Don't Trust Themselves to Keep Their Seed Phrase Safe: Ledger CEO",
-          "enclosure": {
-            "url": "https://cdn.jwplayer.com/v2/media/0kYf2Qed/poster.jpg",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.jwplayer.com/v2/media/0kYf2Qed/poster.jpg"
         },
         {
           "id": "https://decrypt.co/videos/live-events/fxygwLvH/indias-1-crypto-tax-has-been-a-nightmare-for-high-frequency-traders-says-shardeum-ceo",
@@ -791,7 +791,7 @@
           "description": "Decrypt's Stacy Elliott sat down with Robinhood Crypto general manager Johann Kerbrat at Messari Mainnet 2023, to talk about the trading platform's crypto wallet, onboarding new users through simplicity, and keeping platform fees sustainable.",
           "link": "https://decrypt.co/videos/live-events/PLZ0FpdC/we-need-to-start-thinking-about-how-we-make-crypto-easy-to-use-robinhood-crypto-general-manager",
           "publishedOn": "2023-09-26T05:41:10.000Z",
-          "wordCount": 6353,
+          "wordCount": 6386,
           "title": "We Need to Start Thinking About How we Make Crypto Easy to Use: Robinhood Crypto General Manager",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/PLZ0FpdC/poster.jpg",
@@ -799,36 +799,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.jwplayer.com/v2/media/PLZ0FpdC/poster.jpg"
-        },
-        {
-          "id": "https://decrypt.co/videos/live-events/OvAFgxTd/building-a-developer-friendly-zkrollup-to-scale-ethereum",
-          "author": null,
-          "description": "Daniel Helm, head of Developer Relations at Scroll, discussess how they are building a zkRollup to scale Ethereum transactions and lower fees. He explained their focus on creating a seamless developer experience by maintaining Ethereum's ethos and tooling. Scroll aims to launch their mainnet soon, providing more scalable blockspace for Ethereum developers. Stacy Elliott of Decrypt interviewed him at Messari Mainnet 2023.",
-          "link": "https://decrypt.co/videos/live-events/OvAFgxTd/building-a-developer-friendly-zkrollup-to-scale-ethereum",
-          "publishedOn": "2023-09-26T05:41:10.000Z",
-          "wordCount": 6466,
-          "title": "Building a Developer-Friendly zkRollup to Scale Ethereum",
-          "enclosure": {
-            "url": "https://cdn.jwplayer.com/v2/media/OvAFgxTd/poster.jpg",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.jwplayer.com/v2/media/OvAFgxTd/poster.jpg"
-        },
-        {
-          "id": "https://decrypt.co/videos/live-events/CrpvzFjL/regulation-threatens-us-dominance-of-financial-markets-says-coinroutes-ceo",
-          "author": null,
-          "description": "Dave Weisberger, Co-Founder and CEO of CoinRoutes, argued that excessive regulation in the U.S. threatens to undermine the country's long-standing dominance in global financial markets. He warned that other countries are embracing blockchain and crypto to build more efficient digital markets, which could cause the US to lose its competitive edge and trillions in GDP. Weisberger said CoinRoutes is now focusing more on expanding internationally due to restrictive policies in the U.S. He was interviewed by André Beganski of Decrypt at Messari Mainnet 2023.",
-          "link": "https://decrypt.co/videos/live-events/CrpvzFjL/regulation-threatens-us-dominance-of-financial-markets-says-coinroutes-ceo",
-          "publishedOn": "2023-09-26T05:41:10.000Z",
-          "wordCount": 6594,
-          "title": "Regulation Threatens U.S. Dominance of Financial Markets, Says CoinRoutes CEO",
-          "enclosure": {
-            "url": "https://cdn.jwplayer.com/v2/media/CrpvzFjL/poster.jpg",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.jwplayer.com/v2/media/CrpvzFjL/poster.jpg"
         },
         {
           "id": "https://decrypt.co/videos/live-events/axArPRp3/bitcoins-narrative-is-shifting-towards-layer-2-solutions",
@@ -846,12 +816,27 @@
           "imageUrl": "https://cdn.jwplayer.com/v2/media/axArPRp3/poster.jpg"
         },
         {
+          "id": "https://decrypt.co/videos/live-events/CrpvzFjL/regulation-threatens-us-dominance-of-financial-markets-says-coinroutes-ceo",
+          "author": null,
+          "description": "Dave Weisberger, Co-Founder and CEO of CoinRoutes, argued that excessive regulation in the U.S. threatens to undermine the country's long-standing dominance in global financial markets. He warned that other countries are embracing blockchain and crypto to build more efficient digital markets, which could cause the US to lose its competitive edge and trillions in GDP. Weisberger said CoinRoutes is now focusing more on expanding internationally due to restrictive policies in the U.S. He was interviewed by André Beganski of Decrypt at Messari Mainnet 2023.",
+          "link": "https://decrypt.co/videos/live-events/CrpvzFjL/regulation-threatens-us-dominance-of-financial-markets-says-coinroutes-ceo",
+          "publishedOn": "2023-09-26T05:41:10.000Z",
+          "wordCount": 6561,
+          "title": "Regulation Threatens U.S. Dominance of Financial Markets, Says CoinRoutes CEO",
+          "enclosure": {
+            "url": "https://cdn.jwplayer.com/v2/media/CrpvzFjL/poster.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.jwplayer.com/v2/media/CrpvzFjL/poster.jpg"
+        },
+        {
           "id": "https://decrypt.co/videos/live-events/xXOrNbX9/explosive-growth-ahead-for-enterprise-blockchain",
           "author": null,
           "description": "Paul Brody drives Ernst & Young (EY) initiatives and investments in blockchain technology across consulting, audit, and tax business lines. He says enterprise blockchain adoption is nearing an inflection point. Brody believes blockchains will one day handle 40 billion transactions daily across industries like automotive and pharma. Stacy Elliott interviewed him at Messari Mainnet 2023.",
           "link": "https://decrypt.co/videos/live-events/xXOrNbX9/explosive-growth-ahead-for-enterprise-blockchain",
           "publishedOn": "2023-09-26T05:41:10.000Z",
-          "wordCount": 6425,
+          "wordCount": 6392,
           "title": "Explosive Growth Ahead for Enterprise Blockchain",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/xXOrNbX9/poster.jpg",
@@ -859,6 +844,21 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.jwplayer.com/v2/media/xXOrNbX9/poster.jpg"
+        },
+        {
+          "id": "https://decrypt.co/videos/live-events/OvAFgxTd/building-a-developer-friendly-zkrollup-to-scale-ethereum",
+          "author": null,
+          "description": "Daniel Helm, head of Developer Relations at Scroll, discussess how they are building a zkRollup to scale Ethereum transactions and lower fees. He explained their focus on creating a seamless developer experience by maintaining Ethereum's ethos and tooling. Scroll aims to launch their mainnet soon, providing more scalable blockspace for Ethereum developers. Stacy Elliott of Decrypt interviewed him at Messari Mainnet 2023.",
+          "link": "https://decrypt.co/videos/live-events/OvAFgxTd/building-a-developer-friendly-zkrollup-to-scale-ethereum",
+          "publishedOn": "2023-09-26T05:41:10.000Z",
+          "wordCount": 6466,
+          "title": "Building a Developer-Friendly zkRollup to Scale Ethereum",
+          "enclosure": {
+            "url": "https://cdn.jwplayer.com/v2/media/OvAFgxTd/poster.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.jwplayer.com/v2/media/OvAFgxTd/poster.jpg"
         },
         {
           "id": "https://decrypt.co/videos/live-events/oZPr7bzY/base-as-a-bridge-not-an-island",
