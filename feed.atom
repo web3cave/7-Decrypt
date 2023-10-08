@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-08T18:09:11.383Z</id>
+    <id>urn:2023-10-08T19:05:54.412Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-08T18:09:11.383Z</updated>
+    <updated>2023-10-08T19:05:54.412Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ethereum Inflation? ETH Supply Has Grown by $47 Million in 30 Days]]></title>
+        <id>https://decrypt.co/?p=200520</id>
+        <link href="https://decrypt.co/200520/ethereum-inflation-eth-supply-has-grown-by-47-million-in-30-days"/>
+        <updated>2023-10-08T18:45:57.000Z</updated>
+        <summary type="html"><![CDATA[The growth has largely been driven by a corresponding lack of transaction activity on the blockchain network.]]></summary>
+        <author>
+            <name>Sander Lutz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Huobi Reclaims $8 Million In Stolen Ethereum After Offering Bounty to Hacker]]></title>
+        <id>https://decrypt.co/?p=200604</id>
+        <link href="https://decrypt.co/200604/huobi-reclaims-8-million-in-stolen-eth-after-offering-bounty-to-hacker"/>
+        <updated>2023-10-08T18:31:20.000Z</updated>
+        <summary type="html"><![CDATA[The centralized exchange paid the attacker about $400,000 in ETH as a "white hat bonus."]]></summary>
+        <author>
+            <name>Nicholas Morgan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Steven Soderbergh-Backed, NFT-Funded Film Lands Global Sales Deal]]></title>
         <id>https://decrypt.co/?p=200521</id>
@@ -386,16 +406,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hong Kong Police, SFC Launch Task Force to Monitor Crypto Exchanges]]></title>
-        <id>https://decrypt.co/?p=200269</id>
-        <link href="https://decrypt.co/200269/hong-kong-police-sfc-launch-task-force-monitor-exchanges"/>
-        <updated>2023-10-05T11:07:42.000Z</updated>
-        <summary type="html"><![CDATA[Hong Kong's police force and leading securities regulator are integrating their efforts to monitor illegal exchange activities after the JPEX incident.]]></summary>
-        <author>
-            <name>Tim Hakki</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Decrypt Learn: Digital Ownership Explained]]></title>
         <id>https://decrypt.co/videos/explainers/6udZCotB/decrypt-learn-digital-ownership-explained</id>
         <link href="https://decrypt.co/videos/explainers/6udZCotB/decrypt-learn-digital-ownership-explained"/>
@@ -403,16 +413,6 @@
         <summary type="html"><![CDATA[One of the most powerful aspects of blockchain technology is its ability to provide us genuine ownership of our digital assets. This is called digital ownership. In this video, we’ll deep dive into digital ownership, why it matters, and how web3 makes owning digital assets like our social networks, music libraries, personal data, and beyond possible. Author: Clarissa Watson, Senior Writer at Consensys.]]></summary>
         <author>
             <name>Decrypt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Friend.tech Users Robbed of $385,000 in Ethereum]]></title>
-        <id>https://decrypt.co/?p=200274</id>
-        <link href="https://decrypt.co/200274/friend-tech-users-robbed-385000-ethereum-yesterday"/>
-        <updated>2023-10-05T10:32:05.000Z</updated>
-        <summary type="html"><![CDATA[Crypto sleuth ZachXBT identified yet another swatch of SIM Swap attacks on four different Friend.tech users.]]></summary>
-        <author>
-            <name>Mattis Meichler</name>
         </author>
     </entry>
     <entry>
@@ -486,21 +486,21 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Most Crypto Users Don't Trust Themselves to Keep Their Seed Phrase Safe: Ledger CEO]]></title>
-        <id>https://decrypt.co/videos/live-events/0kYf2Qed/most-crypto-users-dont-trust-themselves-to-keep-their-seed-phrase-safe-ledger-ceo</id>
-        <link href="https://decrypt.co/videos/live-events/0kYf2Qed/most-crypto-users-dont-trust-themselves-to-keep-their-seed-phrase-safe-ledger-ceo"/>
-        <updated>2023-09-26T05:41:11.000Z</updated>
-        <summary type="html"><![CDATA[Decrypt's Stacy Elliott sat down with Ledger CEO Pascal Gauthier to discuss crypto custody post-FTX, and the hardware wallet manufacturer's controversial Ledger Recover service.]]></summary>
-        <author>
-            <name>Decrypt</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Crypto Accounting Challenges and Opportunities]]></title>
         <id>https://decrypt.co/videos/live-events/0Sezz6pZ/crypto-accounting-challenges-and-opportunities</id>
         <link href="https://decrypt.co/videos/live-events/0Sezz6pZ/crypto-accounting-challenges-and-opportunities"/>
         <updated>2023-09-26T05:41:11.000Z</updated>
         <summary type="html"><![CDATA[As crypto matures, accounting and tax regulations are evolving. Amy Kalnoki of Bitwave explains how her company helps crypto companies properly account for digital assets. She notes the importance of flexibility as new crypto assets emerge and regulations change. Stacy Elliott interviewed her at Messari Mainnet 2023.]]></summary>
+        <author>
+            <name>Decrypt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Most Crypto Users Don't Trust Themselves to Keep Their Seed Phrase Safe: Ledger CEO]]></title>
+        <id>https://decrypt.co/videos/live-events/0kYf2Qed/most-crypto-users-dont-trust-themselves-to-keep-their-seed-phrase-safe-ledger-ceo</id>
+        <link href="https://decrypt.co/videos/live-events/0kYf2Qed/most-crypto-users-dont-trust-themselves-to-keep-their-seed-phrase-safe-ledger-ceo"/>
+        <updated>2023-09-26T05:41:11.000Z</updated>
+        <summary type="html"><![CDATA[Decrypt's Stacy Elliott sat down with Ledger CEO Pascal Gauthier to discuss crypto custody post-FTX, and the hardware wallet manufacturer's controversial Ledger Recover service.]]></summary>
         <author>
             <name>Decrypt</name>
         </author>
