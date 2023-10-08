@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-08T17:06:31.270Z</id>
+    <id>urn:2023-10-08T18:09:11.383Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-08T17:06:31.270Z</updated>
+    <updated>2023-10-08T18:09:11.383Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Steven Soderbergh-Backed, NFT-Funded Film Lands Global Sales Deal]]></title>
+        <id>https://decrypt.co/?p=200521</id>
+        <link href="https://decrypt.co/200521/steven-soderbergh-backed-nft-funded-film-lands-global-sales-deal"/>
+        <updated>2023-10-08T17:51:47.000Z</updated>
+        <summary type="html"><![CDATA[“The Quiet Maid,” from first-time feature director Miguel Faus, will have its world premiere at the Tallinn Black Nights Film Festival.]]></summary>
+        <author>
+            <name>Sander Lutz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This Week on Crypto Twitter: Ethereum Futures ETFs and the FTX Saga]]></title>
+        <id>https://decrypt.co/?p=200588</id>
+        <link href="https://decrypt.co/200588/this-week-on-crypto-twitter-ethereum-futures-etf-ftx-saga-beeple"/>
+        <updated>2023-10-08T17:49:48.000Z</updated>
+        <summary type="html"><![CDATA[Two of the industry’s favorite ongoing stories ignited a lot of discussion on Twitter this week.]]></summary>
+        <author>
+            <name>Tim Hakki</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[This AI Startup Wants to Help Decode Your Dreams]]></title>
         <id>https://decrypt.co/?p=200538</id>
@@ -396,26 +416,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Just 2% of Firms Cashing In on AI Hype Will Survive, Says Bitpanda CEO]]></title>
-        <id>https://decrypt.co/?p=200268</id>
-        <link href="https://decrypt.co/200268/just-2-of-firms-cashing-in-on-ai-hype-will-survive-says-bitpanda-ceo"/>
-        <updated>2023-10-05T10:09:36.000Z</updated>
-        <summary type="html"><![CDATA[“The crypto bros are now the AI bros” Bitpanda’s CEO Eric Demuth said, comparing the latest investment wave to previous booms.]]></summary>
-        <author>
-            <name>Alys Key</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ZK-Proofs ‘Particularly Relevant in Financial Services’: Google Cloud Web3 Lead]]></title>
-        <id>https://decrypt.co/?p=200136</id>
-        <link href="https://decrypt.co/200136/zk-proofs-particularly-relevant-in-financial-services-google-cloud-web3-lead"/>
-        <updated>2023-10-05T09:19:01.000Z</updated>
-        <summary type="html"><![CDATA[Google Cloud’s Web3 engineering lead highlighted use cases for on-chain privacy preserving technologies like ZK-proofs at CCDAS.]]></summary>
-        <author>
-            <name>Stephen Graves</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Martin Shkreli on E/ACC and SBF in Prison]]></title>
         <id>https://decrypt.co/videos/interviews/QONaWXKZ/martin-shkreli-on-e-acc-and-sbf-in-prison</id>
         <link href="https://decrypt.co/videos/interviews/QONaWXKZ/martin-shkreli-on-e-acc-and-sbf-in-prison"/>
@@ -536,11 +536,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bitcoin's Narrative Is Shifting Towards Layer-2 Solutions]]></title>
-        <id>https://decrypt.co/videos/live-events/axArPRp3/bitcoins-narrative-is-shifting-towards-layer-2-solutions</id>
-        <link href="https://decrypt.co/videos/live-events/axArPRp3/bitcoins-narrative-is-shifting-towards-layer-2-solutions"/>
+        <title type="html"><![CDATA[Building a Developer-Friendly zkRollup to Scale Ethereum]]></title>
+        <id>https://decrypt.co/videos/live-events/OvAFgxTd/building-a-developer-friendly-zkrollup-to-scale-ethereum</id>
+        <link href="https://decrypt.co/videos/live-events/OvAFgxTd/building-a-developer-friendly-zkrollup-to-scale-ethereum"/>
         <updated>2023-09-26T05:41:10.000Z</updated>
-        <summary type="html"><![CDATA[Rich Rines, original Core DAO contributor and former Coinbase engineer, discusses how the narrative around Bitcoin is shifting in 2023. While Bitcoin remains digital gold, new layer 2 solutions are emerging to unlock more utility and value from the huge amounts of capital stored in Bitcoin. He says these innovations can benefit Bitcoin holders while keeping Bitcoin maximalists happy by building outside the base layer. André Beganski interviewed him at Messari Mainnet 2023.]]></summary>
+        <summary type="html"><![CDATA[Daniel Helm, head of Developer Relations at Scroll, discussess how they are building a zkRollup to scale Ethereum transactions and lower fees. He explained their focus on creating a seamless developer experience by maintaining Ethereum's ethos and tooling. Scroll aims to launch their mainnet soon, providing more scalable blockspace for Ethereum developers. Stacy Elliott of Decrypt interviewed him at Messari Mainnet 2023.]]></summary>
         <author>
             <name>Decrypt</name>
         </author>
@@ -556,21 +556,21 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Explosive Growth Ahead for Enterprise Blockchain]]></title>
-        <id>https://decrypt.co/videos/live-events/xXOrNbX9/explosive-growth-ahead-for-enterprise-blockchain</id>
-        <link href="https://decrypt.co/videos/live-events/xXOrNbX9/explosive-growth-ahead-for-enterprise-blockchain"/>
+        <title type="html"><![CDATA[Bitcoin's Narrative Is Shifting Towards Layer-2 Solutions]]></title>
+        <id>https://decrypt.co/videos/live-events/axArPRp3/bitcoins-narrative-is-shifting-towards-layer-2-solutions</id>
+        <link href="https://decrypt.co/videos/live-events/axArPRp3/bitcoins-narrative-is-shifting-towards-layer-2-solutions"/>
         <updated>2023-09-26T05:41:10.000Z</updated>
-        <summary type="html"><![CDATA[Paul Brody drives Ernst & Young (EY) initiatives and investments in blockchain technology across consulting, audit, and tax business lines. He says enterprise blockchain adoption is nearing an inflection point. Brody believes blockchains will one day handle 40 billion transactions daily across industries like automotive and pharma. Stacy Elliott interviewed him at Messari Mainnet 2023.]]></summary>
+        <summary type="html"><![CDATA[Rich Rines, original Core DAO contributor and former Coinbase engineer, discusses how the narrative around Bitcoin is shifting in 2023. While Bitcoin remains digital gold, new layer 2 solutions are emerging to unlock more utility and value from the huge amounts of capital stored in Bitcoin. He says these innovations can benefit Bitcoin holders while keeping Bitcoin maximalists happy by building outside the base layer. André Beganski interviewed him at Messari Mainnet 2023.]]></summary>
         <author>
             <name>Decrypt</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building a Developer-Friendly zkRollup to Scale Ethereum]]></title>
-        <id>https://decrypt.co/videos/live-events/OvAFgxTd/building-a-developer-friendly-zkrollup-to-scale-ethereum</id>
-        <link href="https://decrypt.co/videos/live-events/OvAFgxTd/building-a-developer-friendly-zkrollup-to-scale-ethereum"/>
+        <title type="html"><![CDATA[Explosive Growth Ahead for Enterprise Blockchain]]></title>
+        <id>https://decrypt.co/videos/live-events/xXOrNbX9/explosive-growth-ahead-for-enterprise-blockchain</id>
+        <link href="https://decrypt.co/videos/live-events/xXOrNbX9/explosive-growth-ahead-for-enterprise-blockchain"/>
         <updated>2023-09-26T05:41:10.000Z</updated>
-        <summary type="html"><![CDATA[Daniel Helm, head of Developer Relations at Scroll, discussess how they are building a zkRollup to scale Ethereum transactions and lower fees. He explained their focus on creating a seamless developer experience by maintaining Ethereum's ethos and tooling. Scroll aims to launch their mainnet soon, providing more scalable blockspace for Ethereum developers. Stacy Elliott of Decrypt interviewed him at Messari Mainnet 2023.]]></summary>
+        <summary type="html"><![CDATA[Paul Brody drives Ernst & Young (EY) initiatives and investments in blockchain technology across consulting, audit, and tax business lines. He says enterprise blockchain adoption is nearing an inflection point. Brody believes blockchains will one day handle 40 billion transactions daily across industries like automotive and pharma. Stacy Elliott interviewed him at Messari Mainnet 2023.]]></summary>
         <author>
             <name>Decrypt</name>
         </author>
