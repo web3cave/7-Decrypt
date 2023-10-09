@@ -6,6 +6,21 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=200679",
+          "author": "Nathan Reiff",
+          "description": "Human photosynthesis, the belief that humans may someday be able to benefit from sunlight by turning it into energy in the same manner as plants, is broadly connected to a larger movement known as transhumanism.",
+          "link": "https://decrypt.co/resources/could-human-photosynthesis-be-possible",
+          "publishedOn": "2023-10-09T13:58:47.000Z",
+          "wordCount": 15518,
+          "title": "Could Human Photosynthesis Be Possible?",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/11/BLOCKCHAIN-copy-1-gID_1-pID_4.png@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/11/BLOCKCHAIN-copy-1-gID_1-pID_4.png@png"
+        },
+        {
           "id": "https://decrypt.co/?p=200653",
           "author": "Andrew Asmakov",
           "description": "CoinShares’ latest crypto investment report highlights a surge in ETP trading volumes amid diverging regional sentiments.",
@@ -131,7 +146,7 @@
           "description": "The hacker accessed ancestry, profile data of millions by exploiting recycled credentials.",
           "link": "https://decrypt.co/200618/23andme-genetic-data-theft-ashkenazi-jewish-chinese-ancestry",
           "publishedOn": "2023-10-08T20:55:35.000Z",
-          "wordCount": 10642,
+          "wordCount": 10609,
           "title": "Genetic Data Stolen from 23andMe in Credential Stuffing Attack",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/10/23andMe-shutterstock_1079914742-16x9-1-gID_7.jpg@png",
@@ -221,7 +236,7 @@
           "description": "Ethereum and XRP both saw depreciation despite many positive developments.",
           "link": "https://decrypt.co/200532/this-week-in-coins-bitcoin-ethereum-avalanche-solana",
           "publishedOn": "2023-10-07T18:34:09.000Z",
-          "wordCount": 10480,
+          "wordCount": 10447,
           "title": "This Week in Coins: Bitcoin and Ethereum Hold Stable Amid Frantic News Cycle",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/10/Singapore-shutterstock_610935047-16x9-1-gID_7.jpg@png",
@@ -386,7 +401,7 @@
           "description": "Redfall released in May and has seen a sharp decline in players after being plagued with bad reviews. Why is its player count nearing zero?",
           "link": "https://decrypt.co/200478/unfinished-garbage-no-one-playing-bethesda-redfall-months-after-release",
           "publishedOn": "2023-10-06T18:46:54.000Z",
-          "wordCount": 10688,
+          "wordCount": 10655,
           "title": "'Unfinished Garbage': No One Is Playing Bethesda's 'Redfall' Months After Release",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/10/Redfall-scaled-gID_7.jpg@png",
@@ -591,21 +606,6 @@
           "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/11/ftx-logo-gID_7.jpeg@png"
         },
         {
-          "id": "https://decrypt.co/?p=200338",
-          "author": "Kate Irwin",
-          "description": "Hollywood production company Anonymous Content plans to craft a live-action story set in the world of Cyberpunk 2077. Here's what we know so far.",
-          "link": "https://decrypt.co/200338/cyberpunk-2077-goes-hollywood-game-sells-25-million-copies",
-          "publishedOn": "2023-10-05T20:57:34.000Z",
-          "wordCount": 9814,
-          "title": "'Cyberpunk 2077' Goes Hollywood as Game Sells 25 Million Copies",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/10/keanu-1-gID_7.png@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/10/keanu-1-gID_7.png@png"
-        },
-        {
           "id": "https://decrypt.co/videos/interviews/zSjfRrl5/art-of-the-times-art-blocks-founder-erick-calderon-on-the-state-of-generative-art",
           "author": null,
           "description": "Art Blocks founder and CEO Erick Calderon sat down with Sander Lutz, lead culture reporter at Decrypt's SCENE, at Art Blocks Marfa Weekend 2023. They discuss the evolution of the company and the generative art world, along with what draws art enthusiasts to be an active part of the community.",
@@ -686,7 +686,7 @@
           "description": "Shrapnel Studio Head Don Norbury tells Kate Irwin the reasons why the upcoming first-person shooter game will offer a wide range of NFTs. He also reveals team-based gameplay plans and shares how game maps have already changed this year.",
           "link": "https://decrypt.co/videos/interviews/fhoy7Z8f/blockchain-is-only-way-forward-for-gaming-says-shrapnel-studio-head",
           "publishedOn": "2023-09-28T21:39:00.000Z",
-          "wordCount": 6373,
+          "wordCount": 6699,
           "title": "Blockchain Is 'Only Way' Forward for Gaming, Says Shrapnel Studio Head",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/fhoy7Z8f/poster.jpg",
@@ -731,7 +731,7 @@
           "description": "David Gogel of dYdX discusses how the decentralized exchange is building a custom blockchain to fully decentralize derivatives trading. He explained how the new dYdX chain will allow validators to run order books in memory, enabling decentralized order matching at scale. This shift aims to increase security and transparency for traders while maintaining the performance of centralized exchanges.",
           "link": "https://decrypt.co/videos/live-events/lfmwAjB9/decentralize-derivatives-trading-with-custom-blockchain",
           "publishedOn": "2023-09-26T10:37:37.000Z",
-          "wordCount": 6789,
+          "wordCount": 6440,
           "title": "Decentralize Derivatives Trading with Custom Blockchain",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/lfmwAjB9/poster.jpg",
@@ -776,7 +776,7 @@
           "description": "As India figures out its regulatory approach to the crypto industry, one thing is clear to Shardeum co-founder Nischal Shetty: “If you're a high-frequency trader, you can't afford to lose a percentage every time you sell,” he told Decrypt's Andre Beganski at Messari Mainnet in New York. “That's something that's caused a lot of issues.”",
           "link": "https://decrypt.co/videos/live-events/fxygwLvH/indias-1-crypto-tax-has-been-a-nightmare-for-high-frequency-traders-says-shardeum-ceo",
           "publishedOn": "2023-09-26T05:41:11.000Z",
-          "wordCount": 6473,
+          "wordCount": 6822,
           "title": "India's 1% Crypto Tax Has Been a Nightmare for High-Frequency Traders, Says Shardeum CEO",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/fxygwLvH/poster.jpg",
@@ -816,19 +816,19 @@
           "imageUrl": "https://cdn.jwplayer.com/v2/media/PLZ0FpdC/poster.jpg"
         },
         {
-          "id": "https://decrypt.co/videos/live-events/axArPRp3/bitcoins-narrative-is-shifting-towards-layer-2-solutions",
+          "id": "https://decrypt.co/videos/live-events/OvAFgxTd/building-a-developer-friendly-zkrollup-to-scale-ethereum",
           "author": null,
-          "description": "Rich Rines, original Core DAO contributor and former Coinbase engineer, discusses how the narrative around Bitcoin is shifting in 2023. While Bitcoin remains digital gold, new layer 2 solutions are emerging to unlock more utility and value from the huge amounts of capital stored in Bitcoin. He says these innovations can benefit Bitcoin holders while keeping Bitcoin maximalists happy by building outside the base layer. André Beganski interviewed him at Messari Mainnet 2023.",
-          "link": "https://decrypt.co/videos/live-events/axArPRp3/bitcoins-narrative-is-shifting-towards-layer-2-solutions",
+          "description": "Daniel Helm, head of Developer Relations at Scroll, discussess how they are building a zkRollup to scale Ethereum transactions and lower fees. He explained their focus on creating a seamless developer experience by maintaining Ethereum's ethos and tooling. Scroll aims to launch their mainnet soon, providing more scalable blockspace for Ethereum developers. Stacy Elliott of Decrypt interviewed him at Messari Mainnet 2023.",
+          "link": "https://decrypt.co/videos/live-events/OvAFgxTd/building-a-developer-friendly-zkrollup-to-scale-ethereum",
           "publishedOn": "2023-09-26T05:41:10.000Z",
-          "wordCount": 6521,
-          "title": "Bitcoin's Narrative Is Shifting Towards Layer-2 Solutions",
+          "wordCount": 6815,
+          "title": "Building a Developer-Friendly zkRollup to Scale Ethereum",
           "enclosure": {
-            "url": "https://cdn.jwplayer.com/v2/media/axArPRp3/poster.jpg",
+            "url": "https://cdn.jwplayer.com/v2/media/OvAFgxTd/poster.jpg",
             "length": "1000000",
             "type": "image/png"
           },
-          "imageUrl": "https://cdn.jwplayer.com/v2/media/axArPRp3/poster.jpg"
+          "imageUrl": "https://cdn.jwplayer.com/v2/media/OvAFgxTd/poster.jpg"
         },
         {
           "id": "https://decrypt.co/videos/live-events/CrpvzFjL/regulation-threatens-us-dominance-of-financial-markets-says-coinroutes-ceo",
@@ -846,6 +846,21 @@
           "imageUrl": "https://cdn.jwplayer.com/v2/media/CrpvzFjL/poster.jpg"
         },
         {
+          "id": "https://decrypt.co/videos/live-events/axArPRp3/bitcoins-narrative-is-shifting-towards-layer-2-solutions",
+          "author": null,
+          "description": "Rich Rines, original Core DAO contributor and former Coinbase engineer, discusses how the narrative around Bitcoin is shifting in 2023. While Bitcoin remains digital gold, new layer 2 solutions are emerging to unlock more utility and value from the huge amounts of capital stored in Bitcoin. He says these innovations can benefit Bitcoin holders while keeping Bitcoin maximalists happy by building outside the base layer. André Beganski interviewed him at Messari Mainnet 2023.",
+          "link": "https://decrypt.co/videos/live-events/axArPRp3/bitcoins-narrative-is-shifting-towards-layer-2-solutions",
+          "publishedOn": "2023-09-26T05:41:10.000Z",
+          "wordCount": 6870,
+          "title": "Bitcoin's Narrative Is Shifting Towards Layer-2 Solutions",
+          "enclosure": {
+            "url": "https://cdn.jwplayer.com/v2/media/axArPRp3/poster.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.jwplayer.com/v2/media/axArPRp3/poster.jpg"
+        },
+        {
           "id": "https://decrypt.co/videos/live-events/xXOrNbX9/explosive-growth-ahead-for-enterprise-blockchain",
           "author": null,
           "description": "Paul Brody drives Ernst & Young (EY) initiatives and investments in blockchain technology across consulting, audit, and tax business lines. He says enterprise blockchain adoption is nearing an inflection point. Brody believes blockchains will one day handle 40 billion transactions daily across industries like automotive and pharma. Stacy Elliott interviewed him at Messari Mainnet 2023.",
@@ -861,27 +876,12 @@
           "imageUrl": "https://cdn.jwplayer.com/v2/media/xXOrNbX9/poster.jpg"
         },
         {
-          "id": "https://decrypt.co/videos/live-events/OvAFgxTd/building-a-developer-friendly-zkrollup-to-scale-ethereum",
-          "author": null,
-          "description": "Daniel Helm, head of Developer Relations at Scroll, discussess how they are building a zkRollup to scale Ethereum transactions and lower fees. He explained their focus on creating a seamless developer experience by maintaining Ethereum's ethos and tooling. Scroll aims to launch their mainnet soon, providing more scalable blockspace for Ethereum developers. Stacy Elliott of Decrypt interviewed him at Messari Mainnet 2023.",
-          "link": "https://decrypt.co/videos/live-events/OvAFgxTd/building-a-developer-friendly-zkrollup-to-scale-ethereum",
-          "publishedOn": "2023-09-26T05:41:10.000Z",
-          "wordCount": 6466,
-          "title": "Building a Developer-Friendly zkRollup to Scale Ethereum",
-          "enclosure": {
-            "url": "https://cdn.jwplayer.com/v2/media/OvAFgxTd/poster.jpg",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.jwplayer.com/v2/media/OvAFgxTd/poster.jpg"
-        },
-        {
           "id": "https://decrypt.co/videos/live-events/oZPr7bzY/base-as-a-bridge-not-an-island",
           "author": null,
           "description": "Coinbase's Jesse Pollak, creator of layer-2 blockchain Base, says the launch of the network has exceeded expectations, even if plans changed along the way. He believes Arbitrum One will help bring billions onto blockchain by enabling seamless user experiences. Stacy Elliott interviewed him at Messari Mainnet 2023.",
           "link": "https://decrypt.co/videos/live-events/oZPr7bzY/base-as-a-bridge-not-an-island",
           "publishedOn": "2023-09-26T05:41:10.000Z",
-          "wordCount": 6391,
+          "wordCount": 6740,
           "title": "Base as a 'Bridge, Not an Island'",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/oZPr7bzY/poster.jpg",
