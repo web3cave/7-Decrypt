@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-10T15:08:31.571Z</id>
+    <id>urn:2023-10-10T16:10:06.206Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-10T15:08:31.571Z</updated>
+    <updated>2023-10-10T16:10:06.206Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[First Look: Nintendo's Animal Crossing Gets the Lego Treatment]]></title>
+        <id>https://decrypt.co/?p=200849</id>
+        <link href="https://decrypt.co/200849/nintendo-animal-crossing-lego-sets-coming-march-2024"/>
+        <updated>2023-10-10T15:46:58.000Z</updated>
+        <summary type="html"><![CDATA[Five Lego Animal Crossing sets are launching in 2024, starring some of the Nintendo game’s best-known characters.]]></summary>
+        <author>
+            <name>Kate Irwin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Trial of Sam Bankman-Fried: Live Blog, Latest News and Insights]]></title>
         <id>https://decrypt.co/?p=199892</id>
@@ -376,16 +386,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Uranium-Backed Stablecoin? Maker Proposal Goes Nuclear]]></title>
-        <id>https://decrypt.co/?p=200422</id>
-        <link href="https://decrypt.co/200422/uranium-backed-stablecoin-maker-proposal-goes-nuclear"/>
-        <updated>2023-10-07T14:01:28.000Z</updated>
-        <summary type="html"><![CDATA[The latest proposal to back Maker's DAI stablecoin with tokenized uranium might not be as crazy as it sounds.]]></summary>
-        <author>
-            <name>Liam J. Kelly</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Inside Shrapnel's Marketplace, New Map, and 'AI Director' Feature]]></title>
         <id>https://decrypt.co/videos/interviews/F5RQCmvH/inside-shrapnels-marketplace-new-map-and-ai-director-feature</id>
         <link href="https://decrypt.co/videos/interviews/F5RQCmvH/inside-shrapnels-marketplace-new-map-and-ai-director-feature"/>
@@ -486,21 +486,21 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Crypto Accounting Challenges and Opportunities]]></title>
-        <id>https://decrypt.co/videos/live-events/0Sezz6pZ/crypto-accounting-challenges-and-opportunities</id>
-        <link href="https://decrypt.co/videos/live-events/0Sezz6pZ/crypto-accounting-challenges-and-opportunities"/>
-        <updated>2023-09-26T05:41:11.000Z</updated>
-        <summary type="html"><![CDATA[As crypto matures, accounting and tax regulations are evolving. Amy Kalnoki of Bitwave explains how her company helps crypto companies properly account for digital assets. She notes the importance of flexibility as new crypto assets emerge and regulations change. Stacy Elliott interviewed her at Messari Mainnet 2023.]]></summary>
-        <author>
-            <name>Decrypt</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Most Crypto Users Don't Trust Themselves to Keep Their Seed Phrase Safe: Ledger CEO]]></title>
         <id>https://decrypt.co/videos/live-events/0kYf2Qed/most-crypto-users-dont-trust-themselves-to-keep-their-seed-phrase-safe-ledger-ceo</id>
         <link href="https://decrypt.co/videos/live-events/0kYf2Qed/most-crypto-users-dont-trust-themselves-to-keep-their-seed-phrase-safe-ledger-ceo"/>
         <updated>2023-09-26T05:41:11.000Z</updated>
         <summary type="html"><![CDATA[Decrypt's Stacy Elliott sat down with Ledger CEO Pascal Gauthier to discuss crypto custody post-FTX, and the hardware wallet manufacturer's controversial Ledger Recover service.]]></summary>
+        <author>
+            <name>Decrypt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crypto Accounting Challenges and Opportunities]]></title>
+        <id>https://decrypt.co/videos/live-events/0Sezz6pZ/crypto-accounting-challenges-and-opportunities</id>
+        <link href="https://decrypt.co/videos/live-events/0Sezz6pZ/crypto-accounting-challenges-and-opportunities"/>
+        <updated>2023-09-26T05:41:11.000Z</updated>
+        <summary type="html"><![CDATA[As crypto matures, accounting and tax regulations are evolving. Amy Kalnoki of Bitwave explains how her company helps crypto companies properly account for digital assets. She notes the importance of flexibility as new crypto assets emerge and regulations change. Stacy Elliott interviewed her at Messari Mainnet 2023.]]></summary>
         <author>
             <name>Decrypt</name>
         </author>
@@ -536,11 +536,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building a Developer-Friendly zkRollup to Scale Ethereum]]></title>
-        <id>https://decrypt.co/videos/live-events/OvAFgxTd/building-a-developer-friendly-zkrollup-to-scale-ethereum</id>
-        <link href="https://decrypt.co/videos/live-events/OvAFgxTd/building-a-developer-friendly-zkrollup-to-scale-ethereum"/>
+        <title type="html"><![CDATA[Bitcoin's Narrative Is Shifting Towards Layer-2 Solutions]]></title>
+        <id>https://decrypt.co/videos/live-events/axArPRp3/bitcoins-narrative-is-shifting-towards-layer-2-solutions</id>
+        <link href="https://decrypt.co/videos/live-events/axArPRp3/bitcoins-narrative-is-shifting-towards-layer-2-solutions"/>
         <updated>2023-09-26T05:41:10.000Z</updated>
-        <summary type="html"><![CDATA[Daniel Helm, head of Developer Relations at Scroll, discussess how they are building a zkRollup to scale Ethereum transactions and lower fees. He explained their focus on creating a seamless developer experience by maintaining Ethereum's ethos and tooling. Scroll aims to launch their mainnet soon, providing more scalable blockspace for Ethereum developers. Stacy Elliott of Decrypt interviewed him at Messari Mainnet 2023.]]></summary>
+        <summary type="html"><![CDATA[Rich Rines, original Core DAO contributor and former Coinbase engineer, discusses how the narrative around Bitcoin is shifting in 2023. While Bitcoin remains digital gold, new layer 2 solutions are emerging to unlock more utility and value from the huge amounts of capital stored in Bitcoin. He says these innovations can benefit Bitcoin holders while keeping Bitcoin maximalists happy by building outside the base layer. André Beganski interviewed him at Messari Mainnet 2023.]]></summary>
         <author>
             <name>Decrypt</name>
         </author>
@@ -556,21 +556,21 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bitcoin's Narrative Is Shifting Towards Layer-2 Solutions]]></title>
-        <id>https://decrypt.co/videos/live-events/axArPRp3/bitcoins-narrative-is-shifting-towards-layer-2-solutions</id>
-        <link href="https://decrypt.co/videos/live-events/axArPRp3/bitcoins-narrative-is-shifting-towards-layer-2-solutions"/>
-        <updated>2023-09-26T05:41:10.000Z</updated>
-        <summary type="html"><![CDATA[Rich Rines, original Core DAO contributor and former Coinbase engineer, discusses how the narrative around Bitcoin is shifting in 2023. While Bitcoin remains digital gold, new layer 2 solutions are emerging to unlock more utility and value from the huge amounts of capital stored in Bitcoin. He says these innovations can benefit Bitcoin holders while keeping Bitcoin maximalists happy by building outside the base layer. André Beganski interviewed him at Messari Mainnet 2023.]]></summary>
-        <author>
-            <name>Decrypt</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Explosive Growth Ahead for Enterprise Blockchain]]></title>
         <id>https://decrypt.co/videos/live-events/xXOrNbX9/explosive-growth-ahead-for-enterprise-blockchain</id>
         <link href="https://decrypt.co/videos/live-events/xXOrNbX9/explosive-growth-ahead-for-enterprise-blockchain"/>
         <updated>2023-09-26T05:41:10.000Z</updated>
         <summary type="html"><![CDATA[Paul Brody drives Ernst & Young (EY) initiatives and investments in blockchain technology across consulting, audit, and tax business lines. He says enterprise blockchain adoption is nearing an inflection point. Brody believes blockchains will one day handle 40 billion transactions daily across industries like automotive and pharma. Stacy Elliott interviewed him at Messari Mainnet 2023.]]></summary>
+        <author>
+            <name>Decrypt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Developer-Friendly zkRollup to Scale Ethereum]]></title>
+        <id>https://decrypt.co/videos/live-events/OvAFgxTd/building-a-developer-friendly-zkrollup-to-scale-ethereum</id>
+        <link href="https://decrypt.co/videos/live-events/OvAFgxTd/building-a-developer-friendly-zkrollup-to-scale-ethereum"/>
+        <updated>2023-09-26T05:41:10.000Z</updated>
+        <summary type="html"><![CDATA[Daniel Helm, head of Developer Relations at Scroll, discussess how they are building a zkRollup to scale Ethereum transactions and lower fees. He explained their focus on creating a seamless developer experience by maintaining Ethereum's ethos and tooling. Scroll aims to launch their mainnet soon, providing more scalable blockspace for Ethereum developers. Stacy Elliott of Decrypt interviewed him at Messari Mainnet 2023.]]></summary>
         <author>
             <name>Decrypt</name>
         </author>
