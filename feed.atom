@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-13T21:06:46.739Z</id>
+    <id>urn:2023-10-13T22:07:17.794Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-13T21:06:46.739Z</updated>
+    <updated>2023-10-13T22:07:17.794Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[SEC Won’t Appeal Grayscale Bitcoin ETF Ruling: Reports]]></title>
+        <id>https://decrypt.co/?p=201493</id>
+        <link href="https://decrypt.co/201493/sec-appeal-grayscale-bitcoin-etf"/>
+        <updated>2023-10-13T21:49:17.000Z</updated>
+        <summary type="html"><![CDATA[But that doesn't mean a spot market Bitcoin ETF is a lock.]]></summary>
+        <author>
+            <name>Decrypt Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ripple’s Win Over SEC Gave XRP a Massive Boost—That’s All Gone Now]]></title>
+        <id>https://decrypt.co/?p=201463</id>
+        <link href="https://decrypt.co/201463/xrp-boost-from-ripple-sec-court-win-gone-now"/>
+        <updated>2023-10-13T21:13:49.000Z</updated>
+        <summary type="html"><![CDATA[XRP boomed in July following a federal judge's ruling. It has since crashed back down again.]]></summary>
+        <author>
+            <name>Mathew Di Salvo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Now Owns 'Call of Duty' Maker Activision Blizzard—What Happens Next?]]></title>
         <id>https://decrypt.co/?p=201465</id>
@@ -376,26 +396,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Alameda Trader Phished for $100 Million After Clicking Malicious Google Link, Says Ex-Engineer]]></title>
-        <id>https://decrypt.co/?p=201192</id>
-        <link href="https://decrypt.co/201192/alameda-trader-phished-for-100-million-after-clicking-malicious-google-link-says-ex-engineer"/>
-        <updated>2023-10-12T10:06:14.000Z</updated>
-        <summary type="html"><![CDATA[FTX’s sister trading firm Alameda Research prioritized speed at the expense of proper security practices, claims a former employee.]]></summary>
-        <author>
-            <name>Andrew Asmakov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trezor Launches New Hardware Wallets, Metal Seed Backup for Crypto Beginners]]></title>
-        <id>https://decrypt.co/?p=201014</id>
-        <link href="https://decrypt.co/201014/trezor-launches-new-hardware-wallets-metal-seed-backup-crypto-beginners"/>
-        <updated>2023-10-12T07:01:03.000Z</updated>
-        <summary type="html"><![CDATA[Complementing its flagship Bitcoin hardware wallet, the Trezor Model T, the Czech-based manufacturer has unveiled a new line-up of products.]]></summary>
-        <author>
-            <name>Andrew Asmakov</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Pet3rPan_ on venture DAOs and blockchain games]]></title>
         <id>https://decrypt.co/videos/interviews/DawNLI3O/pet3rpan-on-venture-daos-and-blockchain-games</id>
         <link href="https://decrypt.co/videos/interviews/DawNLI3O/pet3rpan-on-venture-daos-and-blockchain-games"/>
@@ -513,21 +513,21 @@ https://decrypt.co/1000x]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Crypto Accounting Challenges and Opportunities]]></title>
-        <id>https://decrypt.co/videos/live-events/0Sezz6pZ/crypto-accounting-challenges-and-opportunities</id>
-        <link href="https://decrypt.co/videos/live-events/0Sezz6pZ/crypto-accounting-challenges-and-opportunities"/>
-        <updated>2023-09-26T05:41:11.000Z</updated>
-        <summary type="html"><![CDATA[As crypto matures, accounting and tax regulations are evolving. Amy Kalnoki of Bitwave explains how her company helps crypto companies properly account for digital assets. She notes the importance of flexibility as new crypto assets emerge and regulations change. Stacy Elliott interviewed her at Messari Mainnet 2023.]]></summary>
-        <author>
-            <name>Decrypt</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Most Crypto Users Don't Trust Themselves to Keep Their Seed Phrase Safe: Ledger CEO]]></title>
         <id>https://decrypt.co/videos/live-events/0kYf2Qed/most-crypto-users-dont-trust-themselves-to-keep-their-seed-phrase-safe-ledger-ceo</id>
         <link href="https://decrypt.co/videos/live-events/0kYf2Qed/most-crypto-users-dont-trust-themselves-to-keep-their-seed-phrase-safe-ledger-ceo"/>
         <updated>2023-09-26T05:41:11.000Z</updated>
         <summary type="html"><![CDATA[Decrypt's Stacy Elliott sat down with Ledger CEO Pascal Gauthier to discuss crypto custody post-FTX, and the hardware wallet manufacturer's controversial Ledger Recover service.]]></summary>
+        <author>
+            <name>Decrypt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crypto Accounting Challenges and Opportunities]]></title>
+        <id>https://decrypt.co/videos/live-events/0Sezz6pZ/crypto-accounting-challenges-and-opportunities</id>
+        <link href="https://decrypt.co/videos/live-events/0Sezz6pZ/crypto-accounting-challenges-and-opportunities"/>
+        <updated>2023-09-26T05:41:11.000Z</updated>
+        <summary type="html"><![CDATA[As crypto matures, accounting and tax regulations are evolving. Amy Kalnoki of Bitwave explains how her company helps crypto companies properly account for digital assets. She notes the importance of flexibility as new crypto assets emerge and regulations change. Stacy Elliott interviewed her at Messari Mainnet 2023.]]></summary>
         <author>
             <name>Decrypt</name>
         </author>
@@ -563,11 +563,11 @@ https://decrypt.co/1000x]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building a Developer-Friendly zkRollup to Scale Ethereum]]></title>
-        <id>https://decrypt.co/videos/live-events/OvAFgxTd/building-a-developer-friendly-zkrollup-to-scale-ethereum</id>
-        <link href="https://decrypt.co/videos/live-events/OvAFgxTd/building-a-developer-friendly-zkrollup-to-scale-ethereum"/>
+        <title type="html"><![CDATA[Bitcoin's Narrative Is Shifting Towards Layer-2 Solutions]]></title>
+        <id>https://decrypt.co/videos/live-events/axArPRp3/bitcoins-narrative-is-shifting-towards-layer-2-solutions</id>
+        <link href="https://decrypt.co/videos/live-events/axArPRp3/bitcoins-narrative-is-shifting-towards-layer-2-solutions"/>
         <updated>2023-09-26T05:41:10.000Z</updated>
-        <summary type="html"><![CDATA[Daniel Helm, head of Developer Relations at Scroll, discussess how they are building a zkRollup to scale Ethereum transactions and lower fees. He explained their focus on creating a seamless developer experience by maintaining Ethereum's ethos and tooling. Scroll aims to launch their mainnet soon, providing more scalable blockspace for Ethereum developers. Stacy Elliott of Decrypt interviewed him at Messari Mainnet 2023.]]></summary>
+        <summary type="html"><![CDATA[Rich Rines, original Core DAO contributor and former Coinbase engineer, discusses how the narrative around Bitcoin is shifting in 2023. While Bitcoin remains digital gold, new layer 2 solutions are emerging to unlock more utility and value from the huge amounts of capital stored in Bitcoin. He says these innovations can benefit Bitcoin holders while keeping Bitcoin maximalists happy by building outside the base layer. André Beganski interviewed him at Messari Mainnet 2023.]]></summary>
         <author>
             <name>Decrypt</name>
         </author>
@@ -583,11 +583,11 @@ https://decrypt.co/1000x]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bitcoin's Narrative Is Shifting Towards Layer-2 Solutions]]></title>
-        <id>https://decrypt.co/videos/live-events/axArPRp3/bitcoins-narrative-is-shifting-towards-layer-2-solutions</id>
-        <link href="https://decrypt.co/videos/live-events/axArPRp3/bitcoins-narrative-is-shifting-towards-layer-2-solutions"/>
+        <title type="html"><![CDATA[Explosive Growth Ahead for Enterprise Blockchain]]></title>
+        <id>https://decrypt.co/videos/live-events/xXOrNbX9/explosive-growth-ahead-for-enterprise-blockchain</id>
+        <link href="https://decrypt.co/videos/live-events/xXOrNbX9/explosive-growth-ahead-for-enterprise-blockchain"/>
         <updated>2023-09-26T05:41:10.000Z</updated>
-        <summary type="html"><![CDATA[Rich Rines, original Core DAO contributor and former Coinbase engineer, discusses how the narrative around Bitcoin is shifting in 2023. While Bitcoin remains digital gold, new layer 2 solutions are emerging to unlock more utility and value from the huge amounts of capital stored in Bitcoin. He says these innovations can benefit Bitcoin holders while keeping Bitcoin maximalists happy by building outside the base layer. André Beganski interviewed him at Messari Mainnet 2023.]]></summary>
+        <summary type="html"><![CDATA[Paul Brody drives Ernst & Young (EY) initiatives and investments in blockchain technology across consulting, audit, and tax business lines. He says enterprise blockchain adoption is nearing an inflection point. Brody believes blockchains will one day handle 40 billion transactions daily across industries like automotive and pharma. Stacy Elliott interviewed him at Messari Mainnet 2023.]]></summary>
         <author>
             <name>Decrypt</name>
         </author>
