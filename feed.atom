@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-13T17:07:01.316Z</id>
+    <id>urn:2023-10-13T18:10:30.244Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-13T17:07:01.316Z</updated>
+    <updated>2023-10-13T18:10:30.244Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[AI Just Deciphered an Ancient Herculaneum Scroll Without Unrolling It]]></title>
+        <id>https://decrypt.co/?p=201411</id>
+        <link href="https://decrypt.co/201411/ai-deciphered-herculaneum-scroll"/>
+        <updated>2023-10-13T17:08:43.000Z</updated>
+        <summary type="html"><![CDATA[The word "purple" has not been found in opened scroll fragments before.]]></summary>
+        <author>
+            <name>Decrypt AI, Edited by Stacy Elliot</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI Could Help Brain Surgeons Diagnose Tumors in Real Time]]></title>
         <id>https://decrypt.co/?p=201316</id>
@@ -60,7 +70,7 @@
         <id>https://decrypt.co/?p=201342</id>
         <link href="https://decrypt.co/201342/terraform-labs-alleges-citadel-securities-behind-may-2022-ust-stablecoin-depeg-event"/>
         <updated>2023-10-13T11:03:29.000Z</updated>
-        <summary type="html"><![CDATA[As for the evidence, Terraform points to an alleged conversation Citadel CEO Ken Griffin had with a pseudonymous trader.]]></summary>
+        <summary type="html"><![CDATA[As for the evidence, Terraform points to an alleged conversation Citadel founder Ken Griffin had with a pseudonymous trader.]]></summary>
         <author>
             <name>Andrew Asmakov</name>
         </author>
@@ -413,16 +423,6 @@ https://decrypt.co/1000x]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ethereum Gas Fees Hit New Low for 2023 as DeFi, NFT Activity Drops]]></title>
-        <id>https://decrypt.co/?p=201001</id>
-        <link href="https://decrypt.co/201001/ethereum-gas-fees-hits-new-low2023-defi-nft-activity-drops"/>
-        <updated>2023-10-11T14:19:25.000Z</updated>
-        <summary type="html"><![CDATA[With activity waning, Ethereum’s “ultrasound money” meme is under attack as supply is currently growing at an annual inflation of 0.44%.]]></summary>
-        <author>
-            <name>Nivesh Rustgi</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Inside Shrapnel's Marketplace, New Map, and 'AI Director' Feature]]></title>
         <id>https://decrypt.co/videos/interviews/F5RQCmvH/inside-shrapnels-marketplace-new-map-and-ai-director-feature</id>
         <link href="https://decrypt.co/videos/interviews/F5RQCmvH/inside-shrapnels-marketplace-new-map-and-ai-director-feature"/>
@@ -523,21 +523,21 @@ https://decrypt.co/1000x]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Most Crypto Users Don't Trust Themselves to Keep Their Seed Phrase Safe: Ledger CEO]]></title>
-        <id>https://decrypt.co/videos/live-events/0kYf2Qed/most-crypto-users-dont-trust-themselves-to-keep-their-seed-phrase-safe-ledger-ceo</id>
-        <link href="https://decrypt.co/videos/live-events/0kYf2Qed/most-crypto-users-dont-trust-themselves-to-keep-their-seed-phrase-safe-ledger-ceo"/>
-        <updated>2023-09-26T05:41:11.000Z</updated>
-        <summary type="html"><![CDATA[Decrypt's Stacy Elliott sat down with Ledger CEO Pascal Gauthier to discuss crypto custody post-FTX, and the hardware wallet manufacturer's controversial Ledger Recover service.]]></summary>
-        <author>
-            <name>Decrypt</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Crypto Accounting Challenges and Opportunities]]></title>
         <id>https://decrypt.co/videos/live-events/0Sezz6pZ/crypto-accounting-challenges-and-opportunities</id>
         <link href="https://decrypt.co/videos/live-events/0Sezz6pZ/crypto-accounting-challenges-and-opportunities"/>
         <updated>2023-09-26T05:41:11.000Z</updated>
         <summary type="html"><![CDATA[As crypto matures, accounting and tax regulations are evolving. Amy Kalnoki of Bitwave explains how her company helps crypto companies properly account for digital assets. She notes the importance of flexibility as new crypto assets emerge and regulations change. Stacy Elliott interviewed her at Messari Mainnet 2023.]]></summary>
+        <author>
+            <name>Decrypt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Most Crypto Users Don't Trust Themselves to Keep Their Seed Phrase Safe: Ledger CEO]]></title>
+        <id>https://decrypt.co/videos/live-events/0kYf2Qed/most-crypto-users-dont-trust-themselves-to-keep-their-seed-phrase-safe-ledger-ceo</id>
+        <link href="https://decrypt.co/videos/live-events/0kYf2Qed/most-crypto-users-dont-trust-themselves-to-keep-their-seed-phrase-safe-ledger-ceo"/>
+        <updated>2023-09-26T05:41:11.000Z</updated>
+        <summary type="html"><![CDATA[Decrypt's Stacy Elliott sat down with Ledger CEO Pascal Gauthier to discuss crypto custody post-FTX, and the hardware wallet manufacturer's controversial Ledger Recover service.]]></summary>
         <author>
             <name>Decrypt</name>
         </author>
