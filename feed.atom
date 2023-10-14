@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-14T18:09:20.803Z</id>
+    <id>urn:2023-10-14T19:05:42.627Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-14T18:09:20.803Z</updated>
+    <updated>2023-10-14T19:05:42.627Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Why Cyberpunk 2077's Developer Needed AI to Complete 'Phantom Liberty']]></title>
+        <id>https://decrypt.co/?p=201466</id>
+        <link href="https://decrypt.co/201466/why-cyberpunk-2077-developer-needed-ai-complete-phantom-liberty"/>
+        <updated>2023-10-14T18:26:47.000Z</updated>
+        <summary type="html"><![CDATA[After the passing of actor Miłogost Reczek, CD Projekt Red used AI to recreate the voice of Viktor Vektor in Cyberpunk 2077: Phantom Liberty.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[This Week in Coins: War and Inflation Chill Crypto Investments]]></title>
         <id>https://decrypt.co/?p=201660</id>
@@ -386,16 +396,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Account Labs Raises $7.7 Million for New Google-Enabled Crypto Wallet]]></title>
-        <id>https://decrypt.co/?p=201204</id>
-        <link href="https://decrypt.co/201204/account-labs-raises-7-7-million-new-google-enabled-crypto-wallet"/>
-        <updated>2023-10-12T13:01:06.000Z</updated>
-        <summary type="html"><![CDATA[Account Labs' UniPass wallet is yet another step in the direction of making crypto wallets "smarter" using account abstraction.]]></summary>
-        <author>
-            <name>Andrew Asmakov</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Pet3rPan_ on venture DAOs and blockchain games]]></title>
         <id>https://decrypt.co/videos/interviews/DawNLI3O/pet3rpan-on-venture-daos-and-blockchain-games</id>
         <link href="https://decrypt.co/videos/interviews/DawNLI3O/pet3rpan-on-venture-daos-and-blockchain-games"/>
@@ -563,11 +563,11 @@ https://decrypt.co/1000x]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bitcoin's Narrative Is Shifting Towards Layer-2 Solutions]]></title>
-        <id>https://decrypt.co/videos/live-events/axArPRp3/bitcoins-narrative-is-shifting-towards-layer-2-solutions</id>
-        <link href="https://decrypt.co/videos/live-events/axArPRp3/bitcoins-narrative-is-shifting-towards-layer-2-solutions"/>
+        <title type="html"><![CDATA[Building a Developer-Friendly zkRollup to Scale Ethereum]]></title>
+        <id>https://decrypt.co/videos/live-events/OvAFgxTd/building-a-developer-friendly-zkrollup-to-scale-ethereum</id>
+        <link href="https://decrypt.co/videos/live-events/OvAFgxTd/building-a-developer-friendly-zkrollup-to-scale-ethereum"/>
         <updated>2023-09-26T05:41:10.000Z</updated>
-        <summary type="html"><![CDATA[Rich Rines, original Core DAO contributor and former Coinbase engineer, discusses how the narrative around Bitcoin is shifting in 2023. While Bitcoin remains digital gold, new layer 2 solutions are emerging to unlock more utility and value from the huge amounts of capital stored in Bitcoin. He says these innovations can benefit Bitcoin holders while keeping Bitcoin maximalists happy by building outside the base layer. André Beganski interviewed him at Messari Mainnet 2023.]]></summary>
+        <summary type="html"><![CDATA[Daniel Helm, head of Developer Relations at Scroll, discussess how they are building a zkRollup to scale Ethereum transactions and lower fees. He explained their focus on creating a seamless developer experience by maintaining Ethereum's ethos and tooling. Scroll aims to launch their mainnet soon, providing more scalable blockspace for Ethereum developers. Stacy Elliott of Decrypt interviewed him at Messari Mainnet 2023.]]></summary>
         <author>
             <name>Decrypt</name>
         </author>
@@ -583,11 +583,11 @@ https://decrypt.co/1000x]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Explosive Growth Ahead for Enterprise Blockchain]]></title>
-        <id>https://decrypt.co/videos/live-events/xXOrNbX9/explosive-growth-ahead-for-enterprise-blockchain</id>
-        <link href="https://decrypt.co/videos/live-events/xXOrNbX9/explosive-growth-ahead-for-enterprise-blockchain"/>
+        <title type="html"><![CDATA[Bitcoin's Narrative Is Shifting Towards Layer-2 Solutions]]></title>
+        <id>https://decrypt.co/videos/live-events/axArPRp3/bitcoins-narrative-is-shifting-towards-layer-2-solutions</id>
+        <link href="https://decrypt.co/videos/live-events/axArPRp3/bitcoins-narrative-is-shifting-towards-layer-2-solutions"/>
         <updated>2023-09-26T05:41:10.000Z</updated>
-        <summary type="html"><![CDATA[Paul Brody drives Ernst & Young (EY) initiatives and investments in blockchain technology across consulting, audit, and tax business lines. He says enterprise blockchain adoption is nearing an inflection point. Brody believes blockchains will one day handle 40 billion transactions daily across industries like automotive and pharma. Stacy Elliott interviewed him at Messari Mainnet 2023.]]></summary>
+        <summary type="html"><![CDATA[Rich Rines, original Core DAO contributor and former Coinbase engineer, discusses how the narrative around Bitcoin is shifting in 2023. While Bitcoin remains digital gold, new layer 2 solutions are emerging to unlock more utility and value from the huge amounts of capital stored in Bitcoin. He says these innovations can benefit Bitcoin holders while keeping Bitcoin maximalists happy by building outside the base layer. André Beganski interviewed him at Messari Mainnet 2023.]]></summary>
         <author>
             <name>Decrypt</name>
         </author>
