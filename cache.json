@@ -26,7 +26,7 @@
           "description": "FTX customers are expected to take the stand to recount how the firm allegedly misled them by using their cryptocurrency for its own ends.",
           "link": "https://decrypt.co/201751/ftx-trial-sam-bankman-fried-testimony-customers-investors-victims",
           "publishedOn": "2023-10-16T01:52:09.000Z",
-          "wordCount": 10848,
+          "wordCount": 10881,
           "title": "Sam Bankman-Fried's Defense Wants More Latitude In Questioning Witnesses",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/10/Sam-Bankman-Fried-shutterstock_2244922737-16x9-1-gID_7.jpg@png",
@@ -86,7 +86,7 @@
           "description": "Reports of a new withdrawal freeze by collapsed crypto lender Genesis were met with jokes and memes.",
           "link": "https://decrypt.co/201697/this-week-on-crypto-twitter-war-israel-hamas-ftx-gary-wang-tether",
           "publishedOn": "2023-10-15T19:38:53.000Z",
-          "wordCount": 13297,
+          "wordCount": 13330,
           "title": "This Week on Crypto Twitter: War, the FTX Trial, and a New Tether Chief",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/10/Bitcoin-Bullets-shutterstock_1923900131-16x9-1-gID_7.jpg@png",
@@ -266,7 +266,7 @@
           "description": "With tech giants racing to capitalize on generative AI, Google is infusing Search with creative new capabilities.",
           "link": "https://decrypt.co/201468/google-ai-features-search-browsing",
           "publishedOn": "2023-10-13T20:33:13.000Z",
-          "wordCount": 9890,
+          "wordCount": 9923,
           "title": "Google Adds AI Features to Search and Browsing May Never Be the Same",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/10/DALL·E-2023-10-13-17.14.55-Futuristic-vector-art-set-against-a-vibrant-background-that-seamlessly-merges-the-colors-blue-red-green-and-yellow-creating-a-visually-appealing-g-gID_7.png@png",
@@ -671,7 +671,7 @@
           "description": "Reza Jafery and Martin Shkreli sit down for a casual conversation about the growing movement that is E/ACC, what songs they could recite at gunpoint, and whether or not SBF will thrive or just survive during his time in prison.",
           "link": "https://decrypt.co/videos/interviews/QONaWXKZ/martin-shkreli-on-e-acc-and-sbf-in-prison",
           "publishedOn": "2023-10-03T22:03:48.000Z",
-          "wordCount": 6361,
+          "wordCount": 6638,
           "title": "Martin Shkreli on E/ACC and SBF in Prison",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/QONaWXKZ/poster.jpg",
@@ -771,21 +771,6 @@
           "imageUrl": "https://cdn.jwplayer.com/v2/media/lfmwAjB9/poster.jpg"
         },
         {
-          "id": "https://decrypt.co/videos/live-events/0Sezz6pZ/crypto-accounting-challenges-and-opportunities",
-          "author": null,
-          "description": "As crypto matures, accounting and tax regulations are evolving. Amy Kalnoki of Bitwave explains how her company helps crypto companies properly account for digital assets. She notes the importance of flexibility as new crypto assets emerge and regulations change. Stacy Elliott interviewed her at Messari Mainnet 2023.",
-          "link": "https://decrypt.co/videos/live-events/0Sezz6pZ/crypto-accounting-challenges-and-opportunities",
-          "publishedOn": "2023-09-26T05:41:11.000Z",
-          "wordCount": 6380,
-          "title": "Crypto Accounting Challenges and Opportunities",
-          "enclosure": {
-            "url": "https://cdn.jwplayer.com/v2/media/0Sezz6pZ/poster.jpg",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.jwplayer.com/v2/media/0Sezz6pZ/poster.jpg"
-        },
-        {
           "id": "https://decrypt.co/videos/live-events/0kYf2Qed/most-crypto-users-dont-trust-themselves-to-keep-their-seed-phrase-safe-ledger-ceo",
           "author": null,
           "description": "Decrypt's Stacy Elliott sat down with Ledger CEO Pascal Gauthier to discuss crypto custody post-FTX, and the hardware wallet manufacturer's controversial Ledger Recover service.",
@@ -799,6 +784,21 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.jwplayer.com/v2/media/0kYf2Qed/poster.jpg"
+        },
+        {
+          "id": "https://decrypt.co/videos/live-events/0Sezz6pZ/crypto-accounting-challenges-and-opportunities",
+          "author": null,
+          "description": "As crypto matures, accounting and tax regulations are evolving. Amy Kalnoki of Bitwave explains how her company helps crypto companies properly account for digital assets. She notes the importance of flexibility as new crypto assets emerge and regulations change. Stacy Elliott interviewed her at Messari Mainnet 2023.",
+          "link": "https://decrypt.co/videos/live-events/0Sezz6pZ/crypto-accounting-challenges-and-opportunities",
+          "publishedOn": "2023-09-26T05:41:11.000Z",
+          "wordCount": 6380,
+          "title": "Crypto Accounting Challenges and Opportunities",
+          "enclosure": {
+            "url": "https://cdn.jwplayer.com/v2/media/0Sezz6pZ/poster.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.jwplayer.com/v2/media/0Sezz6pZ/poster.jpg"
         },
         {
           "id": "https://decrypt.co/videos/live-events/fxygwLvH/indias-1-crypto-tax-has-been-a-nightmare-for-high-frequency-traders-says-shardeum-ceo",
@@ -821,7 +821,7 @@
           "description": "Solana has improved network reliability through upgrades like Quick and local fee markets. It recently partnered with Visa to allow settling transactions in USDC on Solana. This could enable merchants to receive instant payments and save on credit card processing fees. Stacy Elliott spoke with Austin Federa, Head of Strategy for the Solana Foundation, at Messari Mainnet 2023.",
           "link": "https://decrypt.co/videos/live-events/MZoxvulr/newly-partnered-with-visa-solana-focuses-on-reliability",
           "publishedOn": "2023-09-26T05:41:11.000Z",
-          "wordCount": 6453,
+          "wordCount": 6802,
           "title": "Newly Partnered with Visa, Solana Focuses on Reliability",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/MZoxvulr/poster.jpg",
@@ -846,19 +846,19 @@
           "imageUrl": "https://cdn.jwplayer.com/v2/media/PLZ0FpdC/poster.jpg"
         },
         {
-          "id": "https://decrypt.co/videos/live-events/axArPRp3/bitcoins-narrative-is-shifting-towards-layer-2-solutions",
+          "id": "https://decrypt.co/videos/live-events/OvAFgxTd/building-a-developer-friendly-zkrollup-to-scale-ethereum",
           "author": null,
-          "description": "Rich Rines, original Core DAO contributor and former Coinbase engineer, discusses how the narrative around Bitcoin is shifting in 2023. While Bitcoin remains digital gold, new layer 2 solutions are emerging to unlock more utility and value from the huge amounts of capital stored in Bitcoin. He says these innovations can benefit Bitcoin holders while keeping Bitcoin maximalists happy by building outside the base layer. André Beganski interviewed him at Messari Mainnet 2023.",
-          "link": "https://decrypt.co/videos/live-events/axArPRp3/bitcoins-narrative-is-shifting-towards-layer-2-solutions",
+          "description": "Daniel Helm, head of Developer Relations at Scroll, discussess how they are building a zkRollup to scale Ethereum transactions and lower fees. He explained their focus on creating a seamless developer experience by maintaining Ethereum's ethos and tooling. Scroll aims to launch their mainnet soon, providing more scalable blockspace for Ethereum developers. Stacy Elliott of Decrypt interviewed him at Messari Mainnet 2023.",
+          "link": "https://decrypt.co/videos/live-events/OvAFgxTd/building-a-developer-friendly-zkrollup-to-scale-ethereum",
           "publishedOn": "2023-09-26T05:41:10.000Z",
-          "wordCount": 6522,
-          "title": "Bitcoin's Narrative Is Shifting Towards Layer-2 Solutions",
+          "wordCount": 6467,
+          "title": "Building a Developer-Friendly zkRollup to Scale Ethereum",
           "enclosure": {
-            "url": "https://cdn.jwplayer.com/v2/media/axArPRp3/poster.jpg",
+            "url": "https://cdn.jwplayer.com/v2/media/OvAFgxTd/poster.jpg",
             "length": "1000000",
             "type": "image/png"
           },
-          "imageUrl": "https://cdn.jwplayer.com/v2/media/axArPRp3/poster.jpg"
+          "imageUrl": "https://cdn.jwplayer.com/v2/media/OvAFgxTd/poster.jpg"
         },
         {
           "id": "https://decrypt.co/videos/live-events/CrpvzFjL/regulation-threatens-us-dominance-of-financial-markets-says-coinroutes-ceo",
@@ -876,19 +876,19 @@
           "imageUrl": "https://cdn.jwplayer.com/v2/media/CrpvzFjL/poster.jpg"
         },
         {
-          "id": "https://decrypt.co/videos/live-events/xXOrNbX9/explosive-growth-ahead-for-enterprise-blockchain",
+          "id": "https://decrypt.co/videos/live-events/axArPRp3/bitcoins-narrative-is-shifting-towards-layer-2-solutions",
           "author": null,
-          "description": "Paul Brody drives Ernst & Young (EY) initiatives and investments in blockchain technology across consulting, audit, and tax business lines. He says enterprise blockchain adoption is nearing an inflection point. Brody believes blockchains will one day handle 40 billion transactions daily across industries like automotive and pharma. Stacy Elliott interviewed him at Messari Mainnet 2023.",
-          "link": "https://decrypt.co/videos/live-events/xXOrNbX9/explosive-growth-ahead-for-enterprise-blockchain",
+          "description": "Rich Rines, original Core DAO contributor and former Coinbase engineer, discusses how the narrative around Bitcoin is shifting in 2023. While Bitcoin remains digital gold, new layer 2 solutions are emerging to unlock more utility and value from the huge amounts of capital stored in Bitcoin. He says these innovations can benefit Bitcoin holders while keeping Bitcoin maximalists happy by building outside the base layer. André Beganski interviewed him at Messari Mainnet 2023.",
+          "link": "https://decrypt.co/videos/live-events/axArPRp3/bitcoins-narrative-is-shifting-towards-layer-2-solutions",
           "publishedOn": "2023-09-26T05:41:10.000Z",
-          "wordCount": 6426,
-          "title": "Explosive Growth Ahead for Enterprise Blockchain",
+          "wordCount": 6522,
+          "title": "Bitcoin's Narrative Is Shifting Towards Layer-2 Solutions",
           "enclosure": {
-            "url": "https://cdn.jwplayer.com/v2/media/xXOrNbX9/poster.jpg",
+            "url": "https://cdn.jwplayer.com/v2/media/axArPRp3/poster.jpg",
             "length": "1000000",
             "type": "image/png"
           },
-          "imageUrl": "https://cdn.jwplayer.com/v2/media/xXOrNbX9/poster.jpg"
+          "imageUrl": "https://cdn.jwplayer.com/v2/media/axArPRp3/poster.jpg"
         }
       ]
     }
