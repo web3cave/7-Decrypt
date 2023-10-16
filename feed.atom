@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-16T22:07:40.322Z</id>
+    <id>urn:2023-10-16T23:07:51.039Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-16T22:07:40.322Z</updated>
+    <updated>2023-10-16T23:07:51.039Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[BlackRock Boss Says Bitcoin Pump on Fake ETF News Shows ‘Pent Up Interest in Crypto’]]></title>
+        <id>https://decrypt.co/?p=201898</id>
+        <link href="https://decrypt.co/201898/blackrock-boss-says-bitcoin-pump-on-fake-etf-news-shows-pent-up-interest-in-crypto"/>
+        <updated>2023-10-16T22:54:01.000Z</updated>
+        <summary type="html"><![CDATA[While the CEO claimed his company’s Bitcoin spot ETF application was only in a better place after Monday’s events, others were skeptical.]]></summary>
+        <author>
+            <name>Sander Lutz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Taxes Targeting DeFi Would be ‘Awfully Challenging’: Coinbase VP]]></title>
+        <id>https://decrypt.co/?p=201879</id>
+        <link href="https://decrypt.co/201879/decentralized-exchange-dex-defi-tax-proposal"/>
+        <updated>2023-10-16T22:08:06.000Z</updated>
+        <summary type="html"><![CDATA[His comments come after he called a proposed tax rule changed “unchecked and unlimited tracking on the daily lives of Americans.”]]></summary>
+        <author>
+            <name>Mathew Di Salvo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ethereum DeFi Exchange Uniswap Adds Fees, Sparks Controversy]]></title>
         <id>https://decrypt.co/?p=201881</id>
@@ -376,16 +396,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI Just Deciphered an Ancient Herculaneum Scroll Without Unrolling It]]></title>
-        <id>https://decrypt.co/?p=201411</id>
-        <link href="https://decrypt.co/201411/ai-deciphered-herculaneum-scroll"/>
-        <updated>2023-10-13T17:08:43.000Z</updated>
-        <summary type="html"><![CDATA[The word "purple" has not been found in opened scroll fragments before.]]></summary>
-        <author>
-            <name>Decrypt AI, Edited by Stacy Elliot</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Why AI Arena is Building on Arbitrum]]></title>
         <id>https://decrypt.co/videos/interviews/Gl80TQOm/why-ai-arena-is-building-on-arbitrum</id>
         <link href="https://decrypt.co/videos/interviews/Gl80TQOm/why-ai-arena-is-building-on-arbitrum"/>
@@ -563,11 +573,11 @@ https://decrypt.co/1000x]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bitcoin's Narrative Is Shifting Towards Layer-2 Solutions]]></title>
-        <id>https://decrypt.co/videos/live-events/axArPRp3/bitcoins-narrative-is-shifting-towards-layer-2-solutions</id>
-        <link href="https://decrypt.co/videos/live-events/axArPRp3/bitcoins-narrative-is-shifting-towards-layer-2-solutions"/>
+        <title type="html"><![CDATA[Building a Developer-Friendly zkRollup to Scale Ethereum]]></title>
+        <id>https://decrypt.co/videos/live-events/OvAFgxTd/building-a-developer-friendly-zkrollup-to-scale-ethereum</id>
+        <link href="https://decrypt.co/videos/live-events/OvAFgxTd/building-a-developer-friendly-zkrollup-to-scale-ethereum"/>
         <updated>2023-09-26T05:41:10.000Z</updated>
-        <summary type="html"><![CDATA[Rich Rines, original Core DAO contributor and former Coinbase engineer, discusses how the narrative around Bitcoin is shifting in 2023. While Bitcoin remains digital gold, new layer 2 solutions are emerging to unlock more utility and value from the huge amounts of capital stored in Bitcoin. He says these innovations can benefit Bitcoin holders while keeping Bitcoin maximalists happy by building outside the base layer. André Beganski interviewed him at Messari Mainnet 2023.]]></summary>
+        <summary type="html"><![CDATA[Daniel Helm, head of Developer Relations at Scroll, discussess how they are building a zkRollup to scale Ethereum transactions and lower fees. He explained their focus on creating a seamless developer experience by maintaining Ethereum's ethos and tooling. Scroll aims to launch their mainnet soon, providing more scalable blockspace for Ethereum developers. Stacy Elliott of Decrypt interviewed him at Messari Mainnet 2023.]]></summary>
         <author>
             <name>Decrypt</name>
         </author>
@@ -583,11 +593,11 @@ https://decrypt.co/1000x]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Explosive Growth Ahead for Enterprise Blockchain]]></title>
-        <id>https://decrypt.co/videos/live-events/xXOrNbX9/explosive-growth-ahead-for-enterprise-blockchain</id>
-        <link href="https://decrypt.co/videos/live-events/xXOrNbX9/explosive-growth-ahead-for-enterprise-blockchain"/>
+        <title type="html"><![CDATA[Bitcoin's Narrative Is Shifting Towards Layer-2 Solutions]]></title>
+        <id>https://decrypt.co/videos/live-events/axArPRp3/bitcoins-narrative-is-shifting-towards-layer-2-solutions</id>
+        <link href="https://decrypt.co/videos/live-events/axArPRp3/bitcoins-narrative-is-shifting-towards-layer-2-solutions"/>
         <updated>2023-09-26T05:41:10.000Z</updated>
-        <summary type="html"><![CDATA[Paul Brody drives Ernst & Young (EY) initiatives and investments in blockchain technology across consulting, audit, and tax business lines. He says enterprise blockchain adoption is nearing an inflection point. Brody believes blockchains will one day handle 40 billion transactions daily across industries like automotive and pharma. Stacy Elliott interviewed him at Messari Mainnet 2023.]]></summary>
+        <summary type="html"><![CDATA[Rich Rines, original Core DAO contributor and former Coinbase engineer, discusses how the narrative around Bitcoin is shifting in 2023. While Bitcoin remains digital gold, new layer 2 solutions are emerging to unlock more utility and value from the huge amounts of capital stored in Bitcoin. He says these innovations can benefit Bitcoin holders while keeping Bitcoin maximalists happy by building outside the base layer. André Beganski interviewed him at Messari Mainnet 2023.]]></summary>
         <author>
             <name>Decrypt</name>
         </author>
