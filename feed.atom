@@ -1,12 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-17T15:08:31.696Z</id>
+    <id>urn:2023-10-17T16:10:20.970Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-17T15:08:31.697Z</updated>
+    <updated>2023-10-17T16:10:20.970Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Line for Validators Looking to Stake Ethereum Is Getting Shorter–Here's Why]]></title>
+        <title type="html"><![CDATA[Bitcoin Miner Using Paraguay Itaipu Dam to Power Its New Facility]]></title>
+        <id>https://decrypt.co/?p=201963</id>
+        <link href="https://decrypt.co/201963/bitcoin-miner-sazmining-paraguay-itaipu-dam"/>
+        <updated>2023-10-17T15:59:02.000Z</updated>
+        <summary type="html"><![CDATA[Sazmining President Kent Halliburton thinks the surplus of hydroelectic power and low costs could make Paraguary "the new Texas" for Bitcoin miners.]]></summary>
+        <author>
+            <name>Stacy Elliott</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SBF Trial Live Updates: Nishad Singh Details Excessive Spending at FTX]]></title>
+        <id>https://decrypt.co/?p=199892</id>
+        <link href="https://decrypt.co/199892/trial-sam-bankman-fried-live-blog-latest-news-insights"/>
+        <updated>2023-10-17T15:05:46.000Z</updated>
+        <summary type="html"><![CDATA[FTX founder Sam Bankman-Fried faces seven criminal charges related to the dramatic collapse of his crypto empire. Here's the latest on his trial.]]></summary>
+        <author>
+            <name>Decrypt Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trezor Safe 3 and Trezor Keep Metal Unboxing]]></title>
+        <id>https://decrypt.co/videos/explainers/IjqnO9pR/trezor-safe-3-and-trezor-keep-metal-unboxing</id>
+        <link href="https://decrypt.co/videos/explainers/IjqnO9pR/trezor-safe-3-and-trezor-keep-metal-unboxing"/>
+        <updated>2023-10-17T14:45:23.000Z</updated>
+        <summary type="html"><![CDATA[Trezor has launched the Safe 3, a hardware wallet aimed at "new entrants to crypto," alongside the new Keep Metal recovery seed storage device. We take a first look at what comes in the box.]]></summary>
+        <author>
+            <name>Decrypt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ethereum Staking Is Losing Its Appeal–Here's Why]]></title>
         <id>https://decrypt.co/?p=201968</id>
         <link href="https://decrypt.co/201968/line-validators-looking-stake-ethereum-is-getting-shorter-heres-why"/>
         <updated>2023-10-17T13:37:27.000Z</updated>
@@ -376,26 +406,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sega Exec Says Blockchain Gaming an 'Unknown World' Worth Exploring]]></title>
-        <id>https://decrypt.co/?p=201492</id>
-        <link href="https://decrypt.co/201492/sega-exec-says-blockchain-gaming-unknown-world-worth-exploring"/>
-        <updated>2023-10-14T20:10:15.000Z</updated>
-        <summary type="html"><![CDATA[Sega is co-developing a trading card NFT game based on Sangokushi Taisen for Asia, and Sega's Co-COO is optimistic about its potential.]]></summary>
-        <author>
-            <name>Kate Irwin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Cyberpunk 2077's Developer Needed AI to Complete 'Phantom Liberty']]></title>
-        <id>https://decrypt.co/?p=201466</id>
-        <link href="https://decrypt.co/201466/why-cyberpunk-2077-developer-needed-ai-complete-phantom-liberty"/>
-        <updated>2023-10-14T18:26:47.000Z</updated>
-        <summary type="html"><![CDATA[After the passing of actor Miłogost Reczek, CD Projekt Red used AI to recreate the voice of Viktor Vektor in Cyberpunk 2077: Phantom Liberty.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Why AI Arena is Building on Arbitrum]]></title>
         <id>https://decrypt.co/videos/interviews/Gl80TQOm/why-ai-arena-is-building-on-arbitrum</id>
         <link href="https://decrypt.co/videos/interviews/Gl80TQOm/why-ai-arena-is-building-on-arbitrum"/>
@@ -573,11 +583,11 @@ https://decrypt.co/1000x]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bitcoin's Narrative Is Shifting Towards Layer-2 Solutions]]></title>
-        <id>https://decrypt.co/videos/live-events/axArPRp3/bitcoins-narrative-is-shifting-towards-layer-2-solutions</id>
-        <link href="https://decrypt.co/videos/live-events/axArPRp3/bitcoins-narrative-is-shifting-towards-layer-2-solutions"/>
+        <title type="html"><![CDATA[Building a Developer-Friendly zkRollup to Scale Ethereum]]></title>
+        <id>https://decrypt.co/videos/live-events/OvAFgxTd/building-a-developer-friendly-zkrollup-to-scale-ethereum</id>
+        <link href="https://decrypt.co/videos/live-events/OvAFgxTd/building-a-developer-friendly-zkrollup-to-scale-ethereum"/>
         <updated>2023-09-26T05:41:10.000Z</updated>
-        <summary type="html"><![CDATA[Rich Rines, original Core DAO contributor and former Coinbase engineer, discusses how the narrative around Bitcoin is shifting in 2023. While Bitcoin remains digital gold, new layer 2 solutions are emerging to unlock more utility and value from the huge amounts of capital stored in Bitcoin. He says these innovations can benefit Bitcoin holders while keeping Bitcoin maximalists happy by building outside the base layer. André Beganski interviewed him at Messari Mainnet 2023.]]></summary>
+        <summary type="html"><![CDATA[Daniel Helm, head of Developer Relations at Scroll, discussess how they are building a zkRollup to scale Ethereum transactions and lower fees. He explained their focus on creating a seamless developer experience by maintaining Ethereum's ethos and tooling. Scroll aims to launch their mainnet soon, providing more scalable blockspace for Ethereum developers. Stacy Elliott of Decrypt interviewed him at Messari Mainnet 2023.]]></summary>
         <author>
             <name>Decrypt</name>
         </author>
@@ -588,16 +598,6 @@ https://decrypt.co/1000x]]></summary>
         <link href="https://decrypt.co/videos/live-events/CrpvzFjL/regulation-threatens-us-dominance-of-financial-markets-says-coinroutes-ceo"/>
         <updated>2023-09-26T05:41:10.000Z</updated>
         <summary type="html"><![CDATA[Dave Weisberger, Co-Founder and CEO of CoinRoutes, argued that excessive regulation in the U.S. threatens to undermine the country's long-standing dominance in global financial markets. He warned that other countries are embracing blockchain and crypto to build more efficient digital markets, which could cause the US to lose its competitive edge and trillions in GDP. Weisberger said CoinRoutes is now focusing more on expanding internationally due to restrictive policies in the U.S. He was interviewed by André Beganski of Decrypt at Messari Mainnet 2023.]]></summary>
-        <author>
-            <name>Decrypt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Explosive Growth Ahead for Enterprise Blockchain]]></title>
-        <id>https://decrypt.co/videos/live-events/xXOrNbX9/explosive-growth-ahead-for-enterprise-blockchain</id>
-        <link href="https://decrypt.co/videos/live-events/xXOrNbX9/explosive-growth-ahead-for-enterprise-blockchain"/>
-        <updated>2023-09-26T05:41:10.000Z</updated>
-        <summary type="html"><![CDATA[Paul Brody drives Ernst & Young (EY) initiatives and investments in blockchain technology across consulting, audit, and tax business lines. He says enterprise blockchain adoption is nearing an inflection point. Brody believes blockchains will one day handle 40 billion transactions daily across industries like automotive and pharma. Stacy Elliott interviewed him at Messari Mainnet 2023.]]></summary>
         <author>
             <name>Decrypt</name>
         </author>
