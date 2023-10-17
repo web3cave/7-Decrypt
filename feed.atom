@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-16T23:07:51.039Z</id>
+    <id>urn:2023-10-17T00:37:23.128Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-16T23:07:51.039Z</updated>
+    <updated>2023-10-17T00:37:23.128Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Nvidia’s Text-to-3D AI Tool Debuts While Its Hardware Business Hits Regulatory Headwinds]]></title>
+        <id>https://decrypt.co/?p=201918</id>
+        <link href="https://decrypt.co/201918/nvidia-masterpiece-studio-x-3d"/>
+        <updated>2023-10-17T00:15:27.000Z</updated>
+        <summary type="html"><![CDATA[From developing pioneering 3D software to navigating geopolitics for its hardware, Nvidia's ups and downs reflect an equally unsteady market.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Takes the Reigns in Spotting Exploding Stars]]></title>
+        <id>https://decrypt.co/?p=201899</id>
+        <link href="https://decrypt.co/201899/ai-takes-the-helm-in-supernova-classification"/>
+        <updated>2023-10-16T23:59:07.000Z</updated>
+        <summary type="html"><![CDATA[The Bright Transient Survey bot project can quickly identify supernovae with the help of machine learning.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BlackRock Boss Says Bitcoin Pump on Fake ETF News Shows ‘Pent Up Interest in Crypto’]]></title>
         <id>https://decrypt.co/?p=201898</id>
@@ -376,26 +396,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[There's a Film Festival Happening in Minecraft Right Now]]></title>
-        <id>https://decrypt.co/?p=201433</id>
-        <link href="https://decrypt.co/201433/film-festival-happening-minecraft-right-now"/>
-        <updated>2023-10-13T19:13:35.000Z</updated>
-        <summary type="html"><![CDATA[Looking to catch some independent cinema? You might be surprised at the locale—this festival is running inside a Minecraft game world. Here's why.]]></summary>
-        <author>
-            <name>Ali Shutler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You Can Buy Taylor Swift Movie Tickets With Bitcoin, Dogecoin, and SHIB]]></title>
-        <id>https://decrypt.co/?p=201448</id>
-        <link href="https://decrypt.co/201448/you-can-buy-taylor-swift-movie-tickets-bitcoin-dogecoin-shib"/>
-        <updated>2023-10-13T18:58:40.000Z</updated>
-        <summary type="html"><![CDATA[Tickets to the record-shattering Taylor Swift concert film can also be bought with ETH, XRP, and more via AMC and BitPay.]]></summary>
-        <author>
-            <name>Sander Lutz</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Why AI Arena is Building on Arbitrum]]></title>
         <id>https://decrypt.co/videos/interviews/Gl80TQOm/why-ai-arena-is-building-on-arbitrum</id>
         <link href="https://decrypt.co/videos/interviews/Gl80TQOm/why-ai-arena-is-building-on-arbitrum"/>
@@ -523,21 +523,21 @@ https://decrypt.co/1000x]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Crypto Accounting Challenges and Opportunities]]></title>
-        <id>https://decrypt.co/videos/live-events/0Sezz6pZ/crypto-accounting-challenges-and-opportunities</id>
-        <link href="https://decrypt.co/videos/live-events/0Sezz6pZ/crypto-accounting-challenges-and-opportunities"/>
-        <updated>2023-09-26T05:41:11.000Z</updated>
-        <summary type="html"><![CDATA[As crypto matures, accounting and tax regulations are evolving. Amy Kalnoki of Bitwave explains how her company helps crypto companies properly account for digital assets. She notes the importance of flexibility as new crypto assets emerge and regulations change. Stacy Elliott interviewed her at Messari Mainnet 2023.]]></summary>
-        <author>
-            <name>Decrypt</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Most Crypto Users Don't Trust Themselves to Keep Their Seed Phrase Safe: Ledger CEO]]></title>
         <id>https://decrypt.co/videos/live-events/0kYf2Qed/most-crypto-users-dont-trust-themselves-to-keep-their-seed-phrase-safe-ledger-ceo</id>
         <link href="https://decrypt.co/videos/live-events/0kYf2Qed/most-crypto-users-dont-trust-themselves-to-keep-their-seed-phrase-safe-ledger-ceo"/>
         <updated>2023-09-26T05:41:11.000Z</updated>
         <summary type="html"><![CDATA[Decrypt's Stacy Elliott sat down with Ledger CEO Pascal Gauthier to discuss crypto custody post-FTX, and the hardware wallet manufacturer's controversial Ledger Recover service.]]></summary>
+        <author>
+            <name>Decrypt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crypto Accounting Challenges and Opportunities]]></title>
+        <id>https://decrypt.co/videos/live-events/0Sezz6pZ/crypto-accounting-challenges-and-opportunities</id>
+        <link href="https://decrypt.co/videos/live-events/0Sezz6pZ/crypto-accounting-challenges-and-opportunities"/>
+        <updated>2023-09-26T05:41:11.000Z</updated>
+        <summary type="html"><![CDATA[As crypto matures, accounting and tax regulations are evolving. Amy Kalnoki of Bitwave explains how her company helps crypto companies properly account for digital assets. She notes the importance of flexibility as new crypto assets emerge and regulations change. Stacy Elliott interviewed her at Messari Mainnet 2023.]]></summary>
         <author>
             <name>Decrypt</name>
         </author>
