@@ -6,12 +6,27 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/videos/interviews/BRoKZzer/backthebunny-money-conspiracy-milady",
+          "author": null,
+          "description": "Our host Reza Jafery sits down with BackTheBunny to dive deep into money, the fight against crypto that we're witnessing in real-time, and milady culture. \n\nOur Host: https://twitter.com/rezajafery\nOur Guest: https://twitter.com/BackTheBunny\n\nOur Sponsors\nhttps://decrypt.co/1000x",
+          "link": "https://decrypt.co/videos/interviews/BRoKZzer/backthebunny-money-conspiracy-milady",
+          "publishedOn": "2023-10-17T19:48:39.000Z",
+          "wordCount": 6304,
+          "title": "BackTheBunny - Money, Conspiracy, Milady",
+          "enclosure": {
+            "url": "https://cdn.jwplayer.com/v2/media/BRoKZzer/poster.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.jwplayer.com/v2/media/BRoKZzer/poster.jpg"
+        },
+        {
           "id": "https://decrypt.co/?p=202014",
           "author": "Kate Irwin",
           "description": "Reddit is removing its blockchain tokens due to regulatory and \"resourcing\" concerns, and prices for MOON and BRICK are plunging.",
           "link": "https://decrypt.co/202014/reddit-killing-crypto-community-points-tokens-holders-dumping-bags",
           "publishedOn": "2023-10-17T18:54:49.000Z",
-          "wordCount": 9711,
+          "wordCount": 9729,
           "title": "Reddit Is Killing Crypto Community Points Tokens—And Holders Are Dumping Their Bags",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/02/Webp.net-resizeimage8-gID_7.jpg@png",
@@ -26,7 +41,7 @@
           "description": "Remedy's survival horror sequel Alan Wake 2 drops later this month. Start savoring the spooky vibes early with these recommendations.",
           "link": "https://decrypt.co/201876/god-mode-9-things-watch-read-play-before-alan-wake-2",
           "publishedOn": "2023-10-17T18:30:48.000Z",
-          "wordCount": 13803,
+          "wordCount": 13821,
           "title": "God Mode: 9 Things to Watch, Read, and Play Before 'Alan Wake 2'",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/10/alan-wake-2-gID_7.jpeg@png",
@@ -671,7 +686,7 @@
           "description": "Art Blocks founder and CEO Erick Calderon sat down with Sander Lutz, lead culture reporter at Decrypt's SCENE, at Art Blocks Marfa Weekend 2023. They discuss the evolution of the company and the generative art world, along with what draws art enthusiasts to be an active part of the community.",
           "link": "https://decrypt.co/videos/interviews/zSjfRrl5/art-of-the-times-art-blocks-founder-erick-calderon-on-the-state-of-generative-art",
           "publishedOn": "2023-10-05T18:10:41.000Z",
-          "wordCount": 6453,
+          "wordCount": 6748,
           "title": "'Art of the Times': Art Blocks Founder Erick Calderon on the State of Generative Art",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/zSjfRrl5/poster.jpg",
@@ -716,7 +731,7 @@
           "description": "AI Arena CEO Brandon Da Silva and COO Wei Xie discuss how artificial intelligence can shape the video game experience.",
           "link": "https://decrypt.co/videos/interviews/JKuqCMao/what-can-ai-do-in-gaming",
           "publishedOn": "2023-10-03T17:04:00.000Z",
-          "wordCount": 6249,
+          "wordCount": 6544,
           "title": "What Can AI Do in Gaming?",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/JKuqCMao/poster.jpg",
@@ -836,7 +851,7 @@
           "description": "As India figures out its regulatory approach to the crypto industry, one thing is clear to Shardeum co-founder Nischal Shetty: “If you're a high-frequency trader, you can't afford to lose a percentage every time you sell,” he told Decrypt's Andre Beganski at Messari Mainnet in New York. “That's something that's caused a lot of issues.”",
           "link": "https://decrypt.co/videos/live-events/fxygwLvH/indias-1-crypto-tax-has-been-a-nightmare-for-high-frequency-traders-says-shardeum-ceo",
           "publishedOn": "2023-09-26T05:41:11.000Z",
-          "wordCount": 6823,
+          "wordCount": 6474,
           "title": "India's 1% Crypto Tax Has Been a Nightmare for High-Frequency Traders, Says Shardeum CEO",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/fxygwLvH/poster.jpg",
@@ -851,7 +866,7 @@
           "description": "Solana has improved network reliability through upgrades like Quick and local fee markets. It recently partnered with Visa to allow settling transactions in USDC on Solana. This could enable merchants to receive instant payments and save on credit card processing fees. Stacy Elliott spoke with Austin Federa, Head of Strategy for the Solana Foundation, at Messari Mainnet 2023.",
           "link": "https://decrypt.co/videos/live-events/MZoxvulr/newly-partnered-with-visa-solana-focuses-on-reliability",
           "publishedOn": "2023-09-26T05:41:11.000Z",
-          "wordCount": 6453,
+          "wordCount": 6802,
           "title": "Newly Partnered with Visa, Solana Focuses on Reliability",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/MZoxvulr/poster.jpg",
@@ -874,21 +889,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.jwplayer.com/v2/media/PLZ0FpdC/poster.jpg"
-        },
-        {
-          "id": "https://decrypt.co/videos/live-events/axArPRp3/bitcoins-narrative-is-shifting-towards-layer-2-solutions",
-          "author": null,
-          "description": "Rich Rines, original Core DAO contributor and former Coinbase engineer, discusses how the narrative around Bitcoin is shifting in 2023. While Bitcoin remains digital gold, new layer 2 solutions are emerging to unlock more utility and value from the huge amounts of capital stored in Bitcoin. He says these innovations can benefit Bitcoin holders while keeping Bitcoin maximalists happy by building outside the base layer. André Beganski interviewed him at Messari Mainnet 2023.",
-          "link": "https://decrypt.co/videos/live-events/axArPRp3/bitcoins-narrative-is-shifting-towards-layer-2-solutions",
-          "publishedOn": "2023-09-26T05:41:10.000Z",
-          "wordCount": 6522,
-          "title": "Bitcoin's Narrative Is Shifting Towards Layer-2 Solutions",
-          "enclosure": {
-            "url": "https://cdn.jwplayer.com/v2/media/axArPRp3/poster.jpg",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.jwplayer.com/v2/media/axArPRp3/poster.jpg"
         }
       ]
     }
