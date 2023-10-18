@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-18T16:09:56.562Z</id>
+    <id>urn:2023-10-18T17:07:38.384Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-18T16:09:56.562Z</updated>
+    <updated>2023-10-18T17:07:38.384Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Meet the Company That’s Helping Governments Detect AI Deepfakes]]></title>
+        <id>https://decrypt.co/?p=202181</id>
+        <link href="https://decrypt.co/202181/deepfake-detection-deepmedia-ai-government"/>
+        <updated>2023-10-18T17:04:24.000Z</updated>
+        <summary type="html"><![CDATA[Disinformation campaigns are enlisting powerful tools, prompting governments to seek out the expertise of AI startups like DeepMedia.]]></summary>
+        <author>
+            <name>Ryan Gladwin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clip: DeepMedia's DeepID Deepfake Detection Tool at Work]]></title>
+        <id>https://decrypt.co/videos/live-events/m4Vy4vhC/clip-deepmedias-deepid-deepfake-detection-tool-at-work</id>
+        <link href="https://decrypt.co/videos/live-events/m4Vy4vhC/clip-deepmedias-deepid-deepfake-detection-tool-at-work"/>
+        <updated>2023-10-18T16:48:31.000Z</updated>
+        <summary type="html"><![CDATA[A clip showcasing how DeepMedia's DeepID deepfake detection tool works. Courtesy: DeepMedia]]></summary>
+        <author>
+            <name>Decrypt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DOJ Used All Its Star Witnesses—What Will Sam Bankman-Fried's Defense Do Now?]]></title>
+        <id>https://decrypt.co/?p=202017</id>
+        <link href="https://decrypt.co/202017/doj-star-witnesses-what-will-sam-bankman-fried-do-now"/>
+        <updated>2023-10-18T16:29:47.000Z</updated>
+        <summary type="html"><![CDATA[The case is still up in the air, but the government has unloaded its three key witnesses against Sam Bankman-Fried.]]></summary>
+        <author>
+            <name>André Beganski</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[US Treasury Sanctions Gaza-Based Bitcoin Exchange Tied to Hamas]]></title>
+        <id>https://decrypt.co/?p=202171</id>
+        <link href="https://decrypt.co/202171/us-treasury-sanctions-gaza-based-bitcoin-exchange-hamas"/>
+        <updated>2023-10-18T16:19:20.000Z</updated>
+        <summary type="html"><![CDATA[OFAC says the exchange has connections to Hamas fundraising efforts and individuals who have supported ISIS.]]></summary>
+        <author>
+            <name>Andrew Throuvalas</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoin ETF Could Boost Crypto Market by $1 Trillion, Analysts Say]]></title>
         <id>https://decrypt.co/?p=202170</id>
@@ -53,16 +93,6 @@
         <summary type="html"><![CDATA[Novogratz joins a growing contingent who are much more optimistic that the industry will see a Bitcoin ETF sooner rather than later.]]></summary>
         <author>
             <name>Andrew Throuvalas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RareSkills Launches Free Zero-Knowledge Proofs (ZKPs) E-Book]]></title>
-        <id>https://decrypt.co/?p=202138</id>
-        <link href="https://decrypt.co/202138/rareskills-launches-free-zero-knowledge-proofs-zkps-e-book"/>
-        <updated>2023-10-18T14:24:30.000Z</updated>
-        <summary type="html"><![CDATA[The book is designed to provide programmers with all the information needed to code a prover and verifier from scratch that is usable in modern smart contracts.]]></summary>
-        <author>
-            <name>Chainwire</name>
         </author>
     </entry>
     <entry>
@@ -422,36 +452,6 @@ https://decrypt.co/1000x]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tether Freezes Wallets Linked to Terrorist Groups in Israel and Ukraine]]></title>
-        <id>https://decrypt.co/?p=201860</id>
-        <link href="https://decrypt.co/201860/tether-freezes-crypto-tied-to-warfare-in-israel-and-ukraine"/>
-        <updated>2023-10-16T18:23:04.000Z</updated>
-        <summary type="html"><![CDATA[Tether has frozen over $835 million in collaboration with governments to date.]]></summary>
-        <author>
-            <name>Andrew Throuvalas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Mining Activity Surges as Difficulty Soars to New Peak]]></title>
-        <id>https://decrypt.co/?p=201821</id>
-        <link href="https://decrypt.co/201821/bitcoin-mining-activity-surges-difficulty-soars-new-peak"/>
-        <updated>2023-10-16T17:19:22.000Z</updated>
-        <summary type="html"><![CDATA[With about six and a half months until the next halving event, Bitcoin’s mining difficulty level has just hit a new all-time high.]]></summary>
-        <author>
-            <name>Andrew Asmakov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OnePiece Labs and Sei to Showcase Web3 Startups at Demo Day]]></title>
-        <id>https://decrypt.co/?p=201851</id>
-        <link href="https://decrypt.co/201851/onepiece-labs-and-sei-to-showcase-web3-startups-at-demo-day"/>
-        <updated>2023-10-16T16:59:51.000Z</updated>
-        <summary type="html"><![CDATA[The event will spotlight 11 startups from the partnership’s incubator program, including GameFi, SocialFi, and AI+Web3 firms.]]></summary>
-        <author>
-            <name>Decrypt Staff</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Why AI Arena is Building on Arbitrum]]></title>
         <id>https://decrypt.co/videos/interviews/Gl80TQOm/why-ai-arena-is-building-on-arbitrum</id>
         <link href="https://decrypt.co/videos/interviews/Gl80TQOm/why-ai-arena-is-building-on-arbitrum"/>
@@ -604,16 +604,6 @@ https://decrypt.co/1000x]]></summary>
         <link href="https://decrypt.co/videos/live-events/fxygwLvH/indias-1-crypto-tax-has-been-a-nightmare-for-high-frequency-traders-says-shardeum-ceo"/>
         <updated>2023-09-26T05:41:11.000Z</updated>
         <summary type="html"><![CDATA[As India figures out its regulatory approach to the crypto industry, one thing is clear to Shardeum co-founder Nischal Shetty: “If you're a high-frequency trader, you can't afford to lose a percentage every time you sell,” he told Decrypt's Andre Beganski at Messari Mainnet in New York. “That's something that's caused a lot of issues.”]]></summary>
-        <author>
-            <name>Decrypt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Newly Partnered with Visa, Solana Focuses on Reliability]]></title>
-        <id>https://decrypt.co/videos/live-events/MZoxvulr/newly-partnered-with-visa-solana-focuses-on-reliability</id>
-        <link href="https://decrypt.co/videos/live-events/MZoxvulr/newly-partnered-with-visa-solana-focuses-on-reliability"/>
-        <updated>2023-09-26T05:41:11.000Z</updated>
-        <summary type="html"><![CDATA[Solana has improved network reliability through upgrades like Quick and local fee markets. It recently partnered with Visa to allow settling transactions in USDC on Solana. This could enable merchants to receive instant payments and save on credit card processing fees. Stacy Elliott spoke with Austin Federa, Head of Strategy for the Solana Foundation, at Messari Mainnet 2023.]]></summary>
         <author>
             <name>Decrypt</name>
         </author>
