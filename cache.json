@@ -6,6 +6,21 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=202182",
+          "author": "Mathew Di Salvo",
+          "description": "Who will be the first to bring a Bitcoin ETF to U.S. investors?",
+          "link": "https://decrypt.co/202182/bitcoin-etf-hopes-fidelity-sec",
+          "publishedOn": "2023-10-18T17:12:02.000Z",
+          "wordCount": 10876,
+          "title": "Bitcoin ETF Hopes Stay Alive as Investment Giant Fidelity Revises Bid",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/10/bitcoin-etf-hope-gID_4.jpeg@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/10/bitcoin-etf-hope-gID_4.jpeg@png"
+        },
+        {
           "id": "https://decrypt.co/?p=202181",
           "author": "Ryan Gladwin",
           "description": "Disinformation campaigns are enlisting powerful tools, prompting governments to seek out the expertise of AI startups like DeepMedia.",
@@ -386,7 +401,7 @@
           "description": "How much of Shrapnel's in-game items are tradeable NFTs? Don Norbury, Studio Head at Shrapnel and CTO at game studio NEON, tells Decrypt's Kate Irwin about Shrapnel's approach to game economics, including different game pricing models and how NFT game economies create different challenges for developers.",
           "link": "https://decrypt.co/videos/interviews/Z2OMMsC5/a-grand-experiment-shrapnel-studio-head-don-norbury-talks-game-economics",
           "publishedOn": "2023-10-17T17:22:00.000Z",
-          "wordCount": 6704,
+          "wordCount": 6409,
           "title": "'A Grand Experiment': Shrapnel Studio Head Don Norbury Talks Game Economics",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/Z2OMMsC5/poster.jpg",
@@ -431,7 +446,7 @@
           "description": "Trezor has launched the Safe 3, a hardware wallet aimed at \"new entrants to crypto,\" alongside the new Keep Metal recovery seed storage device. We take a first look at what comes in the box.",
           "link": "https://decrypt.co/videos/explainers/IjqnO9pR/trezor-safe-3-and-trezor-keep-metal-unboxing",
           "publishedOn": "2023-10-17T14:45:23.000Z",
-          "wordCount": 6301,
+          "wordCount": 6334,
           "title": "Trezor Safe 3 and Trezor Keep Metal Unboxing",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/IjqnO9pR/poster.jpg",
@@ -651,27 +666,12 @@
           "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/06/uniswap-uni-token-defi-decentralized-finance-gID_7.jpg@png"
         },
         {
-          "id": "https://decrypt.co/?p=201875",
-          "author": "Kate Irwin",
-          "description": "A new report this week suggests that Netflix may license a Grand Theft Auto game. But the streaming giant isn't fueling the speculation.",
-          "link": "https://decrypt.co/201875/playable-grand-theft-auto-on-netflix-just-rumors-says-streaming-giant",
-          "publishedOn": "2023-10-16T21:13:14.000Z",
-          "wordCount": 9580,
-          "title": "Playable Grand Theft Auto on Netflix? Just 'Rumors,' Says Streaming Giant",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/05/GTA5-Cropped-gID_7.jpg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/05/GTA5-Cropped-gID_7.jpg@png"
-        },
-        {
           "id": "https://decrypt.co/videos/interviews/Gl80TQOm/why-ai-arena-is-building-on-arbitrum",
           "author": null,
           "description": "AI Arena CEO Brandon Da Silva and COO Wei Xie discuss the challenges that come with building on Ethereum, ETH sidechains, and layer-two blockchains.",
           "link": "https://decrypt.co/videos/interviews/Gl80TQOm/why-ai-arena-is-building-on-arbitrum",
           "publishedOn": "2023-10-12T14:22:00.000Z",
-          "wordCount": 6275,
+          "wordCount": 6242,
           "title": "Why AI Arena is Building on Arbitrum",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/Gl80TQOm/poster.jpg",
@@ -686,7 +686,7 @@
           "description": "Welcome to the 4th episode of this time will be different.\n\nOur guest for today's episode is Pet3rpan_ from Metacartel, 1kx, HydraVentures, and more!\n\nhttps://twitter.com/pet3rpan_\n\nThis Time Will Be Different is sponsored by 1000x\nhttps://decrypt.co/1000x",
           "link": "https://decrypt.co/videos/interviews/DawNLI3O/pet3rpan-on-venture-daos-and-blockchain-games",
           "publishedOn": "2023-10-11T18:24:19.000Z",
-          "wordCount": 6318,
+          "wordCount": 6613,
           "title": "Pet3rPan_ on venture DAOs and blockchain games",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/DawNLI3O/poster.jpg",
@@ -716,7 +716,7 @@
           "description": "Art Blocks founder and CEO Erick Calderon sat down with Sander Lutz, lead culture reporter at Decrypt's SCENE, at Art Blocks Marfa Weekend 2023. They discuss the evolution of the company and the generative art world, along with what draws art enthusiasts to be an active part of the community.",
           "link": "https://decrypt.co/videos/interviews/zSjfRrl5/art-of-the-times-art-blocks-founder-erick-calderon-on-the-state-of-generative-art",
           "publishedOn": "2023-10-05T18:10:41.000Z",
-          "wordCount": 6453,
+          "wordCount": 6748,
           "title": "'Art of the Times': Art Blocks Founder Erick Calderon on the State of Generative Art",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/zSjfRrl5/poster.jpg",
