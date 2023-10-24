@@ -6,6 +6,21 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=202905",
+          "author": "Jose Antonio Lanz",
+          "description": "From enhanced performance to groundbreaking AI capabilities, the Qualcomm Snapdragon 8 Gen 3 is set to redefine what you can do with your smartphone.",
+          "link": "https://decrypt.co/202905/snapdragon-8-generation-3-artificial-intelligence-smartphone-chip",
+          "publishedOn": "2023-10-24T01:20:14.000Z",
+          "wordCount": 10984,
+          "title": "Next Snapdragon Chip Leaks: The Upcoming Mobile CPU Is Packed with AI Power",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/10/aichip-gID_7.png@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/10/aichip-gID_7.png@png"
+        },
+        {
           "id": "https://decrypt.co/?p=202894",
           "author": "Ryan Ozawa",
           "description": "A second rally for the day triggered $145 million in overall crypto market liquidations.",
@@ -41,7 +56,7 @@
           "description": "OpenAI CEO Sam Altman delved into the transformative potential of AI, hinting at a future where data takes a backseat to reasoning.",
           "link": "https://decrypt.co/202877/openai-ai-agi-sam-altman-wall-street-journal",
           "publishedOn": "2023-10-23T22:54:31.000Z",
-          "wordCount": 10980,
+          "wordCount": 10953,
           "title": "Ghost in the Machine: OpenAI CEO Sees ChatGPT on Track from AI to AGI\"",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/10/SCR-20231023-plyf-gID_7.jpeg@png",
@@ -251,7 +266,7 @@
           "description": "Nvidia is all-in when it comes to AI. Eureka helps robots learn intricate skills faster than an aspiring surgeon, and its new SteerLM wants to make human annotation in AI training a thing of the past.",
           "link": "https://decrypt.co/202659/nvidia-eureka-ai-agent-allegedly-makes-robot-hands-dextrous-human-ones",
           "publishedOn": "2023-10-22T14:01:02.000Z",
-          "wordCount": 10043,
+          "wordCount": 10016,
           "title": "Robot Hands Can Match Humans' Dexterity With New AI Smarts, Claims Nvidia",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/10/Nvidia-Eureka-gID_7.png@png",
@@ -281,7 +296,7 @@
           "description": "Huawei steps into the AI storage arena with its OceanStor A310, showcasing potential solutions to industry-wide data processing hurdles.",
           "link": "https://decrypt.co/202568/huawei-unveils-oceanstor-a310-speedy-storage-solution-ai-model-trainers",
           "publishedOn": "2023-10-22T12:01:02.000Z",
-          "wordCount": 10244,
+          "wordCount": 10217,
           "title": "Huawei Unveils OceanStor A310—A Speedy Storage Solution for AI Model Trainers",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/10/huawei-ai-gID_7.png@png",
@@ -326,7 +341,7 @@
           "description": "NASA's Nancy Grace Roman Telescope, launching May 2027, aims to unravel dark matter mysteries and honor Roman's legacy in astronomy.",
           "link": "https://decrypt.co/202611/nasa-prepares-deep-space-mission-why-ai-play-important-role",
           "publishedOn": "2023-10-21T15:01:02.000Z",
-          "wordCount": 10831,
+          "wordCount": 10804,
           "title": "NASA Prepares Deep Space Mission—Why AI Will Play Important Role",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/10/nasa-nancy-grace-roman-gID_7.jpg@png",
@@ -431,7 +446,7 @@
           "description": "Raini: Lords of Light is an NFT-optional card game bursting with crypto memes. From SBF to CZ and Elon, this free-to-play game has some truly wild animations. Decrypt contributor Ryan S. Gladwin shares his honest thoughts on the game.",
           "link": "https://decrypt.co/videos/live-events/32YyJHCJ/game-review-raini-the-lords-of-light-brands-itself-with-memes",
           "publishedOn": "2023-10-20T19:20:00.000Z",
-          "wordCount": 6344,
+          "wordCount": 6377,
           "title": "Game Review: 'Raini: The Lords of Light' Brands Itself With Memes",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/32YyJHCJ/poster.jpg",
@@ -461,7 +476,7 @@
           "description": "Foundation models promise a new era in AI, but Stanford University researchers have flagged that they're becoming less transparent.",
           "link": "https://decrypt.co/202555/ai-model-transparency-getting-worse-stanford-researchers",
           "publishedOn": "2023-10-20T17:58:18.000Z",
-          "wordCount": 10629,
+          "wordCount": 10569,
           "title": "AI Model Transparency Is Getting Worse, Researchers Warn",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/10/AI-transparency-gID_7.png@png",
@@ -591,27 +606,12 @@
           "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/08/bitcoin-btc-etf-gID_7.jpg@png"
         },
         {
-          "id": "https://decrypt.co/?p=202505",
-          "author": "Andrew Asmakov",
-          "description": "As the crypto market rebounds, the price of Solana's native token SOL has seen its price hit a 3-month high above $26.",
-          "link": "https://decrypt.co/202505/solana-soars-overnight-crypto-market-recoups-billion",
-          "publishedOn": "2023-10-20T09:55:41.000Z",
-          "wordCount": 9624,
-          "title": "Solana Soars 12% Overnight as Crypto Market Recoups $43 Billion",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/06/solana-tokens-sol-gID_7.jpg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/06/solana-tokens-sol-gID_7.jpg@png"
-        },
-        {
           "id": "https://decrypt.co/videos/live-events/QaTBP6eO/art-blocks-marfa-weekend-recap",
           "author": null,
           "description": "Relive the Art Blocks Marfa Weekend 2023 event with this highlights video, produced by Vincent Roazzi Jr. for Decrypt Studios in partnership with Art Blocks.",
           "link": "https://decrypt.co/videos/live-events/QaTBP6eO/art-blocks-marfa-weekend-recap",
           "publishedOn": "2023-10-19T19:19:11.000Z",
-          "wordCount": 6271,
+          "wordCount": 6541,
           "title": "Art Blocks Marfa Weekend Recap",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/QaTBP6eO/poster.jpg",
@@ -641,7 +641,7 @@
           "description": "A clip showcasing how DeepMedia's DeepID deepfake detection tool works. Courtesy: DeepMedia",
           "link": "https://decrypt.co/videos/live-events/m4Vy4vhC/clip-deepmedias-deepid-deepfake-detection-tool-at-work",
           "publishedOn": "2023-10-18T16:48:31.000Z",
-          "wordCount": 6224,
+          "wordCount": 6191,
           "title": "Clip: DeepMedia's DeepID Deepfake Detection Tool at Work",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/m4Vy4vhC/poster.jpg",
@@ -821,7 +821,7 @@
           "description": "Timmu Tõke, co-founder and CEO of Ready Player Me, joins Decrypt contributor Ryan Gladwin to discuss the startup's approach to powering avatars that are interoperable across games and metaverse platforms—and what's needed to convince the industry to adopt standards and open up.",
           "link": "https://decrypt.co/videos/interviews/TH3KEAI0/there-are-no-real-standards-ready-player-me-ceo-timmu-tke-on-building-for-an-open-gaming-ecosystem",
           "publishedOn": "2023-09-29T17:29:40.000Z",
-          "wordCount": 6725,
+          "wordCount": 6432,
           "title": "'There Are No Real Standards': Ready Player Me CEO Timmu Tõke on Building for an Open Gaming Ecosystem",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/TH3KEAI0/poster.jpg",
@@ -866,7 +866,7 @@
           "description": "Our host Reza Jafery is joined by Gareth Fenney aka 500Altcoins. They discuss the glory days of DeFi Summer and whether or not its a smart move for builders in the crypto space to relocate to Dubai.",
           "link": "https://decrypt.co/videos/interviews/cI7p8AK3/500altcoins-discusses-defi-summer-and-the-dubai-crypto-scene-this-time-will-be-different-episode-2",
           "publishedOn": "2023-09-26T20:00:00.000Z",
-          "wordCount": 6700,
+          "wordCount": 6407,
           "title": "500Altcoins discusses DeFi Summer and the Dubai Crypto Scene - This Time Will Be Different - Episode 2",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/cI7p8AK3/poster.jpg",
