@@ -6,12 +6,27 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=203455",
+          "author": "Jose Antonio Lanz",
+          "description": "New research suggests watermarking may not be enough to ensure that we can identify deepfakes.",
+          "link": "https://decrypt.co/203455/disadvantages-of-watermarking-ai-generated-images",
+          "publishedOn": "2023-10-27T03:30:24.000Z",
+          "wordCount": 10258,
+          "title": "Invisible Ink: Researchers Probe the Weaknesses of Watermarking AI-Generated Content",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/10/AI-Watermarking-Art-by-Jose-Lanz-gID_7.jpg@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/10/AI-Watermarking-Art-by-Jose-Lanz-gID_7.jpg@png"
+        },
+        {
           "id": "https://decrypt.co/?p=203456",
           "author": "Jason Nelson",
           "description": "NASA's InSight rover has been collecting seismic data on Mars for three years, offering a snapshot of the planet's internal structure.",
           "link": "https://decrypt.co/203456/northwestern-study-probes-deep-into-the-red-planets-core",
           "publishedOn": "2023-10-27T03:03:33.000Z",
-          "wordCount": 11126,
+          "wordCount": 11138,
           "title": "The Insides of Mars Is ‘Surprisingly Soft’, A New Survey Says",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/10/Decrypt-Wallpaper-Format-2023-10-26T174935.082-gID_7.png@png",
@@ -576,27 +591,12 @@
           "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/10/bitcoin-btc-fund-piggy-bank-gID_7.jpg@png"
         },
         {
-          "id": "https://decrypt.co/?p=203109",
-          "author": "Sander Lutz",
-          "description": "The ardently pro-crypto congressman was one vote away from the gavel, but the former president torpedoed his chances.",
-          "link": "https://decrypt.co/203109/tom-emmer-nominated-as-house-speaker-to-crypto-cheers-trump-jeers",
-          "publishedOn": "2023-10-24T20:32:52.000Z",
-          "wordCount": 10909,
-          "title": "Bitcoin Ally Tom Emmer Drops Out of Race for House Speaker After Trump Attack",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/10/Tom-Emmer-Donald-Trump-RKO-gID_7.jpg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/10/Tom-Emmer-Donald-Trump-RKO-gID_7.jpg@png"
-        },
-        {
           "id": "https://decrypt.co/videos/interviews/A0auyZzn/midnight-societys-rob-bowling-on-deadrops-new-cars-and-user-generated-modes",
           "author": null,
           "description": "Decrypt reporter and GG producer Kate Irwin interviews Midnight Society Studio Head Rob Bowling about Deadrop's development and Snapshot VII.",
           "link": "https://decrypt.co/videos/interviews/A0auyZzn/midnight-societys-rob-bowling-on-deadrops-new-cars-and-user-generated-modes",
           "publishedOn": "2023-10-22T01:30:00.000Z",
-          "wordCount": 6281,
+          "wordCount": 6595,
           "title": "Midnight Society's Rob Bowling on Deadrop's New Cars and User-Generated Modes",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/A0auyZzn/poster.jpg",
@@ -686,7 +686,7 @@
           "description": "Our host Reza Jafery sits down with BackTheBunny to dive deep into money, the fight against crypto that we're witnessing in real-time, and milady culture. \n\nOur Host: https://twitter.com/rezajafery\nOur Guest: https://twitter.com/BackTheBunny\n\nOur Sponsors\nhttps://decrypt.co/1000x",
           "link": "https://decrypt.co/videos/interviews/BRoKZzer/backthebunny-money-conspiracy-milady",
           "publishedOn": "2023-10-17T19:48:39.000Z",
-          "wordCount": 6620,
+          "wordCount": 6306,
           "title": "BackTheBunny - Money, Conspiracy, Milady",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/BRoKZzer/poster.jpg",
@@ -701,7 +701,7 @@
           "description": "How much of Shrapnel's in-game items are tradeable NFTs? Don Norbury, Studio Head at Shrapnel and CTO at game studio NEON, tells Decrypt's Kate Irwin about Shrapnel's approach to game economics, including different game pricing models and how NFT game economies create different challenges for developers.",
           "link": "https://decrypt.co/videos/interviews/Z2OMMsC5/a-grand-experiment-shrapnel-studio-head-don-norbury-talks-game-economics",
           "publishedOn": "2023-10-17T17:22:00.000Z",
-          "wordCount": 6725,
+          "wordCount": 6411,
           "title": "'A Grand Experiment': Shrapnel Studio Head Don Norbury Talks Game Economics",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/Z2OMMsC5/poster.jpg",
@@ -806,7 +806,7 @@
           "description": "Reza Jafery and Martin Shkreli sit down for a casual conversation about the growing movement that is E/ACC, what songs they could recite at gunpoint, and whether or not SBF will thrive or just survive during his time in prison.",
           "link": "https://decrypt.co/videos/interviews/QONaWXKZ/martin-shkreli-on-e-acc-and-sbf-in-prison",
           "publishedOn": "2023-10-03T22:03:48.000Z",
-          "wordCount": 6363,
+          "wordCount": 6677,
           "title": "Martin Shkreli on E/ACC and SBF in Prison",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/QONaWXKZ/poster.jpg",
@@ -821,7 +821,7 @@
           "description": "AI Arena CEO Brandon Da Silva and COO Wei Xie discuss how artificial intelligence can shape the video game experience.",
           "link": "https://decrypt.co/videos/interviews/JKuqCMao/what-can-ai-do-in-gaming",
           "publishedOn": "2023-10-03T17:04:00.000Z",
-          "wordCount": 6251,
+          "wordCount": 6565,
           "title": "What Can AI Do in Gaming?",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/JKuqCMao/poster.jpg",
@@ -836,7 +836,7 @@
           "description": "Timmu Tõke, co-founder and CEO of Ready Player Me, joins Decrypt contributor Ryan Gladwin to discuss the startup's approach to powering avatars that are interoperable across games and metaverse platforms—and what's needed to convince the industry to adopt standards and open up.",
           "link": "https://decrypt.co/videos/interviews/TH3KEAI0/there-are-no-real-standards-ready-player-me-ceo-timmu-tke-on-building-for-an-open-gaming-ecosystem",
           "publishedOn": "2023-09-29T17:29:40.000Z",
-          "wordCount": 6433,
+          "wordCount": 6747,
           "title": "'There Are No Real Standards': Ready Player Me CEO Timmu Tõke on Building for an Open Gaming Ecosystem",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/TH3KEAI0/poster.jpg",
@@ -851,7 +851,7 @@
           "description": "Shrapnel Studio Head Don Norbury tells Kate Irwin the reasons why the upcoming first-person shooter game will offer a wide range of NFTs. He also reveals team-based gameplay plans and shares how game maps have already changed this year.",
           "link": "https://decrypt.co/videos/interviews/fhoy7Z8f/blockchain-is-only-way-forward-for-gaming-says-shrapnel-studio-head",
           "publishedOn": "2023-09-28T21:39:00.000Z",
-          "wordCount": 6376,
+          "wordCount": 6690,
           "title": "Blockchain Is 'Only Way' Forward for Gaming, Says Shrapnel Studio Head",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/fhoy7Z8f/poster.jpg",
