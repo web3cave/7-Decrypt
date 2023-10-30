@@ -6,12 +6,72 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=203564",
+          "author": "Jason Nelson",
+          "description": "The CEO of the cybersecurity firm said potential victims should go on the offensive and fight AI with AI.",
+          "link": "https://decrypt.co/203564/since-chatgpt-launch-phishing-emails-are-up-1265-slashnext",
+          "publishedOn": "2023-10-30T14:01:02.000Z",
+          "wordCount": 10558,
+          "title": "Email Phishing Attacks Up 1,265% Since ChatGPT Launched: SlashNext",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/08/hackers-shutterstock-gID_7.png@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/08/hackers-shutterstock-gID_7.png@png"
+        },
+        {
+          "id": "https://decrypt.co/?p=203659",
+          "author": "Liam J. Kelly",
+          "description": "The White House has issued an executive order that includes a 26-point mandate for firms working on artificial intelligence.",
+          "link": "https://decrypt.co/203659/biden-administration-issues-sweeping-executive-order-reign-ai",
+          "publishedOn": "2023-10-30T13:59:15.000Z",
+          "wordCount": 9504,
+          "title": "Biden Administration Issues ‘Sweeping’ Executive Order to Reign in AI",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/07/joe-biden-shutterstock-march23-gID_7.png@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/07/joe-biden-shutterstock-march23-gID_7.png@png"
+        },
+        {
+          "id": "https://decrypt.co/?p=203662",
+          "author": "Kade Garrett",
+          "description": "Tokenomics is the study of how cryptocurrencies work within the broader ecosystem. This includes such things like token distribution as well as how they can be used to incentivize positive behaviour in the network.",
+          "link": "https://decrypt.co/resources/how-to-invest-using-tokenomics",
+          "publishedOn": "2023-10-30T13:44:50.000Z",
+          "wordCount": 15515,
+          "title": "How to Invest Using Tokenomics",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/10/Using-Fundamental-Analysis-in-the-Crypto-Investing-Space-gID_4-pID_5.png@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/10/Using-Fundamental-Analysis-in-the-Crypto-Investing-Space-gID_4-pID_5.png@png"
+        },
+        {
+          "id": "https://decrypt.co/videos/interviews/91tPVJff/why-nft-paris-has-launched-a-loyalty-token",
+          "author": null,
+          "description": "NFT Paris founder Alexandre Tsydenkov told Decrypt what to expect from the upcoming 2024 edition of the conference, the launch of its loyalty token and its plans to create a Web3 loyalty program that rewards the most engaged members of the community.",
+          "link": "https://decrypt.co/videos/interviews/91tPVJff/why-nft-paris-has-launched-a-loyalty-token",
+          "publishedOn": "2023-10-30T13:26:07.000Z",
+          "wordCount": 6373,
+          "title": "Why NFT Paris has Launched a Loyalty Token",
+          "enclosure": {
+            "url": "https://cdn.jwplayer.com/v2/media/91tPVJff/poster.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.jwplayer.com/v2/media/91tPVJff/poster.jpg"
+        },
+        {
           "id": "https://decrypt.co/?p=203656",
           "author": "Andrew Asmakov",
           "description": "Global investment manager VanEck joins the growing list of spot Bitcoin ETF hopefuls to amend their prospectus.",
           "link": "https://decrypt.co/203656/vaneck-amends-spot-bitcoin-etf-application-signals-unique-seeding-approach",
           "publishedOn": "2023-10-30T11:09:58.000Z",
-          "wordCount": 10155,
+          "wordCount": 10099,
           "title": "VanEck Amends Spot Bitcoin ETF Application, Signals Unique Seeding Approach",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/01/Webp.net-resizeimage22-gID_7.jpg@png",
@@ -26,7 +86,7 @@
           "description": "Animoca's play-to-earn racing game Formula E: High Voltage puts a compelling strategic twist on the league, even if it feels unfinished.",
           "link": "https://decrypt.co/203634/formula-e-high-voltage-fun-play-earn-racer-needs-roadmap",
           "publishedOn": "2023-10-29T17:50:12.000Z",
-          "wordCount": 13156,
+          "wordCount": 13100,
           "title": "Formula E: High Voltage Is a Fun Play-to-Earn Racer That Needs a Roadmap",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/10/formula-e-game-gID_7.png@png",
@@ -56,7 +116,7 @@
           "description": "SCENE columnist Toni Thai Sterrett shares why Seoul is the epicenter of a fashion evolution—and how emerging technology can play a role.",
           "link": "https://decrypt.co/203588/bad-world-fashion-dreams-tomorrow-korea-blockchain-week",
           "publishedOn": "2023-10-28T20:56:08.000Z",
-          "wordCount": 10971,
+          "wordCount": 10915,
           "title": "Fashion Dreams of Tomorrow as Art, Crypto, and Style Collide in Seoul",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/10/bad-world-korea1-gID_7.png@png",
@@ -71,7 +131,7 @@
           "description": "In an interview with Decrypt's GG, FaZe's Kalei Renay shares her thoughts on Modern Warfare III, NFTs, and the recent sale of FaZe Clan.",
           "link": "https://decrypt.co/203390/faze-kalei-talks-call-duty-eboys-future-faze-clan",
           "publishedOn": "2023-10-28T17:14:30.000Z",
-          "wordCount": 11086,
+          "wordCount": 11030,
           "title": "'I'm Hoping I Don't Get Kicked': FaZe Kalei on the Future of FaZe Clan, Call of Duty, and 'Eboys'",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/10/Untitled-design-15-gID_7.png@png",
@@ -86,7 +146,7 @@
           "description": "Crypto winter casualty BlockFi also announced that it’s fighting fit again.",
           "link": "https://decrypt.co/203570/this-week-on-crypto-twitter-etf-speculation-whistleblowers",
           "publishedOn": "2023-10-28T11:01:02.000Z",
-          "wordCount": 11309,
+          "wordCount": 11253,
           "title": "This Week on Crypto Twitter: ETF Preppers and Whistleblowers",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/07/3AC-Three-Arrows-Capital-Su-Zhu-gID_7.jpeg@png",
@@ -101,7 +161,7 @@
           "description": "Artificial intelligence speeds the process of reviewing online posts by people seeking to enter the country, sparking debate over privacy.",
           "link": "https://decrypt.co/203545/ai-immigration-ice-social-media-scan-threat-level",
           "publishedOn": "2023-10-27T23:06:49.000Z",
-          "wordCount": 9732,
+          "wordCount": 9679,
           "title": "AI and ICE: U.S. Immigration Scans Social Media Before Approving Visas",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/10/rdmm-gID_7.png@png",
@@ -116,7 +176,7 @@
           "description": "Amid a high-stakes rivalry with Microsoft, Google is beating big on the OpenAI rival.",
           "link": "https://decrypt.co/203563/google-follows-400-million-dollar-investment-in-anthropic-with-2-billion",
           "publishedOn": "2023-10-27T22:59:13.000Z",
-          "wordCount": 9495,
+          "wordCount": 9442,
           "title": "Google Doubles Down with $2 Billion Investment in Claude AI Developer Anthropic",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/09/anthropic-claude-logo-on-smartphone-ai-chatbot-gID_7.jpg@png",
@@ -131,7 +191,7 @@
           "description": "The disgraced crypto founder testified that he built FTX to serve a niche that would make it an acquisition target of Binance.",
           "link": "https://decrypt.co/203544/sam-bankman-fried-always-planned-to-sell-ftx-to-binance",
           "publishedOn": "2023-10-27T22:26:03.000Z",
-          "wordCount": 10650,
+          "wordCount": 10594,
           "title": "Sam Bankman-Fried Says He Wanted to Sell FTX to Binance Since It Was Founded",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/11/SamBankman-Fried-wiki-gID_7.jpg@png",
@@ -146,7 +206,7 @@
           "description": "From digital darling to brew enthusiast, Amouranth introduces a beer that's bound to raise eyebrows and glasses alike.",
           "link": "https://decrypt.co/203517/ai-girlfriend-amouranth-vaginal-yeast-brew-beer",
           "publishedOn": "2023-10-27T19:39:03.000Z",
-          "wordCount": 9971,
+          "wordCount": 9915,
           "title": "AI Girlfriend Amouranth Wants to Use Her 'Vaginal Yeast' to Brew Beer",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/10/Amouranth-beer-gID_7.jpg@png",
@@ -161,7 +221,7 @@
           "description": "Shutterstock joins Getty Images and Canva in introducing creator-friendly AI art generators.",
           "link": "https://decrypt.co/203436/ai-generated-stock-photos-shutterstock-700-million-images",
           "publishedOn": "2023-10-27T19:20:38.000Z",
-          "wordCount": 10270,
+          "wordCount": 10217,
           "title": "Shutterstock Integrates AI Into Its Library of 700 Million Images",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/10/Decrypt-Wallpaper-Format-2023-10-26T140858.935-gID_7.png@png",
@@ -176,7 +236,7 @@
           "description": "The main cause of Bitcoin’s soaring price: Mounting hype and certainty among investors that the SEC will soon approve a spot Bitcoin ETF.",
           "link": "https://decrypt.co/203502/chainlink-jumps-6-while-bitcoin-and-ethereum-hold-steady",
           "publishedOn": "2023-10-27T19:17:26.000Z",
-          "wordCount": 9344,
+          "wordCount": 9288,
           "title": "Chainlink Jumps 6% While Bitcoin and Ethereum Hold Steady",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/10/chainlink-coin-link-gID_7.jpg@png",
@@ -191,7 +251,7 @@
           "description": "Bitcoin and other leading coins have now been rallying for a fortnight.",
           "link": "https://decrypt.co/203515/this-week-in-coins-bitcoin-ethereum-chainlink-price",
           "publishedOn": "2023-10-27T18:54:04.000Z",
-          "wordCount": 10126,
+          "wordCount": 10070,
           "title": "This Week in Coins: Chainlink Moons 44%, Leads Marketwide ETF Speculation Rally",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/01/chainlink-logo-gID_7.jpg@png",
@@ -206,7 +266,7 @@
           "description": "The Genesis-Gemini saga continues, with a new twist.",
           "link": "https://decrypt.co/203506/gemini-genesis-lawsuit-grayscale-bitcoin-gbtc",
           "publishedOn": "2023-10-27T18:38:34.000Z",
-          "wordCount": 9504,
+          "wordCount": 9448,
           "title": "Gemini Sues Genesis for Control of $1.6 Billion in Grayscale Bitcoin Trust Shares",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/05/gemini-crypto-exchange-gID_7.jpg@png",
@@ -221,7 +281,7 @@
           "description": "Kraken sent an email to customers on Wednesday to let them know it plans to share data on crypto trades of more than $20,000 by November.",
           "link": "https://decrypt.co/203507/kraken-warns-users-bitcoin-trading-data-irs",
           "publishedOn": "2023-10-27T18:13:48.000Z",
-          "wordCount": 10031,
+          "wordCount": 9975,
           "title": "Kraken Warns Users: Your Bitcoin Trading Data Is Headed to the IRS",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/10/bitcoin-irs-gID_7.jpeg@png",
@@ -236,7 +296,7 @@
           "description": "Lido Finance has long held the lion’s share of the liquid staking market on Ethereum, but what is it and how does it work?",
           "link": "https://decrypt.co/resources/what-is-lido-finance-ethereums-largest-liquid-staking-project",
           "publishedOn": "2023-10-27T14:57:20.000Z",
-          "wordCount": 11378,
+          "wordCount": 11322,
           "title": "What Is Lido Finance, Ethereum's Largest Liquid Staking Project?",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/10/How-Understanding-Tokenomics-Can-Inform-your-Crypto-Investing-Decisions-gID_4-pID_5.png@png",
@@ -251,7 +311,7 @@
           "description": "FTX founder Sam Bankman-Fried faces seven criminal charges related to the dramatic collapse of his crypto empire. Here's the latest on his trial.",
           "link": "https://decrypt.co/199892/trial-sam-bankman-fried-live-blog-latest-news-insights",
           "publishedOn": "2023-10-27T14:18:42.000Z",
-          "wordCount": 31908,
+          "wordCount": 31852,
           "title": "SBF Trial Live Updates: Sam Bankman-Fried Wanted to Sell FTX",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/12/sam-bankman-fried-gID_7.jpg@png",
@@ -266,7 +326,7 @@
           "description": "Stakers and validators will also earn all of the newly launched chain's fees for helping to secure the dYdX Chain.",
           "link": "https://decrypt.co/203480/new-dydx-chain-denominate-trading-fees-usdc",
           "publishedOn": "2023-10-27T13:57:49.000Z",
-          "wordCount": 8773,
+          "wordCount": 8717,
           "title": "New dYdX Chain Denominates Trading Fees in USDC",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/dydx-ethereum-cosmos-gID_7.jpg@png",
@@ -281,7 +341,7 @@
           "description": "Bitcoin is just a natural next step to fund illicit activities, coming after PayPal and the traditional banking system.",
           "link": "https://decrypt.co/203481/crypto-not-the-vast-majority-terrorism-funding-says-us-treasury-deputy-secretary",
           "publishedOn": "2023-10-27T12:59:21.000Z",
-          "wordCount": 10104,
+          "wordCount": 10048,
           "title": "Crypto ‘Not the Vast Majority’ of Terrorism Funding, Says US Treasury Deputy Secretary",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/10/Wally-Adeyemo-1-gID_7.jpg@png",
@@ -296,7 +356,7 @@
           "description": "LayerZero announced a new integration to the rejoice of three different blockchains and the chagrin of one DeFi project in particular.",
           "link": "https://decrypt.co/203475/layerzero-hit-with-hefty-backlash-after-frontrunning-lido-governance",
           "publishedOn": "2023-10-27T11:38:07.000Z",
-          "wordCount": 11075,
+          "wordCount": 11019,
           "title": "LayerZero Hit With Hefty Backlash After ‘Frontrunning’ Lido Governance",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/10/crypto-bridge-gID_7.jpg@png",
@@ -311,7 +371,7 @@
           "description": "While AI may offer key opportunities, the UN is concerned that just \"a handful of companies and countries\" will have expertise with the tech.",
           "link": "https://decrypt.co/203473/ai-must-be-harnessed-responsibly-curtail-doomsday-scenarios-says-un-secretary-general",
           "publishedOn": "2023-10-27T10:29:09.000Z",
-          "wordCount": 10052,
+          "wordCount": 9996,
           "title": "AI Must Be 'Harnessed Responsibly' to Curtail Doomsday Scenarios, Says UN Secretary-General",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/06/Decrypt-Wallpaper-Format-42-gID_7.png@png",
@@ -326,7 +386,7 @@
           "description": "New research suggests watermarking may not be enough to ensure that we can identify deepfakes.",
           "link": "https://decrypt.co/203455/disadvantages-of-watermarking-ai-generated-images",
           "publishedOn": "2023-10-27T03:30:24.000Z",
-          "wordCount": 10222,
+          "wordCount": 10166,
           "title": "Invisible Ink: Researchers Probe the Weaknesses of Watermarking AI-Generated Content",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/10/AI-Watermarking-Art-by-Jose-Lanz-gID_7.jpg@png",
@@ -341,7 +401,7 @@
           "description": "NASA's InSight rover has been collecting seismic data on Mars for three years, offering a snapshot of the planet's internal structure.",
           "link": "https://decrypt.co/203456/northwestern-study-probes-deep-into-the-red-planets-core",
           "publishedOn": "2023-10-27T03:03:33.000Z",
-          "wordCount": 11102,
+          "wordCount": 11046,
           "title": "The Inside of Mars Is ‘Surprisingly Soft’, A New Survey Says",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/10/Decrypt-Wallpaper-Format-2023-10-26T174935.082-gID_7.png@png",
@@ -356,7 +416,7 @@
           "description": "The former CEO of the failed FTX exchange took the stand for an audience of one, so Judge Lewis Kaplan could vet the admissibility of his statements.",
           "link": "https://decrypt.co/203450/sam-bankman-fried-testifies-during-special-hearing-after-the-jury-is-sent-home",
           "publishedOn": "2023-10-26T23:55:51.000Z",
-          "wordCount": 10282,
+          "wordCount": 10226,
           "title": "Sam Bankman-Fried Testifies During Special Hearing—After The Jury Is Sent Home",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/07/sam-bankman-fried-nyc-court-1-gID_7.jpeg@png",
@@ -371,7 +431,7 @@
           "description": "Bitcoin hopefuls are crossing their fingers for the approval of a spot crypto ETF. But will demand match the hype?",
           "link": "https://decrypt.co/203441/bitcoin-etf-launch-flop-market-demand",
           "publishedOn": "2023-10-26T22:40:53.000Z",
-          "wordCount": 11189,
+          "wordCount": 11133,
           "title": "A Bitcoin ETF Could Soon Finally Launch. What If It Flops?",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/02/bitcoin-etf-bermuda-gID_7.jpg@png",
@@ -386,7 +446,7 @@
           "description": "A U.S. District Judge orders Ryder Ripps and Jeremy Cahen to cease all NFT sales and relinquish its blockchain assets.",
           "link": "https://decrypt.co/203445/ryder-ripps-must-pay-yuga-labs-1-5-million-for-bored-ape-copyright-infringement",
           "publishedOn": "2023-10-26T22:39:10.000Z",
-          "wordCount": 10620,
+          "wordCount": 10564,
           "title": "Ryder Ripps Must Pay Yuga Labs $1.5 Million for Bored Ape Trademark Infringement",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/07/bored-ape-sad-gID_7.png@png",
@@ -401,7 +461,7 @@
           "description": "The bipartisan letter comes after lawmakers flagged the use of crypto in terrorism to the Biden Administration.",
           "link": "https://decrypt.co/203416/us-lawmakers-urge-doj-to-choke-off-terrorist-funding-by-targeting-binance-and-tether",
           "publishedOn": "2023-10-26T20:00:36.000Z",
-          "wordCount": 9558,
+          "wordCount": 9502,
           "title": "Bitcoin Senator Urges ‘Swift Action’ Against Binance, Tether for Links to Terrorist Groups",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/04/Cynthia-Lummis-NBC-e1648850407380-gID_7.png@png",
@@ -416,7 +476,7 @@
           "description": "“There’s definitely a shift happening from mobile devices to wearables,” said Snapchat’s global head of luxury.",
           "link": "https://decrypt.co/203414/future-fashion-summit-connects-luxury-houses-digital-platforms-in-paris",
           "publishedOn": "2023-10-26T19:52:50.000Z",
-          "wordCount": 10515,
+          "wordCount": 10459,
           "title": "Future Fashion Summit Connects Luxury Houses, Digital Platforms in Paris",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/10/Future-Fashion-Summit-Vertical-gID_7.jpg@png",
@@ -431,7 +491,7 @@
           "description": "In Asia, says the game publisher's SVP of corporate development, Web3 doesn't have the that stigma it does in the West.",
           "link": "https://decrypt.co/203391/blockchain-will-be-standard-in-gaming-in-asia",
           "publishedOn": "2023-10-26T18:36:17.000Z",
-          "wordCount": 10331,
+          "wordCount": 10275,
           "title": "Blockchain Will Be ‘Standard’ for Gaming in Asia: Bandai Namco Exec",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/10/IMG_9939-gID_7.png@png",
@@ -446,7 +506,7 @@
           "description": "Thomas the Tank Engine isn't in Grand Theft Auto V, Elden Ring, or Starfield—unless you want him to be. Check out these must-play mods.",
           "link": "https://decrypt.co/203333/god-mode-7-twisted-thomas-tank-engine-game-mods-starfield-skyrim",
           "publishedOn": "2023-10-26T15:31:02.000Z",
-          "wordCount": 13380,
+          "wordCount": 13324,
           "title": "God Mode: 7 Twisted 'Thomas the Tank Engine' Game Mods—From Starfield to Skyrim",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/10/thomas-elden-ring-mod-gID_7.png@png",
@@ -461,7 +521,7 @@
           "description": "The bill's passing means police will have a more leeway when it comes to seizing cryptocurrencies involved in crimes.",
           "link": "https://decrypt.co/203380/uk-bill-strengthens-authorities-ability-seize-illicit-crypto",
           "publishedOn": "2023-10-26T15:27:42.000Z",
-          "wordCount": 9277,
+          "wordCount": 9221,
           "title": "New UK Bill Strengthens Authorities Ability to Seize Illicit Crypto",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/12/image5-gID_7.jpg@png",
@@ -476,7 +536,7 @@
           "description": "Aptos and SUI were the most staked networks by the percentage of circulating supply that had been locked in, new research revealed.",
           "link": "https://decrypt.co/203356/more-tokens-than-ever-are-being-staked-says-new-research",
           "publishedOn": "2023-10-26T13:34:27.000Z",
-          "wordCount": 10230,
+          "wordCount": 10174,
           "title": "More Tokens Than Ever Are Being Staked, Says New Research",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/09/ethereum-staking-crypto-gID_7.jpg@png",
@@ -491,7 +551,7 @@
           "description": "The latest addition to Trezor’s lineup is aimed at “new entrants to crypto.” Does it make getting started simple?",
           "link": "https://decrypt.co/202808/trezor-safe-3-review-hardware-wallet-bitcoin-newcomers",
           "publishedOn": "2023-10-26T12:50:10.000Z",
-          "wordCount": 16794,
+          "wordCount": 16738,
           "title": "Trezor Safe 3 Review: A Hardware Wallet for Bitcoin Newcomers",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/10/trezor-safe-3-main-gID_7.jpg@png",
@@ -506,7 +566,7 @@
           "description": "The memecoins haven't been forgotten in the latest rally, with PEPE, DOGE, and SHIB all soaring double-digits over the week.",
           "link": "https://decrypt.co/203348/memecoin-madness-pepe-dogecoin-shib-ride-crypto-rally",
           "publishedOn": "2023-10-26T11:26:55.000Z",
-          "wordCount": 9627,
+          "wordCount": 9571,
           "title": "Memecoin Madness: PEPE, Dogecoin and SHIB Surge Amid Crypto Rally",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/06/meme-coins-pepe-shib-doge-floki-gID_7.jpg@png",
@@ -521,7 +581,7 @@
           "description": "The Internet Watch Foundation says over 20,000 AI-generated images were found on a single darkweb forum in just one month.",
           "link": "https://decrypt.co/203327/ai-child-sexual-abuse-material-overwhelm-web-uk-internet-watch",
           "publishedOn": "2023-10-26T02:48:52.000Z",
-          "wordCount": 11366,
+          "wordCount": 11313,
           "title": "AI-Generated Child Abuse Material Could ‘Overwhelm’ the Internet, UK Group Warns",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/10/Decrypt-Wallpaper-Format-2023-10-25T184410.031-gID_7.png@png",
@@ -536,7 +596,7 @@
           "description": "Amazon's Alexa now offers Explore with Alexa, a feature that gives kids personalized and trusted educational responses.",
           "link": "https://decrypt.co/203313/amazon-takes-on-ai-rivals-with-child-friendly-alexa-features",
           "publishedOn": "2023-10-25T23:32:47.000Z",
-          "wordCount": 10435,
+          "wordCount": 10382,
           "title": "Amazon Takes on AI Rivals With Child-Friendly Alexa Features",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/10/Decrypt-Wallpaper-Format-2023-10-25T155540.946-gID_7.png@png",
@@ -544,51 +604,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/10/Decrypt-Wallpaper-Format-2023-10-25T155540.946-gID_7.png@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=203312",
-          "author": "Pedro Solimano",
-          "description": "Indira Kempis has been leading the legislative conversation towards establishing Bitcoin as legal tender in Mexico.",
-          "link": "https://decrypt.co/203312/mexico-senator-indira-kempis-bitcoin-cbdc-bill",
-          "publishedOn": "2023-10-25T23:11:54.000Z",
-          "wordCount": 10978,
-          "title": "‘I’m Finally Getting Some Opposition On My Bitcoin Bill', Says Mexican Senator",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/10/Mexico-Bitcoin-shutterstock_1128909425-16x9-1-gID_7.jpg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/10/Mexico-Bitcoin-shutterstock_1128909425-16x9-1-gID_7.jpg@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=203305",
-          "author": "Jason Nelson",
-          "description": "While the appeal of a largely untapped market is clear, some say the move could also reflect a regulatory chill in the U.S.",
-          "link": "https://decrypt.co/203305/tech-titans-microsoft-and-google-set-their-sights-down-under",
-          "publishedOn": "2023-10-25T21:10:56.000Z",
-          "wordCount": 10365,
-          "title": "Tech Titans Microsoft and Google Make AI Moves Down Under",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/09/crypto-australia-gID_7.png@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/09/crypto-australia-gID_7.png@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=203299",
-          "author": "Kate Irwin",
-          "description": "The first new universe for Bethesda in 25 years was the top-selling video game last month.",
-          "link": "https://decrypt.co/203299/starfield-11-million-players-best-selling-game-microsoft",
-          "publishedOn": "2023-10-25T19:27:51.000Z",
-          "wordCount": 10054,
-          "title": "Are You Playing Starfield? Over 11 Million Gamers Are, Says Microsoft CEO",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/10/Starfield-Gameplay-gID_7.jpg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/10/Starfield-Gameplay-gID_7.jpg@png"
         },
         {
           "id": "https://decrypt.co/videos/interviews/5Cm0ENyc/amanda-cassatt-on-web3-marketing-and-the-early-days-of-ethereum",
@@ -611,7 +626,7 @@
           "description": "Decrypt reporter and GG producer Kate Irwin interviews Midnight Society Studio Head Rob Bowling about Deadrop's development and Snapshot VII.",
           "link": "https://decrypt.co/videos/interviews/A0auyZzn/midnight-societys-rob-bowling-on-deadrops-new-cars-and-user-generated-modes",
           "publishedOn": "2023-10-22T01:30:00.000Z",
-          "wordCount": 6595,
+          "wordCount": 6281,
           "title": "Midnight Society's Rob Bowling on Deadrop's New Cars and User-Generated Modes",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/A0auyZzn/poster.jpg",
@@ -671,7 +686,7 @@
           "description": "A clip showcasing how DeepMedia's DeepID deepfake detection tool works. Courtesy: DeepMedia",
           "link": "https://decrypt.co/videos/live-events/m4Vy4vhC/clip-deepmedias-deepid-deepfake-detection-tool-at-work",
           "publishedOn": "2023-10-18T16:48:31.000Z",
-          "wordCount": 6225,
+          "wordCount": 6495,
           "title": "Clip: DeepMedia's DeepID Deepfake Detection Tool at Work",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/m4Vy4vhC/poster.jpg",
@@ -776,7 +791,7 @@
           "description": "Decrypt's Kate Irwin chats with Shrapnel's Head of Studio Don Norbury to get the latest updates on how the NFT-powered first-person sci-fi extraction shooter's development is progressing.",
           "link": "https://decrypt.co/videos/interviews/F5RQCmvH/inside-shrapnels-marketplace-new-map-and-ai-director-feature",
           "publishedOn": "2023-10-06T16:53:00.000Z",
-          "wordCount": 6618,
+          "wordCount": 6304,
           "title": "Inside Shrapnel's Marketplace, New Map, and 'AI Director' Feature",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/F5RQCmvH/poster.jpg",
@@ -821,7 +836,7 @@
           "description": "Reza Jafery and Martin Shkreli sit down for a casual conversation about the growing movement that is E/ACC, what songs they could recite at gunpoint, and whether or not SBF will thrive or just survive during his time in prison.",
           "link": "https://decrypt.co/videos/interviews/QONaWXKZ/martin-shkreli-on-e-acc-and-sbf-in-prison",
           "publishedOn": "2023-10-03T22:03:48.000Z",
-          "wordCount": 6363,
+          "wordCount": 6673,
           "title": "Martin Shkreli on E/ACC and SBF in Prison",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/QONaWXKZ/poster.jpg",
@@ -836,7 +851,7 @@
           "description": "AI Arena CEO Brandon Da Silva and COO Wei Xie discuss how artificial intelligence can shape the video game experience.",
           "link": "https://decrypt.co/videos/interviews/JKuqCMao/what-can-ai-do-in-gaming",
           "publishedOn": "2023-10-03T17:04:00.000Z",
-          "wordCount": 6565,
+          "wordCount": 6251,
           "title": "What Can AI Do in Gaming?",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/JKuqCMao/poster.jpg",
