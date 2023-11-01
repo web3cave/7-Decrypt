@@ -6,12 +6,27 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=204030",
+          "author": "Jason Nelson",
+          "description": "Leaders from 29 countries and the EU committed to a unified approach to managing AI, emphasizing safety, transparency, and collaboration.",
+          "link": "https://decrypt.co/204030/bletchley-declaration-on-ai-safety",
+          "publishedOn": "2023-11-01T21:05:32.000Z",
+          "wordCount": 9920,
+          "title": "Global Powers Sign International Declaration on AI Safety",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/10/aichip-gID_7.png@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/10/aichip-gID_7.png@png"
+        },
+        {
           "id": "https://decrypt.co/?p=204028",
           "author": "Sander Lutz",
           "description": "Introducing SCENE's new video series, which goes off-script with the personalities shaping the future of art, fashion, and entertainment. First up: Proof's Kevin Rose.",
           "link": "https://decrypt.co/204028/5-questions-scene-video-kevin-rose",
           "publishedOn": "2023-11-01T20:58:46.000Z",
-          "wordCount": 8909,
+          "wordCount": 9010,
           "title": "5 Questions with SCENE: Kevin Rose",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/11/kevin-rose-5q-gID_7.png@png",
@@ -26,7 +41,7 @@
           "description": "Kevin Rose, co-founder and CEO of PROOF and co-creator of the hit Moonbirds NFT collection, joins 5 Questions with SCENE to answer some hard-hitting questions about his childhood dreams, his wife’s candy preferences, and his undying love of rap music.",
           "link": "https://decrypt.co/videos/interviews/u9LDX8Vr/5-questions-with-scene-kevin-rose",
           "publishedOn": "2023-11-01T20:30:00.000Z",
-          "wordCount": 6675,
+          "wordCount": 6359,
           "title": "5 Questions With SCENE: Kevin Rose",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/u9LDX8Vr/poster.jpg",
@@ -621,21 +636,6 @@
           "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/10/assassins-creed-2-gID_7.png@png"
         },
         {
-          "id": "https://decrypt.co/?p=203713",
-          "author": "Andrew Hayward",
-          "description": "Bitcoin buzz is boosting the crypto market, and gaming and metaverse tokens are among the biggest winners this week.",
-          "link": "https://decrypt.co/203713/crypto-games-gla-xs-ape-mana-sand-gains-bitcoin-etf",
-          "publishedOn": "2023-10-30T19:48:07.000Z",
-          "wordCount": 9937,
-          "title": "Gaming Tokens GALA, Axie Infinity, and ApeCoin Post Huge Gains",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/04/metaverse-crypto-nfts-gID_7.jpeg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/04/metaverse-crypto-nfts-gID_7.jpeg@png"
-        },
-        {
           "id": "https://decrypt.co/videos/interviews/91tPVJff/why-nft-paris-has-launched-a-loyalty-token",
           "author": null,
           "description": "NFT Paris founder Alexandre Tsydenkov told Decrypt what to expect from the upcoming 2024 edition of the conference, the launch of its loyalty token and its plans to create a Web3 loyalty program that rewards the most engaged members of the community.",
@@ -791,7 +791,7 @@
           "description": "How much of Shrapnel's in-game items are tradeable NFTs? Don Norbury, Studio Head at Shrapnel and CTO at game studio NEON, tells Decrypt's Kate Irwin about Shrapnel's approach to game economics, including different game pricing models and how NFT game economies create different challenges for developers.",
           "link": "https://decrypt.co/videos/interviews/Z2OMMsC5/a-grand-experiment-shrapnel-studio-head-don-norbury-talks-game-economics",
           "publishedOn": "2023-10-17T17:22:00.000Z",
-          "wordCount": 6735,
+          "wordCount": 6419,
           "title": "'A Grand Experiment': Shrapnel Studio Head Don Norbury Talks Game Economics",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/Z2OMMsC5/poster.jpg",
@@ -836,7 +836,7 @@
           "description": "Welcome to the 4th episode of this time will be different.\n\nOur guest for today's episode is Pet3rpan_ from Metacartel, 1kx, HydraVentures, and more!\n\nhttps://twitter.com/pet3rpan_\n\nThis Time Will Be Different is sponsored by 1000x\nhttps://decrypt.co/1000x",
           "link": "https://decrypt.co/videos/interviews/DawNLI3O/pet3rpan-on-venture-daos-and-blockchain-games",
           "publishedOn": "2023-10-11T18:24:19.000Z",
-          "wordCount": 6644,
+          "wordCount": 6328,
           "title": "Pet3rPan_ on venture DAOs and blockchain games",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/DawNLI3O/poster.jpg",
@@ -866,7 +866,7 @@
           "description": "Art Blocks founder and CEO Erick Calderon sat down with Sander Lutz, lead culture reporter at Decrypt's SCENE, at Art Blocks Marfa Weekend 2023. They discuss the evolution of the company and the generative art world, along with what draws art enthusiasts to be an active part of the community.",
           "link": "https://decrypt.co/videos/interviews/zSjfRrl5/art-of-the-times-art-blocks-founder-erick-calderon-on-the-state-of-generative-art",
           "publishedOn": "2023-10-05T18:10:41.000Z",
-          "wordCount": 6463,
+          "wordCount": 6779,
           "title": "'Art of the Times': Art Blocks Founder Erick Calderon on the State of Generative Art",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/zSjfRrl5/poster.jpg",
