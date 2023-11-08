@@ -6,6 +6,36 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=204933",
+          "author": "Mathew Di Salvo",
+          "description": "The switch will \"enable smaller and potentially more frequent transactions,\" according to Genesis Coin.",
+          "link": "https://decrypt.co/204933/lightning-network-hits-bitcoin-atms-in-el-salvador",
+          "publishedOn": "2023-11-08T19:44:30.000Z",
+          "wordCount": 9555,
+          "title": "Bitcoin ATMs in El Salvador are Getting a Lightning Network Upgrade",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/08/Bitcoin-El-Salvador-gID_7.png@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/08/Bitcoin-El-Salvador-gID_7.png@png"
+        },
+        {
+          "id": "https://decrypt.co/videos/interviews/hgDzjboU/barney-on-defi-privacy-and-vega",
+          "author": null,
+          "description": "This week our host is joined by Barney the founder of Vega Protocol. \n\nThey discuss the current state of DeFi, what's wrong with the apps being built today, whether or not privacy matters when its only applied to an L2, and most importantly-- which form of sales tax is the sexiest.",
+          "link": "https://decrypt.co/videos/interviews/hgDzjboU/barney-on-defi-privacy-and-vega",
+          "publishedOn": "2023-11-08T18:27:45.000Z",
+          "wordCount": 6421,
+          "title": "Barney on DeFi, Privacy, and Vega",
+          "enclosure": {
+            "url": "https://cdn.jwplayer.com/v2/media/hgDzjboU/poster.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.jwplayer.com/v2/media/hgDzjboU/poster.jpg"
+        },
+        {
           "id": "https://decrypt.co/?p=204923",
           "author": "Kate Irwin",
           "description": "Microsoft is making more AI tools, but game industry talent are very concerned that the Xbox AI push will lead to more job losses.",
@@ -546,36 +576,6 @@
           "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/09/ben-armstrong-1-Cropped-gID_7.jpg@png"
         },
         {
-          "id": "https://decrypt.co/?p=204544",
-          "author": "Sander Lutz",
-          "description": "A blog linked to Caroline Ellison also reveals the disgraced ex-Alameda CEO may harbor frustration about her elementary school years.",
-          "link": "https://decrypt.co/204544/reddit-discovers-caroline-ellison-appeared-arthur-predictably-ruthless",
-          "publishedOn": "2023-11-06T22:05:24.000Z",
-          "wordCount": 11524,
-          "title": "Reddit Discovers Caroline Ellison May Have Appeared on 'Arthur'—And Is Predictably Ruthless",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/11/caroline-alameda-arthur-gID_7.png@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/11/caroline-alameda-arthur-gID_7.png@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=204564",
-          "author": "Mathew Di Salvo",
-          "description": "Those still holding Bitcoin SV on America’s biggest crypto exchange have until January 9 to withdraw it.",
-          "link": "https://decrypt.co/204564/coinbase-warns-bitcoin-sv-holders-liquidated",
-          "publishedOn": "2023-11-06T22:02:36.000Z",
-          "wordCount": 9575,
-          "title": "Coinbase Warns Bitcoin SV Holders: Withdraw or Be Liquidated",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/01/bitcoin-sv-fork-price-pump-gID_7.jpg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/01/bitcoin-sv-fork-price-pump-gID_7.jpg@png"
-        },
-        {
           "id": "https://decrypt.co/videos/interviews/QtnWGSSJ/why-is-phantom-galaxies-releasing-two-versions-of-its-game",
           "author": null,
           "description": "Animoca Brands-owned Blowfish Studios is building a space mech pilot game called Phantom Galaxies. Blowfish Cofounder Ben Lee tells Decrypt's Kate Irwin about his plans for the game's release.",
@@ -596,7 +596,7 @@
           "description": "This week our host is joined by Sophie Maxx (Web3Maxx) to discuss NFTs, augmented reality, the metaverse, how blockchain is sneaking into the fashion world, and more!",
           "link": "https://decrypt.co/videos/interviews/VByufHjn/sophie-maxx-on-nfts-augmented-reality-and-fashion",
           "publishedOn": "2023-11-01T23:37:35.000Z",
-          "wordCount": 6609,
+          "wordCount": 6313,
           "title": "Sophie Maxx on NFTs, Augmented Reality, and Fashion",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/VByufHjn/poster.jpg",
@@ -611,7 +611,7 @@
           "description": "Kevin Rose, co-founder and CEO of PROOF and co-creator of the hit Moonbirds NFT collection, joins 5 Questions with SCENE to answer some hard-hitting questions about his childhood dreams, his wife’s candy preferences, and his undying love of rap music.\n\nVideo shot and edited by Vincent Roazzi Jr.",
           "link": "https://decrypt.co/videos/interviews/u9LDX8Vr/5-questions-with-scene-kevin-rose",
           "publishedOn": "2023-11-01T20:30:00.000Z",
-          "wordCount": 6699,
+          "wordCount": 6403,
           "title": "5 Questions With SCENE: Kevin Rose",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/u9LDX8Vr/poster.jpg",
@@ -761,7 +761,7 @@
           "description": "A clip showcasing how DeepMedia's DeepID deepfake detection tool works. Courtesy: DeepMedia",
           "link": "https://decrypt.co/videos/live-events/m4Vy4vhC/clip-deepmedias-deepid-deepfake-detection-tool-at-work",
           "publishedOn": "2023-10-18T16:48:31.000Z",
-          "wordCount": 6527,
+          "wordCount": 6240,
           "title": "Clip: DeepMedia's DeepID Deepfake Detection Tool at Work",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/m4Vy4vhC/poster.jpg",
@@ -791,7 +791,7 @@
           "description": "Our host Reza Jafery sits down with BackTheBunny to dive deep into money, the fight against crypto that we're witnessing in real-time, and milady culture. \n\nOur Host: https://twitter.com/rezajafery\nOur Guest: https://twitter.com/BackTheBunny\n\nOur Sponsors\nhttps://decrypt.co/1000x",
           "link": "https://decrypt.co/videos/interviews/BRoKZzer/backthebunny-money-conspiracy-milady",
           "publishedOn": "2023-10-17T19:48:39.000Z",
-          "wordCount": 6617,
+          "wordCount": 6321,
           "title": "BackTheBunny - Money, Conspiracy, Milady",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/BRoKZzer/poster.jpg",
