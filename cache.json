@@ -6,12 +6,27 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=205465",
+          "author": "Stephen Graves",
+          "description": "Poloniex owner Justin Sun stated that the exchange is collaborating with other crypto exchanges in a bid to recover the apporpriated funds.",
+          "link": "https://decrypt.co/205465/justin-sun-owned-crypto-exchange-poloniex-hacked-60m",
+          "publishedOn": "2023-11-10T12:13:15.000Z",
+          "wordCount": 8969,
+          "title": "Justin Sun-Owned Crypto Exchange Poloniex Hacked for At Least $60M",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/05/poloniex-gID_7.jpg@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/05/poloniex-gID_7.jpg@png"
+        },
+        {
           "id": "https://decrypt.co/?p=205453",
           "author": "Liam J. Kelly",
           "description": "With BlackRock potentially eyeing an Ethereum ETF filing, a host of liquid staking tokens linked to the cryptocurrency are rallying.",
           "link": "https://decrypt.co/205453/staking-tokens-ride-high-curtails-blackrock-ethereum-etf-hype",
           "publishedOn": "2023-11-10T11:04:27.000Z",
-          "wordCount": 9259,
+          "wordCount": 9279,
           "title": "Staking Tokens Post Double-Digit Gains on BlackRock Ethereum ETF Hype",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/01/blackrock-bitcoin-investment-gID_7.jpg@png",
@@ -41,7 +56,7 @@
           "description": "OpenAI links recent ChatGPT outages and its API to a Distributed Denial of Service attack.",
           "link": "https://decrypt.co/205446/chatgpt-outage-openai-ddos-attack-russian-hackers",
           "publishedOn": "2023-11-10T02:51:59.000Z",
-          "wordCount": 10264,
+          "wordCount": 10284,
           "title": "OpenAI Battles Service Disruption Linked to Russian Hackers",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/11/open-ai-outage-gID_7.jpg@png",
@@ -251,7 +266,7 @@
           "description": "\"Selena: The Series\" creator and co-showrunner Moisés Zamora joins Decrypt's Sander Lutz at the Film3 Summit 2023 to discuss why the Hollywood system is broken and why he founded the Videomart NFT digital film marketplace to give creators more power.",
           "link": "https://decrypt.co/videos/interviews/kyjQCle8/moises-zamora-on-videomart-and-bucking-the-hollywood-system",
           "publishedOn": "2023-11-09T17:11:03.000Z",
-          "wordCount": 6384,
+          "wordCount": 6695,
           "title": "Moisés Zamora on Videomart and Bucking the Hollywood System",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/kyjQCle8/poster.jpg",
@@ -326,7 +341,7 @@
           "description": "Bitcoin is rallying on optimism surrounding the approval of a spot Bitcoin exchange-traded fund.",
           "link": "https://decrypt.co/205317/bitcoin-blows-past-37000-touching-18-month-high-on-etf-optimism",
           "publishedOn": "2023-11-09T14:45:39.000Z",
-          "wordCount": 9792,
+          "wordCount": 9812,
           "title": "Bitcoin Soars Past $37,000, Touching 18-Month High on ETF Optimism",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/01/Bitcoin-price-gID_7.jpg@png",
@@ -476,7 +491,7 @@
           "description": "Here's what you can do now with multimodal capabilities, where it's not just about what you say, but what you show.",
           "link": "https://decrypt.co/204934/what-can-you-do-with-chatgpt-gpt4-turbo-multimodal-features",
           "publishedOn": "2023-11-08T23:14:26.000Z",
-          "wordCount": 13015,
+          "wordCount": 13035,
           "title": "Killer Combo: ChatGPT Merged With Dall-E, Vision, Web Browsing and Code Interpreter",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/11/OpenaI-gID_7.png@png",
@@ -621,21 +636,6 @@
           "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/11/Shutterstock_1857941779-gID_7.jpg@png"
         },
         {
-          "id": "https://decrypt.co/?p=204933",
-          "author": "Mathew Di Salvo",
-          "description": "The switch will \"enable smaller and potentially more frequent transactions,\" according to Genesis Coin.",
-          "link": "https://decrypt.co/204933/lightning-network-hits-bitcoin-atms-in-el-salvador",
-          "publishedOn": "2023-11-08T19:44:30.000Z",
-          "wordCount": 9535,
-          "title": "Bitcoin ATMs in El Salvador are Getting a Lightning Network Upgrade",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/08/Bitcoin-El-Salvador-gID_7.png@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/08/Bitcoin-El-Salvador-gID_7.png@png"
-        },
-        {
           "id": "https://decrypt.co/videos/interviews/hgDzjboU/barney-on-defi-privacy-and-vega",
           "author": null,
           "description": "This week our host is joined by Barney the founder of Vega Protocol. \n\nThey discuss the current state of DeFi, what's wrong with the apps being built today, whether or not privacy matters when its only applied to an L2, and most importantly-- which form of sales tax is the sexiest.",
@@ -746,7 +746,7 @@
           "description": "Formula E: High Voltage is a play-to-earn racing game with a distinctive strategic approach. Decrypt contributor Ryan Gladwin put Animoca's web-based game through its paces in this review, highlighting the unique gameplay design, the role of NFTs and crypto, and where the game currently comes up short.\n\nFollow Decrypt's GG on Twitter: https://twitter.com/ggdecrypt \n\nCheck out GG for daily gaming news: https://decrypt.co/gg \n\nSubscribe to our GG newsletter with over 50,000 subscribers: https://decrypt.co/newsletters/gg \n\nJoin our official Discord: https://discord.com/invite/3bc4QpA57C",
           "link": "https://decrypt.co/videos/explainers/hzkx0TDg/game-reviewformula-e-high-voltage-is-a-fun-play-to-earn-racer-that-lacks-direction",
           "publishedOn": "2023-10-29T17:00:00.000Z",
-          "wordCount": 6941,
+          "wordCount": 6583,
           "title": "Game Review—Formula E: High Voltage Is a Fun Play-to-Earn Racer That Lacks Direction",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/hzkx0TDg/poster.jpg",
@@ -821,7 +821,7 @@
           "description": "Animoca Brands and game studio Blowfish are developing Phantom Galaxies, an upcoming sci-fi mech shooter game inspired by mech battlers like Transformers. Decrypt's Kate Irwin asks Blowfish Studios Cofounder and Managing Director Ben Lee about what it's like to play the game.",
           "link": "https://decrypt.co/videos/interviews/QI1uDwQv/phantom-galaxies-a-look-inside-the-mech-shooter-nft-game",
           "publishedOn": "2023-10-18T21:14:00.000Z",
-          "wordCount": 6400,
+          "wordCount": 6711,
           "title": "Phantom Galaxies: A Look Inside the Mech Shooter NFT Game",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/QI1uDwQv/poster.jpg",
@@ -881,7 +881,7 @@
           "description": "How much of Shrapnel's in-game items are tradeable NFTs? Don Norbury, Studio Head at Shrapnel and CTO at game studio NEON, tells Decrypt's Kate Irwin about Shrapnel's approach to game economics, including different game pricing models and how NFT game economies create different challenges for developers.",
           "link": "https://decrypt.co/videos/interviews/Z2OMMsC5/a-grand-experiment-shrapnel-studio-head-don-norbury-talks-game-economics",
           "publishedOn": "2023-10-17T17:22:00.000Z",
-          "wordCount": 6426,
+          "wordCount": 6737,
           "title": "'A Grand Experiment': Shrapnel Studio Head Don Norbury Talks Game Economics",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/Z2OMMsC5/poster.jpg",
