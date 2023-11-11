@@ -6,6 +6,21 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=205739",
+          "author": "Sander Lutz",
+          "description": "Price bumps and news of potential ETF developments for Bitcoin and Ethereum this week led many to try to will the end of crypto winter into existence.",
+          "link": "https://decrypt.co/205739/this-week-on-crypto-twitter-springtime-for-degens",
+          "publishedOn": "2023-11-11T12:01:02.000Z",
+          "wordCount": 10227,
+          "title": "This Week on Crypto Twitter: Springtime for Degens?",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/11/Bitcoin-Sprout-shutterstock_1986055976-gID_7.jpg@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/11/Bitcoin-Sprout-shutterstock_1986055976-gID_7.jpg@png"
+        },
+        {
           "id": "https://decrypt.co/?p=205729",
           "author": "Jason Nelson",
           "description": "Kate Tolo, the first woman to commit to Johnson's \"Blueprint,\" was drawn to its intersection with artificial intelligence.",
@@ -146,7 +161,7 @@
           "description": "Digital asset investment products are on track for their third largest year of allocations, with Bitcoin and Ethereum leading the charge.",
           "link": "https://decrypt.co/205501/bitcoin-ethereum-demand-push-2023-crypto-fund-investment-over-1-billion",
           "publishedOn": "2023-11-10T18:24:04.000Z",
-          "wordCount": 10248,
+          "wordCount": 10215,
           "title": "Bitcoin, Ethereum Demand Pushes 2023 Crypto Fund Investment Over $1 Billion",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/07/shutterstock_523778230-gID_7.jpg@png",
@@ -161,7 +176,7 @@
           "description": "Bitcoin mining revenue has topped its previous yearly high seen in May 2023, when demand for Ordinals inscriptions clogged the network.",
           "link": "https://decrypt.co/205318/bitcoin-mining-revenue-hits-yearly-high-amid-etf-fuelled-rally",
           "publishedOn": "2023-11-10T18:14:39.000Z",
-          "wordCount": 10528,
+          "wordCount": 10495,
           "title": "Bitcoin Mining Revenue Hits Yearly High Amid ETF-Fuelled Rally",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/11/bitcoin-mining-btc-gID_7.jpg@png",
@@ -326,7 +341,7 @@
           "description": "Meta’s next Llama AI release could challenge the dominance of OpenAI's GPT-4, but Mark Zuckerberg remains mum on the timing of its release.",
           "link": "https://decrypt.co/205436/llama-3-release-date-rumored-meta-ai-challenger",
           "publishedOn": "2023-11-10T02:39:21.000Z",
-          "wordCount": 11382,
+          "wordCount": 11415,
           "title": "Meta's Next AI Gambit? Llama 3 Rumored for Early 2024",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/11/image-1-gID_7.png@png",
@@ -606,21 +621,6 @@
           "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/01/Bitcoin-price-gID_7.jpg@png"
         },
         {
-          "id": "https://decrypt.co/?p=204010",
-          "author": "Decrypt Staff",
-          "description": "Players can take part in events including design and sales competitions to win in-game Gems.",
-          "link": "https://decrypt.co/204010/business-sim-game-legacy-launches-with-competitive-events-on-gala-games",
-          "publishedOn": "2023-11-09T13:51:28.000Z",
-          "wordCount": 9303,
-          "title": "Business Sim Game Legacy Launches With Competitive Events on Gala Games",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/11/legacy-gala-games-gID_7.jpg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/11/legacy-gala-games-gID_7.jpg@png"
-        },
-        {
           "id": "https://decrypt.co/videos/interviews/E8BZZBWX/5-questions-with-scene-lovid",
           "author": null,
           "description": "Artistic duo LoVid, aka Tali Hinkis and Kyle Lapidus, joins 5 Questions with SCENE to answer burning questions about art, lettuce, and the hellscape (in someone’s opinion) that is Miami.\n\nVideo shot and edited by Vincent Roazzi Jr.",
@@ -641,7 +641,7 @@
           "description": "This week our host is joined by Barney the founder of Vega Protocol. \n\nThey discuss the current state of DeFi, what's wrong with the apps being built today, whether or not privacy matters when its only applied to an L2, and most importantly-- which form of sales tax is the sexiest.",
           "link": "https://decrypt.co/videos/interviews/hgDzjboU/barney-on-defi-privacy-and-vega",
           "publishedOn": "2023-11-08T18:27:45.000Z",
-          "wordCount": 6421,
+          "wordCount": 6732,
           "title": "Barney on DeFi, Privacy, and Vega",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/hgDzjboU/poster.jpg",
@@ -806,7 +806,7 @@
           "description": "Relive the Art Blocks Marfa Weekend 2023 event with this highlights video, produced by Vincent Roazzi Jr. for Decrypt Studios in partnership with Art Blocks.",
           "link": "https://decrypt.co/videos/live-events/QaTBP6eO/art-blocks-marfa-weekend-recap",
           "publishedOn": "2023-10-19T19:19:11.000Z",
-          "wordCount": 6287,
+          "wordCount": 6617,
           "title": "Art Blocks Marfa Weekend Recap",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/QaTBP6eO/poster.jpg",
@@ -866,7 +866,7 @@
           "description": "Our host Reza Jafery sits down with BackTheBunny to dive deep into money, the fight against crypto that we're witnessing in real-time, and milady culture. \n\nOur Host: https://twitter.com/rezajafery\nOur Guest: https://twitter.com/BackTheBunny\n\nOur Sponsors\nhttps://decrypt.co/1000x",
           "link": "https://decrypt.co/videos/interviews/BRoKZzer/backthebunny-money-conspiracy-milady",
           "publishedOn": "2023-10-17T19:48:39.000Z",
-          "wordCount": 6632,
+          "wordCount": 6321,
           "title": "BackTheBunny - Money, Conspiracy, Milady",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/BRoKZzer/poster.jpg",
