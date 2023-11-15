@@ -6,6 +6,36 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=206212",
+          "author": "Mathew Di Salvo",
+          "description": "The SEC gave itself a deadline extention on the Grayscale Ethereum Futures ETF application.",
+          "link": "https://decrypt.co/206212/sec-needs-more-time-on-grayscale-ethereum-futures-etf",
+          "publishedOn": "2023-11-15T19:26:45.000Z",
+          "wordCount": 8622,
+          "title": "SEC Needs More Time on Grayscale Ethereum Futures ETF",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/08/grayscale-ethereum-trust-sec-filing-gID_7.jpg@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/08/grayscale-ethereum-trust-sec-filing-gID_7.jpg@png"
+        },
+        {
+          "id": "https://decrypt.co/?p=206152",
+          "author": "Kate Irwin",
+          "description": "Final Fantasy maker Square Enix's first Ethereum game is called Symbiogenesis. From NFT characters to quests, here's what you need to know.",
+          "link": "https://decrypt.co/206152/symbiogenesis-preview-everything-you-need-know-square-enix-nft-game",
+          "publishedOn": "2023-11-15T19:26:02.000Z",
+          "wordCount": 10337,
+          "title": "Symbiogenesis Preview: Everything You Need to Know About Square Enix's NFT Game",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/11/symbio-1-Cropped-gID_7.jpg@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/11/symbio-1-Cropped-gID_7.jpg@png"
+        },
+        {
           "id": "https://decrypt.co/?p=206218",
           "author": "Ryan Ozawa",
           "description": "OpenAI CEO Sam Altman said usage of its services has \"exceeded our capacity.\"",
@@ -386,7 +416,7 @@
           "description": "The Avalon metaverse game will feature interoperable blockchain assets and opportunities for players to earn from their creations.",
           "link": "https://decrypt.co/205996/everquest-call-duty-vets-unveil-metaverse-game-avalon",
           "publishedOn": "2023-11-14T18:00:20.000Z",
-          "wordCount": 11390,
+          "wordCount": 11357,
           "title": "EverQuest, Call of Duty Vets Unveil Metaverse Game Avalon",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/11/avalon-game-concept-art-gID_7.png@png",
@@ -621,36 +651,6 @@
           "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/11/grok-ai-elon-musk-gID_7.jpg@png"
         },
         {
-          "id": "https://decrypt.co/?p=205646",
-          "author": "Kate Irwin",
-          "description": "Nearly 50 blockchain games were halted this year, but others are migrating. Game7's latest report shares which chains are most popular.",
-          "link": "https://decrypt.co/205646/why-so-many-crypto-games-swiching-chains-calling-quits",
-          "publishedOn": "2023-11-13T17:01:03.000Z",
-          "wordCount": 12083,
-          "title": "Why So Many Crypto Games Are Switching Chains—Or Calling it Quits",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/11/d4a1d377-5238-41cd-b485-2a5fc4bcdd3e-Cropped-gID_7.jpg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/11/d4a1d377-5238-41cd-b485-2a5fc4bcdd3e-Cropped-gID_7.jpg@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=205830",
-          "author": "Mathew Di Salvo",
-          "description": "Solana was on a roll last week, but has now cooled its rally. A number of alts like Filecoin, Polygon, and Cosmos are booming, though.",
-          "link": "https://decrypt.co/205830/solana-rally-cools-bitcoin-ethereum-hold-steady",
-          "publishedOn": "2023-11-13T16:17:23.000Z",
-          "wordCount": 8881,
-          "title": "Solana Rally Cools as Bitcoin and Ethereum Hold Steady and These Alts Surge",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/01/solana-gID_7.jpg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/01/solana-gID_7.jpg@png"
-        },
-        {
           "id": "https://decrypt.co/videos/live-events/PieshbpH/how-gen-z-is-different-otk-chief-strategy-officer-talks-creator-economy-shift-and-rise-of-kick",
           "author": null,
           "description": "One True King, an esports and gaming lifestyle brand and media company, was founded by creators like Asmongold and Mizkif. OTK's Chief Strategy Officer Zachary Diaz, who previously worked at TikTok and Twitch, shares with Decrypt's Kate Irwin about how the creator economy is changing.",
@@ -746,7 +746,7 @@
           "description": "This week our host is joined by Sophie Maxx (Web3Maxx) to discuss NFTs, augmented reality, the metaverse, how blockchain is sneaking into the fashion world, and more!",
           "link": "https://decrypt.co/videos/interviews/VByufHjn/sophie-maxx-on-nfts-augmented-reality-and-fashion",
           "publishedOn": "2023-11-01T23:37:35.000Z",
-          "wordCount": 5977,
+          "wordCount": 6134,
           "title": "Sophie Maxx on NFTs, Augmented Reality, and Fashion",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/VByufHjn/poster.jpg",
@@ -761,7 +761,7 @@
           "description": "Kevin Rose, co-founder and CEO of PROOF and co-creator of the hit Moonbirds NFT collection, joins 5 Questions with SCENE to answer some hard-hitting questions about his childhood dreams, his wife’s candy preferences, and his undying love of rap music.\n\nVideo shot and edited by Vincent Roazzi Jr.",
           "link": "https://decrypt.co/videos/interviews/u9LDX8Vr/5-questions-with-scene-kevin-rose",
           "publishedOn": "2023-11-01T20:30:00.000Z",
-          "wordCount": 6067,
+          "wordCount": 6224,
           "title": "5 Questions With SCENE: Kevin Rose",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/u9LDX8Vr/poster.jpg",
