@@ -6,6 +6,21 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=17757",
+          "author": "Matt Hussey,Ki Chong Tran,Stephen Graves",
+          "description": "Every four years, the amount of Bitcoin awarded to miners is halved, an event known as the Bitcoin halving.",
+          "link": "https://decrypt.co/resources/what-is-the-bitcoin-halving",
+          "publishedOn": "2023-12-01T11:55:03.000Z",
+          "wordCount": 14232,
+          "title": "What is the Bitcoin Halving? How Bitcoin's Supply is Limited.",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/02/Bitcoin-halvening-gID_5-pID_4.png@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/02/Bitcoin-halvening-gID_5-pID_4.png@png"
+        },
+        {
           "id": "https://decrypt.co/?p=208225",
           "author": "Stephen Graves",
           "description": "Reddit has \"officially renounced\" the contract for the Community Points token Moons, rendering the token fully decentralized.",
@@ -591,21 +606,6 @@
           "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/04/bitcoin-mining-symbol-gID_7.jpeg@png"
         },
         {
-          "id": "https://decrypt.co/?p=207799",
-          "author": "Jose Antonio Lanz",
-          "description": "A $55 million raise allows the startup to compete against giants Meta, Adobe, and Stability AI.",
-          "link": "https://decrypt.co/207799/pika-ai-video-tool-blasts-out-of-beta",
-          "publishedOn": "2023-11-29T01:06:23.000Z",
-          "wordCount": 10309,
-          "title": "Pika Wows in Debut as AI Video Generator Takes Aim at Tech Giants",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/11/Leonardo_Diffusion_XL_a_robot_filmmaker_holding_a_camera_pop_a_1-gID_7.jpg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/11/Leonardo_Diffusion_XL_a_robot_filmmaker_holding_a_camera_pop_a_1-gID_7.jpg@png"
-        },
-        {
           "id": "https://decrypt.co/videos/interviews/qLmFpNKE/are-nfts-ever-coming-back",
           "author": null,
           "description": "In this weeks episode we sit down with Cashtro from Arcade.xyz to discuss NFTs, shitcoins, what collections have held onto their floor prices, and more.",
@@ -844,21 +844,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.jwplayer.com/v2/media/QtnWGSSJ/poster.jpg"
-        },
-        {
-          "id": "https://decrypt.co/videos/interviews/VByufHjn/sophie-maxx-on-nfts-augmented-reality-and-fashion",
-          "author": null,
-          "description": "This week our host is joined by Sophie Maxx (Web3Maxx) to discuss NFTs, augmented reality, the metaverse, how blockchain is sneaking into the fashion world, and more!",
-          "link": "https://decrypt.co/videos/interviews/VByufHjn/sophie-maxx-on-nfts-augmented-reality-and-fashion",
-          "publishedOn": "2023-11-01T23:37:35.000Z",
-          "wordCount": 6504,
-          "title": "Sophie Maxx on NFTs, Augmented Reality, and Fashion",
-          "enclosure": {
-            "url": "https://cdn.jwplayer.com/v2/media/VByufHjn/poster.jpg",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.jwplayer.com/v2/media/VByufHjn/poster.jpg"
         }
       ]
     }
