@@ -6,6 +6,21 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=209569",
+          "author": "Sander Lutz",
+          "description": "Former U.S. President Donald Trump has embraced a popular digital fashion trend in his latest NFT collection. What's next?",
+          "link": "https://decrypt.co/209569/trump-goes-phygital-borrowing-digital-fashion-playbook",
+          "publishedOn": "2023-12-13T01:49:37.000Z",
+          "wordCount": 10780,
+          "title": "Trump Goes Phygital, Borrowing From Digital Fashion Playbook",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/12/trump-nfts-s3-warrior-gID_7.png@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/12/trump-nfts-s3-warrior-gID_7.png@png"
+        },
+        {
           "id": "https://decrypt.co/?p=209570",
           "author": "Jose Antonio Lanz",
           "description": "Size isn’t everything in artificial intelligence language models, as Redmond’s latest release stands up to challengers 25 times its size.",
@@ -26,7 +41,7 @@
           "description": "The FIFA+ Collect platform will continue to launch NFTs on Algorand, but the soccer giant is also expanding to Polygon via drops on OpenSea.",
           "link": "https://decrypt.co/209556/fifa-mint-soccer-nfts-polygon-isnt-ditching-algorand",
           "publishedOn": "2023-12-12T23:42:02.000Z",
-          "wordCount": 9754,
+          "wordCount": 9810,
           "title": "FIFA Will Mint Soccer NFTs on Polygon—But Isn't Ditching Algorand",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/12/fifa-nfts-gID_7.png@png",
@@ -101,7 +116,7 @@
           "description": "Two words: Cyborg Trump. Former U.S. President Donald Trump goes back to the well on NFTs, and prices are falling yet again.",
           "link": "https://decrypt.co/209514/donald-trump-selling-more-nfts-original-sets-crashing-again",
           "publishedOn": "2023-12-12T20:30:11.000Z",
-          "wordCount": 10979,
+          "wordCount": 11035,
           "title": "Donald Trump Is Selling More NFTs—And the Original Sets Are Crashing Again",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/12/trump-nfts-series3-gID_7.png@png",
@@ -561,21 +576,6 @@
           "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/06/meme-coins-pepe-shib-doge-floki-gID_7.jpg@png"
         },
         {
-          "id": "https://decrypt.co/?p=209179",
-          "author": "Andrew Hayward",
-          "description": "Jito just dropped bags of tokens to Solana users, and Starknet, Portal, and Jupiter airdrops are on the horizon. Here’s what you need to know.",
-          "link": "https://decrypt.co/209179/free-money-hottest-airdrops-around-right-now",
-          "publishedOn": "2023-12-09T14:01:11.000Z",
-          "wordCount": 11618,
-          "title": "'Free Money': These Are the Hottest Airdrops Around Right Now",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/12/free-money-gID_7.png@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/12/free-money-gID_7.png@png"
-        },
-        {
           "id": "https://decrypt.co/videos/interviews/M9OHCVpA/interview-ember-sword-ceo-says-nft-games-are-more-transparent",
           "author": null,
           "description": "Ember Sword CEO Mark Laursen shares why some big game studios \"irk\" him—and why he got into game development.",
@@ -596,7 +596,7 @@
           "description": "At the 2023 Film3 Summit, Jordan Bayne—director and founder of The Squad—spoke with Decrypt's Sander Lutz about how the Film3 world has progressed over the last year and what decentralized technologies can offer to creators that want to buck the Hollywood system.",
           "link": "https://decrypt.co/videos/interviews/ZLoEDkL9/director-jordan-bayne-on-the-state-of-film3",
           "publishedOn": "2023-12-05T00:11:59.000Z",
-          "wordCount": 6589,
+          "wordCount": 6460,
           "title": "Director Jordan Bayne on the State of Film3",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/ZLoEDkL9/poster.jpg",
@@ -641,7 +641,7 @@
           "description": "Animoca Brands CEO Robby Yung, EndeavorXR CEO Amy Peck and Gamee co-founder CEO Bozena Rezab joined Decrypt's Stephen Graves on stage at Web Summit to talk about the future of Web3 gaming.",
           "link": "https://decrypt.co/videos/interviews/OvVWhGbW/web-summit-will-web3-gaming-ever-be-mainstream",
           "publishedOn": "2023-11-27T19:08:00.000Z",
-          "wordCount": 6539,
+          "wordCount": 6410,
           "title": "Web Summit: Will Web3 Gaming Ever be Mainstream?",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/OvVWhGbW/poster.jpg",
@@ -761,7 +761,7 @@
           "description": "Avalon Chief Product Officer Jeffrey Butler speaks with Decrypt reporter Jason Nelson and details his studio's new MMO game with interoperable assets—and how it will enable players to create and monetize their own content.",
           "link": "https://decrypt.co/videos/interviews/XDz9vsvT/avalons-jeffrey-butler-on-designing-a-metaverse-mmo-that-lets-players-co-create",
           "publishedOn": "2023-11-15T00:30:00.000Z",
-          "wordCount": 6444,
+          "wordCount": 6573,
           "title": "Avalon's Jeffrey Butler on Designing a Metaverse MMO That Lets Players Co-Create",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/XDz9vsvT/poster.jpg",
