@@ -6,12 +6,42 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=212375",
+          "author": "Jason Nelson",
+          "description": "SEC Commissioner Caroline Crenshaw decried the approval of Bitcoin ETFs, calling out inconsistent decision-making and risks.",
+          "link": "https://decrypt.co/212375/circumstances-have-changed-gary-gensler-relents-on-bitcoin-etfs",
+          "publishedOn": "2024-01-10T22:55:13.000Z",
+          "wordCount": 10874,
+          "title": "‘Circumstances Have Changed’: Gary Gensler Relents on Bitcoin ETFs",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/04/gary-gensler-gID_7.jpg@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/04/gary-gensler-gID_7.jpg@png"
+        },
+        {
+          "id": "https://decrypt.co/?p=212236",
+          "author": "Jose Antonio Lanz",
+          "description": "Mistral AI's Mixtral takes top honors among closed, proprietary options like Claude and ChatGPT.",
+          "link": "https://decrypt.co/212236/people-rank-open-source-ai-output-better-than-commercial-plays",
+          "publishedOn": "2024-01-10T22:47:03.000Z",
+          "wordCount": 10137,
+          "title": "People Rank Open Source AI Output Better Than Commercial Plays",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/01/robnot-1-gID_7.png@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/01/robnot-1-gID_7.png@png"
+        },
+        {
           "id": "https://decrypt.co/?p=212368",
           "author": "Andrew Hayward",
           "description": "Bitcoin's price action has been choppy since the SEC officially approved spot ETFs in the United States, while Ethereum hit an 18-month high.",
           "link": "https://decrypt.co/212368/bitcoin-dips-then-bounces-after-etf-approval-while-ethereum-tops-2500",
           "publishedOn": "2024-01-10T21:37:08.000Z",
-          "wordCount": 9788,
+          "wordCount": 9756,
           "title": "Bitcoin Dips, Then Bounces After ETF Approval While Ethereum Tops $2,500",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/12/bitcoin-stock-chart-btc-gID_7.jpg@png",
@@ -26,7 +56,7 @@
           "description": "After more than a decade of rejections, the SEC has at last given its blessing to allow Bitcoin ETFs to begin trading in the U.S.",
           "link": "https://decrypt.co/210763/bitcoin-etf-approved-sec",
           "publishedOn": "2024-01-10T21:11:26.000Z",
-          "wordCount": 10671,
+          "wordCount": 11264,
           "title": "Bitcoin ETFs Granted SEC Approval in Historic Action",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/02/Webp.net-resizeimage24-gID_4.jpg@png",
@@ -41,7 +71,7 @@
           "description": "Two years after letting subscribers equip owned NFTs, Elon Musk’s Twitter (aka X) has axed the feature for subscribers.",
           "link": "https://decrypt.co/212356/twitter-gives-up-nft-profile-pics-killing-ethereum-feature-paying-users",
           "publishedOn": "2024-01-10T21:11:13.000Z",
-          "wordCount": 11327,
+          "wordCount": 11295,
           "title": "Twitter Gives Up on NFT Profile Pics, Killing Ethereum Feature for Paying Users",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/01/x-elon-musk-gID_7.png@png",
@@ -56,7 +86,7 @@
           "description": "Speculators had previously guessed the fake post, which rattled markets yesterday, was a real SEC tweet that was published prematurely.",
           "link": "https://decrypt.co/212353/not-draft-tweet-sec-fbi-investigate-fake-bitcoin-etf",
           "publishedOn": "2024-01-10T20:46:35.000Z",
-          "wordCount": 10668,
+          "wordCount": 10636,
           "title": "It Wasn't a Draft Tweet: SEC Taps FBI to Investigate Fake Bitcoin ETF Post",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/07/shutterstock_1339280171-gID_1.jpg@png",
@@ -71,7 +101,7 @@
           "description": "Gaming firms have already revealed over 2,000 job cuts in 2024, with Unity and Twitch leading the way on layoffs. It's more of the same from last year.",
           "link": "https://decrypt.co/212318/twitch-unity-layoffs-keep-grim-gaming-industry-trend-alive-2024",
           "publishedOn": "2024-01-10T19:50:53.000Z",
-          "wordCount": 11795,
+          "wordCount": 11763,
           "title": "Twitch, Unity Layoffs Keep Grim Gaming Industry Trend Alive in 2024",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/01/Untitled-design-20-gID_7.png@png",
@@ -86,7 +116,7 @@
           "description": "Saga Monkes NFTs were airdropped free to Solana Saga owners this week, and they’re already selling for more than the phone itself.",
           "link": "https://decrypt.co/212323/solana-saga-owners-free-nft-now-theyre-selling-over-1000",
           "publishedOn": "2024-01-10T19:37:32.000Z",
-          "wordCount": 10610,
+          "wordCount": 10578,
           "title": "Solana Saga Owners Got a Free NFT—Now They’re Selling for Over $1,000",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/01/phone-excitement-gID_7.png@png",
@@ -101,7 +131,7 @@
           "description": "Despite his bank being a participant in a Bitcoin ETF, Dimon asserts Bitcoin is primarily used for illegal activities.",
           "link": "https://decrypt.co/212325/bitcoin-has-no-value-jp-morgans-jamie-dimon",
           "publishedOn": "2024-01-10T19:26:00.000Z",
-          "wordCount": 9595,
+          "wordCount": 9563,
           "title": "‘Bitcoin Has No Value’: JP Morgan’s Jamie Dimon Says as Market Awaits ETF",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/11/jamie-dimon-jp-morgan-chase-bitcoin-gID_7.jpg@png",
@@ -116,7 +146,7 @@
           "description": "By midday on Wednesday, investors started sharing screenshots of eTrade and Fidelity showing that Bitcoin ETF tickers were already being listed.",
           "link": "https://decrypt.co/212310/bitcoin-rebounds-as-brokerages-list-etf-after-traders-sold-the-news-on-fake-approval",
           "publishedOn": "2024-01-10T18:50:04.000Z",
-          "wordCount": 11342,
+          "wordCount": 11328,
           "title": "Bitcoin Rebounds as Brokerages List ETF After Traders 'Sold the News' on Fake Approval",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/01/bitcoin-cash-usd-btc-stock-charts-gID_7.jpg@png",
@@ -131,7 +161,7 @@
           "description": "Reza is joined by Mike Grantis from Contango Digital to discuss\n- The AI coin to rule them all\n- The Solana Ecosystem \n- What's next for Solana airdrops",
           "link": "https://decrypt.co/videos/interviews/rkYpU8TJ/the-ai-coin-to-rule-them-all-with-mike-grantis",
           "publishedOn": "2024-01-10T18:46:26.000Z",
-          "wordCount": 6728,
+          "wordCount": 6865,
           "title": "The AI Coin to Rule Them All with Mike Grantis",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/rkYpU8TJ/poster.jpg",
@@ -146,7 +176,7 @@
           "description": "Art Blocks founder and CEO and \"Chromie Squiggle\" project creator Erick \"snowfro\" Calderon spoke with Benny Redbeard Gross at Rug Radio's R Haus event at Art Basel 2023, to discuss how and why \"Chromie Squiggle\" NFT #8107 was given a special edition print run in collaboration with Avant Arte.",
           "link": "https://decrypt.co/videos/interviews/DcrU04gG/conversation-with-snowfro-bringing-chromie-squiggle-8107-to-the-physical-space",
           "publishedOn": "2024-01-10T18:40:00.000Z",
-          "wordCount": 6840,
+          "wordCount": 6977,
           "title": "Conversation With Snowfro: Bringing 'Chromie Squiggle' #8107 to the Physical Space",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/DcrU04gG/poster.jpg",
@@ -161,7 +191,7 @@
           "description": "Analysts say they expect the SEC to put out a statement—an official one, this time—late in the afternoon on Wednesday.",
           "link": "https://decrypt.co/212265/bitcoin-etf-deadline-looms-its-all-systems-go-say-analysts",
           "publishedOn": "2024-01-10T14:54:20.000Z",
-          "wordCount": 10980,
+          "wordCount": 10966,
           "title": "Bitcoin ETF Deadline Looms: It's 'All Systems Go', Say Analysts",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/01/bitcoin-btc-calendar-gID_7.jpg@png",
@@ -176,7 +206,7 @@
           "description": "Senators JD Vance (R-OH) and Thom Tillis (R-N.C.) wrote to \"express concern and request clarity\" regarding the SEC's social media blunder.",
           "link": "https://decrypt.co/212263/u-s-senators-demand-explanation-for-secs-fake-bitcoin-etf-approval-tweet",
           "publishedOn": "2024-01-10T12:32:29.000Z",
-          "wordCount": 11286,
+          "wordCount": 11254,
           "title": "U.S. Senators Demand Explanation for SEC's Fake Bitcoin ETF Approval Tweet",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/05/shutterstock_5672319101-gID_7.jpg@png",
@@ -191,7 +221,7 @@
           "description": "Twitter confirmed the regulator's account was compromised after a third party obtained control over a phone number associated with it.",
           "link": "https://decrypt.co/212251/twitter-safety-compromised-sec-account-posted-fake-bitcoin-etf-tweet-didnt-enable-2fa",
           "publishedOn": "2024-01-10T10:04:19.000Z",
-          "wordCount": 10677,
+          "wordCount": 10645,
           "title": "Twitter Safety: ‘Compromised’ SEC Account Posted Fake Bitcoin ETF Tweet, Didn’t Enable 2FA",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/01/twitter-x-gID_7.jpg@png",
@@ -206,7 +236,7 @@
           "description": "How strongly do you believe that a spot Bitcoin ETF will be approved in the U.S. this week? Some traders are betting on it—literally.",
           "link": "https://decrypt.co/212220/crypto-degens-betting-millions-bitcoin-etf-being-approved",
           "publishedOn": "2024-01-10T00:56:37.000Z",
-          "wordCount": 10425,
+          "wordCount": 10393,
           "title": "Crypto Degens Are Betting Millions on a Bitcoin ETF Being Approved",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/01/bitcoin-cash-gambling-gID_7.png@png",
@@ -221,7 +251,7 @@
           "description": "The regulatory agency says it has terminated \"unauthorized access\" to its Twitter account.",
           "link": "https://decrypt.co/212245/sec-twitter-investigate-fake-bitcoin-etf-tweet",
           "publishedOn": "2024-01-10T00:27:55.000Z",
-          "wordCount": 9753,
+          "wordCount": 9721,
           "title": "SEC and Twitter Announce Investigations Into Fake Bitcoin ETF Tweet",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/06/sec-shutterstock_1128745520-16x9-1-gID_7.jpg@png",
@@ -236,7 +266,7 @@
           "description": "UPDATED: The Xai airdrop on Arbitrum is live, while Pixels and Saga have revealed new details and Notcoin is teasing a token drop.",
           "link": "https://decrypt.co/211029/game-on-hottest-upcoming-gaming-token-airdrops",
           "publishedOn": "2024-01-10T00:12:32.000Z",
-          "wordCount": 12733,
+          "wordCount": 12701,
           "title": "Game On: The Hottest Upcoming Gaming Token Airdrops",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/12/airdrop-giant-hand-gID_7.png@png",
@@ -251,7 +281,7 @@
           "description": "A fake tweet sent Bitcoin’s price tumbling. Degens immortalized the SEC chair’s response as digital art.",
           "link": "https://decrypt.co/212226/fake-sec-gensler-tweet-inscribed-bitcoin-ordinals",
           "publishedOn": "2024-01-10T00:06:54.000Z",
-          "wordCount": 10470,
+          "wordCount": 10456,
           "title": "Gensler's ‘Compromised’ Bitcoin ETF Tweet Inscribed as an Ordinals NFT",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/01/shutterstock_1893540931-e1702656268368-gID_7.jpg@png",
@@ -266,7 +296,7 @@
           "description": "Another day, another exclusive benefit for Solana Saga phone buyers. This time, it’s an airdrop of Samoyedcoin (SAMO).",
           "link": "https://decrypt.co/212210/solanas-samo-meme-coin-spikes-24-amid-airdrop-saga-phone-owners",
           "publishedOn": "2024-01-09T23:29:53.000Z",
-          "wordCount": 10187,
+          "wordCount": 10155,
           "title": "Solana's SAMO Meme Coin Spikes 24% Amid Airdrop for Saga Phone Owners",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/01/samo-saga-gID_7.png@png",
@@ -281,7 +311,7 @@
           "description": "Instead of fighting against generative AI in games, SAG-AFTRA has signed an agreement with one company to moderate its use.",
           "link": "https://decrypt.co/212164/ai-voice-actors-coming-video-games-thanks-sag-aftra-deal",
           "publishedOn": "2024-01-09T22:57:04.000Z",
-          "wordCount": 10878,
+          "wordCount": 10846,
           "title": "AI Voice Actors Are Coming to Video Games Thanks to SAG-AFTRA Deal",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/07/sag-aftra-strike-03-jason-nelson-decrypt-gID_7.png@png",
@@ -296,7 +326,7 @@
           "description": "Bitcoin briefly hit a two-year high after apparent news of a spot ETF approval, but the price fell sharply after it was revealed to be false.",
           "link": "https://decrypt.co/212195/bitcoin-plunges-after-compromised-sec-twitter-account-tweets-fake-etf-approval",
           "publishedOn": "2024-01-09T21:49:47.000Z",
-          "wordCount": 9552,
+          "wordCount": 9520,
           "title": "Bitcoin Plunges After 'Compromised' SEC Twitter Account Tweets Fake ETF Approval",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/12/bitcoin-btc-gold-coin-red-candles-gID_7.jpg@png",
@@ -311,7 +341,7 @@
           "description": "\"The SEC has not approved the listing and trading of spot bitcoin exchange-traded products,\" SEC Chair Gary Gensler said on Tuesday afternoon.",
           "link": "https://decrypt.co/212190/sec-twitter-account-hacked-sends-false-bitcoin-etfs-approved-tweet",
           "publishedOn": "2024-01-09T21:40:43.000Z",
-          "wordCount": 10869,
+          "wordCount": 10837,
           "title": "SEC Twitter Account Hacked, Sends False 'Bitcoin ETFs Approved' Tweet",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/10/crypto-face-palm-gID_7.jpg@png",
@@ -326,7 +356,7 @@
           "description": "European regulators are looking into whether Microsoft's $10 billion investment in OpenAI has antitrust ramifications.",
           "link": "https://decrypt.co/212178/openai-under-scrutiny-as-eu-unpacks-microsoft-deal",
           "publishedOn": "2024-01-09T21:39:57.000Z",
-          "wordCount": 11114,
+          "wordCount": 11082,
           "title": "OpenAI Under Scrutiny as EU Unpacks Microsoft Deal",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/01/13508912078965-gID_7.png@png",
@@ -341,7 +371,7 @@
           "description": "Telegram's Notcoin clicker game looks like a gateway to free crypto. However, the meme coin isn't real yet—but an airdrop could be coming.",
           "link": "https://decrypt.co/212154/trillions-notcoin-farmed-telegram-meme-coin-game-but-theres-catch",
           "publishedOn": "2024-01-09T21:00:54.000Z",
-          "wordCount": 11995,
+          "wordCount": 11963,
           "title": "Trillions of 'Notcoin' Farmed in Telegram Meme Coin Game—But There's a Catch",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/01/robots-farming-coins-gID_7.jpg@png",
@@ -356,7 +386,7 @@
           "description": "With SEC approval widely anticipated tomorrow, Jan van Eck predicts trading will start Thursday for Bitcoin ETFs.",
           "link": "https://decrypt.co/212151/bitcoin-etfs-will-not-be-a-winner-take-all-market-vaneck-ceo",
           "publishedOn": "2024-01-09T20:15:02.000Z",
-          "wordCount": 9979,
+          "wordCount": 9965,
           "title": "Bitcoin ETFs Will Not Be a ‘Winner-Take-All Market’: VanEck CEO",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2019/09/vaneck-bitcoin-etf-miss-gID_7.jpg@png",
@@ -371,7 +401,7 @@
           "description": "Analysts at K33 Research had previously said they expected the approval of a spot Bitcoin ETF to trigger a \"sell the news\" event. Not anymore.",
           "link": "https://decrypt.co/212152/bitcoin-etf-boost-btc-price-analysts-flip-sell-news-fears",
           "publishedOn": "2024-01-09T19:38:53.000Z",
-          "wordCount": 10611,
+          "wordCount": 10579,
           "title": "Bitcoin ETF May Actually Boost BTC Price as Analysts Flip on 'Sell the News' Fears",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/12/bitcoin-btc-bull-bullish-price-rally-gID_7.jpg@png",
@@ -386,7 +416,7 @@
           "description": "Arbitrum’s new “layer-3” gaming network Xai launches the XAI token, hitting a market cap above $154 million after the airdrop.",
           "link": "https://decrypt.co/212137/xai-airdrop-arbitrum-puts-70-million-gamers-wallets",
           "publishedOn": "2024-01-09T18:39:06.000Z",
-          "wordCount": 10474,
+          "wordCount": 10442,
           "title": "XAI Airdrop on Arbitrum Puts $70 Million Into Gamers' Wallets",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/01/airdrop-future-ai2-gID_7.png@png",
@@ -401,7 +431,7 @@
           "description": "Authorized participants are needed to provide the liquidity in the ETF market, and their bona fides are very important to the SEC.",
           "link": "https://decrypt.co/212094/bitcoin-etf-who-are-the-authorized-participants",
           "publishedOn": "2024-01-09T17:42:06.000Z",
-          "wordCount": 11673,
+          "wordCount": 11659,
           "title": "Bitcoin ETF: These Are All the Authorized Participants",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/01/Jane-Street-HQ-Matterport-scaled-gID_4.jpg@png",
@@ -416,7 +446,7 @@
           "description": "Brazil shines, Canada leads, and the U.S. teeters on the edge of history.",
           "link": "https://decrypt.co/212038/bitcoin-etfs-around-the-world",
           "publishedOn": "2024-01-09T16:38:06.000Z",
-          "wordCount": 13998,
+          "wordCount": 13966,
           "title": "Bitcoin ETFs Have Been Trading Around the World for Years—Here’s How They’ve Done",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/01/realistic-photo-illustrating-Bitcoin-bustling-financial-district-in-a-major-city-with-gID_7.png@png",
@@ -431,7 +461,7 @@
           "description": "Prospective Bitcoin ETF issuers are reportedly set to file updated documents Tuesday, responding to a round of comments from the SEC Monday.",
           "link": "https://decrypt.co/212095/sec-provides-comments-on-latest-bitcoin-etf-filings-report",
           "publishedOn": "2024-01-09T11:02:39.000Z",
-          "wordCount": 10668,
+          "wordCount": 10654,
           "title": "SEC Provides Comments on Latest Bitcoin ETF Filings: Report",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/02/bitcoin-etf-bermuda-gID_7.jpg@png",
@@ -446,7 +476,7 @@
           "description": "OpenAI says the New York Times cherry picked responses and manipulated prompts to make its chatbot “regurgitate” content.",
           "link": "https://decrypt.co/212077/not-telling-the-full-story-openai-challenges-nyts-copyright-lawsuit-claims",
           "publishedOn": "2024-01-09T00:47:08.000Z",
-          "wordCount": 11449,
+          "wordCount": 11417,
           "title": "‘Not Telling The Full Story’: OpenAI Challenges NYT's Copyright Lawsuit Claims",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/06/shutterstock_173706362-gID_7.jpg@png",
@@ -461,7 +491,7 @@
           "description": "SCB analysts join Bloomberg in predicting a six-figure Bitcoin price.",
           "link": "https://decrypt.co/212073/bitcoin-200000-december-2025-standard-chartered-bank",
           "publishedOn": "2024-01-08T23:13:02.000Z",
-          "wordCount": 9947,
+          "wordCount": 9915,
           "title": "Bitcoin Could Hit $200,000 by December 2025, Says Standard Chartered Bank",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/01/Bitcoin-Rocket-gID_7.png@png",
@@ -476,7 +506,7 @@
           "description": "Potential Bitcoin ETF issuers may be playing chicken with one another, seeing who can sustain the lowest fees for longest.",
           "link": "https://decrypt.co/212032/bitcoin-etf-fee-war-whats-going-on",
           "publishedOn": "2024-01-08T21:40:06.000Z",
-          "wordCount": 11170,
+          "wordCount": 11138,
           "title": "Bitcoin ETF Fee War: Here's What's Going On",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/10/bitcoin-etf-trading-volume-gID_4.jpeg@png",
@@ -491,7 +521,7 @@
           "description": "With Bitcoin spot ETFs imminent, the financial firms are poised to inject millions into the new investment vehicle.",
           "link": "https://decrypt.co/212037/vaneck-bitwise-prep-over-200-million-in-advance-of-bitcoin-etf-approval",
           "publishedOn": "2024-01-08T21:20:36.000Z",
-          "wordCount": 10767,
+          "wordCount": 10753,
           "title": "VanEck, Bitwise Prep Over $200 Million in Advance of Bitcoin ETF Approval",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/01/Webp.net-resizeimage22-gID_7.jpg@png",
@@ -506,7 +536,7 @@
           "description": "Ubisoft and Tencent are embracing generative AI. But will the new tech make games better?",
           "link": "https://decrypt.co/212025/ubisoft-nvidia-ai-tools-npc-chat-characters",
           "publishedOn": "2024-01-08T21:07:24.000Z",
-          "wordCount": 10584,
+          "wordCount": 10552,
           "title": "Ubisoft Will Tap NVIDIA's AI Tools to Build Chatty Game Characters",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/01/nova-1-Cropped-gID_7.jpg@png",
@@ -521,7 +551,7 @@
           "description": "Theories have abounded as to the mystery payer’s identity, with some more plausible than others.",
           "link": "https://decrypt.co/212031/someone-sent-bitcoin-satoshi-nakamoto-why",
           "publishedOn": "2024-01-08T21:00:56.000Z",
-          "wordCount": 11801,
+          "wordCount": 11769,
           "title": "Someone Sent $1.2 Million in Bitcoin to Satoshi's Wallet—Why?",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/02/satoshi-nakamoto-bitcoin-mystery-gID_4.jpg@png",
@@ -551,7 +581,7 @@
           "description": "Leaping well beyond monkey JPEGs, Ninjalerts has inscribed a Super Nintendo Entertainment System emulator on a satoshi.",
           "link": "https://decrypt.co/212006/bitcoin-nintendo-ordinals-inscriptions-blockchain-games",
           "publishedOn": "2024-01-08T18:04:35.000Z",
-          "wordCount": 11319,
+          "wordCount": 11287,
           "title": "Bitcoin Devs Preserve Classic Nintendo Games With Ordinals",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/01/Decrypt-Wallpaper-Format-2024-01-08T085220.815-gID_7.png@png",
@@ -566,7 +596,7 @@
           "description": "The SEC chair warned of risks in crypto investments, highlighting compliance issues and volatility as several Bitcoin ETFs await SEC approval.",
           "link": "https://decrypt.co/212012/gary-gensler-warns-against-investing-in-crypto-market-awaits-bitcoin-etf",
           "publishedOn": "2024-01-08T17:56:13.000Z",
-          "wordCount": 10608,
+          "wordCount": 10594,
           "title": "Gary Gensler Again Warns Against Investing in Crypto as Market Awaits Bitcoin ETF",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/04/gary-gensler-gID_7.jpg@png",
@@ -581,7 +611,7 @@
           "description": "Bitcoin has recovered the losses from last week's flash crash, as firms made their final amendments to their spot Bitcoin ETF applications.",
           "link": "https://decrypt.co/211993/bitcoin-reclaims-45000-as-etf-hopefuls-make-final-filings",
           "publishedOn": "2024-01-08T13:35:04.000Z",
-          "wordCount": 9893,
+          "wordCount": 9879,
           "title": "Bitcoin Reclaims $45,000 As ETF Hopefuls Make Final Filings",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/05/bitcoin-up-gID_7.jpg@png",
@@ -589,36 +619,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/05/bitcoin-up-gID_7.jpg@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=211987",
-          "author": "Stephen Graves",
-          "description": "Bitcoin ETF hopefuls have filed a rush of amended S-1 forms as they race to meet the SEC's final deadline Monday.",
-          "link": "https://decrypt.co/211987/blackrock-vaneck-wisdomtree-reveal-bitcoin-etf-fees-in-amended-s-1-filings",
-          "publishedOn": "2024-01-08T12:50:12.000Z",
-          "wordCount": 10822,
-          "title": "BlackRock, VanEck, WisdomTree Reveal Bitcoin ETF Fees in Amended S-1 Filings",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/04/bitcoin-etf-gID_7.jpg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/04/bitcoin-etf-gID_7.jpg@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=211935",
-          "author": "Stephen Graves",
-          "description": "A Bloomberg Intelligence analyst puts the odds of a Bitcoin ETF being approved in January at 95%, as crunch time looms for the SEC's decision.",
-          "link": "https://decrypt.co/211935/bitcoin-etf-approval-odds-raised-to-95-bloomberg-analyst",
-          "publishedOn": "2024-01-08T11:03:00.000Z",
-          "wordCount": 11113,
-          "title": "Bitcoin ETF Approval Odds Raised to 95%: Bloomberg Analyst",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/01/bitcoin-etf-cart-gID_7.jpg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/01/bitcoin-etf-cart-gID_7.jpg@png"
         },
         {
           "id": "https://decrypt.co/videos/interviews/VOX04ytt/bitcoin-etf-this-is-the-calm-before-the-storm-says-etf-analyst",
@@ -671,7 +671,7 @@
           "description": "Billionaire biohacker Bryan Johnson shared with Decrypt's Jason Nelson why he began his longevity quest and how technology has shaped the endeavor. Johnson also discusses some of his controversial experiments.",
           "link": "https://decrypt.co/videos/interviews/tAwP55g9/bryan-johnson-explains-his-quest-for-immortality-and-why-he-started-with-the-penis",
           "publishedOn": "2023-12-24T19:38:39.000Z",
-          "wordCount": 6763,
+          "wordCount": 6900,
           "title": "Bryan Johnson Explains His Quest for Immortality and Why He Started with the Penis",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/tAwP55g9/poster.jpg",
