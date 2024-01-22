@@ -6,6 +6,36 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=213679",
+          "author": "Mathew Di Salvo",
+          "description": "Investors are fast putting money into Bitcoin ETFs—at the expense of other types of crypto funds, a report says.",
+          "link": "https://decrypt.co/213679/bitcoin-etfs-have-gained-4-billion-but-other-crypto-funds-are-waning",
+          "publishedOn": "2024-01-22T16:47:35.000Z",
+          "wordCount": 9886,
+          "title": "Bitcoin ETFs Have Gained $4 Billion—But Other Crypto Funds Are Waning",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/04/bitcoin-holders-market-crash-halving-gID_7.jpg@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/04/bitcoin-holders-market-crash-halving-gID_7.jpg@png"
+        },
+        {
+          "id": "https://decrypt.co/?p=213686",
+          "author": "Andrew Hayward",
+          "description": "Ronin’s RON token nearly hit a two-year high Sunday amid Pixels airdrop hype, but most major gaming tokens are down today.",
+          "link": "https://decrypt.co/213686/gaming-tokens-plunge-bitcoin-nears-40k-ronin-on-fire",
+          "publishedOn": "2024-01-22T16:30:29.000Z",
+          "wordCount": 10274,
+          "title": "Gaming Tokens Plunge as Bitcoin Nears $40K—But Ronin Is On Fire",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/11/gaming-crypto-blockchain-gID_7.jpeg@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/11/gaming-crypto-blockchain-gID_7.jpeg@png"
+        },
+        {
           "id": "https://decrypt.co/?p=213582",
           "author": "Reza Jafery",
           "description": "The newest addition to 0x’s selection of trading APIs allows builders to use \"gasless\" swaps in their decentralized applications on Ethereum.",
@@ -516,36 +546,6 @@
           "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/06/eu-gID_7.jpg@png"
         },
         {
-          "id": "https://decrypt.co/?p=213312",
-          "author": "Jose Antonio Lanz",
-          "description": "A modular blockchain with a notorious founder is the new obsession among crypto enthusiasts, its token value up 40% since December 18.",
-          "link": "https://decrypt.co/213312/what-is-celestia-tia-the-coin-created-by-a-cia-hacker-spiked-800-in-3-months",
-          "publishedOn": "2024-01-18T12:01:02.000Z",
-          "wordCount": 10711,
-          "title": "What is Celestia (TIA)? The Coin Created by a CIA Hacker Spikes 800%",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/01/Celestia-AI-Art-gID_7.png@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/01/Celestia-AI-Art-gID_7.png@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=213324",
-          "author": "Stephen Graves",
-          "description": "In a campaign speech in New Hampshire, the former U.S. President called central bank digital currencies \"government tyranny.\"",
-          "link": "https://decrypt.co/213324/trump-vows-to-never-allow-u-s-cbdc-if-reelected",
-          "publishedOn": "2024-01-18T10:54:16.000Z",
-          "wordCount": 9333,
-          "title": "Trump Vows to 'Never Allow' U.S. CBDC if Reelected",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/06/donald-trump-twitter-censorship-warnings-crypto-gID_7.jpg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/06/donald-trump-twitter-censorship-warnings-crypto-gID_7.jpg@png"
-        },
-        {
           "id": "https://decrypt.co/videos/interviews/i3sesrao/are-you-the-one-being-farmed-w-frisson",
           "author": null,
           "description": "Reza is joined by Frisson from Tallyx.xyz\n\nThey reflect on:\n- building in the bear market\n- the points system meta\n- will zoomers care about decentralization",
@@ -596,7 +596,7 @@
           "description": "In this panel discussion from Rug Radio's R Haus at Art Basel Miami 2023, Sofia Garcia, Ismail Tazi, Emily Edelman, and Aleksandra Art discuss the expanding generative art space—and why \"generative\" doesn't necessarily have to mean digital.",
           "link": "https://decrypt.co/videos/live-events/GK3aN0zo/generative-art-across-mediums-artists-discuss-the-evolving-space",
           "publishedOn": "2024-01-12T02:45:00.000Z",
-          "wordCount": 6803,
+          "wordCount": 6969,
           "title": "Generative Art Across Mediums: Artists Discuss the Evolving Space",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/GK3aN0zo/poster.jpg",
@@ -626,7 +626,7 @@
           "description": "Art Blocks founder and CEO and \"Chromie Squiggle\" project creator Erick \"snowfro\" Calderon spoke with Benny Redbeard Gross at Rug Radio's R Haus event at Art Basel 2023, to discuss how and why \"Chromie Squiggle\" NFT #8107 was given a special edition print run in collaboration with Avant Arte.",
           "link": "https://decrypt.co/videos/live-events/DcrU04gG/conversation-with-snowfro-bringing-chromie-squiggle-8107-to-the-physical-space",
           "publishedOn": "2024-01-10T18:40:00.000Z",
-          "wordCount": 6875,
+          "wordCount": 7041,
           "title": "Conversation With Snowfro: Bringing 'Chromie Squiggle' #8107 to the Physical Space",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/DcrU04gG/poster.jpg",
