@@ -6,6 +6,21 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=214647",
+          "author": "Jose Antonio Lanz",
+          "description": "Huggingface’s new Hallucinations Leaderboard ranks models based on how prone they are to generate content that is not true.",
+          "link": "https://decrypt.co/214647/hallucination-nation-how-crazy-is-your-favorite-ai-model",
+          "publishedOn": "2024-01-29T22:44:42.000Z",
+          "wordCount": 10627,
+          "title": "Hallucination Nation: How Crazy Is Your Favorite AI Model?",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/01/Hallucinating-AI-Chart-Art-by-Jose-Lanz-gID_7.jpg@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/01/Hallucinating-AI-Chart-Art-by-Jose-Lanz-gID_7.jpg@png"
+        },
+        {
           "id": "https://decrypt.co/?p=214657",
           "author": "Andrew Hayward",
           "description": "The Immutable zkEVM mainnet is now live in early access, with select games set to launch in the coming months on the Ethereum scaler.",
@@ -56,7 +71,7 @@
           "description": "Though it doesn't offer direct Bitcoin exposure, the new product uses BTC to generate a purported 30% yield for investors.",
           "link": "https://decrypt.co/214630/theres-a-new-bitcoin-etf-offering-30-yield-heres-how-it-works",
           "publishedOn": "2024-01-29T19:55:44.000Z",
-          "wordCount": 9830,
+          "wordCount": 9923,
           "title": "There's a New Bitcoin ETF Offering 30% Yield: Here's How It Works",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/11/bitcoin-etf-btc-gID_7.jpg@png",
@@ -341,7 +356,7 @@
           "description": "Rook Perfumes founder Nadeem Crowe and Melissa Gilmour of Web3 creative agency Lily & Piper join Stephen Graves to talk about how they created a fragrance with a DAO and brought it to the shelves of London department store Harvey Nichols.",
           "link": "https://decrypt.co/videos/interviews/LIUXdAv0/how-a-perfume-dao-crafted-a-scent-of-the-metaverse",
           "publishedOn": "2024-01-26T18:35:00.000Z",
-          "wordCount": 6956,
+          "wordCount": 6829,
           "title": "How a Perfume DAO Crafted a 'Scent of the Metaverse'",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/LIUXdAv0/poster.jpg",
@@ -501,21 +516,6 @@
           "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/10/telsa-bitcoin-gID_7.jpeg@png"
         },
         {
-          "id": "https://decrypt.co/?p=214301",
-          "author": "Mathew Di Salvo",
-          "description": "The U.S. Securities and Exchange Commission has pushed back a decision on Grayscale's spot Ethereum ETF conversion proposal.",
-          "link": "https://decrypt.co/214301/sec-punts-yet-another-spot-ethereum-etf",
-          "publishedOn": "2024-01-25T19:45:30.000Z",
-          "wordCount": 9697,
-          "title": "SEC Punts on Yet Another Spot Ethereum ETF",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/02/SEC-shutterstock_1383379244-16x9-1-gID_7.jpg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/02/SEC-shutterstock_1383379244-16x9-1-gID_7.jpg@png"
-        },
-        {
           "id": "https://decrypt.co/videos/interviews/uLy5Y1E7/trash-fueled-btc-mining-w-chris-bennet",
           "author": null,
           "description": "Reza is joined by Chris Bennet from Spacestation Investments.\n\nThey discuss:\n- Mining BTC with energy generated from landfills\n- How to increase deal-flow\n- Running an agency vs running a fund",
@@ -536,7 +536,7 @@
           "description": "A first look at \"Sigma Lumina,\" a sculpture by artist and musician Agoria in collaboration with Johan Lescure. It features in \"Le Code d’Orsay,\" the first NFT exhibition at the Musée d’Orsay.",
           "link": "https://decrypt.co/videos/live-events/PK7ynKMB/preview-of-agorias-le-code-dorsay",
           "publishedOn": "2024-01-23T13:00:00.000Z",
-          "wordCount": 6919,
+          "wordCount": 6762,
           "title": "Preview of Agoria's 'Le Code d’Orsay'",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/PK7ynKMB/poster.jpg",
@@ -581,7 +581,7 @@
           "description": "Rug Radio founder Farokh Sarmad moderates a conversation between 9dcc founder and CEO Gmoney and Serotonin founder and CEO Amanda Cassatt about the challenges and opportunities in Web3 marketing and how they're navigating the ever-evolving space. Recorded at Rug Radio's R Haus event at Art Basel Miami in December 2023.",
           "link": "https://decrypt.co/videos/live-events/YiQgzWJW/genius-marketing-by-genius-marketers-how-crypto-builders-can-reach-the-masses",
           "publishedOn": "2024-01-17T16:40:00.000Z",
-          "wordCount": 7045,
+          "wordCount": 6888,
           "title": "Genius Marketing by Genius Marketers: How Crypto Builders Can Reach the Masses",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/YiQgzWJW/poster.jpg",
@@ -611,7 +611,7 @@
           "description": "Reza is joined by Mike Grantis from Contango Digital to discuss\n- The AI coin to rule them all\n- The Solana Ecosystem \n- What's next for Solana airdrops",
           "link": "https://decrypt.co/videos/interviews/rkYpU8TJ/the-ai-coin-to-rule-them-all-with-mike-grantis",
           "publishedOn": "2024-01-10T18:46:26.000Z",
-          "wordCount": 6890,
+          "wordCount": 6763,
           "title": "The AI Coin to Rule Them All with Mike Grantis",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/rkYpU8TJ/poster.jpg",
@@ -626,7 +626,7 @@
           "description": "Art Blocks founder and CEO and \"Chromie Squiggle\" project creator Erick \"snowfro\" Calderon spoke with Benny Redbeard Gross at Rug Radio's R Haus event at Art Basel 2023, to discuss how and why \"Chromie Squiggle\" NFT #8107 was given a special edition print run in collaboration with Avant Arte.",
           "link": "https://decrypt.co/videos/live-events/DcrU04gG/conversation-with-snowfro-bringing-chromie-squiggle-8107-to-the-physical-space",
           "publishedOn": "2024-01-10T18:40:00.000Z",
-          "wordCount": 7034,
+          "wordCount": 6877,
           "title": "Conversation With Snowfro: Bringing 'Chromie Squiggle' #8107 to the Physical Space",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/DcrU04gG/poster.jpg",
@@ -656,7 +656,7 @@
           "description": "Bloomberg Senior ETF Analyst Eric Balchunas joins Farokh Sarmad, Michael Anderson, and Ovie Faruq on the FOMO Hour to share the latest intel on the looming approval for a spot Bitcoin ETF, what might happen when the very different worlds of TradFi and crypto collide, and his insights on “Genslish,” the unique and strategic language of SEC chair Gary Gensler.",
           "link": "https://decrypt.co/videos/interviews/VOX04ytt/bitcoin-etf-this-is-the-calm-before-the-storm-says-etf-analyst",
           "publishedOn": "2024-01-05T20:20:19.000Z",
-          "wordCount": 7063,
+          "wordCount": 6936,
           "title": "Bitcoin ETF: This Is the 'Calm Before the Storm', Says ETF Analyst",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/VOX04ytt/poster.jpg",
