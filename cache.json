@@ -6,12 +6,42 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=221873",
+          "author": "Stacy Elliott",
+          "description": "JP Morgan warned that introducing more leverage into Bitcoin markets could make a potential correction all the more painful.",
+          "link": "https://decrypt.co/221873/microstrategy-bitcoin-buys-severe-deleveraging-jp-morgan",
+          "publishedOn": "2024-03-15T14:04:20.000Z",
+          "wordCount": 10443,
+          "title": "MicroStrategy's Leveraged Bitcoin Buys Could Lead to 'Severe Deleveraging' If Market Drops, Says JP Morgan",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/03/bitcoin-btc-gold-red-stock-chart-scaled-gID_7.jpg@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/03/bitcoin-btc-gold-red-stock-chart-scaled-gID_7.jpg@png"
+        },
+        {
+          "id": "https://decrypt.co/?p=221859",
+          "author": "Andrew Hayward",
+          "description": "Developers can now utilize Aptos Labs’ blockchain gaming suite, which includes a collaboration with Google Cloud for live service games.",
+          "link": "https://decrypt.co/221859/aptos-gamestack-eases-crypto-game-dev-google-cloud",
+          "publishedOn": "2024-03-15T13:21:12.000Z",
+          "wordCount": 9423,
+          "title": "Aptos GameStack Eases Crypto Game Development—With Google Cloud's Help",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/11/gaming-crypto-blockchain-gID_7.jpeg@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/11/gaming-crypto-blockchain-gID_7.jpeg@png"
+        },
+        {
           "id": "https://decrypt.co/?p=221847",
           "author": "Andrew Hayward",
           "description": "Crypto game Upland is gearing up to debut its Sparklet token, and will reward users via in-game missions and social media engagement.",
           "link": "https://decrypt.co/221847/upland-reveals-share-build-airdrop-drive-ethereum-token",
           "publishedOn": "2024-03-15T13:01:02.000Z",
-          "wordCount": 10631,
+          "wordCount": 10595,
           "title": "Upland Reveals 'Share and Build' Airdrop Drive Ahead of Ethereum Token Launch",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/03/upland-airdrop-gID_7.png@png",
@@ -26,7 +56,7 @@
           "description": "A University of York researcher used ChatGPT to play classic first-person shooter—and the results were painful.",
           "link": "https://decrypt.co/221840/can-chatgpt-play-doom-yes-but-its-terrible",
           "publishedOn": "2024-03-15T11:01:02.000Z",
-          "wordCount": 10792,
+          "wordCount": 10756,
           "title": "Can ChatGPT Play 'Doom'? Yes—But It's Terrible",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/03/doomguy-ouch-gID_7.webp@png",
@@ -41,7 +71,7 @@
           "description": "\"You can call it our first Bitcoin piggy bank,\" Bukele quipped yesterday on X. \"It's not much, but it's honest work.\"",
           "link": "https://decrypt.co/221866/el-salvador-bitcoin-treasury-wallet",
           "publishedOn": "2024-03-15T09:27:17.000Z",
-          "wordCount": 10966,
+          "wordCount": 10930,
           "title": "El Salvador Bitcoin Treasury Is a Lot Bigger Than We Thought",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/03/bitcoin-btc-gold-coins-bank-vault-el-salvador-gID_7.jpg@png",
@@ -56,7 +86,7 @@
           "description": "Early Bitcoin Ordinals faithful will be rewarded with 112,383 Runestones airdropped to Bitcoin wallets over the next 48 hours.",
           "link": "https://decrypt.co/221841/bitcoin-ordinals-runestones-airdrop-starts",
           "publishedOn": "2024-03-15T01:01:19.000Z",
-          "wordCount": 10807,
+          "wordCount": 10771,
           "title": "Check Your Wallets: Bitcoin Ordinals Runestones Are Being Airdropped",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/12/airplane-airdrop-ai-gID_7.png@png",
@@ -71,7 +101,7 @@
           "description": "Viral clicker game Notcoin just launched a new promo ahead of the airdrop, offering up 100,000 Toncoin and heaps of in-game coins.",
           "link": "https://decrypt.co/221836/telegram-notcoin-giving-400k-toncoin-millions-in-game-coins",
           "publishedOn": "2024-03-14T23:32:24.000Z",
-          "wordCount": 10136,
+          "wordCount": 10100,
           "title": "Telegram's 'Notcoin' Giving Out $400K in TON, Plus Millions of In-Game Coins",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/03/notcoin-gID_7.png@png",
@@ -86,7 +116,7 @@
           "description": "Younger voters of color are increasingly adopting cryptocurrencies, making holders a potential swing vote in a tight race.",
           "link": "https://decrypt.co/221829/crypto-poll-trump-biden-bitcoin-etf",
           "publishedOn": "2024-03-14T23:23:11.000Z",
-          "wordCount": 11039,
+          "wordCount": 11003,
           "title": "Crypto Holders Favor Donald Trump for U.S. President: Poll",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/03/Donald-Trump-shutterstock_677261236-gID_7.jpg@png",
@@ -101,7 +131,7 @@
           "description": "ETFs match last week’s inflows in just 3 days. ETH Dencun upgrade goes, ETH coins broadly fall. ETH L2 costs for trading decrease dramatically. SOL nears $100bn FDV as activity soars. SOL DEX volume now 3x ETH mainnet. MicroStrategy plans $500m raise to buy more BTC. Franklin Templeton releases memecoin paper. AEVO faces FUD about tokenomics.",
           "link": "https://decrypt.co/videos/interviews/DIZFtR67/this-is-the-time-of-sol",
           "publishedOn": "2024-03-14T23:10:16.000Z",
-          "wordCount": 7023,
+          "wordCount": 7024,
           "title": "This is The Time of SOL",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/DIZFtR67/poster.jpg",
@@ -116,7 +146,7 @@
           "description": "Digital collectibles platform VeVe goes deeper into the comic book game with a dedicated app that features Marvel Comics NFTs.",
           "link": "https://decrypt.co/221826/spider-man-and-x-men-nft-comics-hit-ethereum-in-veves-new-app",
           "publishedOn": "2024-03-14T22:46:02.000Z",
-          "wordCount": 9999,
+          "wordCount": 9962,
           "title": "‘Spider-Man’ and ‘X-Men’ NFT Comics Hit Ethereum in VeVe's New App",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/08/marvel-veve-spider-man-nft-gID_7.png@png",
@@ -131,7 +161,7 @@
           "description": "PREVIEW: CCP Games CEO Hilmar Veigar Pétursson tells GG all about Project Awakening, the on-chain evolution of Eve Online.",
           "link": "https://decrypt.co/221814/project-awakening-preview-eve-online-crypto-game",
           "publishedOn": "2024-03-14T22:31:02.000Z",
-          "wordCount": 15301,
+          "wordCount": 15265,
           "title": "Project Awakening Preview: Eve Online Crypto Game ‘Literally Wants to Kill You’",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/03/project-awakening-keyart-gID_7.png@png",
@@ -146,7 +176,7 @@
           "description": "A continued Grayscale sell-off added downward pressure to hot U.S. inflation figures announced Thursday.",
           "link": "https://decrypt.co/221801/bitcoin-down-below-69000-grayscale-moves-400-million-btc",
           "publishedOn": "2024-03-14T21:28:28.000Z",
-          "wordCount": 9930,
+          "wordCount": 9894,
           "title": "Bitcoin Falls Below $69,000 as Grayscale Moves Over $400 Million in BTC to Coinbase",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/01/bitcoin-down-shutterstock_2132501507-gID_7.jpg@png",
@@ -161,7 +191,7 @@
           "description": "Carbonated Inc. reveals backing by Andreessen Horowitz and Com2uS as its iOS and Android game MadWorld begins testing.",
           "link": "https://decrypt.co/221788/madworld-mobile-nft-shooter-early-access-carbonated-raises-11-million",
           "publishedOn": "2024-03-14T21:01:02.000Z",
-          "wordCount": 11346,
+          "wordCount": 11310,
           "title": "'MadWorld' Mobile NFT Shooter Launches in Early Access as Studio Raises $11 Million",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/03/madworld-game-artwork-gID_7.png@png",
@@ -176,7 +206,7 @@
           "description": "Bitcoin hits a new high at $73.1k with a 2% increase, while Ethereum remains steady at $4050 and Solana sees a similar surge to $154. TON, RBN, RUNE, and QNT emerge as top gainers, capturing market attention. BTC's unprecedented rise is fueled by a record $1 billion in ETF inflows, coinciding with Ethereum's Dencun upgrade promising significant changes for Layer 2 solutions.",
           "link": "https://decrypt.co/videos/interviews/a7WwOWdu/bitcoin-hits-ath-again",
           "publishedOn": "2024-03-14T20:22:30.000Z",
-          "wordCount": 7041,
+          "wordCount": 7042,
           "title": "Bitcoin Hits ATH Again",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/a7WwOWdu/poster.jpg",
@@ -191,7 +221,7 @@
           "description": "The tech billionaire still calls Dogecoin “the people’s crypto.”",
           "link": "https://decrypt.co/221784/dogecoin-price-elon-musk-tesla-purchases",
           "publishedOn": "2024-03-14T19:03:30.000Z",
-          "wordCount": 10462,
+          "wordCount": 10426,
           "title": "Dogecoin Pumps As Elon Musk Says Tesla ‘Should Enable’ Purchases With Meme Coin",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/07/Elon-Musk-Idaho-2015-e1627334290881-gID_7.jpeg@png",
@@ -206,7 +236,7 @@
           "description": "These meme coins and tokens are still flying, unshaken by the latest inflation data.",
           "link": "https://decrypt.co/221755/dogwifhat-bonk-pepecoin-double-digits-despite-inflation-news",
           "publishedOn": "2024-03-14T17:24:02.000Z",
-          "wordCount": 9554,
+          "wordCount": 9518,
           "title": "Memes Continue Run: Dogwifhat, Bonk, and Pepe Jump Double Digits",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/06/meme-coins-pepe-shib-doge-floki-gID_7.jpg@png",
@@ -221,7 +251,7 @@
           "description": "Long-running Ethereum NFT art platform SuperRare is embracing Bitcoin Ordinals via a collection from artist Killer Acid in April.",
           "link": "https://decrypt.co/221754/superrare-expands-beyond-ethereum-nfts-bitcoin-ordinals-artwork",
           "publishedOn": "2024-03-14T17:09:02.000Z",
-          "wordCount": 10880,
+          "wordCount": 10843,
           "title": "SuperRare Expands Beyond Ethereum NFTs Into Bitcoin Ordinals Artwork",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/03/killer-acid-superrare-gID_7.png@png",
@@ -236,7 +266,7 @@
           "description": "Congressman Tom Emmer revealed notes from the central bank hinting at a pro-CBDC agenda.",
           "link": "https://decrypt.co/221752/federal-reserve-declares-cbdc-a-key-duty-to-congress",
           "publishedOn": "2024-03-14T16:53:54.000Z",
-          "wordCount": 10168,
+          "wordCount": 10132,
           "title": "Federal Reserve Declares CBDC a ‘Key Duty’ to Congress",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/06/shutterstock_472493827-gID_7.jpg@png",
@@ -251,7 +281,7 @@
           "description": "Play-to-airdrop campaigns and rising token prices helped crypto games pull in 1.9 million daily active wallets, DappRadar reports.",
           "link": "https://decrypt.co/221753/airdrop-hype-spurs-20-percent-spike-crypto-game-players-february",
           "publishedOn": "2024-03-14T16:42:58.000Z",
-          "wordCount": 11006,
+          "wordCount": 10970,
           "title": "Airdrop Hype Spurs 20% Spike in Crypto Game Players in February",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/10/12c91508-cc00-49ab-b1b1-3e111aec9081-Cropped-gID_7.jpg@png",
@@ -266,7 +296,7 @@
           "description": "After closing in on $74,000 early Thursday, the price of Bitcoin has fallen alongside prominent stocks following hot U.S. inflation data.",
           "link": "https://decrypt.co/221740/bitcoin-stock-prices-drop-us-inflation-data",
           "publishedOn": "2024-03-14T15:57:13.000Z",
-          "wordCount": 9879,
+          "wordCount": 9843,
           "title": "Bitcoin, Stock Prices Drop as US Inflation Data Comes in Hot",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/01/prices-bitcoin-market-inflation-gID_7.jpeg@png",
@@ -281,7 +311,7 @@
           "description": "By expanding from the first to the second largest crypto ecosystem, Sovryn wants to bring its lending, borrowing, and trading services to more people.",
           "link": "https://decrypt.co/221633/bitcoin-defi-app-sovryn-expanding-ethereum-heres-how",
           "publishedOn": "2024-03-14T15:03:36.000Z",
-          "wordCount": 10906,
+          "wordCount": 10870,
           "title": "Bitcoin DeFi App Sovryn Is Expanding to Ethereum—Here's How",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/09/Bitcoin-Ethereum-shutterstock_1318372334-16x9-1-gID_7.jpg@png",
@@ -296,7 +326,7 @@
           "description": "Billed as “The Da Vinci Code meets Web3,” CypherClans harks back to the philosophy of the cypherpunk and Cicada 3301 movements.",
           "link": "https://decrypt.co/219874/crypto-puzzle-game-cypherclans-launches-1-million-treasure-hunt",
           "publishedOn": "2024-03-14T15:01:02.000Z",
-          "wordCount": 11531,
+          "wordCount": 11495,
           "title": "Crypto Puzzle Game CypherClans Launches $1 Million Treasure Hunt",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/03/cypherclans-1-gID_7.jpg@png",
@@ -311,7 +341,7 @@
           "description": "A UK judge said Dr. Wright is not the author of the Bitcoin White Paper and was not the person behind the pseudonym Satoshi Nakamoto.",
           "link": "https://decrypt.co/221724/craig-wright-did-not-invent-bitcoin-not-satoshi-nakamoto",
           "publishedOn": "2024-03-14T14:02:06.000Z",
-          "wordCount": 9888,
+          "wordCount": 9852,
           "title": "Craig Wright Did Not Invent Bitcoin and Is Not Satoshi Nakamoto: UK Judge Ruling",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/04/Craig-Wright-gID_7.png@png",
@@ -326,7 +356,7 @@
           "description": "Ahead of the mainnet rollout at the halving, Bitcoin wallet Xverse has added testnet support for the Runes fungible token standard.",
           "link": "https://decrypt.co/221663/bitcoin-runes-xverse-wallet",
           "publishedOn": "2024-03-14T13:08:09.000Z",
-          "wordCount": 10877,
+          "wordCount": 10841,
           "title": "Bitcoin Runes Are Coming—And Xverse Wallet Is Getting Ready",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/05/shutterstock_7183136021-gID_7.jpg@png",
@@ -341,7 +371,7 @@
           "description": "Ethereum Layer-2 networks Base and Optimism have been marveling at the impact of Dencun, including less-than-a-penny transaction fees.",
           "link": "https://decrypt.co/221680/ethereum-l2s-base-optimism-scalability-dencun-upgrade",
           "publishedOn": "2024-03-14T11:20:50.000Z",
-          "wordCount": 10838,
+          "wordCount": 10802,
           "title": "Ethereum L2s Base and Optimism 'Finally Getting Scalability' After Dencun Upgrade",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/07/optimism-token-gID_7.jpg@png",
@@ -356,7 +386,7 @@
           "description": "Pierre Morel is set to direct a movie based on a collection of 8,888 digital collectibles.",
           "link": "https://decrypt.co/221656/reactor-motors-ethereum-nft-movie",
           "publishedOn": "2024-03-14T02:25:15.000Z",
-          "wordCount": 9950,
+          "wordCount": 9913,
           "title": "Taken Director to Helm Ethereum NFT Collection Reactor Motors Movie",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/03/Decrypt-Wallpaper-Format-1600-x-900-px-34-gID_7.png@png",
@@ -371,7 +401,7 @@
           "description": "Figure introduced a humanoid robot that one engineer said exhibits “common sense,” answering questions and performing tasks simultaneously.",
           "link": "https://decrypt.co/221634/ai-start-up-figure-shows-off-conversational-robot-infused-with-openai-tech",
           "publishedOn": "2024-03-14T00:52:23.000Z",
-          "wordCount": 11879,
+          "wordCount": 11843,
           "title": "AI Start-Up Figure Shows Off Conversational Robot Infused With OpenAI Tech",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/03/figure-01-openai-apple-scaled-gID_7.jpg@png",
@@ -386,7 +416,7 @@
           "description": "Software company MicroStrategy says it plans to offer up $500 million in convertible senior notes due in 2031 to buy up Bitcoin.",
           "link": "https://decrypt.co/221628/microstrategy-seeks-500-million-buy-even-more-bitcoin",
           "publishedOn": "2024-03-13T21:33:52.000Z",
-          "wordCount": 9328,
+          "wordCount": 9292,
           "title": "MicroStrategy Seeks $500 Million to Snatch Up Even More Bitcoin",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/04/michael-saylor-bitcoin-lightning-gID_7.jpeg@png",
@@ -401,7 +431,7 @@
           "description": "A handful of major gaming projects will collectively unlock nearly a quarter-billion dollars in tokens by the end of March.",
           "link": "https://decrypt.co/221623/pixels-parallel-apecoin-gaming-projects-unlock-250-million-tokens",
           "publishedOn": "2024-03-13T21:00:45.000Z",
-          "wordCount": 10438,
+          "wordCount": 10402,
           "title": "Pixels, Parallel, ApeCoin, and Other Gaming Projects Set to Unlock $250 Million in Tokens",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/11/gaming-tokens-shutterstock-gID_7.png@png",
@@ -416,7 +446,7 @@
           "description": "Ethereum's price history shows fluctuations around significant releases, including this week's upgrade.",
           "link": "https://decrypt.co/221620/ethereum-upgrade-eth-price-effect-dencun",
           "publishedOn": "2024-03-13T20:45:12.000Z",
-          "wordCount": 10089,
+          "wordCount": 10053,
           "title": "Ethereum Dips After Dencun—Is This Normal After an ETH Upgrade?",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/03/ethereum-gID_7.jpg@png",
@@ -431,7 +461,7 @@
           "description": "On news of the Dogwifhat fundraiser’s success, WIF jumped 36% to set an all-time high and become the fourth-biggest meme coin in the world.",
           "link": "https://decrypt.co/221595/sphere-wif-hat-solana-meme-coin-raises-690k-dogwifhat-las-vegas",
           "publishedOn": "2024-03-13T19:49:32.000Z",
-          "wordCount": 10897,
+          "wordCount": 10861,
           "title": "Sphere Wif Hat? Solana Meme Coin Community Raises $690K to Send Dogwifhat to Las Vegas",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/03/spherewifhat-gID_7.png@png",
@@ -446,7 +476,7 @@
           "description": "These mobile games pay you real crypto. Here’s how to enable Bitcoin and Ethereum earnings and cash out after playing.",
           "link": "https://decrypt.co/resources/how-earn-bitcoin-ethereum-playing-bling-mobile-games",
           "publishedOn": "2024-03-13T19:32:27.000Z",
-          "wordCount": 11526,
+          "wordCount": 11490,
           "title": "How to Earn Bitcoin or Ethereum by Playing Bling Mobile Games",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/06/Learn-GG-3-gID_7-pID_3.png@png",
@@ -461,7 +491,7 @@
           "description": "The distinctly shaped palm-sized device promises reliable recovery tools.",
           "link": "https://decrypt.co/221579/jack-dorseys-block-drops-rock-like-bitkey-bitcoin-wallet",
           "publishedOn": "2024-03-13T19:17:08.000Z",
-          "wordCount": 9612,
+          "wordCount": 9576,
           "title": "Jack Dorsey's Block Drops Rock-Like BitKey Bitcoin Wallet",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/06/jack-dorsey-square-crypto-bitcoin-grant-lightning-gID_7.jpg@png",
@@ -476,7 +506,7 @@
           "description": "Above $100,000 per coin this year is now looking more likely for Bitcoin, various analysts claim.",
           "link": "https://decrypt.co/221568/bitcoin-price-discovery-how-much-higher-will-it-go",
           "publishedOn": "2024-03-13T18:30:02.000Z",
-          "wordCount": 11247,
+          "wordCount": 11211,
           "title": "Bitcoin Is in Price Discovery—How Much Higher Will It Go?",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/12/bitcoin-price-21000-gID_7.jpg@png",
@@ -491,7 +521,7 @@
           "description": "The far-reaching regulations “will make the EU the de facto global standard for trustworthy AI,” one analyst said.",
           "link": "https://decrypt.co/221567/ai-act-eu-comprehensive-law",
           "publishedOn": "2024-03-13T18:01:02.000Z",
-          "wordCount": 11392,
+          "wordCount": 11356,
           "title": "European Union Passes Sweeping AI Act, Sets ‘Global Standard’",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/03/eu-parliament-shutterstock_24309172-gID_7.jpg@png",
@@ -501,42 +531,12 @@
           "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/03/eu-parliament-shutterstock_24309172-gID_7.jpg@png"
         },
         {
-          "id": "https://decrypt.co/?p=221552",
-          "author": "Andrew Hayward",
-          "description": "Ronin’s RON token set a new record price following Pixels hype, plus there’s a free NFT mint for another Ronin game on Wednesday.",
-          "link": "https://decrypt.co/221552/ronin-all-time-high-ethereum-gaming-network-free-kairdro-nft-mint",
-          "publishedOn": "2024-03-13T17:20:51.000Z",
-          "wordCount": 10263,
-          "title": "Ronin Hits All-Time High Price as Ethereum Gaming Network Hosts Free ‘Kaidro’ NFT Mint",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/11/ronin-pixels-gID_7.png@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/11/ronin-pixels-gID_7.png@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=221549",
-          "author": "Andrew Throuvalas",
-          "description": "As Bitcoin ETFs gobble up BTC, some analysts are anticipating a sell-side “liquidity crisis” in the coming months.",
-          "link": "https://decrypt.co/221549/as-bitcoin-etfs-gain-1-billion-in-one-day-analyst-warns-of-liquidity-crunch",
-          "publishedOn": "2024-03-13T16:54:46.000Z",
-          "wordCount": 10517,
-          "title": "As Bitcoin ETFs Gain $1 Billion in One Day, Analyst Warns of Liquidity Crunch",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/01/bitcoin-etf-trading-gID_7.jpeg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/01/bitcoin-etf-trading-gID_7.jpeg@png"
-        },
-        {
           "id": "https://decrypt.co/videos/interviews/9A8FE6VE/cpi-comes-in-btc-holds-72",
           "author": null,
           "description": "Bitcoin (BTC) at $72k and Ethereum (ETH) at $4035, both up 1%. Solana (SOL) rises 3% to $152. Leading gains: TON, XRP, IOTA, FLOW. Bitcoin nears record high with significant ETF investments. Solana sees spike in new users. TON surges 30% with Telegram IPO rumors. Ark Invest offloads $69m in Coinbase stock. Predictions: Bitcoin could outdo gold, potentially reaching $150k. Blast platform's value hits $3bn with higher yields. Biden proposes crypto miner tax. El Salvador profits $84m from Bitcoin. Monad plans $200m raise led by Paradigm.",
           "link": "https://decrypt.co/videos/interviews/9A8FE6VE/cpi-comes-in-btc-holds-72",
           "publishedOn": "2024-03-13T13:28:39.000Z",
-          "wordCount": 7173,
+          "wordCount": 7174,
           "title": "CPI COMES IN, BTC HOLDS 72",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/9A8FE6VE/poster.jpg",
@@ -551,7 +551,7 @@
           "description": "BTC hits new ATH of $72k, flips Silver market cap. Wick lower then higher causes $350m liquidations. London Stock Exchange to consider crypto ETNs. Funding again soars before ETF buying begins. Crypto saw record $2.7bn inflows last week. MicroStrategy buys another $821m of BTC.",
           "link": "https://decrypt.co/videos/interviews/W6z0S2OZ/bitcoin-hits-72-000",
           "publishedOn": "2024-03-12T10:04:10.000Z",
-          "wordCount": 6945,
+          "wordCount": 6946,
           "title": "BITCOIN HITS $72,000!",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/W6z0S2OZ/poster.jpg",
@@ -566,7 +566,7 @@
           "description": "ETF net inflows hit $472m in strong week. GBTC outflows hit $10bn, nearly overtaken by new 9. BlackRock to allow more funds to buy BTC ETFs. Rumours still of Qatar buying amid Bukele meeting.",
           "link": "https://decrypt.co/videos/interviews/CoPpmqhC/btc-hits-70k",
           "publishedOn": "2024-03-11T14:25:06.000Z",
-          "wordCount": 7118,
+          "wordCount": 6896,
           "title": "BTC HITS 70K!",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/CoPpmqhC/poster.jpg",
@@ -581,7 +581,7 @@
           "description": "SOL up 10%, Pantera raising $250m to buy from FTX. Market flat but spot buyers begin to drive volumes.",
           "link": "https://decrypt.co/videos/interviews/mDLO9pe3/live-with-raoul-pal",
           "publishedOn": "2024-03-08T12:59:55.000Z",
-          "wordCount": 6826,
+          "wordCount": 6827,
           "title": "Live With Raoul Pal",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/mDLO9pe3/poster.jpg",
@@ -596,7 +596,7 @@
           "description": "Discover how to navigate and overcome the complexities of blockchain data management with QuickNode’s Streams. This webinar, guided by our seasoned experts Nick Yushkevich and Carl DiClementi, provides you with actionable insights into tackling common challenges faced by businesses in the blockchain space. From real-time data streaming that ensures timely decision-making to robust error handling mechanisms that guarantee data integrity, and comprehensive observability features that offer deep insights into your blockchain operations, we’ll cover how QuickNode’s infrastructure is tailored to enhance operational efficiency, scalability, and innovation.",
           "link": "https://decrypt.co/videos/interviews/z4ol8A6J/streamlining-blockchain-demystifying-real-time-insights-simplifying-data-management",
           "publishedOn": "2024-03-08T09:02:13.000Z",
-          "wordCount": 7414,
+          "wordCount": 7192,
           "title": "Streamlining Blockchain: Demystifying Real-Time Insights & Simplifying Data Management",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/z4ol8A6J/poster.jpg",
@@ -611,7 +611,7 @@
           "description": "ETFs see another $562m net inflow. Fear & Greed hits 90, was above for months in 2021. ETH leads majors, beta-plays take lead in altcoins. BlackRock to start buying BTC in its largest fund. MicroStrategy plans $600m capital raise to buy BTC. BTC flips market cap of Silver. WIF to be listed on Binance, rises 20%. PEPE & WIF mentioned on Bloomberg. Alien Punk sells for $16m, ‘NFTs not dead’. 3 more large NFT sales for $500K.",
           "link": "https://decrypt.co/videos/interviews/jB64PVcH/dogs-on-top",
           "publishedOn": "2024-03-05T18:46:12.000Z",
-          "wordCount": 7333,
+          "wordCount": 7111,
           "title": "DOGS ON TOP!",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/jB64PVcH/poster.jpg",
@@ -626,7 +626,7 @@
           "description": "Pixels founder Luke Barwikowski joins Decrypt's Andrew Hayward to discuss how the Ronin-based farming game will be transformed through the addition of guilds and changes to resource generation. They also discuss his ultimate vision for Pixels and his team. Note: This interview was recorded shortly before the PIXEL token launch.",
           "link": "https://decrypt.co/videos/interviews/pDipznta/interview-how-socialfi-will-transform-crypto-farming-game-pixels",
           "publishedOn": "2024-03-01T15:00:00.000Z",
-          "wordCount": 7011,
+          "wordCount": 7012,
           "title": "Interview: How SocialFi Will Transform Crypto Farming Game 'Pixels'",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/pDipznta/poster.jpg",
@@ -641,7 +641,7 @@
           "description": "Rug Radio creator Orangie checked out the limited-time \"Apes Come Home\" event in Otherside, the Bored Ape metaverse game, and got to use his own Ape avatar. Was it worth the $75K he spent for the NFT? Check out his impressions of the experience.",
           "link": "https://decrypt.co/videos/interviews/IdyVeqvK/orangie-plays-the-otherside-apes-come-home-game-event-with-his-bored-ape",
           "publishedOn": "2024-02-29T23:03:43.000Z",
-          "wordCount": 7005,
+          "wordCount": 7006,
           "title": "Orangie Plays the 'Otherside' Apes Come Home Game Event With His Bored Ape",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/IdyVeqvK/poster.jpg",
@@ -656,7 +656,7 @@
           "description": "Following the launch of decentralized media publishing company DASTAN, its President Farokh Sarmad, CEO Loxley Fernandes, and COO Quinn Button, Ph. D joined Decrypt reporter Sander Lutz and The Nifty & BoDoggos Founder and Partner Easy to talk about the future of media.",
           "link": "https://decrypt.co/videos/interviews/UeOWvV0c/this-is-the-age-of-creators-how-dastan-is-fixing-the-broken-media-industry",
           "publishedOn": "2024-02-29T15:33:01.000Z",
-          "wordCount": 7229,
+          "wordCount": 7230,
           "title": "'This is the Age of Creators': How DASTAN is Fixing the 'Broken' Media Industry",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/UeOWvV0c/poster.jpg",
@@ -671,7 +671,7 @@
           "description": "Saro McKenna, Co-Founder of Alien Worlds, Linda Ang, Head of Strategy at Aelf, and Sami Chlagou, CEO of Cross the Ages joined Stephen Graves at NFT Paris to explore the profile of the Web3 gamer, the evolving landscape of Web3 gaming and the transition between Web2 and Web3 gaming.",
           "link": "https://decrypt.co/videos/interviews/0Wx2bcVa/inside-the-mind-of-a-web3-gamer",
           "publishedOn": "2024-02-29T13:39:26.000Z",
-          "wordCount": 6994,
+          "wordCount": 6995,
           "title": "Inside The Mind Of a Web3 Gamer",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/0Wx2bcVa/poster.jpg",
@@ -686,7 +686,7 @@
           "description": "Casper Network's Director of Ecosystem Alizee Carli and Head of Content Joe Benso join Stephen Graves at NFT Paris to talk about how the Layer 1 blockchain is expanding beyond its enterprise user base to Web3-native projects.",
           "link": "https://decrypt.co/videos/interviews/xz9F8Lct/casper-network-opening-a-new-world-of-possibilities-beyond-enterprise-users",
           "publishedOn": "2024-02-27T15:44:13.000Z",
-          "wordCount": 7181,
+          "wordCount": 7182,
           "title": "Casper Network: Opening a 'New World of Possibilities' Beyond Enterprise Users",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/xz9F8Lct/poster.jpg",
@@ -701,7 +701,7 @@
           "description": "VanEck's Head of NFT Community and Web3, Matt Bartlett, joined Stephen Graves at NFT Paris to discuss the launch of its new NFT platform Segment.io, and the need for regulatory clarity in the NFT space.",
           "link": "https://decrypt.co/videos/interviews/HHwsvcei/vaneck-web3-lead-tokenized-real-estate-the-holy-grail",
           "publishedOn": "2024-02-27T13:05:02.000Z",
-          "wordCount": 6936,
+          "wordCount": 6937,
           "title": "VanEck Web3 Lead: Tokenized Real Estate the 'Holy Grail'",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/HHwsvcei/poster.jpg",
@@ -716,7 +716,7 @@
           "description": "Rug Radio creator Orangie shares a first look at an early version of Dookey Dash: Unclogged, the new free-to-play version of 2023's crypto gaming sensation. Yuga Labs is releasing the new version of the game this spring with over $1 million in prizes up for grabs.",
           "link": "https://decrypt.co/videos/interviews/uY3bIt1R/orangie-plays-dookey-dash-unclogged-the-bored-ape-game-with-over-1-million-in-prizes",
           "publishedOn": "2024-02-26T22:37:55.000Z",
-          "wordCount": 7250,
+          "wordCount": 7251,
           "title": "Orangie Plays 'Dookey Dash: Unclogged,' the Bored Ape Game With Over $1 Million in Prizes",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/uY3bIt1R/poster.jpg",
@@ -731,7 +731,7 @@
           "description": "Chiliz Chief Strategy Officer Max Rabinovitch joined Decrypt's Stephen Graves at NFT Paris to discuss Paris Saint-Germain FC joining its network as a validator, and how consequential Web3 adoption in sport will come from the grassroots.",
           "link": "https://decrypt.co/videos/interviews/spD1tCwb/how-paris-saint-germain-fc-joined-chiliz-as-a-validator",
           "publishedOn": "2024-02-26T15:16:27.000Z",
-          "wordCount": 6941,
+          "wordCount": 6942,
           "title": "How Paris Saint-Germain FC Joined Chiliz as a Validator",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/spD1tCwb/poster.jpg",
@@ -746,7 +746,7 @@
           "description": "Sébastien Borget, COO and co-founder of The Sandbox, joined Decrypt's Stephen Graves at NFT Paris to talk about the metaverse platform's launch of user-generated content, AI in gaming, and open metaverse standards.",
           "link": "https://decrypt.co/videos/interviews/Vf77nhXF/the-sandbox-co-founder-sebastien-borget-the-future-of-gaming-is-user-generated-content",
           "publishedOn": "2024-02-26T13:00:16.000Z",
-          "wordCount": 7162,
+          "wordCount": 6940,
           "title": "The Sandbox Co-Founder Sébastien Borget: 'The Future of Gaming is User-Generated Content'",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/Vf77nhXF/poster.jpg",
@@ -761,7 +761,7 @@
           "description": "Miguel Faus, director of NFT-funded feature film \"Calladita,\" joined Decrypt's Stephen Graves at NFT Paris to talk about the film's recent premiere and how the \"radically independent\" decentralized Film3 movement is evolving.",
           "link": "https://decrypt.co/videos/interviews/IDoFDfZy/calladita-director-miguel-faus-how-web3-filmmaking-is-taking-the-castle",
           "publishedOn": "2024-02-24T16:18:13.000Z",
-          "wordCount": 7156,
+          "wordCount": 6934,
           "title": "'Calladita' Director Miguel Faus: How Web3 Filmmaking is 'Taking the Castle'",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/IDoFDfZy/poster.jpg",
@@ -776,7 +776,7 @@
           "description": "Pudgy Penguins CEO Luca Netz and Unstoppable Domains COO Sandy Carter joined Decrypt's Stephen Graves at NFT Paris to talk about the launch of the NFT collection's .pudgy domains, its second line of toys at Walmat, and the upcoming launch of the Pudgy World game.",
           "link": "https://decrypt.co/videos/interviews/Nh4p6vVD/pudgy-penguins-teams-up-with-unstoppable-domains",
           "publishedOn": "2024-02-24T11:54:40.000Z",
-          "wordCount": 6974,
+          "wordCount": 6975,
           "title": "Pudgy Penguins Teams Up With Unstoppable Domains",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/Nh4p6vVD/poster.jpg",
@@ -791,7 +791,7 @@
           "description": "Improbable's Rob Whitehead joined Decrypt's Stephen Graves at NFT Paris to talk about the metaverse technology firm's collaborations with blue-chip NFT collections, and how adding tens of thousands of players to a game will work in practice.",
           "link": "https://decrypt.co/videos/interviews/26stQqOi/improbable-chief-product-officer-web3-games-need-to-put-experience-game-logic-onchain",
           "publishedOn": "2024-02-23T17:49:42.000Z",
-          "wordCount": 6970,
+          "wordCount": 6971,
           "title": "Improbable Chief Product Officer: Web3 Games Need to Put Experience, Game Logic Onchain",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/26stQqOi/poster.jpg",
