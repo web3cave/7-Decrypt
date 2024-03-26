@@ -6,6 +6,36 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=223470",
+          "author": "Jose Antonio Lanz",
+          "description": "IoT and AI-focused cryptocurrencies are experiencing significant gains as the broader market recovers.",
+          "link": "https://decrypt.co/223470/ai-tokens-iota-vc-fund-jasmy-panasonic-deal",
+          "publishedOn": "2024-03-26T17:35:51.000Z",
+          "wordCount": 11758,
+          "title": "AI Tokens Surge as IOTA Launches VC Fund and Jasmy Inks Panasonic Deal",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/11/ai-tokens-crypto-trading-gID_7.jpeg@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/11/ai-tokens-crypto-trading-gID_7.jpeg@png"
+        },
+        {
+          "id": "https://decrypt.co/?p=223522",
+          "author": "Andrew Hayward",
+          "description": "Amazon’s juggernaut cloud service now lets developers more easily deploy WAX blockchain integrations into their games.",
+          "link": "https://decrypt.co/223522/amazon-web-services-wax-simplify-crypto-games",
+          "publishedOn": "2024-03-26T17:25:55.000Z",
+          "wordCount": 10189,
+          "title": "Amazon Web Services Deal With WAX Aims to Simplify Crypto Game Deployment",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/03/gaming-shutterstock-gID_7.png@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/03/gaming-shutterstock-gID_7.png@png"
+        },
+        {
           "id": "https://decrypt.co/?p=223465",
           "author": "Andrew Hayward,Jose Antonio Lanz",
           "description": "The United States Department of Justice charged KuCoin and its founders with violations of the Bank Secrecy Act.",
@@ -381,36 +411,6 @@
           "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/03/bitcoin-ethereum-green-stock-charts-gID_7.jpg@png"
         },
         {
-          "id": "https://decrypt.co/?p=223194",
-          "author": "Andrew Hayward",
-          "description": "Catch up on this week’s biggest crypto and NFT gaming news and find some weekend reads in our latest roundup.",
-          "link": "https://decrypt.co/223194/this-week-crypto-games-crypto-valleys-immutable-polygon-100m-fund",
-          "publishedOn": "2024-03-24T15:34:57.000Z",
-          "wordCount": 12271,
-          "title": "This Week in Crypto Games: 'Crypto Valleys' Blasts Off, Immutable and Polygon Plot $100M Fund",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/03/yield-token-crypto-valleys-gID_7.png@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/03/yield-token-crypto-valleys-gID_7.png@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=223134",
-          "author": "Sander Lutz",
-          "description": "Over the years, NFT versions of iconic internet memes have netted their creators millions of dollars. Here's the ranking.",
-          "link": "https://decrypt.co/223134/most-expensive-meme-nfts-ever-sold",
-          "publishedOn": "2024-03-24T14:01:02.000Z",
-          "wordCount": 14655,
-          "title": "Who's the Top Dog? The 7 Most Expensive Meme NFTs Ever Sold",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/02/bonk-dogwifhat-pepe-memecoins-gID_7.png@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/02/bonk-dogwifhat-pepe-memecoins-gID_7.png@png"
-        },
-        {
           "id": "https://decrypt.co/videos/interviews/KGf7k2r3/etf-outflows-continue",
           "author": null,
           "description": "Despite Bitcoin's decline, several alternative cryptocurrencies remain robust. Fantom (FTM) emerges as the top-performing Layer 1 blockchain, while Coinbase introduces futures trading. Exchange-traded funds (ETFs) witness a $94 million outflow, although outflows from Grayscale Bitcoin Trust (GBTC) may decelerate. Approximately $1 billion worth of Bitcoin shorts face liquidation if prices reach $67.8k. Coinbase's premium resurfaces, marking the first occurrence since Bitcoin's all-time high. Bitcoin continues its streak with seven consecutive months of positive performance. Solana's (SOL) decentralized exchange (DEX) achieves a monthly volume of $50 billion, with revenue soaring 30-fold. OKX announces support for a new Solana token standard. Despite expectations, Layer 2 activity remains sluggish post-Dencun, according to Vitalik Buterin.",
@@ -626,7 +626,7 @@
           "description": "Following the launch of decentralized media publishing company DASTAN, its President Farokh Sarmad, CEO Loxley Fernandes, and COO Quinn Button, Ph. D joined Decrypt reporter Sander Lutz and The Nifty & BoDoggos Founder and Partner Easy to talk about the future of media.",
           "link": "https://decrypt.co/videos/interviews/UeOWvV0c/this-is-the-age-of-creators-how-dastan-is-fixing-the-broken-media-industry",
           "publishedOn": "2024-02-29T15:33:01.000Z",
-          "wordCount": 6907,
+          "wordCount": 7007,
           "title": "'This is the Age of Creators': How DASTAN is Fixing the 'Broken' Media Industry",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/UeOWvV0c/poster.jpg",
