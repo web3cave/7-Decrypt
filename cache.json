@@ -6,12 +6,27 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=225622",
+          "author": "Stacy Elliott",
+          "description": "At the time of writing, the Bitcoin price has slipped to below $68,000 and the Ethereum price is threatening to go lower than $3,400.",
+          "link": "https://decrypt.co/225622/bitcoin-ethereum-dive-us-inflation-data",
+          "publishedOn": "2024-04-10T13:36:02.000Z",
+          "wordCount": 9845,
+          "title": "Bitcoin and Ethereum Dive as U.S. Inflation Remains at 3.5%",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/05/red-stock-chart-bitcoin-ethereum-crypto-markets-gID_7.jpg@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/05/red-stock-chart-bitcoin-ethereum-crypto-markets-gID_7.jpg@png"
+        },
+        {
           "id": "https://decrypt.co/?p=225630",
           "author": "Stephen Graves",
           "description": "Michael Sonnenshein said that early outflows from GBTC were \"anticipated,\" and linked to the bankruptcy settlements of crypto firms such as FTX.",
           "link": "https://decrypt.co/225630/grayscale-ceo-gbtc-bitcoin-etf-equilibrium",
           "publishedOn": "2024-04-10T12:19:45.000Z",
-          "wordCount": 10130,
+          "wordCount": 10102,
           "title": "Grayscale CEO: Bitcoin ETF Flows Reaching 'Equilibrium' as GBTC Outflows Continue",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/09/Grayscale-Bitcoin-shutterstock_2111380643-16x9-1-gID_7.jpg@png",
@@ -26,7 +41,7 @@
           "description": "Solana meme coins have slipped overnight, as devs race to fix the congestion issues that have plagued the Solana network in recent weeks.",
           "link": "https://decrypt.co/225607/dogwifhat-solana-meme-coins-network-congestion",
           "publishedOn": "2024-04-10T10:31:01.000Z",
-          "wordCount": 10099,
+          "wordCount": 10071,
           "title": "Dogwifhat Leads Solana Meme Coin Losses Amid Network Congestion",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/03/dogwifhat-nft-gID_7.png@png",
@@ -41,7 +56,7 @@
           "description": "Bitcoin and Ethereum have dipped as investors watch to see how new U.S. inflation data will play out in the market.",
           "link": "https://decrypt.co/225611/bitcoin-ethereum-dip-us-inflation-data",
           "publishedOn": "2024-04-10T09:45:26.000Z",
-          "wordCount": 10168,
+          "wordCount": 10140,
           "title": "Bitcoin and Ethereum Dip Hours Ahead of New U.S. Inflation Data",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/04/a-captivating-futuristic-image-of-bitcoin-and-ethe-zSKtloebTKOSe09OPMd5XQ-NG61slPMS6KWe0w07C_AfA-gID_7.jpeg@png",
@@ -56,7 +71,7 @@
           "description": "The SuiPlay0x1 is a portable gaming device that aims to take crypto games mainstream via Sui integration—and token incentives.",
           "link": "https://decrypt.co/225578/sui-gaming-handheld-steam-deck-runs-pc-crypto-games",
           "publishedOn": "2024-04-10T07:01:02.000Z",
-          "wordCount": 12887,
+          "wordCount": 13099,
           "title": "Sui Gaming Handheld Targets Steam Deck, Runs PC and Crypto Games",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/04/suiplay-1-gID_7.png@png",
@@ -71,7 +86,7 @@
           "description": "The community surrounding the DOT token voted 95% in favor of Conor Daly’s $2.1 million sponsorship deal.",
           "link": "https://decrypt.co/225531/polkadot-indy-500-crypto-racing-sponsorship",
           "publishedOn": "2024-04-09T23:15:34.000Z",
-          "wordCount": 10315,
+          "wordCount": 10287,
           "title": "Polkadot Races Into Indianapolis 500 With Crypto-Branded Car",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/04/Decrypt-Wallpaper-Format-1600-x-900-px-11-gID_7.png@png",
@@ -86,7 +101,7 @@
           "description": "It’s a battle between card game communities, as Hearthstone fans and devs take aim at Ethereum NFT game Parallel. What’s the issue?",
           "link": "https://decrypt.co/225556/hearthstone-parallel-card-game-fans-have-beef-why",
           "publishedOn": "2024-04-09T22:44:44.000Z",
-          "wordCount": 13535,
+          "wordCount": 13507,
           "title": "'Hearthstone' and 'Parallel' Card Game Fans Have Beef—Here's Why",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/04/card-battle-gID_7.png@png",
@@ -101,7 +116,7 @@
           "description": "Mech shooter MetalCore is the first game to launch on Immutable zkEVM mainnet in this latest test, with an open beta and token launch up next.",
           "link": "https://decrypt.co/225539/ethereum-game-metalcore-beta-immutable-zkevm-token-rewards",
           "publishedOn": "2024-04-09T22:18:22.000Z",
-          "wordCount": 10322,
+          "wordCount": 10294,
           "title": "Ethereum Game 'MetalCore' Launches Immutable zkEVM Beta With Token Rewards",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/03/metalcore-screen-gID_7.jpeg@png",
@@ -116,7 +131,7 @@
           "description": "During opening statements at Avraham Eisenberg’s criminal trial, both sides debated whether DeFi transactions are covered by existing financial laws.",
           "link": "https://decrypt.co/225530/us-has-no-authority-to-prosecute-defi-trades-says-lawyer-for-mango-markets-hacker",
           "publishedOn": "2024-04-09T22:00:02.000Z",
-          "wordCount": 10517,
+          "wordCount": 10489,
           "title": "US Has No Authority to Prosecute DeFi Trades, Says Lawyer for Mango Markets Hacker",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/09/craig-wright-bitcoin-trial-2021-gID_7.jpg@png",
@@ -131,7 +146,7 @@
           "description": "Marshmello has threatened legal action over the stunt that he alleges was used to pump a meme coin. What really happened?",
           "link": "https://decrypt.co/225517/crypto-influencer-dj-marshmello-stunt-times-square-nyc",
           "publishedOn": "2024-04-09T21:56:44.000Z",
-          "wordCount": 13040,
+          "wordCount": 13012,
           "title": "Crypto Influencer's DJ 'Marshmello' Stunt Went Horribly Wrong—Or Did It?",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/04/marshmello-times-square-gID_7.png@png",
@@ -146,7 +161,7 @@
           "description": "In a familiar move, the federal regulator claimed more time to review applications from Grayscale and Bitwise.",
           "link": "https://decrypt.co/225477/bitcoin-etf-options-stock-exchange-trading-sec-decision-delay",
           "publishedOn": "2024-04-09T21:04:23.000Z",
-          "wordCount": 11171,
+          "wordCount": 11143,
           "title": "SEC Punts on New York Stock Exchange Bitcoin ETF Options",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2018/10/Sec_finhub-gID_7.jpg@png",
@@ -161,7 +176,7 @@
           "description": "The one-time “Ethereum killer” is indeed beating ETH as the preferred way to make stablecoin payments, say AllianceBernstein analysts.",
           "link": "https://decrypt.co/225516/solana-ethereum-stablecoin-payments-bernstein",
           "publishedOn": "2024-04-09T20:41:02.000Z",
-          "wordCount": 10393,
+          "wordCount": 10365,
           "title": "Solana Dominates Ethereum in Stablecoin Payment Volume: Bernstein",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/06/solana-ripple-bitcoin-cardano-ethereum-coins-gID_7.jpg@png",
@@ -176,7 +191,7 @@
           "description": "A renewed focus on boosting its meme coin ecosystem and bridging native USDC is fueling bullish interest in Fantom.",
           "link": "https://decrypt.co/225493/fantom-rises-8-percent-following-usdc-e-stablecoin-launch",
           "publishedOn": "2024-04-09T20:20:48.000Z",
-          "wordCount": 11416,
+          "wordCount": 11388,
           "title": "Fantom's Native Token FTM Rises 8% On USDC.e Stablecoin Launch",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/01/investor-rally-2021-continues-gID_7.jpg@png",
@@ -191,7 +206,7 @@
           "description": "UPDATE: We have a release date for Star Wars Outlaws and it's not that far off—plus a new story trailer reveals so much more.",
           "link": "https://decrypt.co/155149/star-wars-outlaws-everything-you-need-to-know",
           "publishedOn": "2024-04-09T19:22:12.000Z",
-          "wordCount": 13344,
+          "wordCount": 13316,
           "title": "Star Wars Outlaws Preview: Everything You Need to Know",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/09/star-wars-outlaws-gID_7.jpeg@png",
@@ -206,7 +221,7 @@
           "description": "Japanese firm Metaplanet is drawing strong investor interest, following the playbook of the U.S. market leader.",
           "link": "https://decrypt.co/225473/asias-microstrategy-rockets-90-after-revealing-bitcoin-plan",
           "publishedOn": "2024-04-09T18:02:18.000Z",
-          "wordCount": 9917,
+          "wordCount": 9889,
           "title": "‘Asia’s MicroStrategy’ Rockets 90% After Revealing Bitcoin Plan",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/03/bitcoin-btc-gold-coins-bank-vault-el-salvador-gID_7.jpg@png",
@@ -221,7 +236,7 @@
           "description": "Bitcoin ETFs are booming in the United States, but Ethereum ETF hopefuls aren't feeling optimistic than an approval is coming soon.",
           "link": "https://decrypt.co/225464/ethereum-etf-hopes-fade-sec-crypto-crackdown",
           "publishedOn": "2024-04-09T17:19:39.000Z",
-          "wordCount": 10734,
+          "wordCount": 10706,
           "title": "Ethereum ETF Hopes Fade as SEC's Crypto Crackdown Dashes Approval Expectations",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/03/ethereum-gID_7.jpg@png",
@@ -236,7 +251,7 @@
           "description": "As the film funding platform’s FAN token is listed on exchanges, its founders explain how it’s poised to shake up Hollywood.",
           "link": "https://decrypt.co/225230/how-web3-community-platform-film-io-is-forging-a-new-path-for-filmmakers",
           "publishedOn": "2024-04-09T17:12:55.000Z",
-          "wordCount": 11007,
+          "wordCount": 10979,
           "title": "How Web3 Community Platform Film.io is Forging a New Path for Filmmakers",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/04/filmmaking-gID_7.jpg@png",
@@ -251,7 +266,7 @@
           "description": "The non-Ethereum, EVM-compatible chain from a Jump Crypto alum is seeking to become a “best of both worlds” mainstay for crypto users.",
           "link": "https://decrypt.co/225455/what-is-monad-ethereum-solana-rival-raised-225-million",
           "publishedOn": "2024-04-09T16:49:42.000Z",
-          "wordCount": 10846,
+          "wordCount": 10818,
           "title": "What Is Monad? The Ethereum, Solana Rival Just Raised $225 Million",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/04/coin-stacks-gID_7.png@png",
@@ -266,7 +281,7 @@
           "description": "Deputy Treasury Secretary Adewale O. Adeyemo pushed for Congress to provide \"necessary tools\" to tackle crypto crime and sanctions evasion.",
           "link": "https://decrypt.co/225425/us-treasury-seeks-new-tools-combat-crypto-linked-illicit-finance",
           "publishedOn": "2024-04-09T16:13:00.000Z",
-          "wordCount": 10512,
+          "wordCount": 10484,
           "title": "US Treasury Seeks New Tools to Combat Crypto-Linked Illicit Finance",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/09/treasury-department-gID_7.jpeg@png",
@@ -281,7 +296,7 @@
           "description": "“The leadership team has been laying the groundwork for several months to reach this pivotal moment,” former SushiSwap contributor B.Naïm told Decrypt. “I am both concerned and unsurprised.”",
           "link": "https://decrypt.co/225431/sushiswap-community-cries-foul-over-vote",
           "publishedOn": "2024-04-09T15:50:55.000Z",
-          "wordCount": 12044,
+          "wordCount": 12016,
           "title": "SushiSwap Community Cries Foul Over Vote to Centralize $53M Treasury",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/04/SushiSwap-shutterstock_2175045545-16x9-1-gID_7.jpg@png",
@@ -296,7 +311,7 @@
           "description": "The Open Network’s TON token has surged in recent weeks—and just kicked Cardano out of the upper echelon of cryptocurrencies.",
           "link": "https://decrypt.co/225434/toncoin-all-time-high-price-flipping-cardano-top-10",
           "publishedOn": "2024-04-09T15:22:41.000Z",
-          "wordCount": 10430,
+          "wordCount": 10402,
           "title": "Toncoin Hits All-Time High Price, Flipping Cardano Out of Top 10",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/04/toncoin-shutterstock-gID_7.png@png",
@@ -311,7 +326,7 @@
           "description": "The gaming-centric Saga network is now live. Here’s what comes next, including staking rewards and more airdrops.",
           "link": "https://decrypt.co/225357/saga-mainnet-launches-token-binance-more-airdrops",
           "publishedOn": "2024-04-09T14:01:02.000Z",
-          "wordCount": 10906,
+          "wordCount": 10878,
           "title": "Saga Mainnet Launches Alongside Token on Binance—With More Airdrops Ahead",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/12/gaming-shutterstock-gID_7.png@png",
@@ -326,7 +341,7 @@
           "description": "Gunzilla Games’ GUNZ network, built on an Avalanche subnet, will have its NFTs tradeable on OpenSea as the first game Off the Grid nears release.",
           "link": "https://decrypt.co/225358/opensea-off-grid-gunz-blockchain-avalanche",
           "publishedOn": "2024-04-09T13:01:02.000Z",
-          "wordCount": 9885,
+          "wordCount": 9857,
           "title": "OpenSea Adds Support for 'Off the Grid' GUNZ Blockchain on Avalanche",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/03/off-the-grid-gID_7.png@png",
@@ -341,7 +356,7 @@
           "description": "Holders of the inscriptions are set to receive an exclusive cute canine meme coin during the Bitcoin halving.",
           "link": "https://decrypt.co/225338/bitcoin-runes-meme-coin-dog-airdrop-runestone",
           "publishedOn": "2024-04-09T12:31:02.000Z",
-          "wordCount": 10181,
+          "wordCount": 10153,
           "title": "Bitcoin Runes Meme Coin ‘Dog’ Will be Airdropped to Runestone Holders",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/04/Decrypt-Wallpaper-Format-1600-x-900-px-6-gID_7.png@png",
@@ -356,7 +371,7 @@
           "description": "From Runestone to NodeMonkes and Bitcoin Puppets, these Ordinals and Runes projects are well worth knowing before the halving.",
           "link": "https://decrypt.co/225282/bitcoin-ordinals-runes-projects-you-should-know-halving",
           "publishedOn": "2024-04-09T12:01:02.000Z",
-          "wordCount": 12756,
+          "wordCount": 12728,
           "title": "7 Bitcoin Ordinals and Runes Projects You Should Know Ahead of the Halving",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/03/bitcoin-ordinals-runestone-gID_7.png@png",
@@ -371,7 +386,7 @@
           "description": "Co-created by \"Independence Day\" director Roland Emmerich, Space Nation Online is serving up airdrop rewards during its closed beta test.",
           "link": "https://decrypt.co/225350/ethereum-space-nation-online-airdrop-rewards-beta",
           "publishedOn": "2024-04-09T11:01:02.000Z",
-          "wordCount": 10061,
+          "wordCount": 10033,
           "title": "Ethereum Game 'Space Nation Online' Launches Airdrop Rewards in Beta",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/04/space-nation-ol-video-1mczp-gID_7.jpg@png",
@@ -386,7 +401,7 @@
           "description": "Speaking at Paris Blockchain Week, Binance CEO Richard Teng said that there are \"a lot of considerations\" behind where to locate the exchange's HQ.",
           "link": "https://decrypt.co/225388/binance-ceo-richard-teng-headquarters",
           "publishedOn": "2024-04-09T10:36:30.000Z",
-          "wordCount": 10036,
+          "wordCount": 10008,
           "title": "Binance CEO: 'A Few Jurisdictions' Under Consideration for Global HQ",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/11/binance-richard-teng-gID_7.png@png",
@@ -401,7 +416,7 @@
           "description": "The BitMEX co-founder and former CEO said he expects the Bitcoin halving will \"add propellant to a raging firesale of crypto assets.\"",
           "link": "https://decrypt.co/225381/bitcoin-billionaire-arthur-hayes-bearish-btc-halving",
           "publishedOn": "2024-04-09T10:00:12.000Z",
-          "wordCount": 10554,
+          "wordCount": 10526,
           "title": "Bitcoin Billionaire Arthur Hayes Is Bearish on the Halving—Here's Why",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/04/bear-holding-bitcoin-btc-gID_7.jpeg@png",
@@ -409,21 +424,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/04/bear-holding-bitcoin-btc-gID_7.jpeg@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=225346",
-          "author": "Ryan Gladwin",
-          "description": "Saga is a new layer-1 blockchain with a major gaming focus, and the SAGA token is about to launch after a record-breaking Binance campaign.",
-          "link": "https://decrypt.co/resources/what-is-saga-gaming-network-airdrop-token-launch",
-          "publishedOn": "2024-04-09T02:18:11.000Z",
-          "wordCount": 13027,
-          "title": "What is Saga? The Gaming Network, Play-to-Airdrop Push, and Token Launch",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2019/03/gaming_litepaper-gID_7-pID_5.png@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2019/03/gaming_litepaper-gID_7-pID_5.png@png"
         },
         {
           "id": "https://decrypt.co/videos/interviews/9SNiIVfU/wormhole-wednesday",
