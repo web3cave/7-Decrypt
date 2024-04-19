@@ -6,12 +6,42 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=221962",
+          "author": "Reza Jafery",
+          "description": "The creator of Bitcoin’s Ordinals protocol is debuting a new fungible token standard to rival BRC-20. Here’s what you need to know.",
+          "link": "https://decrypt.co/221962/bitcoin-runes-launch-at-the-halving-heres-everything-you-need-to-know",
+          "publishedOn": "2024-04-19T15:58:34.000Z",
+          "wordCount": 15495,
+          "title": "Bitcoin Runes Launch at the Halving: Here's Everything You Need to Know",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/03/bitcoin-stacks-ai-gID_7.png@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/03/bitcoin-stacks-ai-gID_7.png@png"
+        },
+        {
+          "id": "https://decrypt.co/?p=227203",
+          "author": "Sander Lutz",
+          "description": "The halving will reshape who mines Bitcoin, and thus the network’s energy efficiency, experts say. Will that offset BTC’s immense usage?",
+          "link": "https://decrypt.co/227203/will-halving-make-bitcoin-environmental-impact-better-worse",
+          "publishedOn": "2024-04-19T15:21:20.000Z",
+          "wordCount": 11503,
+          "title": "Will the Bitcoin Halving Make BTC's Environmental Impact Better—or Worse?",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/04/bitcoin-environmental-impact-side-by-side-gID_7.jpeg@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/04/bitcoin-environmental-impact-side-by-side-gID_7.jpeg@png"
+        },
+        {
           "id": "https://decrypt.co/?p=227221",
           "author": "Decrypt Staff",
           "description": "The Web3 Foundation has a 10 million DOT prize pool to foster development of the JAM protocol, which aims to replace Polkadot's Relay Chain.",
           "link": "https://decrypt.co/227221/the-week-in-polkadot-gavin-wood-unveils-major-upgrade-jam-at-token2049",
           "publishedOn": "2024-04-19T15:04:24.000Z",
-          "wordCount": 10627,
+          "wordCount": 10626,
           "title": "The Week in Polkadot: Gavin Wood Unveils ‘Major Upgrade’ JAM at Token2049",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/04/gavin-wood-gID_7.jpg@png",
@@ -26,7 +56,7 @@
           "description": "With the Bitcoin halving on the horizon, anon Twitter user Leonidas broadcasted some top tips when minting Runes.",
           "link": "https://decrypt.co/227183/bitcoin-ordinals-dev-shares-tips-for-mining-runes-during-the-halving-without-getting-rekt",
           "publishedOn": "2024-04-19T13:50:42.000Z",
-          "wordCount": 11826,
+          "wordCount": 11825,
           "title": "How to Mint Runes at the Bitcoin Halving Without Getting Rekt",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/04/Handmade_Wooden_Stone_Runes-gID_7.jpg@png",
@@ -41,7 +71,7 @@
           "description": "The partnership with Tether is meant to rapidly expand TON’s attractiveness to a broader audience of non-crypto savvy Telegram users.",
           "link": "https://decrypt.co/227169/tether-usdt-on-ton-network-telegram-wallet",
           "publishedOn": "2024-04-19T11:31:02.000Z",
-          "wordCount": 10090,
+          "wordCount": 10089,
           "title": "Tether Launches USDT on TON Network, Telegram Wallet in Boon for Messaging App",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/07/telegram-gID_7.jpg@png",
@@ -56,7 +86,7 @@
           "description": "The SEC argued that because Justin Sun \"traveled extensively\" to the U.S., the case falls under the regulator's jurisdiction.",
           "link": "https://decrypt.co/227144/sec-amends-justin-sun-lawsuit-to-cite-his-extensive-travel-in-us",
           "publishedOn": "2024-04-19T11:18:19.000Z",
-          "wordCount": 10152,
+          "wordCount": 10151,
           "title": "SEC Amends Justin Sun Lawsuit to Cite His Extensive Travel in US",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/01/tron-ceo-justin-sun-lawsuit-gID_7.jpg@png",
@@ -71,8 +101,8 @@
           "description": "Bitcoin touched $65,000 as it experienced another jolt of volatility ahead of the BTC halving, set to take place late tonight.",
           "link": "https://decrypt.co/227139/volatile-roller-coaster-btc-jumps-to-65k-ahead-of-todays-bitcoin-halving",
           "publishedOn": "2024-04-19T10:57:54.000Z",
-          "wordCount": 10238,
-          "title": "Volatile Roller Coaster: BTC Jumps to $65K Ahead of Today's Bitcoin Halving",
+          "wordCount": 10209,
+          "title": "Bitcoin Roller Coaster: BTC Retakes $65K Ahead of Halving",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/04/bitcoin-rollercoaster-guy-gID_7.jpg@png",
             "length": "1000000",
@@ -101,7 +131,7 @@
           "description": "Bitcoin fell again late Thursday amid reports of explosions in Iran, and with the quadrennial halving event less than a day away.",
           "link": "https://decrypt.co/227137/bitcoin-price-dives-below-60000-24-hours-halving",
           "publishedOn": "2024-04-19T03:09:23.000Z",
-          "wordCount": 9809,
+          "wordCount": 9808,
           "title": "Bitcoin Price Dives Below $60,000 Less Than 24 Hours Before Halving",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/08/Bitcoin-in-the-Red-shutterstock_2132501507-16x9-1-gID_7.jpg@png",
@@ -116,7 +146,7 @@
           "description": "Meta has deployed its brand new Llama 3 AI model across its massively popular apps.",
           "link": "https://decrypt.co/227119/meta-ai-assistant-chatbot-instagram-facebook-whatsapp-llama-3",
           "publishedOn": "2024-04-18T23:45:50.000Z",
-          "wordCount": 10604,
+          "wordCount": 10603,
           "title": "Meta Pushes AI Chatbot Into Instagram, Facebook, WhatsApp",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/04/Decrypt-Wallpaper-Format-1600-x-900-px-62-gID_7.png@png",
@@ -131,7 +161,7 @@
           "description": "Analysts at America’s biggest bank say the quadrennial event has already been priced in for BTC.",
           "link": "https://decrypt.co/227093/bitcoin-halving-btc-price-priced-in-jp-morgan",
           "publishedOn": "2024-04-18T22:46:02.000Z",
-          "wordCount": 10257,
+          "wordCount": 10256,
           "title": "The Price of BTC Won't Rise After Bitcoin Halving, JP Morgan Says",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/06/JP-Morgan-shutterstock_1089218555-16x9-1-gID_7.jpg@png",
@@ -161,7 +191,7 @@
           "description": "Shark Cat used the likeness of a social media-famous feline without permission. Now the cat's owner is fighting back.",
           "link": "https://decrypt.co/226638/crypto-cat-fight-legal-claws-out-solana-meme-coin-shark-cat",
           "publishedOn": "2024-04-18T19:54:53.000Z",
-          "wordCount": 17204,
+          "wordCount": 17203,
           "title": "Crypto Cat Fight: Why the Legal Claws Are Out Over Solana Meme Coin Shark Cat",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/04/shark-cat-gID_7.png@png",
@@ -176,7 +206,7 @@
           "description": "On-chain analysis back a bullish view, but major banks see more losses ahead.",
           "link": "https://decrypt.co/227071/bitcoin-halving-price-volatility-traders-analysts",
           "publishedOn": "2024-04-18T19:01:02.000Z",
-          "wordCount": 10324,
+          "wordCount": 10323,
           "title": "How Will Traders Handle Volatility Ahead of Bitcoin Halving? Analysts Are Split",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/03/bitcoin-btc-halving-bitcoinhalving-laser-gID_7.jpg@png",
@@ -191,7 +221,7 @@
           "description": "The JP Morgan CEO revisits some of his classic digs, calling BTC a “decentralized Ponzi scheme.”",
           "link": "https://decrypt.co/227063/bitcoin-is-a-fraud-says-jamie-dimon-who-vowed-to-not-talk-about-it-again",
           "publishedOn": "2024-04-18T18:50:11.000Z",
-          "wordCount": 10133,
+          "wordCount": 10132,
           "title": "Bitcoin Is a ‘Fraud’ Says Jamie Dimon, Who Vowed to Not Talk About It Again",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/04/Jamie-Dimon_Lev-Radin_shutterstock_2390756693-gID_7.jpg@png",
@@ -206,7 +236,7 @@
           "description": "Over 4,000 HV-MTL NFTs have been burned by Bored Ape Yacht Club creator Yuga Labs at the request of game studio Faraway.",
           "link": "https://decrypt.co/227053/yuga-labs-burns-1-million-worth-gaming-nfts-why",
           "publishedOn": "2024-04-18T18:36:03.000Z",
-          "wordCount": 10566,
+          "wordCount": 10565,
           "title": "Yuga Labs Burns Nearly $1 Million Worth of Ethereum Gaming NFTs—Here's Why",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/04/dumpster-fire-gID_7.png@png",
@@ -221,7 +251,7 @@
           "description": "The Bitcoin halving on Friday has been expected for years. Is the milestone priced in for BTC? Here’s a look back at historical examples.",
           "link": "https://decrypt.co/227023/bitcoin-halving-elon-musk-dogecoin-priced-in",
           "publishedOn": "2024-04-18T18:16:02.000Z",
-          "wordCount": 14427,
+          "wordCount": 14426,
           "title": "'Is It Priced In?'—Unpacking Crypto’s Perennial Question on Bitcoin Halving Eve",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/01/bitcoin-questions-investing-price-prediction-gID_7.jpg@png",
@@ -236,7 +266,7 @@
           "description": "Firms involved in upcoming Hong Kong ETFs believe that they may cause a ripple effect across Asia—possibly even in China.",
           "link": "https://decrypt.co/227054/bitcoin-ethereum-etfs-hong-kong-more-progressive-policies-china",
           "publishedOn": "2024-04-18T18:07:37.000Z",
-          "wordCount": 11404,
+          "wordCount": 11403,
           "title": "Bitcoin, Ethereum ETFs in Hong Kong Could Lead to 'More Progressive' Policies in China: OSL",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/09/hong-kong-law-gID_7.jpg@png",
@@ -251,7 +281,7 @@
           "description": "Avraham Eisenberg was found guilty of manipulating the Solana DeFi platform Mango Markets in 2022 and fleeing the U.S. with the funds.",
           "link": "https://decrypt.co/227058/mango-markets-hacker-guilty-fraud-110-million-exploit",
           "publishedOn": "2024-04-18T17:49:01.000Z",
-          "wordCount": 10655,
+          "wordCount": 10654,
           "title": "Mango Markets Attacker Guilty of Fraud Over $110 Million Exploit",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/02/mango-markets-crypto-gID_7.jpg@png",
@@ -266,7 +296,7 @@
           "description": "UPDATED: The first wave of BitBoy One Genesis handhelds sold out this week. Here's what you need to know about the Bitcoin gaming device.",
           "link": "https://decrypt.co/226086/bitboy-one-preview-bitcoin-gaming-handheld-price-date",
           "publishedOn": "2024-04-18T17:21:05.000Z",
-          "wordCount": 12273,
+          "wordCount": 12272,
           "title": "BitBoy One Preview: Everything You Need to Know About the Bitcoin Gaming Handheld",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/04/bitboy-one-shadowy-gID_7.png@png",
@@ -281,7 +311,7 @@
           "description": "Rumors of a PlayStation 5 Pro model are looming large. Here's everything we know so far about the anticipated Sony PS5 Pro.",
           "link": "https://decrypt.co/226854/sony-ps5-pro-preview-rumors-leaks-next-playstation",
           "publishedOn": "2024-04-18T16:40:25.000Z",
-          "wordCount": 13252,
+          "wordCount": 13251,
           "title": "PS5 Pro Preview: Everything You Need to Know About the Next Sony PlayStation",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/playstation-5-controllers-shutterstock-gID_7.png@png",
@@ -296,7 +326,7 @@
           "description": "Corporate miners have been prepared for the Bitcoin halving for months. At-home miners, by contrast, could face extinction.",
           "link": "https://decrypt.co/226264/how-bitcoin-halving-affect-miners-big-small",
           "publishedOn": "2024-04-18T15:42:16.000Z",
-          "wordCount": 13046,
+          "wordCount": 13045,
           "title": "How the Bitcoin Halving Will Affect Miners Big and Small",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/02/bitcoin-miners-sell-gID_7.jpg@png",
@@ -311,7 +341,7 @@
           "description": "The launch is \"paving the way for a new era of innovation and growth in DeFi,\" said Layer N CEO and co-founder Dima Romanov.",
           "link": "https://decrypt.co/226978/peter-thiel-backed-ethereum-layer-2-launches-liquidity-program",
           "publishedOn": "2024-04-18T15:01:02.000Z",
-          "wordCount": 9824,
+          "wordCount": 9823,
           "title": "Peter Thiel-Backed Ethereum Layer-2 Launches Liquidity Program",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/10/peter-thiel-gID_7.jpg@png",
@@ -326,7 +356,7 @@
           "description": "Dubai, AEU, April 18th, 2024, Chainwire   Quest-based battler game Pixelverse, who recently partnered with Mon Protocol the web3 publishing protocol of Pixelmon has announced a “Play-to-Airdrop” pre-listing campaign aimed at enriching the Web3 gaming landscape. Combining elements of exploration, crafting, and combat within a rich cyberpunk universe, the campaign is launching today introduces a […]",
           "link": "https://decrypt.co/227030/pixelverse-announces-play-to-airdrop-campaign-with-10-million-pixfi-token-distribution",
           "publishedOn": "2024-04-18T15:00:33.000Z",
-          "wordCount": 10103,
+          "wordCount": 10102,
           "title": "Pixelverse Announces Play-to-Airdrop Campaign with 10 Million $PIXFI Token Distribution",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/04/photo_2024-04-18_17-48-56_1713451751ZXlFq0YBi7-gID_7.jpg@png",
@@ -341,7 +371,7 @@
           "description": "To ensure “reliability and stability” Binance has converted its entire insurance fund of BTC and BNB to USDC. But, what does this mean?",
           "link": "https://decrypt.co/226979/why-did-binance-convert-safu-to-usdc",
           "publishedOn": "2024-04-18T14:31:08.000Z",
-          "wordCount": 10270,
+          "wordCount": 10269,
           "title": "Why Did Binance Convert Its Whole SAFU Fund to USDC?",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/07/Binance-Phone-gID_7.jpg@png",
@@ -356,7 +386,7 @@
           "description": "Wright dropped the lawsuit against 12 Bitcoin developers after UK court denies he's Satoshi Nakamoto.",
           "link": "https://decrypt.co/226947/has-craig-wright-finally-given-up-bitcoin-inventor-claim",
           "publishedOn": "2024-04-18T13:59:57.000Z",
-          "wordCount": 10694,
+          "wordCount": 10693,
           "title": "Has Craig Wright Finally Given Up His Campaign to Claim Bitcoin Was His Idea?",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/02/Craig-Wright-3200x1800-3-scaled-gID_7.jpg@png",
@@ -371,7 +401,7 @@
           "description": "The Bitcoin price has leveled off since yesterday, but left a $255 million trail of liquidations in its wake.",
           "link": "https://decrypt.co/226961/liquidiations-top-255-million-as-bitcoin-recovers-to-63k-ahead-of-halving",
           "publishedOn": "2024-04-18T11:56:26.000Z",
-          "wordCount": 10132,
+          "wordCount": 10131,
           "title": "Liquidations Top $255 Million as Bitcoin Recovers to $63K Ahead of Halving",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/03/bitcoin-btc-red-background-price-drops-gID_7.jpg@png",
@@ -386,7 +416,7 @@
           "description": "The Ark 21 Shares Bitcoin ETF (ARKB) has seen two straight days of outflows for the first time since the start of the month.",
           "link": "https://decrypt.co/226952/ark-invest-bitcoin-etf-sees-second-day-of-outflows",
           "publishedOn": "2024-04-18T11:52:37.000Z",
-          "wordCount": 10236,
+          "wordCount": 10235,
           "title": "Ark Invest Bitcoin ETF Sees Second Day of Outflows",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/12/ark-invest-bitcoin-btc-gID_7.jpg@png",
@@ -401,7 +431,7 @@
           "description": "Maison Margiela and The Fabricant's new digital fashion NFT combines combines physical products with a Web3 and metaverse experience.",
           "link": "https://decrypt.co/226809/maison-margiela-takes-huge-step-into-web3-with-metatabi-experience",
           "publishedOn": "2024-04-18T08:33:52.000Z",
-          "wordCount": 10827,
+          "wordCount": 10826,
           "title": "Maison Margiela Takes ‘Huge Step’ Into Web3 With MetaTABI Experience",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/04/maison-margiela-metatabi-gID_7.jpg@png",
@@ -416,7 +446,7 @@
           "description": "Game over? Major tokens like Gala Games, Pixels, Portal, and Xai have dipped by 30% or more in the past week, with some setting new lows.",
           "link": "https://decrypt.co/226944/game-over-gaming-tokens-crash-bitcoin-falls-halving",
           "publishedOn": "2024-04-17T23:16:02.000Z",
-          "wordCount": 10368,
+          "wordCount": 10367,
           "title": "Gaming Tokens Crash Hard as Bitcoin Falls Ahead of Halving",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/08/sad-gamer-shutterstock-gID_7.png@png",
@@ -431,7 +461,7 @@
           "description": "Notional Bitcoin futures have fallen by $5.2 billion over the past week.",
           "link": "https://decrypt.co/226935/bitcoin-market-deleveraging-whats-going-on",
           "publishedOn": "2024-04-17T22:15:13.000Z",
-          "wordCount": 10490,
+          "wordCount": 10489,
           "title": "Bitcoin Market Is Deleveraging—Here's What's Going On",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/02/bitcoin-btc-high-liquidity-scaled-gID_7.jpg@png",
@@ -446,7 +476,7 @@
           "description": "Using tech from Optimism, World Chain will be a dedicated, privacy-preserving network for Worldcoin users.",
           "link": "https://decrypt.co/226918/worldcoin-reveals-ethereum-chain-where-verified-humans-get-priority",
           "publishedOn": "2024-04-17T21:53:02.000Z",
-          "wordCount": 10705,
+          "wordCount": 10704,
           "title": "Worldcoin Reveals Ethereum Chain Where ‘Verified Humans Get Priority’",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/07/worldcoin-wld-logo-gID_7.jpg@png",
@@ -461,7 +491,7 @@
           "description": "Decrypt reporter Sander Lutz braved the flooded streets of Dubai this week en route to the Token 2049 crypto conference. Here's his report.",
           "link": "https://decrypt.co/226922/my-24-hours-flooded-crypto-apocalypse-dubai",
           "publishedOn": "2024-04-17T21:52:50.000Z",
-          "wordCount": 13722,
+          "wordCount": 13721,
           "title": "My 24 Hours in the Flooded Crypto Apocalypse of Dubai",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/04/sander-flood-dubai-gID_7.png@png",
@@ -476,7 +506,7 @@
           "description": "Decrypt reporter Sander Lutz reports from Dubai amid a historic storm that flooded the famed city, trudging through the streets to complete his essential task: Attending the Token 2049 crypto conference.",
           "link": "https://decrypt.co/videos/live-events/mtjVHGa3/decrypts-sander-lutz-braves-the-dubai-floods-for-a-crypto-conference",
           "publishedOn": "2024-04-17T21:33:55.000Z",
-          "wordCount": 6831,
+          "wordCount": 6980,
           "title": "Decrypt's Sander Lutz Braves the Dubai Floods for a Crypto Conference",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/mtjVHGa3/poster.jpg",
@@ -484,36 +514,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.jwplayer.com/v2/media/mtjVHGa3/poster.jpg"
-        },
-        {
-          "id": "https://decrypt.co/?p=226908",
-          "author": "Mathew Di Salvo",
-          "description": "The price of BTC has fluttered downward since flying higher than ever a month ago. How low could it go?",
-          "link": "https://decrypt.co/226908/bitcoin-bear-market-pre-halving-2014-how-low",
-          "publishedOn": "2024-04-17T21:24:36.000Z",
-          "wordCount": 10803,
-          "title": "Is Bitcoin Slipping Back Toward a Bear Market?",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/05/shutterstock_779811337-1-gID_7.jpg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/05/shutterstock_779811337-1-gID_7.jpg@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=226906",
-          "author": "Ryan Gladwin",
-          "description": "Technical terms relating to Bitcoin are entering the public consciousness more than ever—even overtaking memes like \"420.\"",
-          "link": "https://decrypt.co/226906/more-people-googling-bitcoin-halving-all-time-high",
-          "publishedOn": "2024-04-17T20:50:20.000Z",
-          "wordCount": 10504,
-          "title": "More People Are Googling the Bitcoin Halving Than Ever Before",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/04/google-bitcoin-halving-gID_4.jpeg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/04/google-bitcoin-halving-gID_4.jpeg@png"
         },
         {
           "id": "https://decrypt.co/videos/interviews/6ULgUKVk/gold-beats-its-all-time-high",
@@ -551,7 +551,7 @@
           "description": "In this week’s episode, we did a little something different. We took the man who is usually behind the camera and put him in front of it. We sat down with our producer Weesh to dive into how in fell in love with art and became a collector, how he met Andy and fun childhood memories together, his biggest wins in crypto, and so much more.",
           "link": "https://decrypt.co/videos/interviews/LnaOT9bF/we-do-a-little-with-weesh",
           "publishedOn": "2024-04-12T07:46:45.000Z",
-          "wordCount": 6974,
+          "wordCount": 7187,
           "title": "We Do A Little with Weesh",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/LnaOT9bF/poster.jpg",
@@ -626,7 +626,7 @@
           "description": "In this week’s episode, we sit down with Intern and Tunez from the Monad team. Prior to Monad, Tunez was working with Delphi Digital and Intern was working at CMS Holdings. They’re two of my oldest friends from crypto twitter.\n\nWe get into why they joined the Monad team, alpha for finding jobs in the space, biggest lessons from previous cycles, and so much more.",
           "link": "https://decrypt.co/videos/interviews/d8FYP5tO/how-to-get-your-foot-in-ihe-door-and-building-during-bear-markets",
           "publishedOn": "2024-03-29T11:37:20.000Z",
-          "wordCount": 7221,
+          "wordCount": 7008,
           "title": "How To Get Your Foot In Ihe Door And Building During Bear Markets",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/d8FYP5tO/poster.jpg",
@@ -641,7 +641,7 @@
           "description": "BTC: 70.7k (+1%), ETH: 3585 (0%), SOL: 186 (-1%). Top 100 gainers: DOGE, GT, BCH, RBN. Crypto mixed, BTC-beta & memes outperform. SEC case vs Coinbase set to go to trial. DeFi win as case dismissed vs Coinbase wallet. ETFs see $244m inflows led by Ark. BlackRock ETF fastest growing in history: Fink. ETH ETF possible even if its a security: Fink. ETH spot ETF by May chances only 20%: GSR. SBF sentencing today, faces 50 years.",
           "link": "https://decrypt.co/videos/interviews/ZmRslhIl/sbf-sentencing",
           "publishedOn": "2024-03-29T11:29:59.000Z",
-          "wordCount": 7218,
+          "wordCount": 7005,
           "title": "SBF Sentencing",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/ZmRslhIl/poster.jpg",
@@ -701,7 +701,7 @@
           "description": "Despite Bitcoin's decline, several alternative cryptocurrencies remain robust. Fantom (FTM) emerges as the top-performing Layer 1 blockchain, while Coinbase introduces futures trading. Exchange-traded funds (ETFs) witness a $94 million outflow, although outflows from Grayscale Bitcoin Trust (GBTC) may decelerate. Approximately $1 billion worth of Bitcoin shorts face liquidation if prices reach $67.8k. Coinbase's premium resurfaces, marking the first occurrence since Bitcoin's all-time high. Bitcoin continues its streak with seven consecutive months of positive performance. Solana's (SOL) decentralized exchange (DEX) achieves a monthly volume of $50 billion, with revenue soaring 30-fold. OKX announces support for a new Solana token standard. Despite expectations, Layer 2 activity remains sluggish post-Dencun, according to Vitalik Buterin.",
           "link": "https://decrypt.co/videos/interviews/KGf7k2r3/etf-outflows-continue",
           "publishedOn": "2024-03-22T17:56:30.000Z",
-          "wordCount": 7394,
+          "wordCount": 7181,
           "title": "ETF Outflows Continue",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/KGf7k2r3/poster.jpg",
@@ -761,7 +761,7 @@
           "description": "Ethereum creator Vitalik Buterin answers questions from Rug Radio and other media outlets at ETH Taipei 2024. He discusses the recent Dencun network upgrade and a variety of other topics. (Credit: Rug Radio/Decrypt)",
           "link": "https://decrypt.co/videos/interviews/LPwwmRJP/vitalik-buterin-discusses-ethereums-dencun-upgrade-and-more-at-eth-taipei-2024",
           "publishedOn": "2024-03-21T14:39:50.000Z",
-          "wordCount": 7058,
+          "wordCount": 6845,
           "title": "Vitalik Buterin Discusses Ethereum's Dencun Upgrade and More at ETH Taipei 2024",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/LPwwmRJP/poster.jpg",
