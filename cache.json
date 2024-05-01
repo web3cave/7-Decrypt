@@ -6,12 +6,42 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=229065",
+          "author": "Sander Lutz",
+          "description": "It’s now looking like a long road ahead for ETH to come to Wall Street. But that’s a surprise to few.",
+          "link": "https://decrypt.co/229065/sec-ethereum-security-eth-etfs-doomed",
+          "publishedOn": "2024-05-01T20:54:20.000Z",
+          "wordCount": 11234,
+          "title": "If the SEC Thinks Ethereum Is a Security, Are ETH ETFs Doomed?",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/01/shutterstock_168853424-1-gID_4.jpg@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/01/shutterstock_168853424-1-gID_4.jpg@png"
+        },
+        {
+          "id": "https://decrypt.co/?p=228301",
+          "author": "Ryan Gladwin",
+          "description": "Ethereum gaming chain Ronin currently curates the games on its network. But it’s starting to eye up a permissionless future.",
+          "link": "https://decrypt.co/228301/ronin-path-curated-ethereum-gaming-pervasively-permissionless",
+          "publishedOn": "2024-05-01T20:41:30.000Z",
+          "wordCount": 11755,
+          "title": "Ronin's Path From Curated Ethereum Gaming to 'Pervasively Permissionless'",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/11/ronin-pixels-gID_7.png@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/11/ronin-pixels-gID_7.png@png"
+        },
+        {
           "id": "https://decrypt.co/?p=223640",
           "author": "Reza Jafery,Andrew Hayward",
           "description": "UPDATED: When is the NOT token actually launching? Here's the latest, along with everything else you need to know about Notcoin.",
           "link": "https://decrypt.co/resources/what-is-notcoin-telegram-based-game-airdrop",
           "publishedOn": "2024-05-01T19:39:56.000Z",
-          "wordCount": 14241,
+          "wordCount": 14247,
           "title": "What Is Notcoin? The Telegram-Based Game, NOT Token, and Future Plans",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2019/03/gaming_litepaper-gID_7-pID_3.png@png",
@@ -26,7 +56,7 @@
           "description": "An Elliptic report shows how MIT-IBM AI Labs used deep learning AI techniques to detect fraud on the world’s dominant blockchain.",
           "link": "https://decrypt.co/229030/heres-how-ai-can-detect-money-laundering-on-bitcoin",
           "publishedOn": "2024-05-01T18:46:02.000Z",
-          "wordCount": 10957,
+          "wordCount": 10963,
           "title": "Here's How AI Can Help Find Money Laundering on Bitcoin",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/08/elliptic-binance-chain-monitoring-gID_7.jpg@png",
@@ -41,7 +71,7 @@
           "description": "Amid signs of stubborn inflation in the U.S., the central bank kept its key interest rate at its highest level in over 23 years.",
           "link": "https://decrypt.co/229041/bitcoin-ethereum-trade-sideways-as-fed-leaves-interest-rates-untouched",
           "publishedOn": "2024-05-01T18:27:42.000Z",
-          "wordCount": 11316,
+          "wordCount": 11322,
           "title": "Bitcoin, Ethereum Trade Sideways as Fed Leaves Interest Rates Untouched",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/01/jerome-powell-fed-chair-gID_7.jpeg@png",
@@ -56,7 +86,7 @@
           "description": "Investors often leave during the “local bottom.” and one analyst suggests BTC is reaching that point.",
           "link": "https://decrypt.co/229046/bitcoin-paper-hands-correction-glassnode",
           "publishedOn": "2024-05-01T18:18:18.000Z",
-          "wordCount": 9949,
+          "wordCount": 9955,
           "title": "Bitcoin Could Rebound As ‘Paper Hands’ Investors Flee, Analysts Say",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/10/bull-bear-figurines-in-front-of-folded-hands-gID_7.jpg@png",
@@ -71,7 +101,7 @@
           "description": "Jack Dorsey's Block is reportedly under investigation for compliance issues, including with its Bitcoin business.",
           "link": "https://decrypt.co/229047/feds-investigating-jack-dorsey-block-bitcoin-biz-report",
           "publishedOn": "2024-05-01T18:06:05.000Z",
-          "wordCount": 9333,
+          "wordCount": 9339,
           "title": "Feds Are Investigating Jack Dorsey's Block Over Bitcoin Biz: Report",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/08/jack-dorsey-twitter-ceo-gID_7.jpg@png",
@@ -86,7 +116,7 @@
           "description": "The biggest digital coin still has room to fall, the British firm said in a new report.",
           "link": "https://decrypt.co/229039/bitcoin-could-fall-to-50000-standard-chartered",
           "publishedOn": "2024-05-01T17:26:58.000Z",
-          "wordCount": 9656,
+          "wordCount": 9662,
           "title": "Bitcoin Hasn't Hit the Bottom Yet, Says Standard Chartered",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2019/12/shutterstock_1038671149-gID_7.jpg@png",
@@ -101,7 +131,7 @@
           "description": "Lummis argued the Department of Justice's position on self-custody \"contradicts existing Treasury guidance\" and \"violates the rule of law.\"",
           "link": "https://decrypt.co/229020/bitcoin-senator-cynthia-lummis-blasts-doj-stance-crypto-wallets",
           "publishedOn": "2024-05-01T17:09:15.000Z",
-          "wordCount": 9734,
+          "wordCount": 9740,
           "title": "'Bitcoin Senator' Cynthia Lummis Blasts DOJ Stance on Private Crypto Wallets",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/04/Cynthia-Lummis-NBC-e1648850407380-gID_7.png@png",
@@ -116,7 +146,7 @@
           "description": "BlackRock’s BUIDL fund, created with Securitize, has $375 million in assets under management.",
           "link": "https://decrypt.co/228992/bitcoin-etf-blackrock-leads-47-million-funding-round-securitize",
           "publishedOn": "2024-05-01T16:48:27.000Z",
-          "wordCount": 10476,
+          "wordCount": 10482,
           "title": "Bitcoin ETF Leader BlackRock Leads $47M Funding Round in Securitize",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/08/shutterstock_1485247838-1-gID_7.jpg@png",
@@ -131,7 +161,7 @@
           "description": "Powered by the Optimism OP Stack, Redstone enables “autonomous worlds” and other intriguing new types of on-chain Ethereum games.",
           "link": "https://decrypt.co/229005/redstone-network-launches-fully-on-chain-ethereum-games",
           "publishedOn": "2024-05-01T16:01:05.000Z",
-          "wordCount": 13611,
+          "wordCount": 13617,
           "title": "Redstone Network Launches to Power Fully On-Chain Ethereum Games",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/05/downstream-screen-gID_7.png@png",
@@ -146,7 +176,7 @@
           "description": "Tether’s Bitcoin investment is paying off, achieving much greater profit than the company’s immense bond portfolio.",
           "link": "https://decrypt.co/228991/tether-netted-4-52-billion-q1-profit-thanks-to-bitcoin-gains",
           "publishedOn": "2024-05-01T15:42:02.000Z",
-          "wordCount": 10173,
+          "wordCount": 10179,
           "title": "Tether Netted $4.52 Billion Q1 Profit Thanks To Bitcoin Gains",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/12/bitcoin-tether-gID_7.jpg@png",
@@ -161,7 +191,7 @@
           "description": "The competition aims to encourage developers to create, launch and trade their meme coins on BNB Chain.",
           "link": "https://decrypt.co/228494/bnb-chains-1m-meme-innovation-contest-is-unleashing-meme-coin-creativity",
           "publishedOn": "2024-05-01T15:40:49.000Z",
-          "wordCount": 10660,
+          "wordCount": 10666,
           "title": "BNB Chain's $1M Meme Innovation Contest Is 'Unleashing Meme Coin Creativity'",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/04/meme-coin-moon-gID_7.jpg@png",
@@ -176,7 +206,7 @@
           "description": "\"Decentralize your own security,\" says Ethereum founder Vitalik Buterin—but he doesn't use a cold wallet for his own personal crypto.",
           "link": "https://decrypt.co/228946/how-ethereum-founder-vitalik-buterin-keeps-crypto-safe",
           "publishedOn": "2024-05-01T14:38:51.000Z",
-          "wordCount": 10679,
+          "wordCount": 10685,
           "title": "How Ethereum Founder Vitalik Buterin Keeps His Crypto Safe",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/03/vitalik-buterin-2024-gID_7.png@png",
@@ -191,7 +221,7 @@
           "description": "Mine asteroids, earn Bitcoin. Here’s how to stack up more satoshis while playing the fun mobile game SpaceY.",
           "link": "https://decrypt.co/resources/spacey-game-guide-7-tips-earn-more-bitcoin-ios-android",
           "publishedOn": "2024-05-01T12:01:02.000Z",
-          "wordCount": 12944,
+          "wordCount": 12950,
           "title": "'SpaceY' Game Guide: 7 Tips to Earn More Bitcoin on iOS and Android",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/02/bitcoin-what-is-gID_7-pID_1.png@png",
@@ -206,7 +236,7 @@
           "description": "Bitcoin and Ethereum—and the rest of the market—are awash with red as investors expect more bad news from today's FOMC meeting.",
           "link": "https://decrypt.co/228938/bitcoin-crashes-to-57000-and-ethereum-slips-below-3000-hours-before-fed-meeting",
           "publishedOn": "2024-05-01T09:50:31.000Z",
-          "wordCount": 10556,
+          "wordCount": 10562,
           "title": "Bitcoin Crashes to $57,000 and Ethereum Slips Below $3,000 Hours Before Fed Meeting",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/05/bitcoin-ethereum-red-down-market-gID_7.jpeg@png",
@@ -221,7 +251,7 @@
           "description": "Speaking before the U.S. Senate Judicial Committee, FKA Twigs shared her first-hand account of how AI could help or hurt artists.",
           "link": "https://decrypt.co/228907/fka-twigs-ai-deepfakes-digital-replicas-senate-hearing",
           "publishedOn": "2024-05-01T01:31:41.000Z",
-          "wordCount": 11546,
+          "wordCount": 11552,
           "title": "Musician FKA Twigs Tells Congress She Created Her Own AI Deepfake",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/05/FKA-Twigs-by-Laganjart-CC-BY-SA-4.0-gID_7.jpg@png",
@@ -236,7 +266,7 @@
           "description": "Expressing thanks to his supporters, Changpeng “C.Z.” Zhao said education will be the focus of the next chapter of his life.",
           "link": "https://decrypt.co/228906/i-will-do-my-time-binance-founder-next-chapter-life-after-prison",
           "publishedOn": "2024-05-01T01:05:10.000Z",
-          "wordCount": 10569,
+          "wordCount": 10575,
           "title": "‘I Will Do My Time’: Binance Founder Sets Sights on Life After Prison",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/binance-ceo-cz-gID_7.jpeg@png",
@@ -251,7 +281,7 @@
           "description": "Alliance Resource Partners now holds $25 million in BTC, which it earned with mining rigs first purchased in 2020.",
           "link": "https://decrypt.co/228881/this-2-8-billion-coal-miner-has-been-mining-bitcoin-too",
           "publishedOn": "2024-04-30T22:49:04.000Z",
-          "wordCount": 10224,
+          "wordCount": 10230,
           "title": "This $2.8 Billion Coal Miner Has Been Mining Bitcoin, Too",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/04/Coal-and-Bitcoin-Dall-E-AI-Generation-gID_7.jpg@png",
@@ -266,7 +296,7 @@
           "description": "The SEC has secretly considered ETH to be a security for over a year, according to a lawsuit by Consensys. McHenry says that’s a problem.",
           "link": "https://decrypt.co/228870/sec-gensler-lied-congress-ethereum-patrick-mchenry",
           "publishedOn": "2024-04-30T22:08:05.000Z",
-          "wordCount": 10232,
+          "wordCount": 10238,
           "title": "Gensler Lied to Congress About Ethereum, Says Rep. McHenry",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/09/gary-gensler-congress-senate-sec-gID_4.jpg@png",
@@ -281,7 +311,7 @@
           "description": "The AnimeCoin project, created by Azuki with multiple partners, has launched a gachapon-inspired game with collectible prizes.",
           "link": "https://decrypt.co/228861/animecoin-gacha-grab-game-ethereum-nft-collection-azuki",
           "publishedOn": "2024-04-30T22:04:09.000Z",
-          "wordCount": 9805,
+          "wordCount": 9811,
           "title": "AnimeCoin Launches ‘Gacha Grab’ Game With Ethereum NFT Collection Azuki",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/04/anime-chain-gID_7.png@png",
@@ -296,7 +326,7 @@
           "description": "After the first day of trading, the CEO of sub-custodian OSL reflects on what the Hong Kong Bitcoin and Ethereum ETFs rollout really means.",
           "link": "https://decrypt.co/228856/hong-kong-bitcoin-ethereum-etf-message-china-osl-ceo",
           "publishedOn": "2024-04-30T20:52:53.000Z",
-          "wordCount": 10562,
+          "wordCount": 10568,
           "title": "Hong Kong's Bitcoin and Ethereum ETFs a 'Message From China': OSL CEO",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/06/bitcoin-hong-kong-dollar-gID_7.jpg@png",
@@ -311,7 +341,7 @@
           "description": "The total crypto market cap is down nearly 5% today, with every Top 100 coin in the red.",
           "link": "https://decrypt.co/228820/crypto-market-cap-down-4-percent-top-100-red",
           "publishedOn": "2024-04-30T19:16:52.000Z",
-          "wordCount": 11775,
+          "wordCount": 11781,
           "title": "Crypto Market Sinks Amid Global Economic Uncertainty",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/04/Firefly-20240430131101-gID_7.png@png",
@@ -326,7 +356,7 @@
           "description": "The founder of Binance pleaded guilty last November to failing to establish a proper anti-money laundering program at the company.",
           "link": "https://decrypt.co/228674/binance-founder-changpeng-zhao-sentence-money-laundering",
           "publishedOn": "2024-04-30T19:02:02.000Z",
-          "wordCount": 11888,
+          "wordCount": 11894,
           "title": "Binance Founder Changpeng Zhao Sentenced to 4 Months in Prison for Money Laundering Violations",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/04/Changpeng-CZ-Zhao-at-Vietnam-Summit-by-Aevozer-gID_7.jpg@png",
@@ -341,7 +371,7 @@
           "description": "Early Bitcoin investor Roger Ver has been arrested and hit with tax evasion charges, the U.S. Department of Justice announced Tuesday.",
           "link": "https://decrypt.co/228822/bitcoin-jesus-roger-ver-charged-50-million-tax-evasion",
           "publishedOn": "2024-04-30T18:38:51.000Z",
-          "wordCount": 9883,
+          "wordCount": 9889,
           "title": "'Bitcoin Jesus' Roger Ver Charged With $50 Million Tax Evasion",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2019/03/rogerver-v_1-gID_7.jpg@png",
@@ -356,7 +386,7 @@
           "description": "Bitcoin hit $74,000 in March, but now is trading just above $60,000—as crypto liquidations in the past 24 hours hit $300 million.",
           "link": "https://decrypt.co/228811/bitcoin-price-plunges-60000-crypto-liquidations-300-million",
           "publishedOn": "2024-04-30T18:10:40.000Z",
-          "wordCount": 9812,
+          "wordCount": 9818,
           "title": "Bitcoin Price Plunges to $60,000 as Crypto Liquidations Top $300 Million",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/04/bitcoin-crash-gID_7.jpg@png",
@@ -371,7 +401,7 @@
           "description": "MicroStrategy founder and chairman Michael Saylor suggests that Ethereum won't see the same kind of spot ETF approval that Bitcoin did.",
           "link": "https://decrypt.co/228801/bitcoin-only-crypto-asset-sec-approval-etfs-michael-saylor",
           "publishedOn": "2024-04-30T17:02:09.000Z",
-          "wordCount": 10206,
+          "wordCount": 10212,
           "title": "Bitcoin Is 'Only Crypto Asset' That Will Get SEC Approval for ETFs: Michael Saylor",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/02/michael-saylor-microstrategy-gID_7.jpg@png",
@@ -386,7 +416,7 @@
           "description": "CARV, the largest modular data layer for gaming and AI, today announces its highly anticipated debut node sale.",
           "link": "https://decrypt.co/228799/carv-announces-decentralized-node-sale-to-revolutionize-data-ownership-in-gaming-and-ai",
           "publishedOn": "2024-04-30T15:33:56.000Z",
-          "wordCount": 11562,
+          "wordCount": 11568,
           "title": "CARV Announces Decentralized Node Sale to Revolutionize Data Ownership in Gaming and AI",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/04/node_sale_1714193064YovKEY4i83-gID_7.jpeg@png",
@@ -401,7 +431,7 @@
           "description": "The genesis block is the start of the immutable database that is the Bitcoin blockchain. Here's how it was created—and why it matters.",
           "link": "https://decrypt.co/resources/the-bitcoin-genesis-block-how-it-all-started",
           "publishedOn": "2024-04-30T15:25:47.000Z",
-          "wordCount": 14954,
+          "wordCount": 14960,
           "title": "What Is the Bitcoin Genesis Block? How It All Started",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/07/bitcoin-nodes-gID_4-pID_1.png@png",
@@ -431,7 +461,7 @@
           "description": "Users of the top crypto exchange can choose the alternate network for faster and cheaper transactions than the Bitcoin mainnet.",
           "link": "https://decrypt.co/228680/coinbase-plugs-into-the-bitcoin-lightning-network",
           "publishedOn": "2024-04-30T14:01:03.000Z",
-          "wordCount": 11533,
+          "wordCount": 11539,
           "title": "Coinbase Plugs Into the Bitcoin Lightning Network",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/04/Decrypt-Wallpaper-Format-1600-x-900-px-75-gID_7.png@png",
@@ -461,7 +491,7 @@
           "description": "Grayscale and BlackRock are in a tight race for the top of the Bitcoin ETF table. The lead has halved in the past two weeks—but when will they flip?",
           "link": "https://decrypt.co/228770/gap-between-grayscale-blackrock-bitcoin-etfs-narrows-to-1-5-billion",
           "publishedOn": "2024-04-30T12:25:48.000Z",
-          "wordCount": 10072,
+          "wordCount": 10078,
           "title": "Gap Between Grayscale, BlackRock Bitcoin ETFs Narrows to $1.5 Billion",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/02/bitcoin-etf-bermuda-gID_7.jpg@png",
