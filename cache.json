@@ -6,12 +6,27 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=230223",
+          "author": "Sander Lutz",
+          "description": "The Ethereum co-founder is proposing some significant changes to the network’s gas fee structure. Would it make it more like its chief competitor?",
+          "link": "https://decrypt.co/230223/vitalik-fee-proposal-ethereum-solana",
+          "publishedOn": "2024-05-10T21:25:48.000Z",
+          "wordCount": 11752,
+          "title": "Will Vitalik Buterin’s Gas Fee Proposal Make Ethereum More Like Solana?",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/03/vitalik-buterin-2024-gID_7.png@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/03/vitalik-buterin-2024-gID_7.png@png"
+        },
+        {
           "id": "https://decrypt.co/?p=230234",
           "author": "Mathew Di Salvo",
           "description": "Wells Fargo has disclosed exposure to Bitcoin via several crypto product investments, a filing with the SEC shows.",
           "link": "https://decrypt.co/230234/banking-giant-wells-fargo-reveals-investments-bitcoin-etfs",
           "publishedOn": "2024-05-10T20:03:47.000Z",
-          "wordCount": 9476,
+          "wordCount": 9508,
           "title": "Banking Giant Wells Fargo Reveals Investments in Bitcoin ETFs",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/05/Wells-Fargo-Bitcoin-cover-gID_7.jpg@png",
@@ -26,7 +41,7 @@
           "description": "The meme-inspired cryptocurrency is showing signs of a potential bullish trend. What should traders expect?",
           "link": "https://decrypt.co/230242/dogecoin-price-golden-cross-what-mean",
           "publishedOn": "2024-05-10T19:18:33.000Z",
-          "wordCount": 11153,
+          "wordCount": 11185,
           "title": "Dogecoin Is Approaching a Golden Cross: What Does It Mean for Traders?",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/05/Xt8QhHQaRmmxkFSbkbhI-w-gID_7.png@png",
@@ -41,7 +56,7 @@
           "description": "From an \"embarrassing\" paper-hands trade in 2020 to spreading the word in a controversial speech, Christopher Pan recalls his Bitcoin journey.",
           "link": "https://decrypt.co/230222/bitcoin-commencement-speaker-defends-ayahuasca-fueled-speech-praises-satoshi",
           "publishedOn": "2024-05-10T18:57:55.000Z",
-          "wordCount": 11815,
+          "wordCount": 11844,
           "title": "Bitcoin Commencement Speaker Defends Ayahuasca-Fueled Speech, Praises Satoshi",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/05/christopher-pan-gID_7.png@png",
@@ -56,7 +71,7 @@
           "description": "CEO Elizabeth Stark said that Lightning Labs just ran a test transaction with an asset created using its Taproot Assets protocol.",
           "link": "https://decrypt.co/230216/lightning-labs-stablecoins-on-bitcoin-blockchain-ceo",
           "publishedOn": "2024-05-10T18:17:31.000Z",
-          "wordCount": 9960,
+          "wordCount": 9992,
           "title": "Lightning Labs Is Bringing Stablecoins to the Bitcoin Blockchain: CEO",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/05/elizabeth-stark-lightning-labs-gID_7.jpg@png",
@@ -71,7 +86,7 @@
           "description": "The Fed will likely cut rates later this year, which will bolster Bitcoin’s price, predicts CoinShares.",
           "link": "https://decrypt.co/230233/bitcoin-price-federal-reserve-interest-rates-alignment-coinshares",
           "publishedOn": "2024-05-10T18:03:00.000Z",
-          "wordCount": 9918,
+          "wordCount": 9950,
           "title": "Bitcoin Price Is Again Dictated By Fed Policy: Analyst",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/08/bitcoin-dollar-federal-reserve-gID_7.jpg@png",
@@ -86,7 +101,7 @@
           "description": "Both Bitcoin and Ethereum plunged early Friday, prompting a wave of crypto long positions to be liquidated.",
           "link": "https://decrypt.co/230199/bitcoin-and-ethereum-tank-as-crypto-liquidations-top-150-million",
           "publishedOn": "2024-05-10T15:13:59.000Z",
-          "wordCount": 9398,
+          "wordCount": 9430,
           "title": "Bitcoin and Ethereum Tank as Crypto Liquidations Top $150 Million",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/05/bitcoin-ethereum-red-down-market-gID_7.jpeg@png",
@@ -101,7 +116,7 @@
           "description": "The Polkadot network reached a landmark in terms of active accounts, while the Relay Chain gets an important technical update.",
           "link": "https://decrypt.co/230182/the-week-in-polkadot-monthly-active-accounts-hit-all-time-high",
           "publishedOn": "2024-05-10T14:50:36.000Z",
-          "wordCount": 10292,
+          "wordCount": 10324,
           "title": "The Week in Polkadot: Monthly Active Accounts Hit All-Time High",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/05/polkadot-coins-gID_7.jpg@png",
@@ -116,7 +131,7 @@
           "description": "Social media platform Friend.tech endured a challenging launch last week, but its FRIEND token has shown signs of recovering.",
           "link": "https://decrypt.co/230170/friend-tech-price-bounces-back-23-after-chaotic-v2-launch",
           "publishedOn": "2024-05-10T13:10:19.000Z",
-          "wordCount": 9668,
+          "wordCount": 9700,
           "title": "Friend.tech Price Bounces Back 23% After Chaotic V2 Launch",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/04/friend.tech-logo-gID_7.png@png",
@@ -131,7 +146,7 @@
           "description": "Chaweon Koo, futurist and witch, combines AI and 17th century occult tomes to create vivid, digital demons.",
           "link": "https://decrypt.co/230135/how-blockchain-and-ai-are-recasting-ancient-occult-practices",
           "publishedOn": "2024-05-10T12:01:02.000Z",
-          "wordCount": 14805,
+          "wordCount": 14837,
           "title": "How Blockchain and AI Are Recasting Ancient Occult Practices",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/10/Decrypt-Wallpaper-Format-2023-10-30T173639.676-gID_7.png@png",
@@ -146,7 +161,7 @@
           "description": "A new game on layer-2 network Base has gamified getting rug pulled by middling meme coins. Create, buy, and swap your way to the top… or bottom.",
           "link": "https://decrypt.co/230157/rug-fun-turns-minting-ethereum-meme-coins-into-a-competitive-game",
           "publishedOn": "2024-05-10T11:31:36.000Z",
-          "wordCount": 10271,
+          "wordCount": 10303,
           "title": "Rug.fun Turns Minting Ethereum Meme Coins Into a Competitive Game",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/05/RugFun_BrandImages_8-e1715339490757-gID_7.png@png",
@@ -161,7 +176,7 @@
           "description": "Twitter and Block co-founder Jack Dorsey argued that Bitcoin could hit $1 million and \"beyond\" in 2030, in a recent interview.",
           "link": "https://decrypt.co/230155/jack-dorsey-bitcoin-price-to-hit-1-million-in-2030",
           "publishedOn": "2024-05-10T10:28:48.000Z",
-          "wordCount": 10953,
+          "wordCount": 10985,
           "title": "Jack Dorsey: Bitcoin Price to Hit $1 Million in 2030",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/06/jack-dorsey-twitter-square-bitcoin-gID_7.jpeg@png",
@@ -176,7 +191,7 @@
           "description": "A drop in the price of Bitcoin coupled with reduced mining rewards means fewer miners and a less robust network—for now, at least.",
           "link": "https://decrypt.co/230133/bitcoin-mining-difficulty-plummeting-why",
           "publishedOn": "2024-05-09T22:16:51.000Z",
-          "wordCount": 10492,
+          "wordCount": 10524,
           "title": "Bitcoin Mining Difficulty Is Plummeting—Here’s Why",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/06/bitcoin-mining-china-gID_4.png@png",
@@ -191,7 +206,7 @@
           "description": "With a Notcoin token launch set and Binance and OKX rewards revealed, Toncoin (TON) is flying high.",
           "link": "https://decrypt.co/230129/toncoin-spikes-notcoin-rollout-bitcoin-ethereum-trade-flat",
           "publishedOn": "2024-05-09T20:48:28.000Z",
-          "wordCount": 10254,
+          "wordCount": 10286,
           "title": "Toncoin Spikes on Notcoin Rollout as Bitcoin, Ethereum Trade Flat",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/04/toncoin-shutterstock-gID_7.png@png",
@@ -206,7 +221,7 @@
           "description": "A legal salvo in Texas put the Securities and Exchange Commission on the defensive, but the agency could bring a lawsuit of its own.",
           "link": "https://decrypt.co/230118/ethereum-lawsuit-consensys-sec-texas-jurisdiction",
           "publishedOn": "2024-05-09T20:21:11.000Z",
-          "wordCount": 11014,
+          "wordCount": 11046,
           "title": "Consensys Lawsuit Over Ethereum Won’t Deter SEC, Former Regulator Says",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/05/Texas-State-House-in-Austin_shutterstock_1871573899-gID_7.jpg@png",
@@ -221,7 +236,7 @@
           "description": "The crypto community sees a pro-SEC White House veto as drawing a decisive battle line.",
           "link": "https://decrypt.co/230117/joe-biden-kill-crypto-versus-trump-cardano-messari",
           "publishedOn": "2024-05-09T20:10:00.000Z",
-          "wordCount": 12027,
+          "wordCount": 12059,
           "title": "Joe Biden Is Trying to ‘Kill Crypto’, Says Cardano Creator",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/08/cardano-hoskinson-defi-c-gID_7.jpg@png",
@@ -236,7 +251,7 @@
           "description": "Amid a cooler crypto market, some theatrical degens are blurring the line between performance art and anything-goes meme coin marketing.",
           "link": "https://decrypt.co/230083/meme-coin-devs-doing-wild-things-livestreams-pump-tokens",
           "publishedOn": "2024-05-09T19:22:18.000Z",
-          "wordCount": 12774,
+          "wordCount": 12806,
           "title": "Meme Coin Devs Are Doing Wild Things on Livestreams to Pump Tokens",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/05/6Sgj9aoPSd-Fuafl5TJllA-gID_7.png@png",
@@ -251,7 +266,7 @@
           "description": "Bitcoin wallet startup Exodus Movement was set to have its common stock listed on NYSE American. Then the SEC got involved.",
           "link": "https://decrypt.co/230085/bitcoin-wallet-exodus-deeply-disappointed-sec-blocks-nyse-listing",
           "publishedOn": "2024-05-09T18:26:39.000Z",
-          "wordCount": 9995,
+          "wordCount": 10027,
           "title": "Bitcoin Wallet Maker Exodus 'Deeply Disappointed' as SEC Blocks NYSE Listing",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/02/sec-crypto-regulations-gID_7.jpg@png",
@@ -266,7 +281,7 @@
           "description": "The perpetrator of an apparent \"address poisoning\" scam might be having second thoughts after swiping $71 million in Wrapped Bitcoin.",
           "link": "https://decrypt.co/230081/scammers-regret-71-million-bitcoin-thief-sends-ethereum-victim",
           "publishedOn": "2024-05-09T17:48:17.000Z",
-          "wordCount": 10199,
+          "wordCount": 10231,
           "title": "Scammer's Regret? $71 Million Bitcoin Thief Sends Ethereum to Victim",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/08/hackers-money-gID_7.jpg@png",
@@ -281,7 +296,7 @@
           "description": "UPDATED: Notcoin's listing date has been announced, plus Nyan Heroes is back with more play-to-airdrop action. Here's the latest.",
           "link": "https://decrypt.co/211029/game-on-hottest-upcoming-gaming-token-airdrops",
           "publishedOn": "2024-05-09T17:04:19.000Z",
-          "wordCount": 15295,
+          "wordCount": 15327,
           "title": "Game On: The Hottest Upcoming Gaming Token Airdrops",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/12/airdrop-giant-hand-gID_7.png@png",
@@ -296,7 +311,7 @@
           "description": "Fantasy Top has taken over Crypto Twitter with an Ethereum NFT game on layer-2 network Blast. Here’s what you need to know.",
           "link": "https://decrypt.co/resources/what-is-fantasy-top-ethereum-game-blast-crypto-twitter",
           "publishedOn": "2024-05-09T16:52:33.000Z",
-          "wordCount": 12245,
+          "wordCount": 12277,
           "title": "What Is Fantasy Top? The Ethereum Game on Blast Turning Crypto Twitter Into a Fantasy Sport",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2019/03/gaming_litepaper-gID_5-pID_6.png@png",
@@ -311,7 +326,7 @@
           "description": "Joe Lubin characterized the regulator's sending of a Wells Notice to crypto firm Consensys as \"an attempt to paralyze us.\"",
           "link": "https://decrypt.co/230062/ethereum-co-founder-joe-lubin-sec-fud-push-crypto-offshore",
           "publishedOn": "2024-05-09T15:40:55.000Z",
-          "wordCount": 10648,
+          "wordCount": 10680,
           "title": "Ethereum Co-Founder Joe Lubin: SEC Wants to Create 'FUD', Push Crypto Offshore",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/03/joe-lubin-ethereal-2022-chie-endo-gID_7.png@png",
@@ -326,7 +341,7 @@
           "description": "The price of collectibles from former President Donald Trump's NFT collection surged after comedian Jimmy Kimmel skewered holders on his late night show.",
           "link": "https://decrypt.co/230059/trump-nft-prices-double-jimmy-kimmel-calls-collectors-freaks-suckers",
           "publishedOn": "2024-05-09T15:13:19.000Z",
-          "wordCount": 11208,
+          "wordCount": 11240,
           "title": "Trump NFT Prices Double as Jimmy Kimmel Calls Collectors 'Freaks' and 'Suckers'",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/12/trump-nfts-gold-bars-gID_7.png@png",
@@ -341,7 +356,7 @@
           "description": "After missing a couple of target dates, Notcoin’s NOT token launch now appears to be just days away—with staking rewards on Binance and OKX.",
           "link": "https://decrypt.co/230052/notcoin-token-launch-confirmed-okx-rewards-not-airdrop",
           "publishedOn": "2024-05-09T14:12:07.000Z",
-          "wordCount": 10618,
+          "wordCount": 10650,
           "title": "‘Notcoin’ Token Launch Date Confirmed With Binance, OKX Rewards as NOT Airdrop Nears",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/03/notcoin-gold-gID_7.png@png",
@@ -356,7 +371,7 @@
           "description": "Robinhood CEO Vlad Tenev said that the firm would \"defend ourselves and advocate for our customers\" after receiving a Wells Notice from the SEC.",
           "link": "https://decrypt.co/230035/robinhood-met-with-sec-16-times-in-good-faith-ceo",
           "publishedOn": "2024-05-09T11:36:55.000Z",
-          "wordCount": 10145,
+          "wordCount": 10177,
           "title": "Robinhood Met With SEC 16 Times 'In Good Faith': CEO",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/04/Robinhood-Bitcoin-gID_7.jpeg@png",
@@ -371,7 +386,7 @@
           "description": "After Donald Trump met with holders of his NFT collection Wednesday, meme coins caricaturing him and rival Joe Biden surged overnight.",
           "link": "https://decrypt.co/230029/trump-biden-meme-coin-prices-surge-after-ex-presidents-meeting-with-nft-holders",
           "publishedOn": "2024-05-09T09:40:37.000Z",
-          "wordCount": 10115,
+          "wordCount": 10147,
           "title": "Trump, Biden Meme Coin Prices Surge After Ex-President's Meeting With NFT Holders",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/05/tremp-boden-gID_7.jpg@png",
@@ -386,7 +401,7 @@
           "description": "Hosting Trump NFT holders at Mar-a-Lago, Trump called rival President Joe Biden clueless when it came to cryptocurrency.",
           "link": "https://decrypt.co/230023/trump-supports-crypto-at-nft-event-boden-meme-coin",
           "publishedOn": "2024-05-09T01:46:52.000Z",
-          "wordCount": 10494,
+          "wordCount": 10526,
           "title": "Trump Says He's ‘Good’ With Crypto, Trashes Biden Meme Coin BODEN",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/04/trump-series-2-nfts-gID_7.png@png",
@@ -401,7 +416,7 @@
           "description": "Embracing his love of gaming, Noland Arbaugh overcame technical setbacks to achieve unprecedented brain-computer interface control.",
           "link": "https://decrypt.co/230021/neuralink-implant-patient-gaming-sets-bci-record",
           "publishedOn": "2024-05-09T01:18:15.000Z",
-          "wordCount": 10970,
+          "wordCount": 11002,
           "title": "Neuralink Patient's Implants Slipped Out, But He Still Set a Brain Control Record",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/01/Neuralink-Implant-gID_7.jpg@png",
@@ -416,7 +431,7 @@
           "description": "Twitter says it worked with Thorn to fight child exploitation, but faces increased scrutiny from European regulators over its content moderation.",
           "link": "https://decrypt.co/230013/twitter-elon-musk-child-sexual-abuse-material-csam-elon-musk-eu",
           "publishedOn": "2024-05-08T23:13:31.000Z",
-          "wordCount": 11191,
+          "wordCount": 11223,
           "title": "Twitter Touts ’Seamless‘ Blocking of Child Abuse Content as Elon Musk Faces Increased EU Scrutiny",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/01/x-elon-musk-gID_7.png@png",
@@ -431,7 +446,7 @@
           "description": "The White House said it would veto a resolution passed today by the U.S. House “to stop the SEC's regulatory power grabs.”",
           "link": "https://decrypt.co/230007/biden-vows-to-kill-bill-to-retract-sec-crypto-banking-policy",
           "publishedOn": "2024-05-08T22:47:57.000Z",
-          "wordCount": 10437,
+          "wordCount": 10469,
           "title": "Biden Vows to Kill Bill to Retract SEC Crypto Banking Policy",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/05/Rep-Patrick-McHenry-scaled-gID_7.jpg@png",
@@ -446,7 +461,7 @@
           "description": "Wall Street’s top regulator is urging the fintech company to pay a $2 billion fine.",
           "link": "https://decrypt.co/230010/sec-demands-ripple-pay-2-billion-no-slap-on-wrist",
           "publishedOn": "2024-05-08T21:30:09.000Z",
-          "wordCount": 10344,
+          "wordCount": 10376,
           "title": "SEC Wants More Than Just a 'Slap On the Wrist' Against Ripple",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/10/SEC-Crypto-shutterstock_2346339641-16x9-1-gID_7.jpg@png",
@@ -461,7 +476,7 @@
           "description": "Famed social media cat Nala is now the official face of Solana meme coin Shark Cat, thanks to a licensing deal that avoids a court fight.",
           "link": "https://decrypt.co/229823/shark-cat-solana-meme-coin-fight-ends",
           "publishedOn": "2024-05-08T21:06:32.000Z",
-          "wordCount": 11304,
+          "wordCount": 11336,
           "title": "Shark Cat Solana Meme Coin Fight Ends Without Legal Battle",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/04/shark-cat-gID_7.png@png",
@@ -476,7 +491,7 @@
           "description": "After net outflows in the tens of billions, investors surprisingly began buying back into GBTC earlier this week. This might explain it.",
           "link": "https://decrypt.co/229991/why-bitcoin-etf-suddenly-buying-grayscale-gbtc",
           "publishedOn": "2024-05-08T20:41:50.000Z",
-          "wordCount": 11243,
+          "wordCount": 11275,
           "title": "Why Bitcoin ETF Investors Are Suddenly Buying Back Into Grayscale",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/05/bitcoin-money-trading-gID_4.jpeg@png",
@@ -491,7 +506,7 @@
           "description": "Ethereum may never be a deflationary currency again after its latest hard fork, according to CryptoQuant.",
           "link": "https://decrypt.co/229992/ethereum-not-sound-money-eth-fees-deflation",
           "publishedOn": "2024-05-08T20:31:30.000Z",
-          "wordCount": 9942,
+          "wordCount": 9974,
           "title": "Ethereum Is No Longer ‘Ultrasound Money’ After Dencun Upgrade: Analysts",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/05/Ethereum-Coin-Cracked_shutterstock_650811736-gID_7.jpg@png",
@@ -516,21 +531,6 @@
           "imageUrl": "https://cdn.jwplayer.com/v2/media/Oyjyb2JX/poster.jpg"
         },
         {
-          "id": "https://decrypt.co/?p=223640",
-          "author": "Reza Jafery,Andrew Hayward",
-          "description": "UPDATE: NOT token listings on CoinMarketCap and elsewhere suggest an imminent launch. Here's what you need to know about Notcoin.",
-          "link": "https://decrypt.co/resources/what-is-notcoin-telegram-based-game-airdrop",
-          "publishedOn": "2024-05-08T20:08:49.000Z",
-          "wordCount": 14364,
-          "title": "What Is Notcoin? The Telegram-Based Game, NOT Token, and Future Plans",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2019/03/gaming_litepaper-gID_7-pID_3.png@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2019/03/gaming_litepaper-gID_7-pID_3.png@png"
-        },
-        {
           "id": "https://decrypt.co/videos/interviews/rUBpJmbc/btc-sinks-lower",
           "author": null,
           "description": "HK ETF volumes disappoint at $11M, crypto sinks. US ETFs see another $52M outflow, 4th straight day. EigenLayer FUD after 5% non-transferable airdrop. EigenLayer also geoblocks USA for claims. 5K+ withdrawals after EigenLayer announcement. Microstrategy bought another $8M BTC in April. Miner revenue drops to 2023 lows. Consensys vs SEC litigation will take years: Cowen. SEC had been investigating ETH for a year. Gensler may have misled Congress with ETH stance.KMNO hits $363M on launch. Decentralised Rune airdrop opens at $102M. Friend Tech airdrop delayed until Thursday. NFTfi airdrop claim today.",
@@ -551,7 +551,7 @@
           "description": "Majors hit locals lows, break key support levels. Liquidations hit $420M, funding remains neutral. ETFs saw $344M withdrawals in April. CZ gets 4-month jail sentence. FTX sells $232M locked SOL at ‘around $100’. Final integration of SOL Firedancer ‘well underway’. SOL, DOGE, XRP open interest down 51% in a month. BlackRock BUIDL largest tokenised treasury fund. Uniswap integrates with Robinhood connect. Stablecoin bill may be coming very soon. Gensler lied to Congress: McHenry. KSI steps back from crypto trading. Coinbase supports Lightning network. BCH creator arrested in Spain. EigenLayer sees 12K queued withdrawals.",
           "link": "https://decrypt.co/videos/interviews/XVGCQVOH/a-very-red-week-for-crypto",
           "publishedOn": "2024-05-06T19:54:23.000Z",
-          "wordCount": 7381,
+          "wordCount": 7117,
           "title": "A Very Red Week For Crypto",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/XVGCQVOH/poster.jpg",
@@ -581,7 +581,7 @@
           "description": "Crypto volatile but bounces after dovish Fed speech. ETFs see record $563m outflow. BlackRock ETF sees first outflow in 77 days. BlackRock expects more institutions to buy BTC. BNP bank buys BlackRock ETF. BTC continues to sit below STH average cost. Coinbase earnings today. Tether made $4.5bn profit in Q1. MicroStrategy building identity protocol on Ordinals. Dorsey’s Block Inc investigated in US. BlackRock leads investment in RWA firm. STX Nakamoto upgrade delayed by 8 weeks. LayerZero 1st snapshot taken ahead of airdrop.",
           "link": "https://decrypt.co/videos/interviews/yw5MtFvY/memecoin-bounce",
           "publishedOn": "2024-05-06T19:38:18.000Z",
-          "wordCount": 7302,
+          "wordCount": 7038,
           "title": "Memecoin Bounce",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/yw5MtFvY/poster.jpg",
@@ -596,7 +596,7 @@
           "description": "Mike dropped knowledge bombs from years of building in the trenches alongside some deep cuts on the early Williamsburg crypto mafia.",
           "link": "https://decrypt.co/videos/interviews/Ajrh0oiK/we-do-a-little-with-mike-demarais",
           "publishedOn": "2024-04-30T15:11:24.000Z",
-          "wordCount": 7027,
+          "wordCount": 6763,
           "title": "We Do A Little With Mike Demarais",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/Ajrh0oiK/poster.jpg",
@@ -611,7 +611,7 @@
           "description": "Crypto falls, ETH/BTC rally again marks mini sell-off. Yen carry-trade implosion linked to worries. ETH gas fees hit 6-month lows. 3rd straight week of institutional outflows. Slowing BTC ETF flows are just a pause: Bernstein. BTC now on track for 5 red weeks in a row. BTC may have topped, could hit $35k: Brandt. ETFs may become big sellers: Bianco. Consensys list 4 reasons ETH isn’t a security. Rumours continue to grow of EigenLayer airdrop. Perp DEX volumes continue fall, GMX underperforms. Wallets begin to block US users after Samourai case. WLD in reported partnership talks with OpenAI. Large unlocks this week for SUI, PYTH & MEME.",
           "link": "https://decrypt.co/videos/interviews/Gj7TMrbP/eth-rally-fails",
           "publishedOn": "2024-04-30T12:45:02.000Z",
-          "wordCount": 7169,
+          "wordCount": 7433,
           "title": "Eth Rally Fails",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/Gj7TMrbP/poster.jpg",
@@ -641,7 +641,7 @@
           "description": "Open Builders founder Sasha Plotvinov speaks with Decrypt's Sander Lutz at Token 2049 Dubai about how he envisions Notcoin's expansion and evolution after the token drop—into something akin to the \"Netflix of social, viral games.\"",
           "link": "https://decrypt.co/videos/live-events/PprnGP14/interview-how-notcoin-will-evolve-after-the-not-token-launch",
           "publishedOn": "2024-04-24T21:00:00.000Z",
-          "wordCount": 6853,
+          "wordCount": 6973,
           "title": "Interview: How 'Notcoin' Will Evolve After the NOT Token Launch",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/PprnGP14/poster.jpg",
@@ -701,7 +701,7 @@
           "description": "At Token 2049 in Dubai, The Open Network’s director of investments sat down with Decrypt’s Sander Lutz to discuss what he sees as the game-changing integration of USDT onto TON, and his plans for getting Telegram’s 900 million users to start using crypto in the immediate future.",
           "link": "https://decrypt.co/videos/interviews/ODQI6ACA/tons-justin-hyun-breaks-down-the-importance-of-usdt-coming-to-telegram",
           "publishedOn": "2024-04-19T10:14:33.000Z",
-          "wordCount": 7187,
+          "wordCount": 6923,
           "title": "TON’s Justin Hyun Breaks Down The Importance of USDT Coming to Telegram",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/ODQI6ACA/poster.jpg",
@@ -716,7 +716,7 @@
           "description": "Ansem, the crypto trader who's amassed a sizable following on the back of meme coin Dogwifhat (WIF) and other calls, chats with Decrypt reporter Sander Lutz at Token 2049 Dubai about his meme coin thesis, why he's bullish on Bitcoin Runes, and what he sees ahead for the crypto markets.",
           "link": "https://decrypt.co/videos/live-events/u9DHFoK0/crypto-influencer-ansem-explains-his-meme-coin-thesis-and-why-hes-bullish-on-bitcoin-runes",
           "publishedOn": "2024-04-18T21:56:13.000Z",
-          "wordCount": 6958,
+          "wordCount": 7078,
           "title": "Crypto Influencer Ansem Explains His Meme Coin Thesis and Why He’s Bullish on Bitcoin Runes",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/u9DHFoK0/poster.jpg",
