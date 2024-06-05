@@ -6,12 +6,42 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=233925",
+          "author": "Nathan Reiff",
+          "description": "Promising simple setup and gasless transactions, the self-custody wallets is designed to work across networks and apps.",
+          "link": "https://decrypt.co/233925/coinbase-debuts-smart-wallet-gunning-to-bring-1-billion-users-to-crypto",
+          "publishedOn": "2024-06-05T14:01:27.000Z",
+          "wordCount": 10475,
+          "title": "Coinbase Debuts Smart Wallet, Gunning to Bring 1 Billion Users to Crypto",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/02/Coinbase-shutterstock_2193646633-16x9-1-gID_7.jpg@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/02/Coinbase-shutterstock_2193646633-16x9-1-gID_7.jpg@png"
+        },
+        {
+          "id": "https://decrypt.co/?p=233966",
+          "author": "Andrew Hayward",
+          "description": "MetaMask Portfolio now includes a native blockchain games directory powered by HyperPlay, letting you find and play games from the interface.",
+          "link": "https://decrypt.co/233966/ethereum-wallet-metamask-launch-crypto-games",
+          "publishedOn": "2024-06-05T14:01:05.000Z",
+          "wordCount": 9800,
+          "title": "Ethereum Wallet MetaMask Now Lets You Launch Crypto Games—Here’s How",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/03/gaming-shutterstock-gID_7.png@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/03/gaming-shutterstock-gID_7.png@png"
+        },
+        {
           "id": "https://decrypt.co/?p=233928",
           "author": "Stacy Elliott",
           "description": "Donald Trump's crypto wallet has swelled to a $30 million after the Trog (Trump Frog) team airdropped him half the meme coin's supply.",
           "link": "https://decrypt.co/233928/donald-trumps-crypto-stash-reaches-30-million-because-people-keep-sending-him-meme-coins",
           "publishedOn": "2024-06-05T12:14:31.000Z",
-          "wordCount": 10551,
+          "wordCount": 10553,
           "title": "Donald Trump's Crypto Stash Reaches $30 Million Because People Keep Sending Him Meme Coins",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/06/trump-frog-trog-make-american-great-again-maga-donald-trump-gID_7.jpeg@png",
@@ -26,7 +56,7 @@
           "description": "The Xai Foundation’s team-up with Outlier Ventures is designed to help game creators make the leap into the blockchain world.",
           "link": "https://decrypt.co/233920/ethereum-gaming-network-xai-bootcamp-web2-devs-crypto",
           "publishedOn": "2024-06-05T12:01:27.000Z",
-          "wordCount": 10243,
+          "wordCount": 10245,
           "title": "Ethereum Gaming Network Xai Launches Bootcamp to Bring Web2 Devs Into Crypto",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/06/lost-glitches-gID_7.jpeg@png",
@@ -41,7 +71,7 @@
           "description": "Publicly released for alpha testing on May 28, Nibiru EVM is slated for mainnet launch in the second half of 2024.",
           "link": "https://decrypt.co/232851/nibiru-to-overcome-ethereums-limitations-with-high-speed-parallel-evm",
           "publishedOn": "2024-06-05T12:01:06.000Z",
-          "wordCount": 9783,
+          "wordCount": 9785,
           "title": "Nibiru to ‘Overcome Ethereum’s Limitations’ With High-Speed Parallel EVM",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/05/image1-2-gID_7.png@png",
@@ -56,7 +86,7 @@
           "description": "House members urged \"immediate action\" in the case of Binance exec Tigran Gambaryan, arguing that his \"health and well-being are in danger.\"",
           "link": "https://decrypt.co/233927/us-lawmakers-biden-binance-exec-nigeria",
           "publishedOn": "2024-06-05T11:28:58.000Z",
-          "wordCount": 10673,
+          "wordCount": 10675,
           "title": "U.S. Lawmakers Urge Biden to Rescue 'Hostage' Binance Exec From Detention in Nigeria",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/03/tigran-gambaryan-binance-gID_7.jpg@png",
@@ -71,7 +101,7 @@
           "description": "Yesterday was the highest daily inflow for spot Bitcoin ETFs since March 12 this year.",
           "link": "https://decrypt.co/233929/bitcoin-stabilizes-as-etf-inflows-exceed-886-million-for-second-highest-day-ever",
           "publishedOn": "2024-06-05T10:44:09.000Z",
-          "wordCount": 10216,
+          "wordCount": 10218,
           "title": "Bitcoin Price Stabilizes as ETF Inflows Exceed $886 Million for Second-Highest Day Ever",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/04/bitcoin-two-tone-colorful-background-scaled-gID_7.jpg@png",
@@ -86,7 +116,7 @@
           "description": "Raspberry Pi adds AI to its newest hack-friendly motherboard utilizing Hailo's AI processor.",
           "link": "https://decrypt.co/233896/raspberry-pi-ai-add-on",
           "publishedOn": "2024-06-05T01:32:20.000Z",
-          "wordCount": 10520,
+          "wordCount": 10522,
           "title": "DIY Chatbot: Raspberry Pi Serves Up $70 AI Module",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/06/Raspberry-Pi-AI-gID_7.jpg@png",
@@ -101,7 +131,7 @@
           "description": "Regulatory certainty could bring a crowd of financial advisors worth $20 trillion into the crypto industry.",
           "link": "https://decrypt.co/233888/crypto-market-is-currently-undervaluing-us-policy-shifts-bitwise-exec",
           "publishedOn": "2024-06-04T22:20:49.000Z",
-          "wordCount": 9708,
+          "wordCount": 9710,
           "title": "Crypto Market Is Currently ‘Undervaluing’ US Policy Shifts: Bitwise Exec",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2019/08/blockchain-lobbying-Congress-gID_7.jpg@png",
@@ -131,7 +161,7 @@
           "description": "Coinbase’s Base racked up more than $6 million in on-chain profits in May in the Ethereum layer-2 ecosystem, with Blast well behind in second.",
           "link": "https://decrypt.co/233887/ethereum-layer-2-networks-raking-millions-base-leading",
           "publishedOn": "2024-06-04T22:03:02.000Z",
-          "wordCount": 11314,
+          "wordCount": 11316,
           "title": "Ethereum Layer-2 Networks Are Raking in Millions—With Base Leading the Way",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/04/ethereum-money-trading-gID_7.jpeg@png",
@@ -146,7 +176,7 @@
           "description": "The Miss AI Pageant claims to be the world’s first global beauty contest for AI models, and the panel of judges is not all human.",
           "link": "https://decrypt.co/233824/miss-ai-beauty-pageant-influencer-human-judges",
           "publishedOn": "2024-06-04T21:45:46.000Z",
-          "wordCount": 12937,
+          "wordCount": 12939,
           "title": "AI Beauty Pageant Entrants Unveiled—With AI Influencer Judges",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/06/download_16x9-gID_7.png@png",
@@ -161,7 +191,7 @@
           "description": "The meme stock influencer reportedly faces inquiries from the Securities and Exchange Commission and Massachusetts’ securities regulator.",
           "link": "https://decrypt.co/233882/roaring-kitty-sec-regulators-gamestop",
           "publishedOn": "2024-06-04T21:29:23.000Z",
-          "wordCount": 10637,
+          "wordCount": 10639,
           "title": "Roaring Kitty In Hot Water With Regulators Amid GameStop Revival: Reports",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/05/roaring-kitty-1-gID_7.png@png",
@@ -176,7 +206,7 @@
           "description": "Researchers in the UK have developed a toe-controlled robotic appendage that was remarkably easy to use.",
           "link": "https://decrypt.co/233808/third-thumb-hand-prosthetics-robotics-design",
           "publishedOn": "2024-06-04T21:01:05.000Z",
-          "wordCount": 12096,
+          "wordCount": 12098,
           "title": "Robotic Third Thumb Users Formed ‘Strong Bonds’ With Their Extra Digit",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/06/Decrypt-Wallpaper-Format-1600-x-900-px-3-gID_7.png@png",
@@ -191,7 +221,7 @@
           "description": "A $4 billion haul would be proportional to Ethereum’s institutional dominance next to Bitcoin, and the success of Bitcoin spot ETFs.",
           "link": "https://decrypt.co/233874/ethereum-etf-5-billion-first-five-months",
           "publishedOn": "2024-06-04T20:45:18.000Z",
-          "wordCount": 9920,
+          "wordCount": 9922,
           "title": "Ethereum ETFs Could Draw $4 Billion In First Five Months: K33 Research",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/03/Webp.net-resizeimage31-gID_7.jpg@png",
@@ -206,7 +236,7 @@
           "description": "Did you buy or hold one of Notcoin’s earliest pre-market vouchers? If so, the game is handing out 40 million NOT as a reward.",
           "link": "https://decrypt.co/233821/notcoin-giving-1-million-telegram-game-pre-market-traders",
           "publishedOn": "2024-06-04T20:12:25.000Z",
-          "wordCount": 10981,
+          "wordCount": 10983,
           "title": "‘Notcoin’ Is Giving $1 Million to Telegram Game’s Pre-Market Traders",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/03/toncoin-premarket-gID_7.jpeg@png",
@@ -221,7 +251,7 @@
           "description": "Meme stock influencer Roaring Kitty said Monday that he's still holding his shares. But as GameStop's price cools, is he still hanging on?",
           "link": "https://decrypt.co/233804/gamestop-sinks-wild-swing-roaring-kitty-cash-in",
           "publishedOn": "2024-06-04T19:36:01.000Z",
-          "wordCount": 10779,
+          "wordCount": 10781,
           "title": "GameStop Sinks After Wild Swing—Will Roaring Kitty Cash In?",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/09/gamestop-corner-store-gID_7.jpeg@png",
@@ -236,7 +266,7 @@
           "description": "Auction house Sotheby's is set to sell a gold-furred Bored Ape this month, accompanied by other rare NFTs created by Yuga Labs.",
           "link": "https://decrypt.co/233775/sothebys-gold-fur-bored-ape-nft-auction",
           "publishedOn": "2024-06-04T18:29:44.000Z",
-          "wordCount": 11407,
+          "wordCount": 11409,
           "title": "Sotheby's 'Gold Fur' Bored Ape NFT Auction Will Retest Art World Demand",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/06/bored-ape-8552-gID_7.png@png",
@@ -251,7 +281,7 @@
           "description": "Runes token DOG and BRC-20 token PUPS have more than doubled in price this week as Bitcoin continues climbing.",
           "link": "https://decrypt.co/233788/bitcoin-price-hits-71000-meme-coins-ordi-dog-pups-surge",
           "publishedOn": "2024-06-04T17:13:12.000Z",
-          "wordCount": 11013,
+          "wordCount": 11015,
           "title": "Bitcoin Price Hits $71,000 as Meme Coins ORDI, DOG, and PUPS Surge",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/12/bitcoin-btc-coin-glowing-orange-gID_7.jpg@png",
@@ -266,7 +296,7 @@
           "description": "Popular AI chatbot ChatGPT is experiencing an outage, leaving users searching for alternatives. Here are some options to explore.",
           "link": "https://decrypt.co/233778/chatgpt-down-after-openai-expands-gpt-4o-access",
           "publishedOn": "2024-06-04T16:22:04.000Z",
-          "wordCount": 10355,
+          "wordCount": 10357,
           "title": "ChatGPT Down After OpenAI Expands GPT-4o Access to Free Users",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/11/open-ai-outage-gID_7.jpg@png",
@@ -281,7 +311,7 @@
           "description": "If approved by the judge, FTX would pay the IRS $200 million now and $685 million as a junior subordinated claim later.",
           "link": "https://decrypt.co/233722/ftx-might-settle-its-24-billion-irs-tax-bill-for-200-million",
           "publishedOn": "2024-06-04T15:50:49.000Z",
-          "wordCount": 9859,
+          "wordCount": 9861,
           "title": "FTX Might Settle Its $24 Billion IRS Tax Bill for $200 Million",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/06/ftx-broken-sphere-gID_7.jpg@png",
@@ -296,7 +326,7 @@
           "description": "Miami, Florida, 4th June 2024, GamingWire",
           "link": "https://decrypt.co/233750/racing-toward-mass-adoption-transak-enables-first-ever-zk-based-virtual-racing-game-zkrace",
           "publishedOn": "2024-06-04T14:55:28.000Z",
-          "wordCount": 10698,
+          "wordCount": 10700,
           "title": "Racing Toward Mass Adoption: Transak Enables First-Ever ZK-Based Virtual Racing Game, zkRace",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/06/zkRace_1717512445A0YAEz6ASq-gID_7.jpg@png",
@@ -311,7 +341,7 @@
           "description": "With a potential Bitcoin soft fork, writes Eli Ben-Sasson, the world's top crypto can fully realize Satoshi Nakamoto's vision.",
           "link": "https://decrypt.co/233648/starkware-bitcoin-scaling-plan-satoshi-payments",
           "publishedOn": "2024-06-04T13:31:05.000Z",
-          "wordCount": 11134,
+          "wordCount": 11136,
           "title": "StarkWare Is Raising $1 Million to Scale Bitcoin With Zero-Knowledge Proofs",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/06/Eli-Ben-Sasson-StarkWare-CEO-2-gID_7.jpg@png",
@@ -326,7 +356,7 @@
           "description": "The executive is accused of using the news outlet's “Make Money Online” team to launder the proceeds of fraud using cryptocurrency.",
           "link": "https://decrypt.co/233703/epoch-times-cfo-charged-crypto-money-laundering",
           "publishedOn": "2024-06-04T11:22:18.000Z",
-          "wordCount": 10002,
+          "wordCount": 10004,
           "title": "Epoch Times CFO Charged in $67 Million Crypto Money Laundering Scheme",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/06/epoch-times-gID_7.jpg@png",
@@ -341,7 +371,7 @@
           "description": "SANTA CLARA, California, 4th June 2024, GamingWire",
           "link": "https://decrypt.co/233701/carv-secures-strategic-investment-from-neowizs-web3-gaming-platform-intella-x-ahead-of-public-node-sale",
           "publishedOn": "2024-06-04T10:19:39.000Z",
-          "wordCount": 10489,
+          "wordCount": 10491,
           "title": "CARV Secures Strategic Investment from NEOWIZ’s Web3 Gaming Platform Intella X Ahead of Public Node Sale",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/06/carv_x_intella_1717487074XUfh9h6N1t-gID_7.jpeg@png",
@@ -356,7 +386,7 @@
           "description": "Over the weekend, Based Brett became the first meme coin on Base to reach a $1 billion market capitalization.",
           "link": "https://decrypt.co/233673/pepe-bonk-floki-and-shiba-inu-post-losses-but-based-brett-is-rising",
           "publishedOn": "2024-06-04T09:49:40.000Z",
-          "wordCount": 10528,
+          "wordCount": 10530,
           "title": "Pepe, BONK, Floki and Shiba Inu Post Losses—But Based Brett Is Rising",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/06/floki-shibainu-pepe-dogwifhat-meme-coins-memes-gID_7.jpeg@png",
@@ -371,7 +401,7 @@
           "description": "Since the suit’s filing in 2021, Dapper Labs has taken steps to decentralize its NFT ecosystem. Now the class action lawsuit has been settled.",
           "link": "https://decrypt.co/233621/dapper-labs-reaches-4-million-settlement-nba-top-shot-nft-lawsuit",
           "publishedOn": "2024-06-03T23:39:20.000Z",
-          "wordCount": 10758,
+          "wordCount": 10760,
           "title": "Dapper Labs Reaches $4 Million Settlement in NBA Top Shot NFT Lawsuit",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/11/nba-top-shot-wemby-gID_7.png@png",
@@ -386,7 +416,7 @@
           "description": "Just days after launching MOTHER, rapper Iggy Azalea donned a custom Mad Lads PFP and continued bull-tweeting the meme coin.",
           "link": "https://decrypt.co/233633/iggy-azalea-solana-mad-lads-pfp-mother-nears-90-million",
           "publishedOn": "2024-06-03T23:10:53.000Z",
-          "wordCount": 10177,
+          "wordCount": 10179,
           "title": "Iggy Azalea Goes Full Solana With Mad Lads PFP as MOTHER Nears $90 Million Market Cap",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/06/iggy-mad-lads-gID_7.png@png",
@@ -394,36 +424,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/06/iggy-mad-lads-gID_7.png@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=233623",
-          "author": "Jose Antonio Lanz",
-          "description": "A new study by McKinsey shows Asia and China leading the charge in AI adoption—and lost jobs a fading business priority.",
-          "link": "https://decrypt.co/233623/global-ai-adoption-hits-72-generative-ai-use-doubles-in-2024-report",
-          "publishedOn": "2024-06-03T22:45:50.000Z",
-          "wordCount": 11394,
-          "title": "Global AI Adoption Hits 72%, Generative AI Use Doubles in 2024: Report",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/06/Global-AI-Adoption-AI-Art-Jose-Lanz-gID_7.jpg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/06/Global-AI-Adoption-AI-Art-Jose-Lanz-gID_7.jpg@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=211029",
-          "author": "Andrew Hayward",
-          "description": "UPDATED: Hamster Kombat is the latest Telegram sensation to tease a token, plus details on Illuvium, BloodLoop, Crypto Unicorns, and more.",
-          "link": "https://decrypt.co/211029/game-on-hottest-upcoming-gaming-token-airdrops",
-          "publishedOn": "2024-06-03T22:34:14.000Z",
-          "wordCount": 14523,
-          "title": "Game On: The Hottest Upcoming Gaming Token Airdrops",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/12/airdrop-giant-hand-gID_7.png@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/12/airdrop-giant-hand-gID_7.png@png"
         },
         {
           "id": "https://decrypt.co/videos/interviews/ABOejLBT/fomo-hour-129-roaring-returns-again",
@@ -446,7 +446,7 @@
           "description": "Crypto nears break-out then falls on Trump verdict. 13 straight days of BTC ETF inflows, BTC whale accumulation ‘echoes 2020’. Crypto apps next year will onboard millions: Burniske. Elon denies talking crypto policy with Trump. RFK has bought 21 BTC during campaign. TON market cap falls after updating supply data. a16z donates $25m to crypto PAC. Vitalik sends 30ETH to Tornado devs. DBS Bank in Singapore custodies $650m ETH. Backlash grows over zkSync using ZK ticker. Implementing FIT21 a slow process: CFTC. Pierce recommends UK & US cross-border sandbox. Vitalik writes blog on block size wars. Hong Kong government expresses support for web3. Do Kwon & Terraform reach settlement with SEC. Large unlocks for a number of alts next month.",
           "link": "https://decrypt.co/videos/interviews/cziNL3TF/fomo-hour-128-pump-dot-fun-keeps-pumping",
           "publishedOn": "2024-06-03T21:41:26.000Z",
-          "wordCount": 7569,
+          "wordCount": 7262,
           "title": "FOMO HOUR 128 - PUMP DOT FUN KEEPS PUMPING!",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/cziNL3TF/poster.jpg",
@@ -506,7 +506,7 @@
           "description": "In the first part of our series turning crypto beginners into crypto pros, Rug Radio creator Mika guides you through the process of purchasing cryptocurrency using crypto exchange Kraken.",
           "link": "https://decrypt.co/videos/explainers/Z9rxTcnJ/buying-crypto-simplified-with-mika",
           "publishedOn": "2024-05-29T16:54:35.000Z",
-          "wordCount": 6879,
+          "wordCount": 6783,
           "title": "Buying Crypto Simplified with Mika",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/Z9rxTcnJ/poster.jpg",
@@ -581,7 +581,7 @@
           "description": "ETH ETF suddenly seems likely, flurry of amendments. ETH biggest daily gain ever, gains SOL market cap. ETF approval shifted due to political pressure. ETF approval may come as soon as tomorrow. Squeeze liquidates $230M of shorts. ETH OI hits record of $14B on exchanges. BTC nears ATH amid 6th straight day of ETF inflows. SOL flips ETH in Google search trends. House Democrats will not whip against crypto bills. Anti-crypto FDIC chair Gruenberg to step-down. Grayscale CEO steps down, ETHE discount narrows. Genesis settles for $2B with creditors. Binance to focus launchpad on higher float projects. SEI v2 launch coming next week.",
           "link": "https://decrypt.co/videos/interviews/EE1S4Hf4/fomo-hour-121-ethereum-god-candles",
           "publishedOn": "2024-05-21T16:17:35.000Z",
-          "wordCount": 7472,
+          "wordCount": 7165,
           "title": "FOMO HOUR 121 - ETHEREUM GOD CANDLES!",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/EE1S4Hf4/poster.jpg",
@@ -671,7 +671,7 @@
           "description": "Crypto falls, stays in range ahead of CPI tomorrow. US ETFs see small net inflow led by Fidelity HK ETFs wipe 2 weeks of inflows in a single day. Bracebridge bought $363m of BTC ETFs. Coinbase has system wide outage. Poloniex hacker sends funds to Tornado Cash. Brazil biggest in LATAM for crypto trading. Biden removes China BTC miner near military base. CertiK patches $5m flaw in Aptos bridge. LayerZero sees 100k bot accounts self-report. DYDX CEO set to leave. Tate sells $500k BTC to buy GME.",
           "link": "https://decrypt.co/videos/interviews/cXfQ3AJh/fomo-hour-116-roaring-kitty-returns",
           "publishedOn": "2024-05-20T11:02:13.000Z",
-          "wordCount": 7392,
+          "wordCount": 7085,
           "title": "FOMO HOUR 116 - ROARING KITTY RETURNS!",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/cXfQ3AJh/poster.jpg",
