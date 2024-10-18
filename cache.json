@@ -6,12 +6,42 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=287207",
+          "author": "Ryan Gladwin",
+          "description": "Imprisoned Binance executive Tigran Gambaryan failed to attend a Nigerian court hearing due to his poor health, forcing a delay.",
+          "link": "https://decrypt.co/287207/jailed-binance-exec-trial-postponed-illness",
+          "publishedOn": "2024-10-18T17:42:23.000Z",
+          "wordCount": 10684,
+          "title": "'Let Him Come Home': Jailed Binance Exec’s Trial Postponed Due to Illness",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/03/tigran-gambaryan-binance-gID_7.jpg@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/03/tigran-gambaryan-binance-gID_7.jpg@png"
+        },
+        {
+          "id": "https://decrypt.co/?p=287203",
+          "author": "Sander Lutz",
+          "description": "Chirag Tomar, an Indian national, drained the accounts of unsuspecting Coinbase customers in a scam built around impostor websites.",
+          "link": "https://decrypt.co/287203/scammer-prison-fake-coinbase-websites",
+          "publishedOn": "2024-10-18T17:29:54.000Z",
+          "wordCount": 9519,
+          "title": "Scammer Gets 5 Years in Prison After Swiping $20 Million via Fake Coinbase Websites",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/10/bitcoin-handcuffs-shutterstock-gID_7.png@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/10/bitcoin-handcuffs-shutterstock-gID_7.png@png"
+        },
+        {
           "id": "https://decrypt.co/?p=205392",
           "author": "Andrew Hayward",
           "description": "UPDATE: Bitcoin is making a move for $69,000 as \"Uptober\" takes root, and you can earn more BTC by playing these games.",
           "link": "https://decrypt.co/205392/bitcoin-booming-you-earn-more-playing-free-games",
           "publishedOn": "2024-10-18T16:52:49.000Z",
-          "wordCount": 14314,
+          "wordCount": 14402,
           "title": "Bitcoin Is Booming—You Can Earn More by Playing These Free Games",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/11/bitcoin-gaming-shutterstock-gID_7.png@png",
@@ -26,7 +56,7 @@
           "description": "The DeFi project claimed that hackers compromised the hardware wallets of its long-term developers and injected malware.",
           "link": "https://decrypt.co/287162/radiant-capitals-50m-breach-among-most-sophisticated-hacks-in-defi-history",
           "publishedOn": "2024-10-18T16:52:15.000Z",
-          "wordCount": 9870,
+          "wordCount": 9958,
           "title": "Radiant Capital’s $50M Breach Among ‘Most Sophisticated Hacks’ in DeFi History",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/02/hackers-gID_7.jpg@png",
@@ -41,7 +71,7 @@
           "description": "Created by Freedom Factory, dGEN1 integrates Ethereum at the operating system level to streamline dapp interactions.",
           "link": "https://decrypt.co/287120/dgen1-mobile-device-launches-for-seamless-onchain-ethereum-transactions",
           "publishedOn": "2024-10-18T15:53:19.000Z",
-          "wordCount": 9479,
+          "wordCount": 9567,
           "title": "dGEN1 Mobile Device Launches for ‘Seamless’ Onchain Ethereum Transactions",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/10/freedom-factory-dgen1-gID_7.jpg@png",
@@ -56,7 +86,7 @@
           "description": "MicroStrategy founder Michael Saylor dismissed criticism over the firm's $16 billion Bitcoin haul, saying it's driving BTC scarcity.",
           "link": "https://decrypt.co/287163/microstrategy-bitcoin-scheme-isnt-infinite-money-glitch",
           "publishedOn": "2024-10-18T15:18:39.000Z",
-          "wordCount": 9657,
+          "wordCount": 9745,
           "title": "MicroStrategy's Bitcoin Scheme Isn't an 'Infinite Money Glitch', Says Michael Saylor",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/04/michael-saylor-bitcoin-lightning-gID_7.jpeg@png",
@@ -71,7 +101,7 @@
           "description": "A hacker published a series of posts Friday from EigenLayer's Twitter account, urging users to click on an apparent phishing link.",
           "link": "https://decrypt.co/287159/eigenlayer-twitter-hack-airdrop-scam",
           "publishedOn": "2024-10-18T14:37:08.000Z",
-          "wordCount": 9485,
+          "wordCount": 9573,
           "title": "EigenLayer Twitter Account Hacked to Share Ethereum Airdrop Scam",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/10/Ethereum-Hacker-shutterstock_1703704531-16x9-1-gID_7.jpg@png",
@@ -86,7 +116,7 @@
           "description": "AI models helped the department prevent $2.5 billion in fraud, while its check fraud detection systems facilitated the recovery of $1 billion.",
           "link": "https://decrypt.co/287141/machine-learning-ai-us-treasury",
           "publishedOn": "2024-10-18T12:54:02.000Z",
-          "wordCount": 10152,
+          "wordCount": 10240,
           "title": "Machine Learning AI Helped Detect $4 Billion Worth of Fraud in 2024, Says US Treasury",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/09/treasury-department-gID_7.jpeg@png",
@@ -101,7 +131,7 @@
           "description": "Anime soccer game Captain Tsubasa: Rivals gives out 5 million free daily balls ahead of the TON token airdrop. Here’s the combo for Friday, October 18.",
           "link": "https://decrypt.co/resources/captain-tsubasa-rivals-telegram-game-daily-combo",
           "publishedOn": "2024-10-18T12:50:32.000Z",
-          "wordCount": 10155,
+          "wordCount": 10243,
           "title": "Here Is Today’s 'Captain Tsubasa: Rivals' Telegram Game Daily Combo",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/03/sorare-learn-gID_7-pID_3.png@png",
@@ -116,7 +146,7 @@
           "description": "After the SegWit and Taproot upgrades, Craig Wright claims Bitcoin “fundamentally deviated” from Satoshi Nakamoto’s vision and misled investors.",
           "link": "https://decrypt.co/287138/craig-wright-bitcoin-new-lawsuit",
           "publishedOn": "2024-10-18T12:29:58.000Z",
-          "wordCount": 10915,
+          "wordCount": 11003,
           "title": "Craig Wright Says Bitcoin Devs 'Misled the Public' in New $1 Billion Lawsuit",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2018/11/craigwright-1-gID_7.png@png",
@@ -131,7 +161,7 @@
           "description": "Bitcoin has climbed 11% in the past week, but there could be some macroeconomic headwinds on the horizon, say analysts.",
           "link": "https://decrypt.co/287119/bitcoin-could-hit-turbulence-from-us-bond-yields-fed-policy-analyst",
           "publishedOn": "2024-10-18T11:49:19.000Z",
-          "wordCount": 10046,
+          "wordCount": 10134,
           "title": "Bitcoin Could Hit Turbulence From US Bond Yields, Fed Policy: Analyst",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/04/Bitcoin-Rock-Dim-Dimich-shutterstock_706080658-gID_7.jpg@png",
@@ -146,7 +176,7 @@
           "description": "Telegram game Tomarket is handing out free tomatoes and bonus items ahead of the airdrop. Here’s the combo for Friday, October 18.",
           "link": "https://decrypt.co/resources/here-is-todays-tomarket-telegram-game-daily-combo",
           "publishedOn": "2024-10-18T11:45:41.000Z",
-          "wordCount": 9295,
+          "wordCount": 9383,
           "title": "Here Is Today’s 'Tomarket' Telegram Game Daily Combo",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/07/Tap2Earn-gID_7-pID_5.png@png",
@@ -161,7 +191,7 @@
           "description": "Someone asked Musk if he would head up a new “Department of Government Efficiency.” Musk responded with a lighthearted grin, “Yeah, Doge.”",
           "link": "https://decrypt.co/287079/dogecoin-moons-again-musk-drops-token-mention-during-pennsylvania-town-hall",
           "publishedOn": "2024-10-18T05:29:13.000Z",
-          "wordCount": 10497,
+          "wordCount": 10585,
           "title": "Dogecoin Moons Again After Musk Drops Token Mention During Pennsylvania Town Hall",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/08/Shiba-Inu-shutterstock_1604677465-16x9-1-gID_7.jpg@png",
@@ -176,7 +206,7 @@
           "description": "While the SEC isn't contesting the ruling that XRP sales to retail investors aren't securities, it is instead focusing on other key aspects.",
           "link": "https://decrypt.co/287069/sec-files-last-minute-appeal-in-ripple-case-why-xrp-army-outraged",
           "publishedOn": "2024-10-18T02:15:51.000Z",
-          "wordCount": 10623,
+          "wordCount": 10711,
           "title": "SEC Files Last-Minute Appeal in Ripple Case—Why the XRP Army is Outraged",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/01/ripple-gID_7.jpg@png",
@@ -191,7 +221,7 @@
           "description": "Looking to complete Major’s daily Pavel Durov puzzle on Telegram? Here’s the solution for Thursday, October 17.",
           "link": "https://decrypt.co/resources/here-is-todays-major-telegram-puzzle-durov-combo",
           "publishedOn": "2024-10-18T00:43:46.000Z",
-          "wordCount": 9106,
+          "wordCount": 9194,
           "title": "Here Is Today’s 'Major' Telegram Game Puzzle Durov Combo",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/07/Tap2Earn-gID_5-pID_1.png@png",
@@ -206,7 +236,7 @@
           "description": "World's redesigned Orb has 30% fewer parts and triple the production capacity of its predecessor, powered by NVIDIA’s Jetson.",
           "link": "https://decrypt.co/287051/worldcoin-rebrands-as-world-launches-new-retina-scanning-orb",
           "publishedOn": "2024-10-17T23:30:04.000Z",
-          "wordCount": 10984,
+          "wordCount": 11072,
           "title": "Worldcoin Rebrands as World, Launches New Eyeball Scanning Orb",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/05/Worldcoin-Orb-gID_7.jpg@png",
@@ -221,7 +251,7 @@
           "description": "Researchers showed vulnerabilities in AI-powered robots being exploited to perform dangerous tasks, including detonating bombs.",
           "link": "https://decrypt.co/286994/how-researchers-hacked-ai-robots-into-breaking-traffic-laws-and-worse",
           "publishedOn": "2024-10-17T23:14:07.000Z",
-          "wordCount": 11300,
+          "wordCount": 11388,
           "title": "How Researchers Hacked AI Robots Into Breaking Traffic Laws—And Worse",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/10/dba2c8_3-gID_7.png@png",
@@ -236,7 +266,7 @@
           "description": "World, previously called Worldcoin, has debuted an Ethereum layer-2 chain with an aim to onboard real humans—not bots.",
           "link": "https://decrypt.co/286983/world-chain-launches-mainnet-world-coin",
           "publishedOn": "2024-10-17T22:34:13.000Z",
-          "wordCount": 10223,
+          "wordCount": 10311,
           "title": "Why Worldcoin Built an Ethereum Network Specifically for Humans",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/10/world-chain-gID_7.png@png",
@@ -251,7 +281,7 @@
           "description": "Ethereum's \"changing fundamentals\" and growing embrace of layer-2 networks could massively impact ETH's future price, a VanEck analyst said Thursday.",
           "link": "https://decrypt.co/286970/ethereum-price-target-plunge-vaneck-analyst",
           "publishedOn": "2024-10-17T22:16:02.000Z",
-          "wordCount": 11893,
+          "wordCount": 11981,
           "title": "Ethereum Bulls Have Reason to Worry If L2s Remain Dominant, Says VanEck Analyst",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/07/ethereum-coins-shutterstock-gID_7.png@png",
@@ -266,7 +296,7 @@
           "description": "Tap-to-earn game X Empire is gearing up for next week’s X token launch and airdrop on The Open Network (TON).",
           "link": "https://decrypt.co/286977/x-empire-ends-telegram-gameplay-airdrop",
           "publishedOn": "2024-10-17T21:12:22.000Z",
-          "wordCount": 10069,
+          "wordCount": 10157,
           "title": "Elon Musk-Themed ‘X Empire’ Ends Telegram Gameplay Ahead of Airdrop",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/09/x-empire-artwork-gID_7.png@png",
@@ -281,7 +311,7 @@
           "description": "PayPal's Venmo can now be used by U.S. customers to top up and make crypto purchases on MoonPay, according to a Thursday announcement.",
           "link": "https://decrypt.co/286969/paypal-venmo-buy-crypto-moonpay",
           "publishedOn": "2024-10-17T20:52:58.000Z",
-          "wordCount": 9419,
+          "wordCount": 9507,
           "title": "PayPal's Venmo Can Now Be Used to Buy Bitcoin and Ethereum via MoonPay",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/08/venmo-crypto-gID_7.jpg@png",
@@ -296,7 +326,7 @@
           "description": "Approved in January, Bitcoin exchange-traded funds have experienced trading activity like no other ETF product.",
           "link": "https://decrypt.co/286948/bitcoin-etf-20-billion-milestone-inflows-blackrock",
           "publishedOn": "2024-10-17T19:06:58.000Z",
-          "wordCount": 10505,
+          "wordCount": 10593,
           "title": "Bitcoin ETFs Race Past $20 Billion Milestone in Just 10 Months",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/09/blackrock-bitcoin-etf-trading-gID_7.jpg@png",
@@ -311,7 +341,7 @@
           "description": "The partnership will see Galaxis showcased throughout the reality show, as well as “actively supporting” the Web3 projects featured.",
           "link": "https://decrypt.co/285090/galaxis-teams-up-with-tv-show-killer-whales-to-empower-creators",
           "publishedOn": "2024-10-17T19:05:09.000Z",
-          "wordCount": 10646,
+          "wordCount": 10734,
           "title": "Galaxis Teams Up With TV Show ‘Killer Whales’ to ‘Empower Creators’",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/10/KillerWhales_Galaxis_v02-gID_7.jpg@png",
@@ -326,7 +356,7 @@
           "description": "Crypto exchange Kraken has unveiled a new wrapped Bitcoin product dubbed kBTC, joining a growing battle with Coinbase, 21.co, and BitGo.",
           "link": "https://decrypt.co/286934/wrapped-bitcoin-wars-kraken-kbtc",
           "publishedOn": "2024-10-17T17:58:13.000Z",
-          "wordCount": 10963,
+          "wordCount": 11051,
           "title": "Wrapped Bitcoin Wars Ramp Up as Kraken Reveals kBTC",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/12/kraken-lightning-network-gID_7.jpg@png",
@@ -341,7 +371,7 @@
           "description": "Trump is currently leading the Polymarket betting pool on the winner of the U.S. election, which has topped $2 billion in total volume.",
           "link": "https://decrypt.co/286923/us-presidential-election-2-billion-volume-polymarket",
           "publishedOn": "2024-10-17T17:46:04.000Z",
-          "wordCount": 10001,
+          "wordCount": 10089,
           "title": "US Presidential Election Tops $2 Billion in Betting Volume on Polymarket",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/10/kamala-harris-donald-trump-us-election-2024-gID_7.jpg@png",
@@ -371,7 +401,7 @@
           "description": "The self-custodial crypto debit card is a step towards ‘banking 3.0,’ combining legacy payments infrastructure with Web3 innovation.",
           "link": "https://decrypt.co/283801/why-gnosis-pay-isnt-just-another-crypto-card",
           "publishedOn": "2024-10-17T17:01:02.000Z",
-          "wordCount": 11752,
+          "wordCount": 11840,
           "title": "Why Gnosis Pay Isn’t Just Another Crypto Card",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/09/gnosis-pay-card-gID_7.jpg@png",
@@ -386,7 +416,7 @@
           "description": "It's been a good week for Bitcoin—but meme coins like TURBO and BRETT are really riding the \"Uptober\" rocket ship to the moon.",
           "link": "https://decrypt.co/286859/meme-coins-blast-past-bitcoin-gains",
           "publishedOn": "2024-10-17T16:52:49.000Z",
-          "wordCount": 11287,
+          "wordCount": 11375,
           "title": "Meme Coins Blast Past Bitcoin Gains as Crypto Market Gets Frothy Again",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/04/doge-moon-gID_7.jpg@png",
@@ -401,7 +431,7 @@
           "description": "Remember when the SEC's Twitter account was hacked to prematurely share that Bitcoin ETFs were approved? The FBI has arrested a suspect.",
           "link": "https://decrypt.co/286910/fbi-arrest-sec-twitter-hack-bitcoin-etfs",
           "publishedOn": "2024-10-17T15:53:56.000Z",
-          "wordCount": 10665,
+          "wordCount": 10753,
           "title": "FBI Arrests Suspect in SEC Twitter Hack That Pumped Bitcoin",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/10/bitcoin-handcuffs-gID_7.jpg@png",
@@ -416,7 +446,7 @@
           "description": "Miami, Florida, 17th October 2024, GamingWire",
           "link": "https://decrypt.co/286885/flokis-valhalla-welcomes-hafthor-bjornsson-the-mountain-from-game-of-thrones-as-official-ambassador",
           "publishedOn": "2024-10-17T14:27:41.000Z",
-          "wordCount": 9456,
+          "wordCount": 9544,
           "title": "FLOKI’s Valhalla Welcomes Hafthor Björnsson, \"The Mountain\" from Game of Thrones, as Official Ambassador",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/10/IMG_0586_172911270169IqdAI1lY-gID_7.jpeg@png",
@@ -431,7 +461,7 @@
           "description": "Looking for the X Empire daily combo and rebus solution for Thursday, October 17? Here are the latest boosts for the Telegram game.",
           "link": "https://decrypt.co/resources/todays-musk-empire-stock-exchange-daily-combo",
           "publishedOn": "2024-10-17T14:25:27.000Z",
-          "wordCount": 10279,
+          "wordCount": 10367,
           "title": "Here Are Today’s ‘X Empire’ Elon Musk Game Daily Combo and Rebus Solution",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/07/Tap2Earn-gID_7-pID_5.png@png",
@@ -446,7 +476,7 @@
           "description": "Moonray will expand from PC to PlayStation 5 in 2025, but the PS5 version of the Ethereum-based game won't launch with crypto features.",
           "link": "https://decrypt.co/286878/ethereum-game-moonray-ps5-console",
           "publishedOn": "2024-10-17T14:01:03.000Z",
-          "wordCount": 11007,
+          "wordCount": 11095,
           "title": "Ethereum Game 'Moonray' Coming to PS5—Without Crypto Features",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/07/Moonray_Banner2-gID_7.jpg@png",
@@ -461,7 +491,7 @@
           "description": "Low Bitcoin exchange reserves is good, right? \"The common interpretation of this trend needs a more nuanced approach,\" a Hyblock exec said.",
           "link": "https://decrypt.co/286858/bitcoin-exchange-reserves-2-year-low",
           "publishedOn": "2024-10-17T13:05:50.000Z",
-          "wordCount": 10557,
+          "wordCount": 10645,
           "title": "Bitcoin Exchange Reserves Reach a 2-Year Low, But Analysts Disagree on Why",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/03/bitcoin-btc-golden-sitting-on-cash-usd-scaled-gID_7.jpg@png",
@@ -476,7 +506,7 @@
           "description": "Here's a first look at Season 2 of Telegram tap-to-earn game Hamster Kombat.",
           "link": "https://decrypt.co/videos/explainers/qcvjjJxN/hamster-kombat-season-2-teaser",
           "publishedOn": "2024-10-17T12:03:18.000Z",
-          "wordCount": 6481,
+          "wordCount": 6580,
           "title": "Hamster Kombat Season 2 Teaser",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/qcvjjJxN/poster.jpg",
@@ -491,7 +521,7 @@
           "description": "\"Transparency starts with showing you everything, even if that means sharing what might seem like overwhelming data,” WazirX noted.",
           "link": "https://decrypt.co/286841/wazirx-240000-wallet-addresses-debt-restructuring",
           "publishedOn": "2024-10-17T12:02:53.000Z",
-          "wordCount": 10075,
+          "wordCount": 10163,
           "title": "WazirX to List Its 240,000 Wallets and Balances as Part of Debt Restructuring",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/08/wazirx-crypto-exchange-india-gID_7.jpg@png",
@@ -499,51 +529,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/08/wazirx-crypto-exchange-india-gID_7.jpg@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=286679",
-          "author": "Ryan Gladwin",
-          "description": "A banged up Honda Civic called The Meme Machine traveled across Europe this summer, becoming emblematic of crypto in 2024.",
-          "link": "https://decrypt.co/286679/meme-machine-honda-crypto-europe",
-          "publishedOn": "2024-10-17T12:01:02.000Z",
-          "wordCount": 11457,
-          "title": "This Beat Up Old Honda Just Hit Every Crypto Hot Spot in Europe—Here’s Why",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/10/MemeMachine_Stadium-gID_7.jpg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/10/MemeMachine_Stadium-gID_7.jpg@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=286808",
-          "author": "Andrew Hayward",
-          "description": "In a very meta shift, the next season of Telegram game Hamster Kombat will be all about developing and publishing games.",
-          "link": "https://decrypt.co/286808/hamster-kombat-season-2-developing-games",
-          "publishedOn": "2024-10-17T12:00:07.000Z",
-          "wordCount": 9199,
-          "title": "‘Hamster Kombat’ Telegram Game Overhaul Revealed for Season 2",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/10/hamster-gID_7.png@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/10/hamster-gID_7.png@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=286838",
-          "author": "Murtuza Merchant",
-          "description": "“The price is climbing toward the midpoint of this range, but it has not yet established a decisive breakout,\" one analyst told Decrypt.",
-          "link": "https://decrypt.co/286838/bitcoin-market-dominance-3-year-high",
-          "publishedOn": "2024-10-17T11:38:17.000Z",
-          "wordCount": 10054,
-          "title": "Bitcoin Market Dominance Reaches 3-Year High—What's That Mean?",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/04/a_row_of_gold_photorealistic_bitcoins_on_the_ri-gID_7.jpg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/04/a_row_of_gold_photorealistic_bitcoins_on_the_ri-gID_7.jpg@png"
         },
         {
           "id": "https://decrypt.co/videos/interviews/c88qN8eB/btc-hits-68k-trump-odds-continue-to-rise-goat-nears-300m",
@@ -591,21 +576,6 @@
           "imageUrl": "https://cdn.jwplayer.com/v2/media/0V0rYhMX/poster.jpg"
         },
         {
-          "id": "https://decrypt.co/videos/interviews/pLw8b2d2/todd-revealed-as-satoshi-google-may-be-broken-up-murads-wallets-doxxed",
-          "author": null,
-          "description": "BTC will be range bound until election: Bernstein. TAO & memecoins dominate mindshare. Peter Todd ‘revealed’ as Satoshi by HBO. US government able to sell $4.4bn Silk Road BTC. Ireland unable to access $378m seized BTC. SOL could do 5x if Trump wins: StanChart. Coinbase integrates Taproot addresses for BTC. Canary Capital applies for XRP ETF. S. Korea to regulate stablecoin transfers. CryptoCom files countersuit against SEC. Babylon fills cap with 22k BTC. Scroll airdrop coming Oct 22nd. USDC goes live on SUI.",
-          "link": "https://decrypt.co/videos/interviews/pLw8b2d2/todd-revealed-as-satoshi-google-may-be-broken-up-murads-wallets-doxxed",
-          "publishedOn": "2024-10-12T07:29:02.000Z",
-          "wordCount": 6869,
-          "title": "Todd ‘revealed’ as Satoshi, Google may be Broken-up, Murad’s Wallets Doxxed",
-          "enclosure": {
-            "url": "https://cdn.jwplayer.com/v2/media/pLw8b2d2/poster.jpg",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.jwplayer.com/v2/media/pLw8b2d2/poster.jpg"
-        },
-        {
           "id": "https://decrypt.co/videos/interviews/aYgFvZqj/crypto-falls-ahead-of-cpi-stripe-reinstates-crypto-fed-charges-market-makers",
           "author": null,
           "description": "Majors drop despite stocks hitting ATHs. Stripe reinstates crypto payments. Crypto settlements near $20bn in 2024. S. Korea to review ban on BTC ETFs. US charges market makers for market manipulation. FBI created their own coin to ensnare targets. Vitalik ‘outside pick’ for Nobel Prize. Trump family token to built on Aave stack. $16m OP tokens allocated to superchain users. Wisdomtree debuts debit card for on-chain fund. 47% of hedge funds have crypto exposure. Argentina overtakes Brazil for crypto inflows. Tucker interviews Ryan Salame over FTX.",
@@ -619,6 +589,21 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.jwplayer.com/v2/media/aYgFvZqj/poster.jpg"
+        },
+        {
+          "id": "https://decrypt.co/videos/interviews/pLw8b2d2/todd-revealed-as-satoshi-google-may-be-broken-up-murads-wallets-doxxed",
+          "author": null,
+          "description": "BTC will be range bound until election: Bernstein. TAO & memecoins dominate mindshare. Peter Todd ‘revealed’ as Satoshi by HBO. US government able to sell $4.4bn Silk Road BTC. Ireland unable to access $378m seized BTC. SOL could do 5x if Trump wins: StanChart. Coinbase integrates Taproot addresses for BTC. Canary Capital applies for XRP ETF. S. Korea to regulate stablecoin transfers. CryptoCom files countersuit against SEC. Babylon fills cap with 22k BTC. Scroll airdrop coming Oct 22nd. USDC goes live on SUI.",
+          "link": "https://decrypt.co/videos/interviews/pLw8b2d2/todd-revealed-as-satoshi-google-may-be-broken-up-murads-wallets-doxxed",
+          "publishedOn": "2024-10-12T07:29:02.000Z",
+          "wordCount": 7177,
+          "title": "Todd ‘revealed’ as Satoshi, Google may be Broken-up, Murad’s Wallets Doxxed",
+          "enclosure": {
+            "url": "https://cdn.jwplayer.com/v2/media/pLw8b2d2/poster.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.jwplayer.com/v2/media/pLw8b2d2/poster.jpg"
         },
         {
           "id": "https://decrypt.co/videos/interviews/cyJj6tWj/bitcoin-bounces-from-59k-tesla-unveils-robotaxis-memecoins-outperform",
@@ -701,7 +686,7 @@
           "description": "Coinbase VP of Corporate and Business Development, Shan Aggarwal, joined Decrypt's Sander Lutz and Liz Napolitano at Messari Mainnet 2024 to discuss the exchange's efforts to grow mainstream crypto adoption—and how the changing political conversation around digital assets is rapidly playing a major role in that.",
           "link": "https://decrypt.co/videos/interviews/YR2YmmwR/why-coinbase-sees-crypto-as-a-bipartisan-purple-political-issue",
           "publishedOn": "2024-10-05T22:18:29.000Z",
-          "wordCount": 6678,
+          "wordCount": 6986,
           "title": "Why Coinbase Sees Crypto as a Bipartisan, 'Purple' Political Issue",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/YR2YmmwR/poster.jpg",
