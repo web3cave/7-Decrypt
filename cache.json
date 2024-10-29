@@ -6,6 +6,21 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=288755",
+          "author": "Vismaya V",
+          "description": "Musk’s xAI is using Nvidia’s advanced networking technology to boost Colossus’s performance for training Grok.",
+          "link": "https://decrypt.co/288755/musks-xai-taps-nvidia-to-expand-grok-using-worlds-largest-ai-supercomputer",
+          "publishedOn": "2024-10-29T07:19:20.000Z",
+          "wordCount": 9846,
+          "title": "Musk’s xAI Taps Nvidia to Expand Grok Using ‘World’s Largest AI Supercomputer’",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/05/nvidia-crypto-mining-cards-gID_7.jpg@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/05/nvidia-crypto-mining-cards-gID_7.jpg@png"
+        },
+        {
           "id": "https://decrypt.co/?p=288744",
           "author": "Sebastian Sinclair",
           "description": "Data shows a high concentration of bets around an $80,000 Bitcoin strike price and a strong presence of short-term call sales.",
@@ -386,7 +401,7 @@
           "description": "Deep brain-machine interfaces and brain implants in the cerebral cortex will be used to cure addictions in the near future, researchers say.",
           "link": "https://decrypt.co/288161/can-brain-machine-interfaces-turn-tide-addiction",
           "publishedOn": "2024-10-27T17:04:03.000Z",
-          "wordCount": 10902,
+          "wordCount": 10938,
           "title": "Can Brain-Machine Interfaces Turn the Tide on Addiction?",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/10/no-smoking-gID_7.jpeg@png",
@@ -529,21 +544,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/08/JarettDunn_CrownCourt2-scaled-gID_4.jpg@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=288339",
-          "author": "Mathew Di Salvo",
-          "description": "Stablecoin issuer Tether has denied a report claiming that the company is being investigated by the U.S. government.",
-          "link": "https://decrypt.co/288339/tether-ceo-no-us-treasury-investigation",
-          "publishedOn": "2024-10-25T19:11:11.000Z",
-          "wordCount": 10330,
-          "title": "Tether CEO: ‘No Indication’ US Treasury Is Investigating Stablecoin Issuer",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/07/tether-coins-usdt-stablecoin-gID_7.jpg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/07/tether-coins-usdt-stablecoin-gID_7.jpg@png"
         },
         {
           "id": "https://decrypt.co/videos/interviews/u80dcXpu/vitalik-calls-out-saylor-stocks-have-worst-day-in-weeks-goat-hits-870m",
@@ -761,7 +761,7 @@
           "description": "Ethereum metaverse game Decentraland has shared an exclusive look at the visual and performance upgrades coming via its new desktop client.",
           "link": "https://decrypt.co/videos/interviews/qqzvDcTC/decentraland-desktop-client-preview",
           "publishedOn": "2024-10-09T15:53:21.000Z",
-          "wordCount": 6517,
+          "wordCount": 6753,
           "title": "Decentraland Desktop Client Preview",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/qqzvDcTC/poster.jpg",
