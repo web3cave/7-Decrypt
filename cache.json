@@ -6,12 +6,42 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=291319",
+          "author": "Andrew Hayward",
+          "description": "This free Doge-themed beat-’em-up inscribed on Dogecoin is well made—and offers a welcome break from crypto market madness.",
+          "link": "https://decrypt.co/291319/super-doginals-play-this-dogecoin-game",
+          "publishedOn": "2024-11-12T18:47:07.000Z",
+          "wordCount": 10391,
+          "title": "‘Super Doginals’: Drop Everything and Play This Goofy Brawler on Dogecoin",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/11/super-doginals-gID_7.png@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/11/super-doginals-gID_7.png@png"
+        },
+        {
+          "id": "https://decrypt.co/videos/interviews/PaPdL9ST/btc-hits-90k-eth-etf-sees-record-inflows-goat-hits-1bn",
+          "author": null,
+          "description": "BTC hits $90k ATH, dominance rises above 60%. Crypto market cap briefly increases above $3T. BTC flips silver’s market cap. ETH ETF inflows hit daily record. BlackRock BTC ETF hits volume record of $4.5bn. Crypto assets saw $2bn inflows last week. MicroStrategy buys $2bn more BTC. Coinbase stock now up 80% since election. DOGE hits $60bn, OI ATH of $2.75bn. Spirit aims to become ‘MicroStrategy of DOGE’. Trump to appoint ‘pro-crypto’ officials. Mt Gox transfers $222mn more BTC. Justin Drake to propose new ETH 3.0 upgrade. Binance defends low cap memecoin listings. Bhutan’s BTC holdings hit $1bn. Tether launches wallet development kit. Trabucco to forfeit $70m & yacht in FTX settlement.",
+          "link": "https://decrypt.co/videos/interviews/PaPdL9ST/btc-hits-90k-eth-etf-sees-record-inflows-goat-hits-1bn",
+          "publishedOn": "2024-11-12T18:21:45.000Z",
+          "wordCount": 6978,
+          "title": "BTC hits $90k, ETH ETF sees record inflows, GOAT hits $1BN!",
+          "enclosure": {
+            "url": "https://cdn.jwplayer.com/v2/media/PaPdL9ST/poster.jpg",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://cdn.jwplayer.com/v2/media/PaPdL9ST/poster.jpg"
+        },
+        {
           "id": "https://decrypt.co/?p=291289",
           "author": "Andrew Hayward",
           "description": "In its surge to a new all-time high price near $90,000 on Monday, Bitcoin broke the record for the biggest single-day gains in U.S. dollars.",
           "link": "https://decrypt.co/291289/bitcoin-best-day-ever-gains",
           "publishedOn": "2024-11-12T16:13:52.000Z",
-          "wordCount": 9906,
+          "wordCount": 9841,
           "title": "Bitcoin Has Had a Lot of Good Days—It Just Had Its Best One Ever",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/05/bitcoin-up-gID_7.jpg@png",
@@ -26,7 +56,7 @@
           "description": "Singapore, Singapore, 12th November 2024, GamingWire",
           "link": "https://decrypt.co/291282/gomble-games-wraps-up-launchpool-2-with-2-5m-monthly-active-users",
           "publishedOn": "2024-11-12T15:39:45.000Z",
-          "wordCount": 10476,
+          "wordCount": 10411,
           "title": "GOMBLE Games Wraps Up Launchpool #2 with 2.5M Monthly Active Users",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/11/Gomble_X_egg_drop_17314057777NhK5QPgJh-gID_7.jpg@png",
@@ -41,7 +71,7 @@
           "description": "Bitcoin nears $82k ATH, $1.6T market cap. Coinbase stocks rises 15% pre-market. Coinbase breaks into top 100 most popular apps. FTX files $1.8bn lawsuit against Binance & CZ. MicroStrategy now owns over $20bn BTC. Funding rates begin to rise, particularly on memes. Mt Gox moves $2bn BTC. BlackRock BTC ETF bigger than gold ETF. $746m of altcoin unlocks this week. Trump will bring regulatory clarity: a16z. SUI up 30%, becomes top 15 coin. ADA up 80% this week, founder may shape US policy. N. Korea push new MacOS spyware. SEC delays decision ETH ETF options. Tether mints $2bn USDT on ETH. ETH ETF sees two of its biggest inflow days. ENS unveils Namechain Layer 2.",
           "link": "https://decrypt.co/videos/interviews/xv4nE36f/btc-hits-82k-inflation-data-this-week-pnut-act-get-binance-listing",
           "publishedOn": "2024-11-12T15:14:24.000Z",
-          "wordCount": 7010,
+          "wordCount": 7320,
           "title": "BTC hits $82k, Inflation Data this week, PNUT & ACT get Binance listing",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/xv4nE36f/poster.jpg",
@@ -56,7 +86,7 @@
           "description": "Small language models will enable on-device AI \"in almost every tool or appliance that we have,\" said Hugging Face CSO Thomas Wolf.",
           "link": "https://decrypt.co/291237/ai-startup-hugging-face-small-lms-robots",
           "publishedOn": "2024-11-12T13:50:14.000Z",
-          "wordCount": 10527,
+          "wordCount": 10462,
           "title": "AI Startup Hugging Face is Building Small LMs for 'Next Stage Robotics'",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/11/thomas-wolf-hugging-face-gID_7.jpg@png",
@@ -71,7 +101,7 @@
           "description": "To be clear: El Salvador hasn't sold any of its Bitcoin. But if it did, it would be sitting on a hefty profit.",
           "link": "https://decrypt.co/291243/el-salvador-bukele-100m-bitcoin-profit",
           "publishedOn": "2024-11-12T13:23:59.000Z",
-          "wordCount": 10861,
+          "wordCount": 10796,
           "title": "'I Told You So': Bukele Takes Victory Lap as El Salvador Bitcoin Stash Hits $100 Million Profit",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/06/el-salvador-president-Nayib-Bukele-bitcoin-gID_7.jpg@png",
@@ -86,7 +116,7 @@
           "description": "“With the election overhang now behind us, the rally in crypto markets appears sustainable,\" an analyst told Decrypt.",
           "link": "https://decrypt.co/291233/dogecoin-peaks-43-cents",
           "publishedOn": "2024-11-12T12:06:52.000Z",
-          "wordCount": 10560,
+          "wordCount": 10495,
           "title": "Dogecoin Peaks at 43 Cents on Continued Election Glee",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/05/doge-dogecoin-meme-kabosu-gID_7.jpg@png",
@@ -101,7 +131,7 @@
           "description": "Eight founding members of the strategic media alliance signed a memorandum of understanding to elevate Web3 narratives in APAC.",
           "link": "https://decrypt.co/291225/decrypt-hashkey-capital-launch-layer-east-media-at-thailand-blockchain-week",
           "publishedOn": "2024-11-12T10:42:32.000Z",
-          "wordCount": 9660,
+          "wordCount": 9595,
           "title": "Decrypt, HashKey Capital Launch Layer East Media at Thailand Blockchain Week",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/11/layer-east-media-signing-gID_7.jpg@png",
@@ -116,7 +146,7 @@
           "description": "The value of Telsa's Bitcoin holdings has more than doubled since the start of this year amid a heady resurgence in crypto.",
           "link": "https://decrypt.co/291222/tesla-stock-surges-8-post-market-as-bitcoin-holdings-exceed-1-billion",
           "publishedOn": "2024-11-12T05:46:06.000Z",
-          "wordCount": 10182,
+          "wordCount": 10117,
           "title": "Tesla Stock Surges 8% Post-Market as Bitcoin Holdings Exceed $1 Billion",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/04/Tesla-gID_7.jpg@png",
@@ -131,7 +161,7 @@
           "description": "With Bitcoin surging past $88,000, Okung’s choice to be paid in crypto back in 2020 has massively paid off.",
           "link": "https://decrypt.co/291208/russell-okungs-2020-bitcoin-paycheck-is-now-worth-21-million-if-he-hodld",
           "publishedOn": "2024-11-12T03:39:30.000Z",
-          "wordCount": 9659,
+          "wordCount": 9594,
           "title": "Ex-Carolina Panthers Player Russell Okung’s 2020 Bitcoin Paycheck Could Now Be Worth $21 Million",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/03/Russell-Okung-gID_7.png@png",
@@ -146,7 +176,7 @@
           "description": "Bitcoin is up more than 9% on the day following strong institutional demand and sustained interest in US spot Bitcoin ETFs in recent weeks.",
           "link": "https://decrypt.co/291216/bitcoin-flips-silver-again-becomes-eighth-largest-asset-by-market-cap",
           "publishedOn": "2024-11-12T03:05:43.000Z",
-          "wordCount": 10315,
+          "wordCount": 10250,
           "title": "Bitcoin Flips Silver Again, Becomes Eighth Largest Asset By Market Cap",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/02/bitcoin-halving-bulls-bears-gID_7.jpg@png",
@@ -161,7 +191,7 @@
           "description": "\"We expect Ethereum, Solana, and other digital assets to outperform Bitcoin over the next 12 months,\" Bernstein analysts wrote Monday.",
           "link": "https://decrypt.co/291214/heres-bernsteins-top-picks-in-crypto-buy-everything-you-can",
           "publishedOn": "2024-11-12T02:54:43.000Z",
-          "wordCount": 9655,
+          "wordCount": 9590,
           "title": "Here's Bernstein's Top Picks in Crypto. 'Buy Everything You Can'",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/09/stock-market-rally-covid-19-bitcoin-record-gID_7.jpg@png",
@@ -176,7 +206,7 @@
           "description": "Investors are pouring funds into Bitcoin options contracts following pro-crypto U.S. candidate Donald Trump's re-election.",
           "link": "https://decrypt.co/291211/bitcoin-options-trading-surges-to-yearly-high-as-investors-eye-greater-gains",
           "publishedOn": "2024-11-12T01:56:43.000Z",
-          "wordCount": 10209,
+          "wordCount": 10144,
           "title": "Bitcoin Options Trading Surges to Yearly High as Investors Eye Greater Gains",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/05/bitcoin-options-deribit-clearloop-trading-gID_7.jpg@png",
@@ -191,7 +221,7 @@
           "description": "OpenAI's Latest Model Exposes Limitations in Traditional Scaling Approach, Prompting Split into Specialized AI Tracks.",
           "link": "https://decrypt.co/291193/openais-next-gen-model-hits-performance-wall-report",
           "publishedOn": "2024-11-12T00:53:19.000Z",
-          "wordCount": 12197,
+          "wordCount": 12132,
           "title": "OpenAI's Next-Gen Model Hits Performance Wall: Report",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/09/openai-logo-mobile-phone-gID_7.jpg@png",
@@ -206,7 +236,7 @@
           "description": "Analysts are forecasting a higher price target of around $380 over 12 months for Coinbase, with nine experts tipping a buy recommendation.",
           "link": "https://decrypt.co/291172/coinbase-stock-jumps-as-bitcoin-prices-soar-analysts-forecast-a-much-higher-target",
           "publishedOn": "2024-11-11T23:23:05.000Z",
-          "wordCount": 9751,
+          "wordCount": 9686,
           "title": "Coinbase Stock Jumps as Bitcoin Prices Soar, Analysts Forecast a Much Higher Target",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/08/coinbase-bitcoin-cbbtc-gID_7.jpg@png",
@@ -221,7 +251,7 @@
           "description": "Telegram game Tomarket is handing out free tomatoes and bonus items ahead of the airdrop. Here’s the combo for Monday, November 11.",
           "link": "https://decrypt.co/resources/here-is-todays-tomarket-telegram-game-daily-combo",
           "publishedOn": "2024-11-11T23:10:41.000Z",
-          "wordCount": 9366,
+          "wordCount": 9301,
           "title": "Here Is Today's 'Tomarket' Telegram Game Daily Combo",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/07/Tap2Earn-gID_7-pID_5.png@png",
@@ -236,7 +266,7 @@
           "description": "Still a fierce critic, Schiff is asking traders to buy his limited Bitcoin Ordinals collection, calling it more scarce than the top crypto.",
           "link": "https://decrypt.co/291166/gold-bug-peter-schiff-tries-to-cash-in-on-ordinals-amid-bitcoins-surge",
           "publishedOn": "2024-11-11T23:04:14.000Z",
-          "wordCount": 10953,
+          "wordCount": 10888,
           "title": "Gold Bug Peter Schiff Urges Traders to Buy His Ordinals Amid Bitcoin’s Surge",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2019/08/peter-schiff-bitcoin-50k-gID_7.jpg@png",
@@ -251,7 +281,7 @@
           "description": "Trump may not like Latinos, but Latinos sure like Trump",
           "link": "https://decrypt.co/291103/trumps-crypto-renaissance-could-accelerate-latin-american-adoption-experts-say",
           "publishedOn": "2024-11-11T22:49:06.000Z",
-          "wordCount": 11182,
+          "wordCount": 11117,
           "title": "Trump's Crypto Renaissance Could Accelerate Latin American Adoption, Experts Say",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/11/eca856a2-2c56-4bd7-9d19-3adbc26ad0be-gID_7.png@png",
@@ -266,7 +296,7 @@
           "description": "Fresh off a $2 billion Bitcoin acquisition, MicroStrategy's share price hit an all-time high Monday, breaking a nearly 25-year-old record.",
           "link": "https://decrypt.co/291156/microstrategy-stock-all-time-high-bitcoin-88k",
           "publishedOn": "2024-11-11T22:43:06.000Z",
-          "wordCount": 10552,
+          "wordCount": 10487,
           "title": "MicroStrategy Stock Hits All-Time High as Bitcoin Breaks $88,000",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/12/MicroStrategy-Bitcoin-gID_7.jpeg@png",
@@ -281,7 +311,7 @@
           "description": "Bitcoin keeps setting new all-time high marks, but analysts think the leading coin still has room to run in the short term. Here's how far.",
           "link": "https://decrypt.co/291150/bitcoin-price-discovery-again-how-much-higher",
           "publishedOn": "2024-11-11T21:55:32.000Z",
-          "wordCount": 10526,
+          "wordCount": 10461,
           "title": "Bitcoin Is in Price Discovery Again—How Much Higher Will It Go?",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/01/Bitcoin-price-gID_7.jpg@png",
@@ -296,7 +326,7 @@
           "description": "The FTX estate says it could have beaten the former Alameda co-CEO in court, but didn’t want to waste the time and money.",
           "link": "https://decrypt.co/291161/sam-trabucco-ftx-debtors-apartments-yacht",
           "publishedOn": "2024-11-11T21:47:28.000Z",
-          "wordCount": 10092,
+          "wordCount": 10027,
           "title": "Sam Trabucco Cuts Deal With FTX Debtors, Giving Up Apartments and Yacht",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/05/Sam-Trabucco_Alameda_shutterstock_2196878685-gID_7.jpg@png",
@@ -311,7 +341,7 @@
           "description": "As Dogecoin punches past a three-year high price, a Canadian company aims to legitimize the meme coin through investment and infrastructure.",
           "link": "https://decrypt.co/291155/microstrategy-dogecoin-spirit-blockchain-capital",
           "publishedOn": "2024-11-11T21:17:12.000Z",
-          "wordCount": 12202,
+          "wordCount": 12137,
           "title": "The MicroStrategy of Dogecoin? This Firm Is Amassing DOGE as a Treasury Reserve Asset",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/05/dogecoin-doge-token-digital-rendering-gID_7.jpg@png",
@@ -326,7 +356,7 @@
           "description": "Tokens tied to Telegram tap-to-earn games are up, with the Elon Musk-themed X Empire leading the charge alongside Rocky Rabbit.",
           "link": "https://decrypt.co/291140/x-empire-rocky-rabbit-telegram-game-tokens-all-time-high",
           "publishedOn": "2024-11-11T19:51:15.000Z",
-          "wordCount": 10690,
+          "wordCount": 10625,
           "title": "'X Empire' and 'Rocky Rabbit' Telegram Game Tokens Pump to All-Time High Prices",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/10/x-empire-chill-gID_7.png@png",
@@ -341,7 +371,7 @@
           "description": "Open interest on Dogecoin neared a record $2.75 billion Monday as DOGE pushed to a three-year price peak. But many traders are shorting it.",
           "link": "https://decrypt.co/291139/dogecoin-open-interest-all-time-high",
           "publishedOn": "2024-11-11T18:38:46.000Z",
-          "wordCount": 10536,
+          "wordCount": 10471,
           "title": "To the Moon? Dogecoin Futures Open Interest Hits All-Time High—But Traders Are Hedging",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/06/doge-dogecoin-shiba-ina-wearing-suit-jacket-gID_7.jpg@png",
@@ -356,7 +386,7 @@
           "description": "Crypto funds giving investors exposure to Bitcoin and Ethereum saw sizable inflows last week following Donald Trump's election win.",
           "link": "https://decrypt.co/291119/bitcoin-ethereum-etfs-2-billion",
           "publishedOn": "2024-11-11T18:14:03.000Z",
-          "wordCount": 9950,
+          "wordCount": 9885,
           "title": "Bitcoin, Ethereum ETFs Add Nearly $2 Billion as Crypto Market Surges",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/04/bitcoin-money-laundering-gID_7.jpg@png",
@@ -371,7 +401,7 @@
           "description": "Sonic SVM says its tap-to-earn game on TikTok, SonicX, has tipped the 1 million player milestone ahead of a planned Solana token launch.",
           "link": "https://decrypt.co/291097/tiktok-tap-earn-million-players-solana-token",
           "publishedOn": "2024-11-11T17:55:46.000Z",
-          "wordCount": 11221,
+          "wordCount": 11156,
           "title": "TikTok Tap-to-Earn Game Tops a Million Players as Solana's Sonic SVM Teases Token",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/11/tiktok-gID_7.png@png",
@@ -386,7 +416,7 @@
           "description": "Bitcoin is now up 23% over the last week as it continues pushing to new all-time highs—and crypto liquidations are piling up.",
           "link": "https://decrypt.co/291102/bitcoin-price-85000-liquidations",
           "publishedOn": "2024-11-11T16:44:25.000Z",
-          "wordCount": 9539,
+          "wordCount": 9474,
           "title": "Bitcoin Price Nears $85,000 as Crypto Liquidations Top $680 Million",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/02/bitcoin-pixel-up-gID_7.png@png",
@@ -401,7 +431,7 @@
           "description": "A pair of Solana meme coins have seen parabolic gains since Binance added them for spot trading overnight, with one token jumping 2,000%.",
           "link": "https://decrypt.co/291080/binance-effect-peanut-ai-prophecy-meme-coins-skyrocket",
           "publishedOn": "2024-11-11T15:51:28.000Z",
-          "wordCount": 11633,
+          "wordCount": 11568,
           "title": "'Binance Effect': Peanut the Squirrel, Act I: The AI Prophecy Meme Coins Skyrocket",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/11/squirrel-gID_7.jpg@png",
@@ -416,7 +446,7 @@
           "description": "The lawsuit seeks to claw back billions of dollars in funds for FTX creditors, claiming that the original deal was made fraudulently.",
           "link": "https://decrypt.co/291092/ftx-sues-binance-for-1-76-billion-accuses-cz-of-reckless-disregard-for-its-customers",
           "publishedOn": "2024-11-11T15:16:02.000Z",
-          "wordCount": 10066,
+          "wordCount": 10001,
           "title": "FTX Sues Binance for $1.76 Billion, Accuses CZ of 'Reckless Disregard' for Its Customers",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/03/FTX-Gavel-shutterstock_2226341239-gID_7.jpg@png",
@@ -431,7 +461,7 @@
           "description": "Bitcoin development company MicroStrategy now has nearly $23 billion in \"digital gold\" after snapping up another $2 billion worth.",
           "link": "https://decrypt.co/291088/microstrategy-23-billion-bitcoin-latest-buy",
           "publishedOn": "2024-11-11T14:53:33.000Z",
-          "wordCount": 9845,
+          "wordCount": 9780,
           "title": "MicroStrategy Now Holds Nearly $23 Billion in Bitcoin With Latest Buy",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/04/michael-saylor-bitcoin-lightning-gID_7.jpeg@png",
@@ -461,7 +491,7 @@
           "description": "The attack comes just a week after a Devcon attendee was robbed in Bangkok, prompting the crypto conference to issue a warning.",
           "link": "https://decrypt.co/291065/ukrainian-man-falls-victim-to-250000-crypto-robbery-in-thailand",
           "publishedOn": "2024-11-11T10:53:22.000Z",
-          "wordCount": 9725,
+          "wordCount": 9660,
           "title": "Ukrainian Man Falls Victim to $250,000 Crypto Robbery in Thailand",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/11/bitcoin-knife-gID_7.jpg@png",
@@ -476,7 +506,7 @@
           "description": "A widely regarded sentiment indicator for crypto is at its second-highest level this year. Here’s what it means.",
           "link": "https://decrypt.co/291062/bitcoin-price-blasts-past-82000-sparking-extreme-greed-in-crypto-market",
           "publishedOn": "2024-11-11T10:13:28.000Z",
-          "wordCount": 11104,
+          "wordCount": 11039,
           "title": "Bitcoin Price Blasts Past $82,000, Sparking ‘Extreme Greed’ in Crypto Market",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/05/bitcoin-up-gID_7.jpg@png",
@@ -491,7 +521,7 @@
           "description": "Now is the time for projects that have held back on using tokens due to regulatory concerns, venture capital firm a16z said Sunday.",
           "link": "https://decrypt.co/291036/strike-while-the-crypto-iron-is-hot-under-trump-says-andreessen-horowitz",
           "publishedOn": "2024-11-11T05:55:51.000Z",
-          "wordCount": 10039,
+          "wordCount": 9974,
           "title": "Strike While the Crypto Iron is Hot Under Trump, Says Andreessen Horowitz",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/05/marc-andreessen-horowitz-a16z-gID_7.jpeg@png",
@@ -499,21 +529,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/05/marc-andreessen-horowitz-a16z-gID_7.jpeg@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=291034",
-          "author": "Sebastian Sinclair",
-          "description": "Market momentum appears strong, driven by Trump’s victory, solid corporate earnings, and rising consumer sentiment, according to some.",
-          "link": "https://decrypt.co/291034/cryptos-comeback-are-surging-prices-here-to-stay",
-          "publishedOn": "2024-11-11T04:24:12.000Z",
-          "wordCount": 10450,
-          "title": "Crypto’s Comeback: Are Surging Prices Here to Stay?",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/09/bull-run-gID_7.jpg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/09/bull-run-gID_7.jpg@png"
         },
         {
           "id": "https://decrypt.co/videos/interviews/k3L3jnuU/sol-breaks-200-fed-points-to-soft-landing-moodeng-hits-310m",
@@ -566,7 +581,7 @@
           "description": "BTC ETF see largest outflows since May. BTC briefly dips below 68k, OI falls $2bn. BTC hashrate hits another ATH. MT Gox transfers $2.2bn BTC to 2 wallets. Crypto prediction markets favour Trump 63%. Major crypto firms launch stablecoin network. Semler Scientific bought $71m BTC in Q3. First UK pension fund buys $65m BTC ETF. Michigan Pension Fund buy ETH ETFs. ETH is Amazon 2.0: 21 Shares. Deutsche Telekom pilots BTC mining scheme. Tether denies plan for blockchain. Citi, Fidelity unveil tokenized FX swaps. Bitget introduces Bitget Pay. a16z send another $23m to crypto PAC. Binance & CZ attempt to squash SEC suit.",
           "link": "https://decrypt.co/videos/interviews/BQqxU2d6/us-election-day-large-etf-outflows-fwog-hits-380m",
           "publishedOn": "2024-11-05T21:12:57.000Z",
-          "wordCount": 6926,
+          "wordCount": 7236,
           "title": "US Election Day, Large ETF outflows, FWOG hits $380M!",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/BQqxU2d6/poster.jpg",
@@ -596,7 +611,7 @@
           "description": "BTC drops below $70k, $500m OI wiped out. BTC ETFs top 1m BTC held. Coinbase falls the most in 2 years. Tether reports $7.7bn profit, holds $100bn treasuries. Franklin Templeton tokenises fund on Base. Trump’s WLFI cuts fundraising target by 90%. Stablecoins should be replaced by CBDC: Treasury. Prison guards asked CZ for token tips. BTC & gold win with Trump election: JP Morgan. Expect friendlier regulation ‘regardless of election’. CryptoCom gets license for stocks in US. Gotbit founder indicted for wire fraud. Venmo can now be used for Uniswap trades.",
           "link": "https://decrypt.co/videos/interviews/ayN951aK/btc-drops-below-70k-coinbase-falls-most-in-2-years-tether-profits-soar",
           "publishedOn": "2024-11-01T16:25:45.000Z",
-          "wordCount": 6890,
+          "wordCount": 7200,
           "title": "BTC drops below $70k, Coinbase falls most in 2 years, Tether profits soar!",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/ayN951aK/poster.jpg",
@@ -626,7 +641,7 @@
           "description": "BTC dominance above 60%, altcoins fall. BlackRock BTC ETF sees record inflow day. Coinbase falls 3% pre-market after earnings miss. Coinbase pledges $25m to pro-crypto PAC. MicroStrategy plans to raise $42bn to buy BTC. Canary Capital applies for SOL ETF. SOL DEX volume hits 168% of ETH. Sol Strategies now owns $24m SOL. Kraken cuts 15% of staff. Tokenization could be big trend: US Treasury. Binance unveils wealth management platform. Centralised stablecoins a risk: Curve founder. FTX engineering director set to remain free. Microsoft shareholders begin BTC vote. Nillion raises $50m to create first ‘blind computer’.",
           "link": "https://decrypt.co/videos/interviews/d6kQY7c1/btc-etf-inflow-record-microstrategy-wants-42b-btc-mog-leads-memes",
           "publishedOn": "2024-10-31T16:00:55.000Z",
-          "wordCount": 6903,
+          "wordCount": 7213,
           "title": "BTC ETF inflow record, MicroStrategy wants $42B BTC, MOG leads memes",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/d6kQY7c1/poster.jpg",
@@ -686,7 +701,7 @@
           "description": "BTC hits golden cross indicator, 2x rally last time. SOL hits ATHs for a number of key metrics. SOL nears golden cross indicator. Base stablecoin transfer volume flips ETH & SOL. Metaplanet becomes Asia’s largest BTC holder. MicroStrategy premium unlikely to last: Steno. Hong Kong floats tax breaks for crypto, more licenses. Hong Kong to introduce BTC & ETH indices. Robinhood launches US elections derivatives trading. TIA & SUI lead altcoin unlocks this week.",
           "link": "https://decrypt.co/videos/interviews/dopi22Mq/btc-heads-for-70k-base-activity-soars-spx-popcat-near-ath",
           "publishedOn": "2024-10-28T23:35:29.000Z",
-          "wordCount": 6799,
+          "wordCount": 7109,
           "title": "BTC heads for $70K, Base activity Soars, SPX & POPCAT near ATH",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/dopi22Mq/poster.jpg",
@@ -701,7 +716,7 @@
           "description": "BTC ETFs: +$188m, ETH ETFs: +$2m. BTC ETFs near 1m BTC under management. Microsoft to vote on investing in BTC, board opposes. US crypto wallet may have been exploited. Kraken to launch its own ETH L2. Pennsylvania passes crypto rights bill. AI will use crypto rails and manage projects: Toly. Uniswap launches bridging between 9 chains. Ankr integrates TON into Web3 API. Binance exec leaves Nigeria. Lugano unveils Satoshi statue.",
           "link": "https://decrypt.co/videos/interviews/wdy8C3HF/etfs-near-1m-btc-tesla-soars-moodeng-listed-on-binance",
           "publishedOn": "2024-10-27T20:51:53.000Z",
-          "wordCount": 6767,
+          "wordCount": 7077,
           "title": "ETFs near 1M BTC, Tesla soars, MOODENG listed on Binance",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/wdy8C3HF/poster.jpg",
@@ -716,7 +731,7 @@
           "description": "BTC ETFs: +$192m, ETH ETFs: +$1m. SOLETH continues to hit new highs, ETH weak. Vitalik calls Saylor’s custody view ‘batshit insane’. BTC to $200k by 2025: Bernstein. BTC options point to jump to $80k post-election. Ripple misses deadline in SEC case. Denmark plans 42% tax on unrealised crypto gains. Ripple CEO debanked by Citigroup.",
           "link": "https://decrypt.co/videos/interviews/u80dcXpu/vitalik-calls-out-saylor-stocks-have-worst-day-in-weeks-goat-hits-870m",
           "publishedOn": "2024-10-24T15:05:49.000Z",
-          "wordCount": 6705,
+          "wordCount": 7015,
           "title": "Vitalik calls out Saylor, Stocks have Worst day in Weeks, GOAT hits $870M",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/u80dcXpu/poster.jpg",
@@ -746,7 +761,7 @@
           "description": "HashKey Capital's Decode: Legacy experience is going on the road following its debut at Token2049. Decrypt's Liz Napolitano finds out how the immersive theater experience is helping to foster connections between crypto's diverse global community, through face-to-face interactions and problem solving.",
           "link": "https://decrypt.co/videos/interviews/S3Ch0XEv/bringing-cryptos-global-community-together-through-immersive-theater",
           "publishedOn": "2024-10-23T15:39:07.000Z",
-          "wordCount": 6610,
+          "wordCount": 6920,
           "title": "Bringing Crypto's Global Community Together Through 'Immersive Theater'",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/S3Ch0XEv/poster.jpg",
@@ -761,7 +776,7 @@
           "description": "BTC: 67k (-2%), ETH: 2620 (-4%), SOL: 166 (0%). Top Gainers: APT, UNI, HNT, POPCAT, RUNE, KAS. BTC drops, SOL continues to outperform. PumpFun has sold $78m of SOL fees so far. Raydium flips ETH for 24hr fees. Scroll launches at $1.2bn FDV, disappoints. Crypto only really used for drug deals: Fed’s Kashkari. VanEck adds staking to SOL ETPs in Europe. LINK announces successful results from SWIFT trial. Brevan Howard trades most crypto from UAE. Japanese parties court crypto tax cuts. XRP co-founder donates $10m to Kamala. CFTC chair says agency is ‘handcuffed’ on crypto. Transak exposes 92k customers’ data. Sky may rebrand back to MakerDAO.",
           "link": "https://decrypt.co/videos/interviews/zu7HXBIc/sol-outperforms-10y-rises-above-42-ai-tokens-dominate-flows",
           "publishedOn": "2024-10-22T17:41:24.000Z",
-          "wordCount": 6947,
+          "wordCount": 7257,
           "title": "SOL Outperforms, 10y Rises above 4.2%, AI Tokens Dominate flows",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/zu7HXBIc/poster.jpg",
@@ -769,21 +784,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://cdn.jwplayer.com/v2/media/zu7HXBIc/poster.jpg"
-        },
-        {
-          "id": "https://decrypt.co/videos/interviews/35JgCoNO/sol-breaks-out-stripe-acquires-bridge-giga-hits-600m",
-          "author": null,
-          "description": "BTC briefly tops $70k as OI tops $40bn. SOL outperforms, DEX volume eclipses ETH + L2s. SOLETH has highest weekly close ever. Pension giant L&G look to test tokenisation. BTC hash rate hits ATH. Stripe acquires stablecoin company Bridge for $1.1bn. PumpFun hints at upcoming token. GOAT drops then rebounds as authenticity questioned. GIGA hits new ATH of $600m, FROG hits $250m. MEW up 15% after Upbit listing. Jaypeg called out for misleading promotions. ACK editions sell for $290k.",
-          "link": "https://decrypt.co/videos/interviews/35JgCoNO/sol-breaks-out-stripe-acquires-bridge-giga-hits-600m",
-          "publishedOn": "2024-10-22T17:30:05.000Z",
-          "wordCount": 6806,
-          "title": "SOL Breaks out, Stripe Acquires Bridge, GIGA hits $600M",
-          "enclosure": {
-            "url": "https://cdn.jwplayer.com/v2/media/35JgCoNO/poster.jpg",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://cdn.jwplayer.com/v2/media/35JgCoNO/poster.jpg"
         }
       ]
     }
