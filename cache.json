@@ -6,12 +6,42 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=292809",
+          "author": "Will McCurdy",
+          "description": "Yao Qian has been expelled from the Communist Party of China following accusations of having taken bribes.",
+          "link": "https://decrypt.co/292809/former-head-of-chinas-digital-currency-project-faces-corruption-charges-report",
+          "publishedOn": "2024-11-21T12:31:34.000Z",
+          "wordCount": 9818,
+          "title": "Former Head of China’s Digital Currency Project Faces Corruption Charges: Report",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/12/digital-yuan-gID_7.jpg@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/12/digital-yuan-gID_7.jpg@png"
+        },
+        {
+          "id": "https://decrypt.co/?p=292783",
+          "author": "Vince Dioquino",
+          "description": "Onchain data showed Ethereum co-founder Vitalik Buterin's wallet swapping 0.082 ETH for 30,303 ANON Wednesday evening.",
+          "link": "https://decrypt.co/292783/vitalik-buterin-anon-token-surged-350-whats-it-all-about",
+          "publishedOn": "2024-11-21T12:23:37.000Z",
+          "wordCount": 9940,
+          "title": "Vitalik Buterin Buys Anon, Token Surged 350%—What's It All About?",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2019/04/vitalik-head-gID_7.jpeg@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2019/04/vitalik-head-gID_7.jpeg@png"
+        },
+        {
           "id": "https://decrypt.co/?p=285439",
           "author": "Stephen Graves",
           "description": "Designer Susan Kare's iconic pixel art style is gracing a new collection of physical and digital artworks unveiled during Frieze London.",
           "link": "https://decrypt.co/285439/apple-designer-susan-kare-nft-esc-keys-asprey-studio",
           "publishedOn": "2024-11-21T10:29:48.000Z",
-          "wordCount": 11270,
+          "wordCount": 11273,
           "title": "Apple Designer Susan Kare Brings NFT 'Esc Keys' to Asprey Studio",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/10/susan-kare-esc-keys-1-gID_7.jpg@png",
@@ -26,7 +56,7 @@
           "description": "Inspired by Internet memes and current events, and promoted by influencers, meme coins and tokens have shot to prominence.",
           "link": "https://decrypt.co/resources/what-are-meme-coins-and-tokens",
           "publishedOn": "2024-11-21T09:45:09.000Z",
-          "wordCount": 12720,
+          "wordCount": 12723,
           "title": "What Are Meme Coins and Tokens?",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2019/03/DogeCoin-gID_1-pID_5.png@png",
@@ -41,8 +71,8 @@
           "description": "Justin Sun described the piece as “a cultural phenomenon that bridges the worlds of art, memes, and the cryptocurrency community.”",
           "link": "https://decrypt.co/292762/justin-sun-goes-bananas-snags-controversial-comedian-artwork-for-6-4-million",
           "publishedOn": "2024-11-21T05:51:43.000Z",
-          "wordCount": 10048,
-          "title": "Justin Sun Goes Bananas: Snags Controversial “Comedian” Artwork for $6.4 Million",
+          "wordCount": 10051,
+          "title": "Justin Sun Goes Bananas: Snags Controversial “Comedian” Artwork for $6.2 Million",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2019/07/justin-sun-gID_7.jpg@png",
             "length": "1000000",
@@ -56,7 +86,7 @@
           "description": "The market capitalization for meme coins has doubled since Donald Trump’s November 5 win, with Floki up 600% this year.",
           "link": "https://decrypt.co/292759/floki-trading-volumes-surge-as-coinbase-confirms-exchange-listing",
           "publishedOn": "2024-11-21T05:29:51.000Z",
-          "wordCount": 10390,
+          "wordCount": 10393,
           "title": "Meme Coin Floki's Trading Volumes Surge as Coinbase Confirms Exchange Listing",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/03/floki-inu-meme-coin-gID_7.jpg@png",
@@ -71,7 +101,7 @@
           "description": "Volatility surged this year, driven by U.S. spot ETF listings in January and the start of options trading on those products this week.",
           "link": "https://decrypt.co/292746/bitcoin-price-blasts-past-97000-as-futures-hint-at-more-room-to-run",
           "publishedOn": "2024-11-21T05:03:09.000Z",
-          "wordCount": 10088,
+          "wordCount": 10091,
           "title": "Bitcoin Price Blasts Past $97,000 as Futures Hint at More Room to Run",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/04/bitcoin-wall-street-gID_7.jpg@png",
@@ -86,7 +116,7 @@
           "description": "Joining Google, Microsoft, Meta, OpenAI, and Anthropic amid a booming AI industry, xAI is part of a cohort developing consumer-facing AI.",
           "link": "https://decrypt.co/292741/elon-musks-xai-now-valued-at-50-billion-following-fresh-capital-injection",
           "publishedOn": "2024-11-21T03:09:39.000Z",
-          "wordCount": 9903,
+          "wordCount": 9906,
           "title": "Elon Musk’s xAI Now Valued at $50 Billion Following Fresh Capital Injection",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/01/elon-musk-twitter-dogecoin-gID_7.jpg@png",
@@ -101,7 +131,7 @@
           "description": "Just over a week ago, Dogecoin touched a three-year high price of $0.43 but the last week has felt quiet compared to what had come before.",
           "link": "https://decrypt.co/292729/dogecoin-slows-following-monster-gains-what-happened",
           "publishedOn": "2024-11-21T02:14:29.000Z",
-          "wordCount": 10853,
+          "wordCount": 10856,
           "title": "Dogecoin Slows Following Monster Gains—What Happened?",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/08/Shiba-Inu-shutterstock_1604677465-16x9-1-gID_7.jpg@png",
@@ -116,7 +146,7 @@
           "description": "Another day, another record broken. Bitcoin just touched $95,000 for the first time as the leading cryptocurrency eyes a $100,000 sprint.",
           "link": "https://decrypt.co/292513/bitcoin-price-95000-all-time-high",
           "publishedOn": "2024-11-21T00:48:40.000Z",
-          "wordCount": 9434,
+          "wordCount": 9437,
           "title": "Bitcoin Price Climbs to $95,000 on Coinbase in Latest All-Time High Surge",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/10/bitcoin-btc-stacks-coins-gID_7.png@png",
@@ -131,7 +161,7 @@
           "description": "Just a chill guy? The crypto token based on the TikTok is showing no chill at all, skyrocketing to a nearly $500 million market cap.",
           "link": "https://decrypt.co/292627/chill-guy-tiktok-meme-crypto-millions",
           "publishedOn": "2024-11-20T22:14:06.000Z",
-          "wordCount": 12029,
+          "wordCount": 12032,
           "title": "What Is Chill Guy? The Viral TikTok Meme Already Making Crypto Traders Millions",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/11/chillguy-gID_7.jpg@png",
@@ -146,7 +176,7 @@
           "description": "Despite strong results, Nvidia’s stock fell 0.76% during regular trading and dropped another 2.39% in after-hours, closing at $142.40.",
           "link": "https://decrypt.co/292694/nvidia-exceeds-analyst-expectations-in-q3-stock-dips-2-in-after-hours-trading",
           "publishedOn": "2024-11-20T22:01:42.000Z",
-          "wordCount": 9627,
+          "wordCount": 9630,
           "title": "Nvidia Exceeds Analyst Expectations in Q3, Stock Dips 2% in After Hours Trading",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/05/nvidia-crypto-mining-cards-gID_7.jpg@png",
@@ -161,7 +191,7 @@
           "description": "Dogecoin donations are now possible via JustGiving as the charity platform adds support for 60+ cryptocurrencies via The Giving Block.",
           "link": "https://decrypt.co/292679/charity-platform-justgiving-bitcoin-dogecoin-donations",
           "publishedOn": "2024-11-20T19:47:33.000Z",
-          "wordCount": 9326,
+          "wordCount": 9329,
           "title": "Charity Platform JustGiving Adds Support for Bitcoin, Dogecoin Donations",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/11/shiba-inu-memecoin-1-gID_7.jpg@png",
@@ -176,7 +206,7 @@
           "description": "A crypto czar in the White House under President-elect Donald Trump could have major implications for the digital assets industry.",
           "link": "https://decrypt.co/292676/trump-considering-crypto-czar-white-house",
           "publishedOn": "2024-11-20T19:31:57.000Z",
-          "wordCount": 9613,
+          "wordCount": 9616,
           "title": "Trump Team Considering First-Ever Crypto White House Role: Bloomberg",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/07/trump-gID_7.png@png",
@@ -191,7 +221,7 @@
           "description": "MicroStrategy is the most actively traded stock Wednesday, with shares hitting a new peak price as Bitcoin too set a fresh all-time high.",
           "link": "https://decrypt.co/292626/microstrategy-stock-record-price-bitcoin-all-time-high",
           "publishedOn": "2024-11-20T19:17:50.000Z",
-          "wordCount": 10496,
+          "wordCount": 10499,
           "title": "MicroStrategy Stock Sets Record as Bitcoin Hits Another All-Time High Price",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/10/saylor-bitcoin-dice-gID_7.png@png",
@@ -206,7 +236,7 @@
           "description": "A teenager was giddy after rugging his meme coin, dumping it for $30,000 while crashing the price. But degens made sure he regretted it.",
           "link": "https://decrypt.co/292594/this-child-made-30k-rugging-a-solana-meme-coin-then-crypto-degens-got-revenge",
           "publishedOn": "2024-11-20T18:40:00.000Z",
-          "wordCount": 12862,
+          "wordCount": 12865,
           "title": "This Child Made $30K Rugging a Solana Meme Coin—Then Crypto Degens Got Revenge",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/11/sadboy-gID_4.png@png",
@@ -221,7 +251,7 @@
           "description": "Among star witnesses, Gary Wang was the last to be sentenced in the criminal case against former FTX CEO Sam Bankman-Fried.",
           "link": "https://decrypt.co/292610/ftx-gary-wang-avoids-prison",
           "publishedOn": "2024-11-20T16:48:06.000Z",
-          "wordCount": 10798,
+          "wordCount": 10801,
           "title": "FTX Co-Founder Gary Wang Avoids Prison Time Due to Cooperation Against SBF",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/03/FTX-Gavel-shutterstock_2226341239-gID_7.jpg@png",
@@ -251,7 +281,7 @@
           "description": "Michael Saylor's MicroStrategy had offered $1.75 billion worth of zero-interest convertible notes on Monday, but is now boosting the sale.",
           "link": "https://decrypt.co/292572/microstrategy-boosts-convertible-notes-offering-to-2-6-billion-to-buy-even-more-bitcoin",
           "publishedOn": "2024-11-20T16:14:51.000Z",
-          "wordCount": 9606,
+          "wordCount": 9609,
           "title": "MicroStrategy Boosts Convertible Notes Offering to $2.6 Billion to Buy Even More Bitcoin",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/02/Microstrategy-Bitcoin-shutterstock_2017041662-gID_7.jpg@png",
@@ -266,7 +296,7 @@
           "description": "While Bluesky seems like Twitter on the surface, the AT protocol architecture it runs on has the potential to be revolutionary.",
           "link": "https://decrypt.co/resources/what-is-bluesky-twitter-decentralized-social-media-rival",
           "publishedOn": "2024-11-20T16:00:07.000Z",
-          "wordCount": 19161,
+          "wordCount": 19164,
           "title": "What Is Bluesky? Twitter's Decentralized Social Media Rival",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/02/bluesky-gID_7-pID_4.png@png",
@@ -281,7 +311,7 @@
           "description": "Nym CEO Harry Halpin sat down with Decrypt's Stephen Graves at Web Summit to talk about what makes its mixnet VPN unique, the global crackdown on privacy projects, and whether crypto's \"honeymoon\" with the Trump administration will last.",
           "link": "https://decrypt.co/videos/interviews/igShYKNq/nym-launching-worlds-first-decentralized-mixnet-vpn-ceo",
           "publishedOn": "2024-11-20T13:22:50.000Z",
-          "wordCount": 6902,
+          "wordCount": 6598,
           "title": "Nym Launching 'World's First Decentralized Mixnet' VPN: CEO",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/igShYKNq/poster.jpg",
@@ -296,7 +326,7 @@
           "description": "“The activist that put that proposal together contacted me to present to the board, and I agreed to provide a 3-minute presentation,” Saylor said.",
           "link": "https://decrypt.co/292484/bitcoin-microsoft-michael-saylor",
           "publishedOn": "2024-11-20T12:05:58.000Z",
-          "wordCount": 10070,
+          "wordCount": 10073,
           "title": "Microsoft Buying Bitcoin? Michael Saylor Will Make His Case to the Board",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/02/michael-saylor-microstrategy-gID_7.jpg@png",
@@ -311,7 +341,7 @@
           "description": "The tooling on Grayscale's existing ETFs aims to generate income by employing a covered call strategy amid a surge in investor interest.",
           "link": "https://decrypt.co/292480/grayscale-to-launch-bitcoin-etf-options-following-blackrocks-record-debut",
           "publishedOn": "2024-11-20T06:10:01.000Z",
-          "wordCount": 10561,
+          "wordCount": 10564,
           "title": "Grayscale to Launch Bitcoin ETF Options Following BlackRock’s Record Debut",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/09/Grayscale-Bitcoin-shutterstock_2111380643-16x9-1-gID_7.jpg@png",
@@ -326,7 +356,7 @@
           "description": "Yield Guild Games announced Tuesday during the YGG Play Summit its Onchain Guilds platform will launch on Coinbase's L2 Base.",
           "link": "https://decrypt.co/292472/ygg-unveils-onchain-guilds-on-coinbases-base-expanding-blockchain-ecosystem-in-the-philippines",
           "publishedOn": "2024-11-20T04:36:52.000Z",
-          "wordCount": 11718,
+          "wordCount": 11721,
           "title": "YGG Unveils Onchain Guilds on Coinbase’s Base, Expands Blockchain Ecosystem in the Philippines",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/11/ygg-gID_7.jpg@png",
@@ -341,7 +371,7 @@
           "description": "Lawmakers heard expert testimony that explained away questions about some UFO sightings while raising questions about others.",
           "link": "https://decrypt.co/292460/pentagon-official-describes-report-of-prius-sized-high-speed-ufo-during-senate-hearing",
           "publishedOn": "2024-11-20T02:50:41.000Z",
-          "wordCount": 11743,
+          "wordCount": 11746,
           "title": "Pentagon Official Describes Report of ‘Prius’-sized, High-Speed UFO During Senate Hearing",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/11/Decrypt-Wallpaper-Format-1600-x-900-px-gID_7.png@png",
@@ -356,7 +386,7 @@
           "description": "Marathon's latest offering comes as several firms begin acquiring more Bitcoin following a market rally that has catapulted crypto prices.",
           "link": "https://decrypt.co/292452/marathon-digital-issues-850m-convertible-note-sale-to-repurchase-debt-acquire-bitcoin",
           "publishedOn": "2024-11-19T23:17:32.000Z",
-          "wordCount": 9642,
+          "wordCount": 9645,
           "title": "Marathon Digital Issues $850M Convertible Note Sale to Repurchase Debt, Acquire Bitcoin",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/08/Marathon-Digital_T-Schneider_shutterstock_2209390451-gID_7.jpg@png",
@@ -371,7 +401,7 @@
           "description": "How did Michael Saylor's firm amass a record stash of Bitcoin? Here's a look back at how MicroStrategy made such massive gains.",
           "link": "https://decrypt.co/292448/microstrategy-biggest-bitcoin-buys",
           "publishedOn": "2024-11-19T22:31:01.000Z",
-          "wordCount": 11046,
+          "wordCount": 11049,
           "title": "MicroStrategy Now Holds $30 Billion in Bitcoin—These Are Its Biggest Buys",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/04/michael-saylor-bitcoin-lightning-gID_7.jpeg@png",
@@ -386,7 +416,7 @@
           "description": "Solana’s top dog Bonk reclaimed its title from Dogwifhat, all while SOL comes close to beating its own record from 2021.",
           "link": "https://decrypt.co/292437/bonk-flips-dogwifhat-on-its-way-to-all-time-high-with-solana-along-for-the-ride",
           "publishedOn": "2024-11-19T21:52:05.000Z",
-          "wordCount": 10482,
+          "wordCount": 10485,
           "title": "Bonk Flips Dogwifhat on Its Way to All-Time High—With Solana Along for the Ride",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/01/bonk-solana-gID_7.jpg@png",
@@ -401,7 +431,7 @@
           "description": "The icing on the cake is Mistral's use of Flux Pro to generate images, meaning it’s the multimodal chatbot with the best image-generation capabilities currently available",
           "link": "https://decrypt.co/292432/mistral-ais-new-chatbot-rivals-gpt-but-for-free",
           "publishedOn": "2024-11-19T21:44:39.000Z",
-          "wordCount": 12586,
+          "wordCount": 12589,
           "title": "Mistral AI’s New Chatbot Rivals GPT, But For Free",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/09/MistralAI-gID_7.png@png",
@@ -416,7 +446,7 @@
           "description": "Flickplay has teamed with Bandai Namco to launch a Pokémon Go-style scavenger hunt in Tokyo's Shibuya neighborhood, starring Pac-Man.",
           "link": "https://decrypt.co/292394/pac-man-nfts-fuel-tokyo-scavenger-hunt",
           "publishedOn": "2024-11-19T21:39:04.000Z",
-          "wordCount": 10675,
+          "wordCount": 10678,
           "title": "Pac-Man NFTs to Fuel Pokémon Go-Like Scavenger Hunt in Tokyo",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/11/FLICKPLAY_BANDAI-NAMCO_PAC-MAN-gID_7.png@png",
@@ -426,27 +456,12 @@
           "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/11/FLICKPLAY_BANDAI-NAMCO_PAC-MAN-gID_7.png@png"
         },
         {
-          "id": "https://decrypt.co/?p=292405",
-          "author": "Mathew Di Salvo",
-          "description": "Traders betting on the future price of Dogecoin have faced liquidations Tuesday, with one Binance user losing $1 million.",
-          "link": "https://decrypt.co/292405/dogecoin-shorts-rekt-price-pumps",
-          "publishedOn": "2024-11-19T21:06:20.000Z",
-          "wordCount": 9965,
-          "title": "Dogecoin Shorts Rekt as Meme Coin Price Pumps Again",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/08/dogecoin-dog-meme-coins-tokens-gID_7.jpg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/08/dogecoin-dog-meme-coins-tokens-gID_7.jpg@png"
-        },
-        {
           "id": "https://decrypt.co/videos/interviews/T5BqhqAG/btc-etf-options-launch-russia-us-tensions-grow-zerebro-hits-470m",
           "author": null,
           "description": "BTC hits $92k, ‘$100k no longer a dream’. Blackrock BTC ETF options will launch today. MicroStrategy buys $4.6bn BTC, plans $1.75bn more. Binance creates stablecoin-like product at 20% APY. GS looking to spin out digital assets tech platform. California rules LIDO DAO is a General Partnership. Trump Media in talks to buy crypto exchange Bakkt. Trump meets with Coinbase CEO Armstrong. SOL hits highest ever weekly economic value. SOL co-founder Toly releases brief roadmap. SOL overtakes ETH activity on Nansen. Genius kicks off BTC treasury play with $10mn. Semler Scientific buys $17.7mn BTC. Gemini launches in France. Russia imposes 15% tax on Crypto. Judge rejects Kraken’s motion for SEC appeal. Mining profits bounce back from all time lows.",
           "link": "https://decrypt.co/videos/interviews/T5BqhqAG/btc-etf-options-launch-russia-us-tensions-grow-zerebro-hits-470m",
           "publishedOn": "2024-11-19T18:26:49.000Z",
-          "wordCount": 7314,
+          "wordCount": 7010,
           "title": "BTC ETF options launch, Russia-US tensions grow, ZEREBRO hits $470M",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/T5BqhqAG/poster.jpg",
@@ -536,7 +551,7 @@
           "description": "Anthony Day, Head of Strategy and Marketing for Midnight, joined Decrypt's Stephen Graves at Web Summit to explain why everything from DeFi to gaming needs programmable data privacy.",
           "link": "https://decrypt.co/videos/interviews/gaLZ9rbJ/midnight-is-building-data-protection-for-literally-any-application-running-on-chain",
           "publishedOn": "2024-11-14T18:10:15.000Z",
-          "wordCount": 6870,
+          "wordCount": 6566,
           "title": "Midnight is Building Data Protection for 'Literally any Application Running On-Chain'",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/gaLZ9rbJ/poster.jpg",
@@ -686,7 +701,7 @@
           "description": "BTC ETF see largest outflows since May. BTC briefly dips below 68k, OI falls $2bn. BTC hashrate hits another ATH. MT Gox transfers $2.2bn BTC to 2 wallets. Crypto prediction markets favour Trump 63%. Major crypto firms launch stablecoin network. Semler Scientific bought $71m BTC in Q3. First UK pension fund buys $65m BTC ETF. Michigan Pension Fund buy ETH ETFs. ETH is Amazon 2.0: 21 Shares. Deutsche Telekom pilots BTC mining scheme. Tether denies plan for blockchain. Citi, Fidelity unveil tokenized FX swaps. Bitget introduces Bitget Pay. a16z send another $23m to crypto PAC. Binance & CZ attempt to squash SEC suit.",
           "link": "https://decrypt.co/videos/interviews/BQqxU2d6/us-election-day-large-etf-outflows-fwog-hits-380m",
           "publishedOn": "2024-11-05T21:12:57.000Z",
-          "wordCount": 7233,
+          "wordCount": 6929,
           "title": "US Election Day, Large ETF outflows, FWOG hits $380M!",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/BQqxU2d6/poster.jpg",
