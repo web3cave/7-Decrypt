@@ -6,12 +6,42 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=293207",
+          "author": "Sander Lutz",
+          "description": "Jaime Lizárraga announced Friday that he will step down as SEC Commissioner in January, following Chairman Gary Gensler's lead.",
+          "link": "https://decrypt.co/293207/another-democrat-quits-sec-gensler",
+          "publishedOn": "2024-11-22T19:51:28.000Z",
+          "wordCount": 10323,
+          "title": "Another Democrat Quits SEC After Gary Gensler—Here’s What It Means",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/06/sec-shutterstock_1128745520-16x9-1-gID_7.jpg@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/06/sec-shutterstock_1128745520-16x9-1-gID_7.jpg@png"
+        },
+        {
+          "id": "https://decrypt.co/?p=293162",
+          "author": "Jose Antonio Lanz",
+          "description": "Want to have your own dystopian clone? Stanford University has got you covered.",
+          "link": "https://decrypt.co/293162/stanford-researchers-ai-agents-human-behavior",
+          "publishedOn": "2024-11-22T19:17:29.000Z",
+          "wordCount": 11332,
+          "title": "Stanford Researchers Built AI Agents That Accurately Predict Human Behavior",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/11/750875b_1-1-gID_7.png@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/11/750875b_1-1-gID_7.png@png"
+        },
+        {
           "id": "https://decrypt.co/?p=293178",
           "author": "André Beganski",
           "description": "\"Mad Money\" host Jim Cramer is bullish on Bitcoin—and that's a bad thing, according to concerned investors citing the \"inverse Cramer\" effect.",
           "link": "https://decrypt.co/293178/jim-cramer-mad-money-bitcoin-winner",
           "publishedOn": "2024-11-22T19:07:29.000Z",
-          "wordCount": 11142,
+          "wordCount": 11068,
           "title": "Jim Cramer Says Bitcoin Is a ‘Winner’—Investors Would Really Rather He Not",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/02/jim-cramer-mad-money-bitcoin-gID_7.jpg@png",
@@ -26,7 +56,7 @@
           "description": "Robinhood's Chief Legal Officer Dan Gallagher, viewed as a potential SEC Chair under Donald Trump, said he isn't interested in the role.",
           "link": "https://decrypt.co/293119/robinhood-exec-dan-gallagher-sec-chair",
           "publishedOn": "2024-11-22T17:53:27.000Z",
-          "wordCount": 10323,
+          "wordCount": 10249,
           "title": "Gary Gensler Is Leaving the SEC, But Robinhood Exec Dan Gallagher Doesn't Want the Job",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/07/robinhood-ipo-crypto-gID_7.jpg@png",
@@ -41,7 +71,7 @@
           "description": "Dogecoin hit its highest price in over a week, but other altcoins are seeing massive gains as Bitcoin approaches the $100,000 milestone.",
           "link": "https://decrypt.co/293077/dogecoin-rising-bitcoin-nears-100k",
           "publishedOn": "2024-11-22T17:40:43.000Z",
-          "wordCount": 10245,
+          "wordCount": 10171,
           "title": "Dogecoin Rising as Bitcoin Nears $100K—But XRP and Other Alts Are Hotter",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/04/dogecoin-price-trading-gID_7.jpeg@png",
@@ -56,7 +86,7 @@
           "description": "France’s gaming regulator investigated the crypto prediction market platform after a French trader attracted scrutiny for waging millions on a Trump victory.",
           "link": "https://decrypt.co/293116/polymarket-blocks-users-france-trump-controversy",
           "publishedOn": "2024-11-22T17:20:33.000Z",
-          "wordCount": 9912,
+          "wordCount": 9838,
           "title": "Polymarket Blocks Users in France After Trump Betting Controversy",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2019/12/napoleon-bitcoin-fund-c-gID_7.jpg@png",
@@ -71,7 +101,7 @@
           "description": "The ME Foundation has announced the date of its highly anticipated ME token launch, which could significantly benefit Magic Eden users.",
           "link": "https://decrypt.co/293087/magic-eden-token-airdrop-date-set",
           "publishedOn": "2024-11-22T16:22:45.000Z",
-          "wordCount": 9875,
+          "wordCount": 9801,
           "title": "Magic Eden Token Airdrop Date Set as Pre-Market Value Hits $562 Million",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/11/me-token-gID_7.png@png",
@@ -86,7 +116,7 @@
           "description": "The men are charged with harvesting credentials in order to steal millions of dollars worth of crypto from victims.",
           "link": "https://decrypt.co/293086/doj-charges-five-in-scattered-spider-crypto-phishing-case",
           "publishedOn": "2024-11-22T16:04:41.000Z",
-          "wordCount": 9908,
+          "wordCount": 9834,
           "title": "DOJ Charges Five in ‘Scattered Spider’ Crypto Phishing Case",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/04/shutterstock_6126941961-gID_7.jpg@png",
@@ -101,7 +131,7 @@
           "description": "After reaching millions of players with NFL Rivals, Mythical Games is taking a shot at Web3 soccer in a team-up with FIFA.",
           "link": "https://decrypt.co/293000/fifa-rivals-mobile-nft-game-announced",
           "publishedOn": "2024-11-22T13:46:33.000Z",
-          "wordCount": 9629,
+          "wordCount": 9555,
           "title": "‘FIFA Rivals’ Mobile NFT Game Coming From Makers of ‘NFL Rivals’",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/11/FIFARivals_Keyart_Final_ND-gID_7.png@png",
@@ -116,7 +146,7 @@
           "description": "As the price of Bitcoin approaches $100,000, Blackrock and Fidelity ETFs gobbled up the vast majority of the new capital.",
           "link": "https://decrypt.co/293034/bitcoin-etfs-take-in-1-billion-as-btc-price-nears-100000",
           "publishedOn": "2024-11-22T12:01:35.000Z",
-          "wordCount": 9895,
+          "wordCount": 9821,
           "title": "Bitcoin ETFs Take in $1 Billion as BTC Price Nears $100,000",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/01/bitcoin-etf-trading-gID_7.jpeg@png",
@@ -131,7 +161,7 @@
           "description": "Apple has become aware of a security flaw that could let hackers take control of a user’s iPhone or iPad if they visit a harmful website.",
           "link": "https://decrypt.co/293001/apple-admits-to-security-vulnerability-that-leaves-crypto-users-exposed-heres-what-you-should-do",
           "publishedOn": "2024-11-22T04:20:22.000Z",
-          "wordCount": 10223,
+          "wordCount": 10149,
           "title": "Apple Admits to Security Vulnerability That Leaves Crypto Users Exposed—Here's What You Should Do",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/04/apple-macbook-air-gID_7.jpg@png",
@@ -146,7 +176,7 @@
           "description": "After plunging to nearly $8 in 2022, Solana has finally fully rebounded, jumping above the $260 mark Thursday for the first time ever.",
           "link": "https://decrypt.co/292874/solana-hits-all-time-high-price",
           "publishedOn": "2024-11-22T03:19:10.000Z",
-          "wordCount": 9664,
+          "wordCount": 9592,
           "title": "Solana Hits All-Time High Price Two Years After FTX Nearly Sent It to Zero",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/12/Solana-shutterstock_2149934137-16x9-1-gID_7.jpg@png",
@@ -161,7 +191,7 @@
           "description": "MicroStrategy has since emerged as the second most actively traded stock on the Nasdaq by dollar volume, trailing Nvidia. But is it too hot?",
           "link": "https://decrypt.co/292985/microstrategy-stock-sinks-16-as-bitcoin-nears-100k-is-it-too-hot-to-handle",
           "publishedOn": "2024-11-22T02:52:00.000Z",
-          "wordCount": 11753,
+          "wordCount": 11679,
           "title": "MicroStrategy Stock Sinks 16% as Bitcoin Nears $100K—Is It Too Hot to Handle?",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/07/michael-saylor-bitcoin-nashville-gID_7.jpg@png",
@@ -176,7 +206,7 @@
           "description": "Telegram tap-to-earn game MemeFi is about to drop its token on Sui. Here’s what you need to know about claiming the airdrop.",
           "link": "https://decrypt.co/292986/memefi-telegram-game-airdrop-explainer",
           "publishedOn": "2024-11-22T02:42:29.000Z",
-          "wordCount": 11298,
+          "wordCount": 11224,
           "title": "Everything You Need to Know About the ‘MemeFi’ Telegram Game Airdrop",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/11/memefi-airdrop-art-gID_7.png@png",
@@ -191,7 +221,7 @@
           "description": "A Russian missile strike near Dnipro shows off a new, highly maneuverable weapon that sends a signal to the West.",
           "link": "https://decrypt.co/292954/know-your-missiles-russias-experimental-hypersonic-missile-a-new-kind-of-killing-machine",
           "publishedOn": "2024-11-21T23:18:01.000Z",
-          "wordCount": 12081,
+          "wordCount": 12009,
           "title": "Know Your Missiles: Russia’s Experimental Hypersonic Missile Is A New Kind of Killing Machine",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/11/Decrypt-Wallpaper-Format-1600-x-900-px-2-1-gID_7.png@png",
@@ -206,7 +236,7 @@
           "description": "Schwab’s move into spot crypto trading signals a broader shift among traditional financial institutions adapting to investor demand.",
           "link": "https://decrypt.co/292957/charles-schwab-mulls-crypto-trading-incoming-ceo-feels-silly-for-not-buying-in",
           "publishedOn": "2024-11-21T22:53:51.000Z",
-          "wordCount": 9946,
+          "wordCount": 9874,
           "title": "Charles Schwab Mulls Crypto Trading, Incoming CEO 'Feels Silly' for Not Buying In",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/07/charles-schwab-logo-gID_7.jpg@png",
@@ -221,7 +251,7 @@
           "description": "Runes tokens are surging in price as BRC-20 tokens see ample trading, all while Bitcoin itself continues pushing to all-time highs.",
           "link": "https://decrypt.co/292953/bitcoin-meme-coins-surge-100k",
           "publishedOn": "2024-11-21T22:31:41.000Z",
-          "wordCount": 10617,
+          "wordCount": 10543,
           "title": "Bitcoin Meme Coins Surge as BTC Rises Towards $100K",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/04/Runes_Picking_Astrology_Sparks-gID_7.jpg@png",
@@ -236,7 +266,7 @@
           "description": "SEC Chair Gary Gensler's resignation announcement was met with a sigh of relief on Crypto Twitter, alongside a slew of mocking memes.",
           "link": "https://decrypt.co/292941/crypto-industry-bids-farewell-gary-gensler",
           "publishedOn": "2024-11-21T22:02:17.000Z",
-          "wordCount": 11138,
+          "wordCount": 11064,
           "title": "Crypto Industry Bids Farewell to Gary Gensler—Exactly Like You’d Expect",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/09/sec-chair-gary-gensler-gID_7.jpeg@png",
@@ -251,7 +281,7 @@
           "description": "The so-called dealer rule as interpreted by the SEC would have treated DeFi projects and traders like securities exchanges and brokers.",
           "link": "https://decrypt.co/292929/crypto-win-sec-dealer-rule-gensler",
           "publishedOn": "2024-11-21T20:10:00.000Z",
-          "wordCount": 10485,
+          "wordCount": 10413,
           "title": "Crypto Scores Crucial Court Win Against SEC as Gensler Calls It Quits",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/08/tingey-injury-law-firm-DZpc4UY8ZtY-unsplash-1-scaled-gID_7.jpg@png",
@@ -266,7 +296,7 @@
           "description": "After selling through 222K cans of Rekt Drinks sparkling water, Rekt Brands is gearing up to launch its Ethereum token this week.",
           "link": "https://decrypt.co/292930/rekt-coin-launching-ethereum-airdrop",
           "publishedOn": "2024-11-21T20:06:51.000Z",
-          "wordCount": 9870,
+          "wordCount": 9796,
           "title": "Rekt Coin Launching With Airdrop Following Rekt Drinks Sellout",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/11/rektcoin-artwork-gID_7.png@png",
@@ -281,7 +311,7 @@
           "description": "Crypto asset manager Bitwise has filed for a Solana ETF amid increased optimism about SEC approvals under a Donald Trump administration.",
           "link": "https://decrypt.co/292877/bitwise-solana-etf-sol-nears-record-price",
           "publishedOn": "2024-11-21T19:46:36.000Z",
-          "wordCount": 9951,
+          "wordCount": 9877,
           "title": "Bitwise Files for Solana ETF as SOL Nears Record Price",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/09/solana-sol-token-network-mainnet-gID_7.jpg@png",
@@ -296,7 +326,7 @@
           "description": "After leading the SEC's crackdown on the crypto industry, Gary Gensler will depart on January 20 as Donald Trump begins his term.",
           "link": "https://decrypt.co/292878/sec-chair-gary-gensler-resign",
           "publishedOn": "2024-11-21T18:09:08.000Z",
-          "wordCount": 11913,
+          "wordCount": 11839,
           "title": "SEC Chair Gary Gensler to Resign When Trump Retakes White House",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/05/Gary-Gensler-SEC-e1621554413500-gID_7.jpeg@png",
@@ -311,7 +341,7 @@
           "description": "The “blockchain for data” uses enshrined oracles to provide fast, reliable, fully decentralized data feeds, explained Hugo Philion.",
           "link": "https://decrypt.co/292593/flare-co-founder-decentralized-data-will-power-future-value-of-crypto-industry",
           "publishedOn": "2024-11-21T17:01:02.000Z",
-          "wordCount": 10753,
+          "wordCount": 10679,
           "title": "Flare Co-Founder: Decentralized Data Will Power ‘Future Value’ of Crypto Industry",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/11/hugo-philion-flare-1-gID_7.jpg@png",
@@ -341,7 +371,7 @@
           "description": "Bitcoin's largest corporate treasury holder opened at an all-time high, then fell, then rebounded after BTC swung closer to $100K than ever.",
           "link": "https://decrypt.co/292850/microstrategy-all-time-high-bitcoin-98000",
           "publishedOn": "2024-11-21T16:37:07.000Z",
-          "wordCount": 9970,
+          "wordCount": 9896,
           "title": "MicroStrategy Hits All-Time High Price After Bitcoin Tops $98,000",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/03/bitcoin-btc-wall-street-bull-bitcoin-etfs-1-scaled-gID_7.jpg@png",
@@ -356,7 +386,7 @@
           "description": "Sui Network experienced its first major outage Thursday, grinding the network to a halt for two hours due to a bug.",
           "link": "https://decrypt.co/292833/sui-price-down-major-outage",
           "publishedOn": "2024-11-21T16:07:08.000Z",
-          "wordCount": 10148,
+          "wordCount": 10074,
           "title": "Sui Price Down Following Network’s First Major Outage",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/09/sui-token-sui-network-gID_7.jpg@png",
@@ -371,7 +401,7 @@
           "description": "Not so chill: Artist Phillip Banks has threatened legal action around unauthorized use after a Solana meme coin skyrocketed in price.",
           "link": "https://decrypt.co/292820/chill-guy-artist-threat-solana-meme-coin",
           "publishedOn": "2024-11-21T15:42:51.000Z",
-          "wordCount": 11421,
+          "wordCount": 11347,
           "title": "'Just a Chill Guy' Artist Threatens Legal Action Over Surging Meme Coin",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/11/chillguy-1-gID_7.jpg@png",
@@ -386,7 +416,7 @@
           "description": "Yao Qian has been expelled from the Communist Party of China following accusations of having taken bribes.",
           "link": "https://decrypt.co/292809/former-head-of-chinas-digital-currency-project-faces-corruption-charges-report",
           "publishedOn": "2024-11-21T12:31:34.000Z",
-          "wordCount": 9920,
+          "wordCount": 9846,
           "title": "Former Head of China’s Digital Currency Project Faces Corruption Charges: Report",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/12/digital-yuan-gID_7.jpg@png",
@@ -401,7 +431,7 @@
           "description": "Onchain data showed Ethereum co-founder Vitalik Buterin's wallet swapping 0.082 ETH for 30,303 ANON Wednesday evening.",
           "link": "https://decrypt.co/292783/vitalik-buterin-anon-token-surged-350-whats-it-all-about",
           "publishedOn": "2024-11-21T12:23:37.000Z",
-          "wordCount": 10042,
+          "wordCount": 9968,
           "title": "Vitalik Buterin Buys Anon, Token Surged 350%—What's It All About?",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2019/04/vitalik-head-gID_7.jpeg@png",
@@ -461,7 +491,7 @@
           "description": "BTC ETFs: -$370mn, ETH ETFs: -$60mn. BTC has highest weekly close ever. Crypto total market cap hits ATH. XRP breaks $1.3 on hope for regulatory shift. Gensler likely to resign after Thanksgiving.\nSOL hits $250 as memecoin frenzy continues. BTC ETFs saw $1.7bn inflows last week. ETH ETFs see record weekly inflows. ETH/BTC breaks 8-year support line. Base & SOL lead crypto weekly inflows vs ETH. DOGE investors sue Elon for $248bn. Trump unlocked. Metaplanet to raise $11.3m more to buy BTC. BTC to $100k in weeks: Galaxy. BTC can hit $1-1.5m by 2030: Cathie Wood. Most of my wealth is in BTC: RFK. Tether launches MiCA compliant stablecoins. Elon blocked OpenAI’s plan to issue a token. NY to devote less resources to crypto convictions.",
           "link": "https://decrypt.co/videos/interviews/uk99JtUf/btc-highest-ever-weekly-close-nvidia-results-this-week-bonk-hits-5b-solana-in-full-send",
           "publishedOn": "2024-11-18T20:32:46.000Z",
-          "wordCount": 7078,
+          "wordCount": 7360,
           "title": "BTC Highest ever Weekly Close, Nvidia Results this week, BONK hits $5B, Solana in full send!",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/uk99JtUf/poster.jpg",
@@ -611,7 +641,7 @@
           "description": "Bitcoin nears $82k ATH, $1.6T market cap. Coinbase stocks rises 15% pre-market. Coinbase breaks into top 100 most popular apps. FTX files $1.8bn lawsuit against Binance & CZ. MicroStrategy now owns over $20bn BTC. Funding rates begin to rise, particularly on memes. Mt Gox moves $2bn BTC. BlackRock BTC ETF bigger than gold ETF. $746m of altcoin unlocks this week. Trump will bring regulatory clarity: a16z. SUI up 30%, becomes top 15 coin. ADA up 80% this week, founder may shape US policy. N. Korea push new MacOS spyware. SEC delays decision ETH ETF options. Tether mints $2bn USDT on ETH. ETH ETF sees two of its biggest inflow days. ENS unveils Namechain Layer 2.",
           "link": "https://decrypt.co/videos/interviews/xv4nE36f/btc-hits-82k-inflation-data-this-week-pnut-act-get-binance-listing",
           "publishedOn": "2024-11-12T15:14:24.000Z",
-          "wordCount": 7013,
+          "wordCount": 7295,
           "title": "BTC hits $82k, Inflation Data this week, PNUT & ACT get Binance listing",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/xv4nE36f/poster.jpg",
@@ -671,7 +701,7 @@
           "description": "ETH leads majors, ETH/BTC reverses 8%. Blackrock BTC ETF hits record $4.1bn volume. BTC was up 1900% in Trump’s first term. Regulation headwind now tailwind: Bernstein. Bitcoin may hit $100k by year-end: BitGet. Trump may pass Bitcoin Act: CoinShares. Uyeda may replace Gensler at SEC. Lummis backs BTC as National Reserve asset. Tether bridges $2bn to ETH network. ETH ICO investor transfers $39.4mm to Kraken. DeFi coins outperform, ENA proposes fee swap. JPM allows instant FX settlement on blockchain. BNB allows tokenisation platform. CryptoCom plans stablecoin in 2025. Arkham launches perp futures exchange. AVAX buys $52m tokens from Luna Foundation. DOGE flip over XRP only brief. WLFI fails to see bounce in funding after election.",
           "link": "https://decrypt.co/videos/interviews/TOKVHvmT/btc-stocks-ath-fed-decision-today-pnut-hits-125m",
           "publishedOn": "2024-11-09T19:20:29.000Z",
-          "wordCount": 6995,
+          "wordCount": 7277,
           "title": "BTC & Stocks ATH, FED decision today, PNUT hits $125M",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/TOKVHvmT/poster.jpg",
@@ -686,7 +716,7 @@
           "description": "BTC ETF see largest outflows since May. BTC briefly dips below 68k, OI falls $2bn. BTC hashrate hits another ATH. MT Gox transfers $2.2bn BTC to 2 wallets. Crypto prediction markets favour Trump 63%. Major crypto firms launch stablecoin network. Semler Scientific bought $71m BTC in Q3. First UK pension fund buys $65m BTC ETF. Michigan Pension Fund buy ETH ETFs. ETH is Amazon 2.0: 21 Shares. Deutsche Telekom pilots BTC mining scheme. Tether denies plan for blockchain. Citi, Fidelity unveil tokenized FX swaps. Bitget introduces Bitget Pay. a16z send another $23m to crypto PAC. Binance & CZ attempt to squash SEC suit.",
           "link": "https://decrypt.co/videos/interviews/BQqxU2d6/us-election-day-large-etf-outflows-fwog-hits-380m",
           "publishedOn": "2024-11-05T21:12:57.000Z",
-          "wordCount": 6929,
+          "wordCount": 7211,
           "title": "US Election Day, Large ETF outflows, FWOG hits $380M!",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/BQqxU2d6/poster.jpg",
