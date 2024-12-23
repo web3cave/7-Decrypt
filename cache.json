@@ -6,12 +6,27 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=298281",
+          "author": "Ryan Gladwin",
+          "description": "Catch up on this week’s biggest crypto and NFT gaming news and find some weekend reads in our latest roundup.",
+          "link": "https://decrypt.co/298281/this-week-crypto-games-santa-bitcoin-miner-ethereum-tokens",
+          "publishedOn": "2024-12-23T00:06:50.000Z",
+          "wordCount": 13703,
+          "title": "This Week in Crypto Games: Santa Brings Bitcoin, Ethereum Token Launch Frenzy",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/12/santa-bitcoin-gID_7.png@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/12/santa-bitcoin-gID_7.png@png"
+        },
+        {
           "id": "https://decrypt.co/?p=298484",
           "author": "Andrew Hayward",
           "description": "Bo Hines, a former House candidate in 2022 and 2024, will work alongside David Sacks to promote crypto in Donald Trump's administration.",
           "link": "https://decrypt.co/298484/trump-picks-bo-hines-crypto-council",
           "publishedOn": "2024-12-22T22:39:06.000Z",
-          "wordCount": 10145,
+          "wordCount": 10124,
           "title": "Trump Picks Bo Hines to Lead Presidential Crypto Council",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/12/bo-hines-gID_7.jpg@png",
@@ -26,7 +41,7 @@
           "description": "Earn real Bitcoin for mining fake crypto in this mobile game. Here’s how to stack more satoshis by maximizing your play.",
           "link": "https://decrypt.co/resources/bitcoin-miner-game-guide-earn-more-btc-ios-android",
           "publishedOn": "2024-12-22T18:25:08.000Z",
-          "wordCount": 12701,
+          "wordCount": 12680,
           "title": "'Bitcoin Miner' Game Guide: 7 Tips to Earn More BTC on iOS and Android",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/02/bitcoin-what-is-gID_7-pID_4.png@png",
@@ -41,7 +56,7 @@
           "description": "The $249 Jetson Orin Nano Super packs nearly twice the AI processing power into a palm-sized device, making it more accessible for hobbyists.",
           "link": "https://decrypt.co/297983/nvidia-upgrades-low-cost-jetson-ai-computer",
           "publishedOn": "2024-12-22T17:10:50.000Z",
-          "wordCount": 11360,
+          "wordCount": 11339,
           "title": "Nvidia Upgrades Low-Cost Jetson AI Computer—More Power for Half the Price",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/12/Captura-de-pantalla-2024-12-19-143851-gID_7.png@png",
@@ -56,7 +71,7 @@
           "description": "California men Gabriel Hay and Gavin Mayo were charged by the Department of Justice over a series of alleged NFT investment scams.",
           "link": "https://decrypt.co/298427/ethereum-solana-nft-scammers-charged-22m-rug-pulls",
           "publishedOn": "2024-12-22T16:38:38.000Z",
-          "wordCount": 10397,
+          "wordCount": 10376,
           "title": "Ethereum and Solana NFT Scammers Charged in $22 Million Rug Pull Scheme",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/12/vault-gems-scam-gID_7.png@png",
@@ -71,7 +86,7 @@
           "description": "Bitcoin has plunged 12% in the last five days since setting a new high, while Dogecoin and XRP have fallen hard after recent milestones.",
           "link": "https://decrypt.co/298447/dogecoin-down-bitcoin-xrp-stumble",
           "publishedOn": "2024-12-22T16:02:35.000Z",
-          "wordCount": 9881,
+          "wordCount": 9860,
           "title": "Dogecoin Down 23% This Week as Bitcoin and XRP Stumble After Surges",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/01/dogecoin-down-bad-gID_7.jpeg@png",
@@ -86,7 +101,7 @@
           "description": "Multiple U.S. states are reviewing Bitcoin reserve bills, while crypto advocates are pushing for similar proposals in other states.",
           "link": "https://decrypt.co/298413/us-states-considering-bitcoin-reserves",
           "publishedOn": "2024-12-21T14:52:59.000Z",
-          "wordCount": 10473,
+          "wordCount": 10452,
           "title": "United States of Bitcoin? These States Are Considering BTC Reserves",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/08/usa-flag-bitcoin-gID_7.png@png",
@@ -101,7 +116,7 @@
           "description": "Anthropic’s Best-of-N jailbreak technique proves how introducing random characters in a prompt is often enough to successfully bypass AI restrictions.",
           "link": "https://decrypt.co/298397/anthropic-jailbreak-bypass-ai-restrictions-censorship",
           "publishedOn": "2024-12-21T14:24:15.000Z",
-          "wordCount": 11364,
+          "wordCount": 11343,
           "title": "AI Won’t Tell You How to Build a Bomb—Unless You Say It’s a 'b0mB'",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/12/9Yzc0liGR-iVmKwK55tNhQ-gID_7.jpg@png",
@@ -116,7 +131,7 @@
           "description": "Dogecoin was once a joke, but the meme coin gained traction after Elon Musk backed it. Now he'll help lead the DOGE agency under Trump. Here's a look back.",
           "link": "https://decrypt.co/291361/elon-musk-dogecoin-timeline-explained",
           "publishedOn": "2024-12-21T14:01:18.000Z",
-          "wordCount": 13656,
+          "wordCount": 13635,
           "title": "Elon Musk and Dogecoin: How the Billionaire Became the 'Dogefather'",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/07/elon-musk-dogecoin-gID_7.jpeg@png",
@@ -131,7 +146,7 @@
           "description": "Stablecoin issuer Tether has committed $775 million to rising streaming video platform Rumble, which has adopted a Bitcoin reserve strategy.",
           "link": "https://decrypt.co/298421/tether-invests-775-million-rumble-bitcoin",
           "publishedOn": "2024-12-21T01:00:46.000Z",
-          "wordCount": 10251,
+          "wordCount": 10230,
           "title": "Tether Invests $775 Million in Rumble Following YouTube Rival's Bitcoin Push",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/04/Tether-dollars-gID_7.jpeg@png",
@@ -146,7 +161,7 @@
           "description": "Haliey Welch, the Hawk Tuah girl, is finally speaking up—and she's working with the law firm suing her meme coin business partners.",
           "link": "https://decrypt.co/298329/hawk-tuah-girl-lawsuit-meme-coin",
           "publishedOn": "2024-12-20T21:20:16.000Z",
-          "wordCount": 11119,
+          "wordCount": 11098,
           "title": "Hawk Tuah Girl Wakes Up, Plays Ball With Lawyers Suing Meme Coin Makers",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/12/hawk-tuah-1-gID_7.png@png",
@@ -161,7 +176,7 @@
           "description": "Instagram chief Adam Mosseri showed off new AI features that'll let users edit videos by simply using text to change video imagery.",
           "link": "https://decrypt.co/298320/meta-ai-video-editor-coming-instagram",
           "publishedOn": "2024-12-20T20:34:17.000Z",
-          "wordCount": 10547,
+          "wordCount": 10526,
           "title": "Meta's AI Video Editor Coming to Instagram to Make You Question What’s Real",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/12/photo-collage.png-1-gID_7.png@png",
@@ -176,7 +191,7 @@
           "description": "The suspect in the murder of UnitedHealth Group CEO Brian Thompson, Luigi Mangione, is sharing a facility with fellow high-profile inmates.",
           "link": "https://decrypt.co/298302/luigi-mangione-same-jail-diddy-ftx-sbf",
           "publishedOn": "2024-12-20T20:05:29.000Z",
-          "wordCount": 9706,
+          "wordCount": 9685,
           "title": "Luigi Mangione Lands in Same Jail as Diddy, FTX Founder Sam Bankman-Fried",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/12/sbf-luigi-gID_7.png@png",
@@ -191,7 +206,7 @@
           "description": "Spun off from the classic Ragnarok Online experience, crypto game Ragnarok: Landverse will land alongside Pixels and Axie Infinity on Ronin.",
           "link": "https://decrypt.co/298311/ragnarok-landverse-ethereum-gaming-network-ronin",
           "publishedOn": "2024-12-20T18:29:58.000Z",
-          "wordCount": 10032,
+          "wordCount": 10011,
           "title": "‘Ragnarok: Landverse’ Expanding to Ethereum Gaming Network Ronin",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/12/ragnarok-landverse-gID_7.jpg@png",
@@ -206,7 +221,7 @@
           "description": "Metaplanet, a Japanese investment firm, has issued more debt to buy Bitcoin despite apparent pushback from shareholders this week.",
           "link": "https://decrypt.co/298291/metaplanet-raises-61-million-buy-bitcoin",
           "publishedOn": "2024-12-20T17:42:30.000Z",
-          "wordCount": 9715,
+          "wordCount": 9694,
           "title": "Japan's Answer to MicroStrategy Raises $61 Million to Buy More Bitcoin",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/08/bitcoin-btc-japan-japanese-flag-gID_7.png@png",
@@ -221,7 +236,7 @@
           "description": "UPDATE: Will NFT marketplace OpenSea finally launch a token? A new OpenSea Foundation appears to be teasing OCEAN.",
           "link": "https://decrypt.co/297328/opensea-nft-token-airdrop-speculation",
           "publishedOn": "2024-12-20T17:24:20.000Z",
-          "wordCount": 12717,
+          "wordCount": 12696,
           "title": "OpenSea: Everything You Need to Know About the Token Airdrop Speculation",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/11/opensea-shutterstock-gID_7.jpg@png",
@@ -236,7 +251,7 @@
           "description": "Bitcoin, Ethereum, Solana, and XRP are down bad, but Dogecoin is the biggest loser by far in the top 10 coins with a 19% daily dump.",
           "link": "https://decrypt.co/298255/dogecoin-plummets-outpacing-bitcoin-xrp-losses",
           "publishedOn": "2024-12-20T14:37:12.000Z",
-          "wordCount": 10018,
+          "wordCount": 9997,
           "title": "Dogecoin Plummets to Lowest Price in a Month, Outpacing Bitcoin and XRP Losses",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/06/floki-shibainu-pepe-dogwifhat-meme-coins-memes-gID_7.jpeg@png",
@@ -251,7 +266,7 @@
           "description": "Altcoins have felt the sting, too. Ethereum was down 16% over a 24-hour period at one point, with XRP plunging 18% and Dogecoin 26%.",
           "link": "https://decrypt.co/298231/bitcoin-tumble-triggered-1-4-billion-in-liquidations",
           "publishedOn": "2024-12-20T14:08:24.000Z",
-          "wordCount": 9824,
+          "wordCount": 9803,
           "title": "Bitcoin Tumble Triggered $1.4 Billion in Liquidations",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/08/bitcoin-ethereum-btc-eth-red-light-gID_7.png@png",
@@ -266,7 +281,7 @@
           "description": "“Investors are likely to start taking profits due to the uncertainty caused by the Fed's policy,\" an analyst predicted.",
           "link": "https://decrypt.co/298227/bitcoin-etfs-record-high-outflows-672-million",
           "publishedOn": "2024-12-20T13:16:49.000Z",
-          "wordCount": 10046,
+          "wordCount": 10025,
           "title": "Bitcoin ETFs See Record-High Outflows of $672 Million",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/10/bitcoin-closeup-coin-btc-gID_7.png@png",
@@ -281,7 +296,7 @@
           "description": "“This is a game-changer for me,” said Tagoa’i. “By taking part of my NIL earnings in Bitcoin, I’m setting myself up for long-term financial growth.”",
           "link": "https://decrypt.co/298199/top-college-football-bitcoin-contract",
           "publishedOn": "2024-12-20T12:36:47.000Z",
-          "wordCount": 10140,
+          "wordCount": 10119,
           "title": "Top College Football Pick Inks Bitcoin Contract With University of South Carolina",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/12/bitcoin-btc-football-gID_7.png@png",
@@ -296,7 +311,7 @@
           "description": "A court motion argues that \"there is no deliberate action Mr. Storm could have taken here\" with Tornado Cash.",
           "link": "https://decrypt.co/298176/tornado-cash-dev-charges-dropped-sanctions-illegal",
           "publishedOn": "2024-12-20T12:14:05.000Z",
-          "wordCount": 10452,
+          "wordCount": 10431,
           "title": "Tornado Cash Dev Wants Charges Dropped Because Sanctions Deemed Illegal",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/08/tornado-cash-us-dollars-gID_7.jpg@png",
@@ -311,7 +326,7 @@
           "description": "Coinbase still has lower volume, \"but because they charge higher fees, that's where they have higher transaction revenue,\" an analyst said.",
           "link": "https://decrypt.co/298167/coinbase-revenue-outpaces-nasdaq",
           "publishedOn": "2024-12-20T11:39:36.000Z",
-          "wordCount": 10744,
+          "wordCount": 10723,
           "title": "Coinbase Revenue Outpaces Nasdaq—Here's What Analysts Say It Means",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/03/coinbase-coin-logo-smartphone-bitcoin-crypto-exchange-gID_7.jpg@png",
@@ -326,7 +341,7 @@
           "description": "Bavaria's data regulator has directed Worldcoin to establish a GDPR-compliant data deletion protocol by January's end.",
           "link": "https://decrypt.co/298090/german-watchdog-cracks-down-on-worldcoin-over-biometric-data",
           "publishedOn": "2024-12-20T05:28:54.000Z",
-          "wordCount": 10546,
+          "wordCount": 10525,
           "title": "German Watchdog Cracks Down on Worldcoin Over Biometric Data",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/07/Worldcoin-shutterstock_2068725362-16x9-1-gID_7.jpg@png",
@@ -341,7 +356,7 @@
           "description": "Following multiple review extensions since June, the regulator has approved the first dual Bitcoin-Ethereum ETFs.",
           "link": "https://decrypt.co/298087/sec-approves-first-hybrid-bitcoin-ethereum-etfs-from-hashdex-franklin-templeton",
           "publishedOn": "2024-12-20T05:07:01.000Z",
-          "wordCount": 10418,
+          "wordCount": 10397,
           "title": "SEC Approves First Hybrid Bitcoin-Ethereum ETFs From Hashdex, Franklin Templeton",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/06/bitcoin-ethereum-btc-eth-crypto-prices-gID_7.jpeg@png",
@@ -356,7 +371,7 @@
           "description": "The FAA has issued restrictions over 20 New Jersey cities following more than 5,000 drone reports since November.",
           "link": "https://decrypt.co/298073/faa-bans-drones-over-new-jersey-amid-surge-in-sightings",
           "publishedOn": "2024-12-20T02:41:10.000Z",
-          "wordCount": 10724,
+          "wordCount": 10703,
           "title": "FAA Bans Drones Over New Jersey Amid Surge in Sightings",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/12/Decrypt-Wallpaper-Format-1600-x-900-px-11-gID_7.png@png",
@@ -371,7 +386,7 @@
           "description": "Dogecoin fell as trading volume surged following Fed Chair Powell’s remark on Wednesday that inflation projections had \"fallen apart.\"",
           "link": "https://decrypt.co/298070/dogecoin-meme-coins-fall-as-fed-fears-linger",
           "publishedOn": "2024-12-20T01:52:34.000Z",
-          "wordCount": 10489,
+          "wordCount": 10468,
           "title": "Dogecoin, Meme Coins Fall as Fed Fears Linger",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/08/pepe-shib-meme-coins-gID_7.jpg@png",
@@ -386,7 +401,7 @@
           "description": "Tomarket’s TOMA token is launching on Aptos. Here’s the latest on when the airdrop is happening—and what’s next for the Telegram game.",
           "link": "https://decrypt.co/289372/tomarket-telegram-game-airdrop-token-launch",
           "publishedOn": "2024-12-19T23:36:02.000Z",
-          "wordCount": 10899,
+          "wordCount": 10878,
           "title": "Everything You Need to Know About the ‘Tomarket’ Telegram Game Airdrop",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/10/tomarket-logo-gID_7.jpeg@png",
@@ -401,7 +416,7 @@
           "description": "The world’s largest asset manager BlackRock released a video promoting Bitcoin. But hodlers aren’t happy about a disclaimer that questions the cryptocurrency's fixed supply.",
           "link": "https://decrypt.co/298022/blackrock-bitcoin-video-ad-bitcoiners-hate-it",
           "publishedOn": "2024-12-19T23:09:11.000Z",
-          "wordCount": 11502,
+          "wordCount": 11481,
           "title": "BlackRock Has a New Bitcoin Video Ad—And Bitcoiners Hate It",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/12/blackrock-larry-fink-gID_1.jpg@png",
@@ -416,7 +431,7 @@
           "description": "Though Wright was held in contempt of court for filing yet another lawsuit, a High Court judge has let him off with a warning.",
           "link": "https://decrypt.co/298002/satoshi-pretender-craig-wright-dodges-two-year-jail-sentence",
           "publishedOn": "2024-12-19T23:08:16.000Z",
-          "wordCount": 10698,
+          "wordCount": 10677,
           "title": "Satoshi Pretender Craig Wright Dodges Two-Year Jail Sentence",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/04/Craig-Wright-gID_7.png@png",
@@ -431,7 +446,7 @@
           "description": "The extended partnership ensures Crypto.com will maintain a significant presence at major Formula 1 events for the next five years.",
           "link": "https://decrypt.co/298021/formula-1-secures-multi-year-renewal-with-crypto-com-in-sports-sponsorship-push",
           "publishedOn": "2024-12-19T22:52:53.000Z",
-          "wordCount": 9754,
+          "wordCount": 9733,
           "title": "Formula 1 Secures Multi-Year Renewal With Crypto.com in Sports Sponsorship Push",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/02/formula-1-gp-gID_7.jpg@png",
@@ -446,7 +461,7 @@
           "description": "ARK Invest sold millions of dollars worth of Coinbase stock after the crypto markets took a dive Wednesday.",
           "link": "https://decrypt.co/297681/cathie-wood-ark-invest-sells-coinbase-stock",
           "publishedOn": "2024-12-19T22:38:27.000Z",
-          "wordCount": 9669,
+          "wordCount": 9648,
           "title": "Cathie Wood's ARK Invest Sells More Coinbase Stock Amid Bitcoin Plunge",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/08/coinbase-bitcoin-cbbtc-gID_7.jpg@png",
@@ -461,7 +476,7 @@
           "description": "Mo Shaikh, the co-creator of Aptos, is leaving his CEO post at Aptos Labs. Fellow company co-founder Avery Ching will step in.",
           "link": "https://decrypt.co/298018/aptos-labs-founder-ceo-mo-shaikh-steps-down",
           "publishedOn": "2024-12-19T21:31:23.000Z",
-          "wordCount": 10001,
+          "wordCount": 9980,
           "title": "Aptos Labs Founder and CEO Mo Shaikh Steps Down",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/02/aptos-mo-shaikh-gID_7.jpeg@png",
@@ -476,7 +491,7 @@
           "description": "El Salvador will keep buying Bitcoin despite a deal with the IMF to scale back some BTC policies, its National Bitcoin Office said.",
           "link": "https://decrypt.co/298001/el-salvador-accelerate-bitcoin-buys-imf-deal",
           "publishedOn": "2024-12-19T20:54:07.000Z",
-          "wordCount": 10195,
+          "wordCount": 10174,
           "title": "El Salvador May Accelerate Bitcoin Buys Following IMF Deal Concessions",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/07/bukele-laser-eyes-1-gID_7.jpeg@png",
@@ -484,21 +499,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/07/bukele-laser-eyes-1-gID_7.jpeg@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=297940",
-          "author": "Sander Lutz",
-          "description": "Bitfinex hacker Ilya Lichtenstein says \"Razzlekhan\" should walk free—despite confessing to helping him launder billions of dollars worth of stolen Bitcoin.",
-          "link": "https://decrypt.co/297940/free-razzlekhan-bitcoin-hacker-plea-prison",
-          "publishedOn": "2024-12-19T20:09:19.000Z",
-          "wordCount": 10567,
-          "title": "'Free Razzlekhan': Bitcoin Hacker Makes Plea From Prison for Rapper Wife",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/12/razzlekhan-gID_7.png@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/12/razzlekhan-gID_7.png@png"
         },
         {
           "id": "https://decrypt.co/videos/interviews/HRfPK9dK/how-decrypt-is-rethinking-the-business-model-of-media-with-web3-and-decentralized-storage",
@@ -521,7 +521,7 @@
           "description": "Decrypt and Rug Radio's on-chain prediction market MYRIAD has teamed up with Pudgy Penguins for its first Community Contest! Find out how to take part and win prizes including Lil' Pudgys NFTs at myriad.markets.",
           "link": "https://decrypt.co/videos/explainers/dtABJeex/predict-the-future-with-myriad-and-pudgy-penguins",
           "publishedOn": "2024-12-10T16:08:43.000Z",
-          "wordCount": 6603,
+          "wordCount": 6706,
           "title": "'Predict the Future' with MYRIAD and Pudgy Penguins",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/dtABJeex/poster.jpg",
@@ -536,7 +536,7 @@
           "description": "Now launched in public beta, Decrypt and Rug Radio present MYRIAD, the evolution of their interconnected media ecosystem with on-chain prediction markets. Visit myriad.markets to get started!",
           "link": "https://decrypt.co/videos/explainers/hjnvpW7P/myriad-public-beta-now-live",
           "publishedOn": "2024-12-05T20:09:49.000Z",
-          "wordCount": 6550,
+          "wordCount": 6653,
           "title": "MYRIAD Public Beta Now Live",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/hjnvpW7P/poster.jpg",
@@ -551,7 +551,7 @@
           "description": "Decrypt and Rug Radio are evolving their interconnected media ecosystem with MYRIAD's on-chain prediction markets, launching soon in public beta. Register now at myriad.markets!",
           "link": "https://decrypt.co/videos/explainers/VMG2iM4i/coming-soon-myriad-public-beta",
           "publishedOn": "2024-12-02T17:56:55.000Z",
-          "wordCount": 6638,
+          "wordCount": 6535,
           "title": "Coming Soon: MYRIAD Public Beta",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/VMG2iM4i/poster.jpg",
@@ -566,7 +566,7 @@
           "description": "BTC nears $100k again, ETH underperforms. BTC whales acquired $1.5bn BTC during dip. ETH defi TVL hits 2-year high, surges past $80bn. ETH co-founder moves $72mn ETH to Kraken. BTC ETFs inflows hit ATH in November. BTC to $132k in 2025: OKG. $13.6bn in BTC options expire Friday. HYPE hits $450m on launch, $4.5bn FDV. XRP continues to outperform majors. BTC DeFi to dominate crypto in 3 years: Hoskinson. HK central bank subsidises tokenised bond issuance. Coinbase halts USDC earn program in EU. Stablecoins to reach 10% of M2: Stan Chart. Debanking wave tied to Warren: Armstrong. Taiwan fast-tracks stricter crypto AML rules. USDX stablecoin receives $45mn in financing. Justin Sun eats banana artwork bought for $6m.",
           "link": "https://decrypt.co/videos/interviews/RwkLTxlA/btc-at-97k-hype-has-massive-airdrop-virtual-hits-14b-fdv",
           "publishedOn": "2024-11-30T16:26:01.000Z",
-          "wordCount": 7038,
+          "wordCount": 7261,
           "title": "BTC at $97K, HYPE has Massive Airdrop, VIRTUAL hits $1.4B FDV",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/RwkLTxlA/poster.jpg",
