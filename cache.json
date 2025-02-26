@@ -6,12 +6,42 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=307891",
+          "author": "Andrew Hayward",
+          "description": "Crypto prices are crashing again, with Bitcoin now trading below $84,000 and Ethereum hitting a five-month low price.",
+          "link": "https://decrypt.co/307891/bitcoin-ethereum-fall-liquidations-top-600-million",
+          "publishedOn": "2025-02-26T19:00:42.000Z",
+          "wordCount": 8737,
+          "title": "Bitcoin, Ethereum Fall to Lowest Prices in Months as Liquidations Top $600 Million",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/03/bitcoin-ethereum-market-losses-gID_7.jpg@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/03/bitcoin-ethereum-market-losses-gID_7.jpg@png"
+        },
+        {
+          "id": "https://decrypt.co/?p=307866",
+          "author": "Sander Lutz",
+          "description": "Cybersecurity experts say that North Korean attackers exploited wallet provider Safe to perform the biggest crypto hack of all time on Bybit.",
+          "link": "https://decrypt.co/307866/how-bybit-hacked-1-4-billion-ethereum",
+          "publishedOn": "2025-02-26T18:25:58.000Z",
+          "wordCount": 10963,
+          "title": "We Now Know How Bybit Was Hacked for $1.4 Billion in Ethereum",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/10/north-korea-dprk-hackers-gID_7.jpg@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/10/north-korea-dprk-hackers-gID_7.jpg@png"
+        },
+        {
           "id": "https://decrypt.co/?p=307859",
           "author": "Simon Chandler",
           "description": "“Avoiding this particularly high risk activity is quite simple: Don't engage in face-to-face trades,\" developer Jameson Lopp told Decrypt.",
           "link": "https://decrypt.co/307859/south-korea-police-arrest-four-murder-stabbing",
           "publishedOn": "2025-02-26T17:45:33.000Z",
-          "wordCount": 11118,
+          "wordCount": 11158,
           "title": "South Korea Police Arrest Four Linked to Murder by Stabbing, Crypto Theft",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/03/shutterstock_687464005-1-gID_7.jpg@png",
@@ -26,7 +56,7 @@
           "description": "Brian Moynihan said this week that a \"Bank of America Coin\" will launch if the United States passes stablecoin legislation.",
           "link": "https://decrypt.co/307856/bank-america-stablecoin-planned-ceo",
           "publishedOn": "2025-02-26T17:25:29.000Z",
-          "wordCount": 9616,
+          "wordCount": 9656,
           "title": "Bank of America Plans to Launch Stablecoin If Legislation Passes, Says CEO",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/10/bank-of-america-shutterstock-gID_7.png@png",
@@ -41,7 +71,7 @@
           "description": "Solana meme coin launchpad Pump.fun had its social media account swiped Wednesday to promote an unofficial PUMP token that swiftly crashed.",
           "link": "https://decrypt.co/307857/pump-fun-x-account-hacked-solana-meme-coin",
           "publishedOn": "2025-02-26T17:04:44.000Z",
-          "wordCount": 9255,
+          "wordCount": 9295,
           "title": "Pump.fun X Account Hacked to Promote Fraudulent PUMP Solana Meme Coin",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/11/Pump-Fun-gID_7.jpg@png",
@@ -56,7 +86,7 @@
           "description": "Tornado Cash dev Alexey Pertsev was convicted on money-laundering charges last year and is currently waiting to appeal his conviction.",
           "link": "https://decrypt.co/307842/ethereum-foundation-donates-tornado-cash-legal-battle",
           "publishedOn": "2025-02-26T16:38:51.000Z",
-          "wordCount": 9120,
+          "wordCount": 9160,
           "title": "Tornado Cash Dev Alexey Pertsev Gets $1 Million Donation From Ethereum Foundation",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/09/ethereum-foundation-grants-q2-gID_7.jpg@png",
@@ -71,7 +101,7 @@
           "description": "The GitVenom campaign targets developers—and once downloaded, can be used to deceive victims into transferring crypto.",
           "link": "https://decrypt.co/307806/crypto-stealing-malware-spread-through-fake-github-repositories-kaspersky-warns",
           "publishedOn": "2025-02-26T15:03:13.000Z",
-          "wordCount": 8762,
+          "wordCount": 8802,
           "title": "Crypto-Stealing Malware Spread Through Fake GitHub Repositories, Kaspersky Warns",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/07/hacker-laptop-wallet-gID_7.png@png",
@@ -86,7 +116,7 @@
           "description": "As PayPal plots how to grow PYUSD, it's also setting a target to grow its earnings 20% by 2027.",
           "link": "https://decrypt.co/307798/paypal-pyusd-stablecoin-20-million-merchants",
           "publishedOn": "2025-02-26T14:18:00.000Z",
-          "wordCount": 9321,
+          "wordCount": 9361,
           "title": "PayPal Wants 20 Million Merchants Using PYUSD Stablecoin by End of 2025",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/05/paypal-ventures-crypto-wallet-startup-magic-gID_7.jpg@png",
@@ -116,7 +146,7 @@
           "description": "Indian authorities conducted nationwide raids as part of their investigation into the $800 million (₹6,600 crore) Ponzi scheme.",
           "link": "https://decrypt.co/307790/indias-cbi-raids-60-locations-in-crackdown-on-gainbitcoin-scam",
           "publishedOn": "2025-02-26T11:35:53.000Z",
-          "wordCount": 9944,
+          "wordCount": 9984,
           "title": "India’s CBI Raids 60 Locations in Crackdown on GainBitcoin Scam",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/02/india-central-bureau-of-investigation-cbi-gID_7.jpg@png",
@@ -131,7 +161,7 @@
           "description": "The bill would limit crypto ATM transactions for new users, mandate fraud alerts, and ensure refunds for victims reporting fraud.",
           "link": "https://decrypt.co/307787/illinois-senator-proposes-bill-to-regulate-crypto-atms-nationwide",
           "publishedOn": "2025-02-26T06:08:52.000Z",
-          "wordCount": 10102,
+          "wordCount": 10142,
           "title": "Illinois Senator Proposes Bill to Regulate Crypto ATMs Nationwide",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/05/bitcoin-atm-gID_7.jpg@png",
@@ -146,7 +176,7 @@
           "description": "The NYSE Arca filing details how the SEC could allow Grayscale's Ethereum funds to earn staking rewards while maintaining custody safeguards.",
           "link": "https://decrypt.co/307783/sec-acknowledges-grayscales-revised-staking-proposal-for-its-ethereum-etf",
           "publishedOn": "2025-02-26T06:03:35.000Z",
-          "wordCount": 9754,
+          "wordCount": 9794,
           "title": "SEC Acknowledges Grayscale's Revised Staking Proposal for its Ethereum ETF",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/02/Webp.net-resizeimage29-gID_7.jpg@png",
@@ -161,7 +191,7 @@
           "description": "A viral video shows two AI agents recognizing each other mid-call—then abandoning human speech for a secret machine-only language",
           "link": "https://decrypt.co/307780/ai-agents-ditch-human-talk-switch-to-gibberlink-in-viral-video",
           "publishedOn": "2025-02-26T04:37:48.000Z",
-          "wordCount": 10211,
+          "wordCount": 10251,
           "title": "AI Agents Ditch Human Talk, Switch to 'Gibberlink' in Viral Video",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/02/clear-telco-fidelity-blockchain-telephone-communications-gID_7.jpg@png",
@@ -176,7 +206,7 @@
           "description": "Despite a sharp drop in its stock, Strategy’s structural safeguards and ability to raise equity make a forced Bitcoin liquidation \"unlikely.\"",
           "link": "https://decrypt.co/307777/strategys-bitcoin-bet-under-pressure-could-a-forced-liquidation-happen",
           "publishedOn": "2025-02-26T04:19:38.000Z",
-          "wordCount": 9691,
+          "wordCount": 9731,
           "title": "Strategy's Bitcoin Bet Under Pressure: Could a Forced Liquidation Happen?",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/02/michael-saylor-microstrategy-gID_7.jpg@png",
@@ -191,7 +221,7 @@
           "description": "The firm urged GameStop to avoid investing in other cryptos, calling Bitcoin the only “true store of value” among digital assets.",
           "link": "https://decrypt.co/307775/gamestop-ceo-responds-to-proposal-to-convert-5-billion-cash-to-bitcoin",
           "publishedOn": "2025-02-26T01:34:28.000Z",
-          "wordCount": 9789,
+          "wordCount": 9829,
           "title": "GameStop CEO Responds to Proposal to Convert $5 Billion Cash to Bitcoin",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/01/gamestop-robinhood-sec-gID_7.jpg@png",
@@ -206,7 +236,7 @@
           "description": "Anthropic says Claude 3.7 Sonnet outperformed older models in gaming, mastering how to win Pokémon battles.",
           "link": "https://decrypt.co/307769/claude-ai-can-now-play-pokemon-and-its-winning",
           "publishedOn": "2025-02-26T00:02:10.000Z",
-          "wordCount": 9143,
+          "wordCount": 9183,
           "title": "Claude AI Can Now Play Pokémon—And It’s Winning",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/03/pokemon-gID_7.png@png",
@@ -221,7 +251,7 @@
           "description": "The Hamster Network, a layer-2 chain built on The Open Network, will be used to launch games and apps built around messaging app Telegram.",
           "link": "https://decrypt.co/307768/hamster-kombat-telegram-game-ton-layer-2",
           "publishedOn": "2025-02-25T23:53:19.000Z",
-          "wordCount": 9108,
+          "wordCount": 9148,
           "title": "‘Hamster Kombat’ Telegram Game Launches Its Own TON Layer-2 Network",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/05/hamster-kombat-gID_7.png@png",
@@ -236,7 +266,7 @@
           "description": "Coinbase, MicroStrategy, and other publicly traded firms saw sizable losses Tuesday as crypto and stock prices alike plummeted.",
           "link": "https://decrypt.co/307756/bitcoin-crypto-stocks-plunge-broader-market-downturn",
           "publishedOn": "2025-02-25T23:26:53.000Z",
-          "wordCount": 9204,
+          "wordCount": 9244,
           "title": "Bitcoin and Crypto Stocks Sink Amid Broader Market Downturn",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/03/crypto-markets-stocks-coronavirus-gID_7.jpg@png",
@@ -251,7 +281,7 @@
           "description": "Long speculated and finally confirmed, gaming giant Activision said that Call of Duty: Black Ops 6 was created using generative AI.",
           "link": "https://decrypt.co/307729/call-of-duty-black-ops-6-generative-ai",
           "publishedOn": "2025-02-25T23:05:40.000Z",
-          "wordCount": 9661,
+          "wordCount": 9701,
           "title": "‘Call of Duty: Black Ops 6’ Was Built With Generative AI, Activision Admits",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/02/black-ops-6-scaled-gID_7.jpg@png",
@@ -266,7 +296,7 @@
           "description": "Bybit has launched a dashboard for its bounty program, with CEO Ben Zhou declaring \"war\" on North Korean hackers linked to the theft.",
           "link": "https://decrypt.co/307724/bybit-wages-war-north-korean-hackers-ethereum-theft",
           "publishedOn": "2025-02-25T22:45:08.000Z",
-          "wordCount": 9643,
+          "wordCount": 9683,
           "title": "Bybit Wages 'War' on North Korean Hackers After $1.4 Billion Ethereum Theft",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/08/Hacker-in-Red-shutterstock_2249685481-gID_7.jpg@png",
@@ -281,7 +311,7 @@
           "description": "Fortnite added a fake “crypto coin” into the game to buy black market items—then degens launched a real one on Solana that quickly crashed.",
           "link": "https://decrypt.co/307703/fortnite-fake-crypto-solana-meme-coin",
           "publishedOn": "2025-02-25T22:22:14.000Z",
-          "wordCount": 10852,
+          "wordCount": 10892,
           "title": "'Fortnite' Added a Fake Crypto Token—And Degens Turned It Into a Solana Meme Coin",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/02/fortnite-dill-gID_7.jpg@png",
@@ -296,7 +326,7 @@
           "description": "Amid recent pushback over the Ethereum Foundation's role in the ecosystem, Executive Director Aya Miyaguchi will leave the top job.",
           "link": "https://decrypt.co/307722/ethereum-foundation-leadership-shakeup-aya-miyaguchi",
           "publishedOn": "2025-02-25T21:54:07.000Z",
-          "wordCount": 9824,
+          "wordCount": 9864,
           "title": "Ethereum Foundation Reveals Leadership Shakeup Following Criticism",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/09/ethereum-starry-night-gID_7.png@png",
@@ -311,7 +341,7 @@
           "description": "Solana’s native token hit a four-month-low price of $132 on Tuesday, down from its record high of $293 set in January.",
           "link": "https://decrypt.co/307709/solana-lowest-price-2025-down-50-percent-peak",
           "publishedOn": "2025-02-25T21:38:47.000Z",
-          "wordCount": 9509,
+          "wordCount": 9549,
           "title": "Solana Hits Lowest Price in 2025, Down Over 50% Since January Peak",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/09/solana-sol-token-network-mainnet-gID_7.jpg@png",
@@ -326,7 +356,7 @@
           "description": "Bitcoin still has a lot of room to run, Bernstein analysts have said.",
           "link": "https://decrypt.co/307674/steady-lads-bitcoin-still-on-track-to-hit-200k-this-year-say-analysts",
           "publishedOn": "2025-02-25T20:46:02.000Z",
-          "wordCount": 8722,
+          "wordCount": 8762,
           "title": "Steady Lads: Bitcoin Still On Track to Hit $200K This Year, Say Analysts",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/10/bitcoin-btc-stacks-coins-gID_7.png@png",
@@ -341,7 +371,7 @@
           "description": "“The exchange has facilitated transactions linked to cybercriminals, darknet markets, and ransomware groups like Conti,” an expert told Decrypt.",
           "link": "https://decrypt.co/307687/eu-crypto-exchange-garantex-russia-sanctions",
           "publishedOn": "2025-02-25T20:31:02.000Z",
-          "wordCount": 10365,
+          "wordCount": 10405,
           "title": "EU Includes Crypto Exchange Garantex in Its New Russian Sanctions Package",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/10/bitcoin-european-union-eu-mica-crypto-regulation-gID_7.jpg@png",
@@ -356,7 +386,7 @@
           "description": "The crypto fund issuer received SEC acknowledgement on Monday for a Cardano fund and has applied to convert its XRP Trust into an ETF.",
           "link": "https://decrypt.co/307678/grayscale-applies-polkadot-etf",
           "publishedOn": "2025-02-25T20:16:02.000Z",
-          "wordCount": 10116,
+          "wordCount": 10156,
           "title": "Grayscale Applies for Polkadot ETF, Joining Dogecoin and XRP Filings",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/05/polkadot-coins-gID_7.jpg@png",
@@ -371,7 +401,7 @@
           "description": "As the price of Bitcoin hovers at a three-month low, an investment bank analyst and noted entrepreneur warned that more pain lurks ahead.",
           "link": "https://decrypt.co/307685/bitcoin-plunge-fruther-toward-80k-much-lower",
           "publishedOn": "2025-02-25T19:36:01.000Z",
-          "wordCount": 10803,
+          "wordCount": 10843,
           "title": "Bitcoin Could Plunge Further Toward $80K—Or Much Lower, Experts Say",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/04/Bitcoin-Down-PurpleRender-shutterstock_1974592622-gID_7.jpg@png",
@@ -386,7 +416,7 @@
           "description": "Uniswap's creator says that the SEC is closing its investigation without enforcement action, mirroring recent OpenSea and Robinhood moves.",
           "link": "https://decrypt.co/307679/ethereum-uniswap-sec-drops-investigation",
           "publishedOn": "2025-02-25T18:52:18.000Z",
-          "wordCount": 9346,
+          "wordCount": 9386,
           "title": "Ethereum DeFi Exchange Uniswap Says SEC Has Dropped Its Investigation",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/04/uniswap-crypto-defi-gID_7.jpg@png",
@@ -401,7 +431,7 @@
           "description": "Ethereum’s Pectra upgrade boosts scalability, staking, and gas payment options with significant tech enhancements.",
           "link": "https://decrypt.co/resources/what-is-the-pectra-upgrade-inside-ethereums-future-roadmap",
           "publishedOn": "2025-02-25T16:50:00.000Z",
-          "wordCount": 12902,
+          "wordCount": 12942,
           "title": "What Is the Pectra Upgrade? Inside Ethereum’s Future Roadmap",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2019/06/el_classic-gID_4-pID_6.png@png",
@@ -416,7 +446,7 @@
           "description": "Meme coins are not immune to a broader crypto crash, with Dogecoin hitting its lowest price in months as other top coins plummet.",
           "link": "https://decrypt.co/307672/dogecoin-dives-under-20-cents-meme-coins-crash",
           "publishedOn": "2025-02-25T16:32:34.000Z",
-          "wordCount": 9495,
+          "wordCount": 9535,
           "title": "Dogecoin Dives as Solana and Ethereum Meme Coins Crash",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/07/dogecoin-slump-bitcoin-gID_7.png@png",
@@ -446,7 +476,7 @@
           "description": "The Singapore-based firm counts stablecoin issuer Tether as a major backer.",
           "link": "https://decrypt.co/307658/bitdeer-stock-drops-asic-development",
           "publishedOn": "2025-02-25T16:24:06.000Z",
-          "wordCount": 8951,
+          "wordCount": 9773,
           "title": "Bitcoin Miner Bitdeer Stock Drops 20% as ASIC Development Leads to Half a Billion Loss",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/11/bitdeer-crypto-spac-gID_7.jpg@png",
@@ -461,7 +491,7 @@
           "description": "How did Michael Saylor's firm amass a record stash of Bitcoin? Here's a look back at how Strategy made such massive gains.",
           "link": "https://decrypt.co/292448/microstrategy-biggest-bitcoin-buys",
           "publishedOn": "2025-02-25T16:08:25.000Z",
-          "wordCount": 11498,
+          "wordCount": 11538,
           "title": "Strategy Now Holds $43 Billion in Bitcoin—These Are Its Biggest Buys",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/04/michael-saylor-bitcoin-lightning-gID_7.jpeg@png",
@@ -476,7 +506,7 @@
           "description": "The 2021 Uranium Finance hack saw attackers exploit a smart contract vulnerability, draining $50 million in assets.",
           "link": "https://decrypt.co/307601/feds-recover-31-million-in-crypto-from-2021s-uranium-finance-exploit",
           "publishedOn": "2025-02-25T12:12:58.000Z",
-          "wordCount": 9999,
+          "wordCount": 10039,
           "title": "Feds Recover $31 Million in Crypto From 2021’s Uranium Finance Exploit",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/09/crypto-hack-exploit-gID_7.png@png",
@@ -491,7 +521,7 @@
           "description": "Bitcoin plunged to a three-month low below $88,000 Tuesday morning, dragging the wider crypto market down with it.",
           "link": "https://decrypt.co/307587/doge-eth-sol-xrp-plunge-by-double-digits-as-bitcoin-crashes-below-88000",
           "publishedOn": "2025-02-25T11:28:57.000Z",
-          "wordCount": 9537,
+          "wordCount": 9577,
           "title": "DOGE, ETH, SOL, XRP Plunge by Double Digits as Bitcoin Crashes Below $88,000",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/02/bitcoin-ethereum-ripple-crash-gID_7.jpg@png",
@@ -501,57 +531,12 @@
           "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/02/bitcoin-ethereum-ripple-crash-gID_7.jpg@png"
         },
         {
-          "id": "https://decrypt.co/?p=307585",
-          "author": "Vince Dioquino",
-          "description": "The Japanese firm nonchalantly added another $13 million worth of Bitcoin to its holdings, hours before Bitcoin's price declined.",
-          "link": "https://decrypt.co/307585/metaplanet-snaps-up-135-bitcoin-for-96000-each-just-before-price-crash",
-          "publishedOn": "2025-02-25T10:29:39.000Z",
-          "wordCount": 8951,
-          "title": "Metaplanet Snaps Up 135 Bitcoin for $96,000 Each—Just Before Price Crash",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/05/Bitcoin-Japanese-Flag_Mehaniq_shutterstock_2241752485-gID_7.jpg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/05/Bitcoin-Japanese-Flag_Mehaniq_shutterstock_2241752485-gID_7.jpg@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=307583",
-          "author": "Vismaya V",
-          "description": "While South Dakota lawmakers rejected the bill citing volatility concerns, Rep Logan Manhart plans to push for its revival next year.",
-          "link": "https://decrypt.co/307583/south-dakota-follows-montanas-lead-throws-water-on-bitcoin-reserve-plans",
-          "publishedOn": "2025-02-25T06:06:20.000Z",
-          "wordCount": 9790,
-          "title": "South Dakota Follows Montana's Lead, Throws Water on Bitcoin Reserve Plans",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/01/Mount-Rushmore-National-MemorialBlack-Hills-region-of-South-Dakota-gID_7.jpg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/01/Mount-Rushmore-National-MemorialBlack-Hills-region-of-South-Dakota-gID_7.jpg@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=307579",
-          "author": "Vince Dioquino",
-          "description": "Developers say the bug was isolated to execution clients, highlighting Ethereum's testnet role in catching issues before mainnet launch.",
-          "link": "https://decrypt.co/307579/ethereums-pectra-upgrade-stalls-on-testnet-with-several-blocks-missed",
-          "publishedOn": "2025-02-25T04:04:22.000Z",
-          "wordCount": 9697,
-          "title": "Ethereum's Pectra Upgrade Stalls on Testnet With Several Blocks Missed",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/05/ethereum-eth-coin-sunshine-gID_7.jpeg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/05/ethereum-eth-coin-sunshine-gID_7.jpeg@png"
-        },
-        {
           "id": "https://decrypt.co/videos/interviews/jePEVL0M/crypto-falls-after-hack-sol-underperforms-sonic-berachain-heat-up",
           "author": null,
           "description": "Crypto falls after macro-sell off and huge hack. North Korea’s Lazarus behind $1.4bn Bybit hack. Hack caused by musking attack of Safe website. Bybit’s ETH reserve’s restored after loans & buyback. Bybit offers 10% reward for returned funds. Large amounts of hacked funds already blocked. Safe moves to increase security following hack. Hacker now has more ETH than ETH Foundation. 0xInfini hacked for $50m. Calls for ETH rollback broadly dismissed. SOLBTC falls to lowest level since Dec 2023. Franklin Templeton file for SOL ETF. Binance sells large blocks of SOL via Wintermute. Berachain & Sonic lead weekly inflows. BERA passes ARB & Base in TVL. Ethena raises $100m for tradfi push. Babylon TGE likely near. ARB votes to invest 7.5k ETH in non-ARB protocols. Montana votes against BTC reserve. El Salvador set to stop BTC purchases. Strategy set to buy $2bn more BTC. Hong Kong Asia Holdings set to buy more BTC. Arkham spot trading goes live in many states. Monad testnet launches at 10k TPS.",
           "link": "https://decrypt.co/videos/interviews/jePEVL0M/crypto-falls-after-hack-sol-underperforms-sonic-berachain-heat-up",
           "publishedOn": "2025-02-24T20:14:51.000Z",
-          "wordCount": 7064,
+          "wordCount": 6636,
           "title": "Crypto Falls after Hack, SOL underperforms, Sonic & Berachain heat up",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/jePEVL0M/poster.jpg",
@@ -626,7 +611,7 @@
           "description": "A research lab gained popularity in the crypto sphere after its experiment on a rat called Pythia went viral, with a meme coin community rallying behind it. Pythia has a chip that is hardwired to his brain which is connected to an AI model that translates human languages into brain impulses. As a result, Pythia can answer questions that require yes or no answers.",
           "link": "https://decrypt.co/videos/interviews/KbWRUn92/this-rat-was-trained-to-talk-to-humans",
           "publishedOn": "2025-02-12T16:41:38.000Z",
-          "wordCount": 6536,
+          "wordCount": 6108,
           "title": "This Rat Was Trained to Talk to Humans",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/KbWRUn92/poster.jpg",
