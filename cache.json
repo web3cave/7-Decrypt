@@ -6,12 +6,72 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=315949",
+          "author": "Jason Nelson",
+          "description": "The Bitcoin miners were part of a $3.9 million haul of stolen goods linked to a South American cargo theft ring.",
+          "link": "https://decrypt.co/315949/lapd-seizes-stolen-bitcoin-miners-worth-2-7-million-in-cargo-theft-investigation",
+          "publishedOn": "2025-04-23T15:12:02.000Z",
+          "wordCount": 8850,
+          "title": "LAPD Seizes Stolen Bitcoin Miners Worth $2.7 Million in Cargo Theft Investigation",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/11/asic-mining-rigs-bitcoin-mining-gID_7.jpg@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/11/asic-mining-rigs-bitcoin-mining-gID_7.jpg@png"
+        },
+        {
+          "id": "https://decrypt.co/?p=315941",
+          "author": "Decrypt Staff",
+          "description": "Twenty One, a Bitcoin-centric company, is being formed via SPAC merger with backing from Tether, Bitfinex, Cantor Fitzgerald, and SoftBank.",
+          "link": "https://decrypt.co/315941/tether-bitfinex-cantor-softbank-public-bitcoin-company",
+          "publishedOn": "2025-04-23T14:40:20.000Z",
+          "wordCount": 8128,
+          "title": "Tether, Bitfinex, Cantor and SoftBank to Launch Bitcoin Company With $3.9 Billion Treasury",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/05/bitcoin-etf-btc-wall-street-gID_7.jpeg@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/05/bitcoin-etf-btc-wall-street-gID_7.jpeg@png"
+        },
+        {
+          "id": "https://decrypt.co/?p=315932",
+          "author": "Ryan Gladwin",
+          "description": "Ethereum NFT project Goblintown challenged players to complete its upcoming driving platformer for $10,000—and everyone failed.",
+          "link": "https://decrypt.co/315932/goblintown-really-hard-driving-game-10k-prize",
+          "publishedOn": "2025-04-23T14:39:58.000Z",
+          "wordCount": 10372,
+          "title": "Nobody Could Beat ‘Goblintown: Really Hard Driving Game’ for a $10K Prize",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/04/Goblintowntruck2-gID_7.jpg@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/04/Goblintowntruck2-gID_7.jpg@png"
+        },
+        {
+          "id": "https://decrypt.co/?p=315938",
+          "author": "Connor Sephton",
+          "description": "The HEX founder is still listed as one of Europe's most wanted fugitives, and stands accused of tax evasion and assault.",
+          "link": "https://decrypt.co/315938/hex-founder-richard-heart-claims-victory-as-sec-abandons-fraud-lawsuit",
+          "publishedOn": "2025-04-23T14:22:35.000Z",
+          "wordCount": 9833,
+          "title": "Hex Founder Richard Heart Claims Victory as SEC Abandons Fraud Lawsuit",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/08/richard-heart-film-gID_7.png@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/08/richard-heart-film-gID_7.png@png"
+        },
+        {
           "id": "https://decrypt.co/?p=315900",
           "author": "Vince Dioquino",
           "description": "A massive unwinding of bearish positions has fueled a new rally as traders scramble to cover positions, analysts told Decrypt.",
           "link": "https://decrypt.co/315900/bitcoin-sparks-short-liquidation-cascade-over-240m-as-price-blasts-past-94k",
           "publishedOn": "2025-04-23T12:18:25.000Z",
-          "wordCount": 9587,
+          "wordCount": 9624,
           "title": "Bitcoin Sparks Short Liquidation Cascade Over $300M as Price Blasts Past $94K",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/05/bitcoin-up-gID_7.jpg@png",
@@ -26,7 +86,7 @@
           "description": "With tokenized vehicles now live, Polygon and Pyse say India’s EV market is ripe for blockchain-powered green infrastructure.",
           "link": "https://decrypt.co/315889/polygon-and-pyse-bring-tokenized-ev-fleets-to-dubai-eye-india-expansion",
           "publishedOn": "2025-04-23T10:25:23.000Z",
-          "wordCount": 10745,
+          "wordCount": 10782,
           "title": "Polygon and Pyse Bring Tokenized EV Fleets to Dubai, Eye India Expansion",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/04/polygon-pyse-bike-gID_7.jpg@png",
@@ -56,7 +116,7 @@
           "description": "The SEC alleged PGI Global sold “membership packages” as unregistered securities amounting to $198 million.",
           "link": "https://decrypt.co/315879/sec-sues-crypto-executive-198-million-scheme",
           "publishedOn": "2025-04-23T05:20:13.000Z",
-          "wordCount": 9733,
+          "wordCount": 9770,
           "title": "SEC Sues Crypto Executive Over Alleged $198 Million Scheme",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/10/SEC-Crypto-shutterstock_2346339641-16x9-1-gID_7.jpg@png",
@@ -71,7 +131,7 @@
           "description": "Jay Clayton takes charge of Wall Street’s most powerful prosecutor's office, bringing a controversial crypto enforcement record and deep ties to the financial sector.",
           "link": "https://decrypt.co/315876/jay-clayton-takes-helm-at-sdny-returning-to-government-with-crypto-record-in-tow",
           "publishedOn": "2025-04-23T04:37:29.000Z",
-          "wordCount": 10136,
+          "wordCount": 10197,
           "title": "Jay Clayton Takes Helm at SDNY, Returning to Government With Crypto Record in Tow",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/04/bitcoin-jay-clayton-sec-gID_7.jpg@png",
@@ -86,7 +146,7 @@
           "description": "Bitcoin’s latest surge past $93,000 has traders weighing whether easing macro tensions and rising money supply will sustain the rally.",
           "link": "https://decrypt.co/315874/will-bitcoin-price-rally-continue",
           "publishedOn": "2025-04-23T03:53:20.000Z",
-          "wordCount": 9433,
+          "wordCount": 9483,
           "title": "Will the Bitcoin Price Rally Continue?",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/06/bitcoin-btc-price-chart-gID_7.jpeg@png",
@@ -101,7 +161,7 @@
           "description": "The company has accused influencer Jeremy Cahen of evading a court order tied to the Bored Ape trademark case.",
           "link": "https://decrypt.co/315871/yuga-labs-demands-400k-influencers-crypto-wallets-nft-lawsuit",
           "publishedOn": "2025-04-23T02:49:54.000Z",
-          "wordCount": 9875,
+          "wordCount": 9912,
           "title": "Yuga Labs Demands $400K in Influencer’s Crypto Wallets Over NFT Lawsuit",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/04/bored-ape-collage-sothebys-gID_7.png@png",
@@ -116,7 +176,7 @@
           "description": "Brandon Lutnick, son of Howard Lutnick, will lead 21 Capital, a new SPAC aiming to capitalize on Bitcoin's growth.",
           "link": "https://decrypt.co/315868/cantor-teams-with-softbank-tether-bitfinex-on-possible-3b-bitcoin-deal-report",
           "publishedOn": "2025-04-23T01:04:19.000Z",
-          "wordCount": 9265,
+          "wordCount": 9302,
           "title": "Cantor Teams With SoftBank, Tether, Bitfinex on Possible $3B Bitcoin Deal: Report",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/12/cantor-fitzgerald-gID_7.jpg@png",
@@ -131,7 +191,7 @@
           "description": "GoMining's Miner Wars, a game that lets players earn Bitcoin rewards tied to real BTC mining, added features for beginners and experts alike.",
           "link": "https://decrypt.co/315795/gomining-bitcoin-mining-game-miner-wars",
           "publishedOn": "2025-04-23T00:31:03.000Z",
-          "wordCount": 10077,
+          "wordCount": 10114,
           "title": "Bitcoin Mining Game 'Miner Wars' Expands With New Features",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/04/gomining-miner-wars2-gID_7.png@png",
@@ -146,7 +206,7 @@
           "description": "The class action lawsuit alleges that the Solana DEX jointly planned \"blatant fraud” with the M3M3 token launch.",
           "link": "https://decrypt.co/315860/solana-dex-meteora-sued-alleged-pump-dump-meme-coin-launch",
           "publishedOn": "2025-04-23T00:04:23.000Z",
-          "wordCount": 10279,
+          "wordCount": 10316,
           "title": "Solana DEX Meteora Sued Over Alleged Pump-and-Dump Meme Coin Launch",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/07/lawsuit-scales-justice-court-gID_7.jpeg@png",
@@ -161,7 +221,7 @@
           "description": "The EU’s data watchdog has proposed rules to limit how personal blockchain data is stored, warning it may conflict with privacy laws.",
           "link": "https://decrypt.co/315856/europe-blockchain-data-access-new-privacy-guidelines",
           "publishedOn": "2025-04-22T23:37:48.000Z",
-          "wordCount": 9988,
+          "wordCount": 10025,
           "title": "Europe Moves to Rein In Blockchain Data Access With New Privacy Guidelines",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/10/european-union-gID_7.jpeg@png",
@@ -176,7 +236,7 @@
           "description": "Attorneys for the Nelk Boys move to dismiss the class action lawsuit filed against the influencers in January.",
           "link": "https://decrypt.co/315845/youtube-stars-nelk-boys-push-back-against-nft-lawsuit",
           "publishedOn": "2025-04-22T23:16:26.000Z",
-          "wordCount": 9788,
+          "wordCount": 9825,
           "title": "YouTube Stars Nelk Boys Push Back Against NFT Lawsuit",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/04/Nelk-Boys-gID_7.png@png",
@@ -191,7 +251,7 @@
           "description": "Bitcoin appears to be living up to its reputation as “digital gold,” but analysts say a recent shift may be temporary.",
           "link": "https://decrypt.co/315805/is-bitcoin-decoupling-equities-analysis",
           "publishedOn": "2025-04-22T22:44:12.000Z",
-          "wordCount": 9979,
+          "wordCount": 10016,
           "title": "Is Bitcoin 'Conclusively' Decoupling from Equities? Experts Weigh In",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/01/bitcoin-eyes-mystery-gID_7.jpeg@png",
@@ -206,7 +266,7 @@
           "description": "Publicly traded real estate tech firm Janover is going deep on crypto, stacking more Solana and adopting a DeFi-inspired name.",
           "link": "https://decrypt.co/315822/nasdaq-listed-janover-buys-solana-changes-name",
           "publishedOn": "2025-04-22T22:01:55.000Z",
-          "wordCount": 9325,
+          "wordCount": 9362,
           "title": "Nasdaq-Listed Janover Buys More Solana, Changes Name to DeFi Development Corp.",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/07/Solana-Flag_shutterstock_2099118397-gID_7.jpg@png",
@@ -221,7 +281,7 @@
           "description": "Researchers used a 56-qubit system to create truly random numbers that even the most powerful supercomputers couldn't predict or fake.",
           "link": "https://decrypt.co/315824/quantum-computers-massive-step-cryptography",
           "publishedOn": "2025-04-22T21:43:03.000Z",
-          "wordCount": 12871,
+          "wordCount": 12908,
           "title": "Quantum Computers Take Massive Step Forward for Cryptography",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/04/midjourney-editor-1745265613855-gID_7.png@png",
@@ -236,7 +296,7 @@
           "description": "The White House has recently focused its trade war on China.",
           "link": "https://decrypt.co/315821/bitcoin-jumps-as-bessent-hints-at-progress-on-trade-negotiations",
           "publishedOn": "2025-04-22T21:00:48.000Z",
-          "wordCount": 9640,
+          "wordCount": 9677,
           "title": "Bitcoin Jumps as US Treasury’s Bessent Hints at ‘Perceived Progress’ on Trade Negotiations",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/11/Decrypt-Wallpaper-Format-1600-x-900-px-7-gID_7.png@png",
@@ -251,7 +311,7 @@
           "description": "Bitcoin is up big Tuesday, nearing $92,000—but major altcoins like Dogecoin, Solana, and Ethereum are showing even larger gains.",
           "link": "https://decrypt.co/315813/dogecoin-solana-ethereum-spike-bitcoin-monthly-high",
           "publishedOn": "2025-04-22T19:59:35.000Z",
-          "wordCount": 9710,
+          "wordCount": 9747,
           "title": "Dogecoin, Solana and Ethereum Spike as Bitcoin Hits Monthly High",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/12/bitcoin-dogecoin-xrp-gID_7.png@png",
@@ -266,7 +326,7 @@
           "description": "TMTG finalized its partnership with Crypto.com, marking its latest step toward offering crypto-based ETFs to investors.",
           "link": "https://decrypt.co/315799/trump-media-invest-250-million-made-in-america-etfs-tracking-crypto-energy",
           "publishedOn": "2025-04-22T19:43:29.000Z",
-          "wordCount": 9117,
+          "wordCount": 9154,
           "title": "Trump Media to Invest $250 Million in 'Made in America' ETFs Tracking Crypto, Energy Securities",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/04/president-donald-trump-world-liberty-crypto-gID_7.jpg@png",
@@ -281,7 +341,7 @@
           "description": "Federal prosecutors are pressing forward with criminal charges against the creators of the Safemoon cryptocurrency.",
           "link": "https://decrypt.co/315812/feds-safemoon-founders-trial-doj-crypto-policy-memo",
           "publishedOn": "2025-04-22T19:41:59.000Z",
-          "wordCount": 9410,
+          "wordCount": 9447,
           "title": "Remember Safemoon? Feds Aren’t Forgetting About It, Despite DOJ Crypto Policy Shift",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/06/SafeMoon-keyboard-gID_7.png@png",
@@ -296,7 +356,7 @@
           "description": "Looking to stack some sats without paying a penny? These free games reward you with real Bitcoin for playing.",
           "link": "https://decrypt.co/205392/bitcoin-booming-you-earn-more-playing-free-games",
           "publishedOn": "2025-04-22T17:58:09.000Z",
-          "wordCount": 14543,
+          "wordCount": 14580,
           "title": "You Can Earn Bitcoin By Playing These Free Games",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/11/bitcoin-gaming-shutterstock-gID_7.png@png",
@@ -311,7 +371,7 @@
           "description": "Solana has spiked more than 14% since April 2 when U.S. President Donald Trump imposed his global tariffs.",
           "link": "https://decrypt.co/315764/bitcoin-surges-since-trumps-liberation-day-solana-outperforms",
           "publishedOn": "2025-04-22T16:09:49.000Z",
-          "wordCount": 9640,
+          "wordCount": 9677,
           "title": "Bitcoin Surges Since Trump 'Liberation Day'—But Solana Outperforms",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/01/solana-markets-gID_7.png@png",
@@ -341,7 +401,7 @@
           "description": "Behrouz Parsarad faces a life sentence in prison on charges of money laundering and distribution of controlled substances.",
           "link": "https://decrypt.co/315759/us-indicts-iranian-national-for-operating-nemesis-darknet-marketplace",
           "publishedOn": "2025-04-22T14:50:40.000Z",
-          "wordCount": 10605,
+          "wordCount": 10642,
           "title": "US Indicts Iranian National for Operating Nemesis Darknet Marketplace",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/01/darknet-dark-web-market-gID_7.jpg@png",
@@ -356,7 +416,7 @@
           "description": "Bitcoin is back above $90,000 for the first time since early March, bringing up the rest of the crypto market as stocks also rebound.",
           "link": "https://decrypt.co/315758/bitcoin-90k-markets-steady-trump-fed",
           "publishedOn": "2025-04-22T14:34:42.000Z",
-          "wordCount": 9002,
+          "wordCount": 9039,
           "title": "Bitcoin Breaks $90K as Markets Steady Following Trump's Federal Reserve Attacks",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/01/Bitcoin-price-gID_7.jpg@png",
@@ -386,7 +446,7 @@
           "description": "Solana meme coin Fartcoin has broken into the top five meme coins by market cap, after climbing 21% over the past 24 hours.",
           "link": "https://decrypt.co/315755/fartcoin-breaks-into-top-5-meme-coins-overtaking-bonk-and-closing-in-on-trump",
           "publishedOn": "2025-04-22T13:33:28.000Z",
-          "wordCount": 9779,
+          "wordCount": 9816,
           "title": "Fartcoin Breaks Into Top 5 Meme Coins, Overtaking Bonk and Closing In On TRUMP",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/12/farts-gID_7.webp@png",
@@ -401,7 +461,7 @@
           "description": "CryptoKitties will soon have a whole bunch of tokens on Flow, with Telegram game players set to receive an airdrop on Wednesday.",
           "link": "https://decrypt.co/315688/cryptokitties-meowcoins-flow-dapper-labs",
           "publishedOn": "2025-04-22T13:01:02.000Z",
-          "wordCount": 11218,
+          "wordCount": 11255,
           "title": "Why Dapper Labs Is Launching Several CryptoKitties 'Meowcoins' on Flow",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/04/meowcoins-cryptokitties-gID_7.jpg@png",
@@ -416,7 +476,7 @@
           "description": "Inflows to Bitcoin ETFs hit their highest level since January 30 Monday, with analysts pointing to macro tailwinds.",
           "link": "https://decrypt.co/315743/bitcoin-etfs-add-381-million-in-biggest-day-since-january",
           "publishedOn": "2025-04-22T12:11:05.000Z",
-          "wordCount": 10500,
+          "wordCount": 10537,
           "title": "Bitcoin ETFs Add $381 Million in Biggest Day Since January",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/01/bitcoin-etf-trading-gID_7.jpeg@png",
@@ -431,7 +491,7 @@
           "description": "The blockchain’s novel “Proof of Energy” consensus mechanism aims to incentivize the transition to renewables.",
           "link": "https://decrypt.co/315735/d-energy-is-making-clean-energy-the-new-currency-of-the-digital-world-ceo",
           "publishedOn": "2025-04-22T11:35:08.000Z",
-          "wordCount": 9481,
+          "wordCount": 9518,
           "title": "D.Energy is ‘Making Clean Energy the New Currency of the Digital World’: CEO",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/04/WhatsApp-Image-2025-04-22-at-12.16.39-scaled-gID_7.jpeg@png",
@@ -446,7 +506,7 @@
           "description": "The court overturned a previous ruling that Block Earner's crypto product required financial licensing, ordering the regulator to pay up.",
           "link": "https://decrypt.co/315726/australian-federal-court-backs-crypto-lender-in-landmark-win-over-asic",
           "publishedOn": "2025-04-22T10:59:49.000Z",
-          "wordCount": 9339,
+          "wordCount": 9376,
           "title": "Australian Federal Court Backs Crypto Lender in Landmark Win Over ASIC",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/08/bitcoin-australia-gID_7.jpg@png",
@@ -476,7 +536,7 @@
           "description": "Base creator Jesse Pollak has rejected a trader-first approach, declaring creators and developers his top priority, following a chaotic week.",
           "link": "https://decrypt.co/315717/base-creators-over-traders-creator-jesse-pollak",
           "publishedOn": "2025-04-22T07:04:44.000Z",
-          "wordCount": 9752,
+          "wordCount": 9789,
           "title": "Base to Prioritize Creators Over Traders, Says Architect Jesse Pollak",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/11/ygg-gID_7.jpg@png",
@@ -491,7 +551,7 @@
           "description": "It might be against the religion's teachings, but it looks like there's no stopping crypto degens and bettors from moving on the news.",
           "link": "https://decrypt.co/315714/unofficial-catholic-meme-coin-luce-surges-bettors-wager-next-pope",
           "publishedOn": "2025-04-22T06:14:46.000Z",
-          "wordCount": 9398,
+          "wordCount": 9435,
           "title": "Unofficial Catholic Meme Coin LUCE Surges as Bettors Wager On Next Pope",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/11/luce-beeple-gID_7.png@png",
@@ -506,7 +566,7 @@
           "description": "Perplexity is pushing back on a Google breakup, telling a court the real problem is Android’s tight grip on search defaults.",
           "link": "https://decrypt.co/315711/perplexity-to-testify-google-antitrust-case",
           "publishedOn": "2025-04-22T06:00:18.000Z",
-          "wordCount": 9706,
+          "wordCount": 9743,
           "title": "Perplexity AI to Testify in Google Antitrust Case, Says Consumer Choice Is the Fix",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/06/crypto-centra-tech-floyd-mayweather-fraud-gID_7.jpg@png",
@@ -514,66 +574,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/06/crypto-centra-tech-floyd-mayweather-fraud-gID_7.jpg@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=315708",
-          "author": "Callan Quinn",
-          "description": "WazirX claims it’s on track to relaunch and distribute payouts pending court approval of its restructuring plan following last year’s hack.",
-          "link": "https://decrypt.co/315708/wazirx-on-track-restart-singapore-hearing-scheduled",
-          "publishedOn": "2025-04-22T04:53:06.000Z",
-          "wordCount": 9514,
-          "title": "WazirX Nears Comeback as Singapore Court Sets May Hearing on $234M Restructuring Plan",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/07/wazirx-logo-smartphone-crypto-exchange-scaled-gID_7.jpg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2024/07/wazirx-logo-smartphone-crypto-exchange-scaled-gID_7.jpg@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=315705",
-          "author": "Vince Dioquino",
-          "description": "Former SEC Commissioner Atkins returns to shape a \"rational\" crypto framework, with a $327M net worth, he's the richest SEC chair in decades.",
-          "link": "https://decrypt.co/315705/paul-atkins-returns-sec-helm",
-          "publishedOn": "2025-04-22T03:14:57.000Z",
-          "wordCount": 9902,
-          "title": "Paul Atkins Returns to SEC Helm as Trump Reasserts Influence Over Agency Watchdog",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/04/paul-atkins-sec-1-gID_7.jpg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/04/paul-atkins-sec-1-gID_7.jpg@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=315703",
-          "author": "Callan Quinn",
-          "description": "Circle takes a swing at outdated banking rails, offering a stablecoin-fueled alternative for real-time global payments",
-          "link": "https://decrypt.co/315703/circle-debuts-stablecoin-based-network",
-          "publishedOn": "2025-04-22T03:04:17.000Z",
-          "wordCount": 9360,
-          "title": "Circle Debuts Stablecoin-Based Network to Reduce Costs, Delays in Global Payments",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/10/circle-usdc-coins-in-front-of-stock-chart-gID_7.jpg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/10/circle-usdc-coins-in-front-of-stock-chart-gID_7.jpg@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=315687",
-          "author": "Jason Nelson",
-          "description": "Cluely sits quietly in the background, giving users answers during online tests and video interviews while bypassing detection systems.",
-          "link": "https://decrypt.co/315687/finally-an-ai-that-helps-dishonest-morons-look-smart",
-          "publishedOn": "2025-04-21T23:45:28.000Z",
-          "wordCount": 10317,
-          "title": "Finally, AI That Helps Dishonest Morons Look Smart",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/04/cluely-gID_7.png@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/04/cluely-gID_7.png@png"
         },
         {
           "id": "https://decrypt.co/videos/interviews/xAK32zBy/hype-sol-lead-l1s-powell-scares-markets-base-launches-memecoin",
@@ -596,7 +596,7 @@
           "description": "Crypto dips, China open to Tariff talks, Nvidia faces chip ban\nFOMO HOUR EP338\n\nBTC falls below 200D MA in bearish sign. BTC correlation to stocks nearly 0. BTC miners are main sellers amid higher costs. US may purchase BTC with tariff revenue. Oklahoma BTC reserve bill fails to pass. Semler Scientific to raise $500m to buy BTC. Metaplanet issues $10m bonds to buy BTC. XRP ETFs may be the next SEC approved product. VanEck proposes US refinance debt with BTC. Tether & Ethena set to collab on ecosystem. OKX launches CEX and wallet in US. BNB chain completes 31st quarterly burn. MOVE to conduct internal investigation on founder. New OM CEO to burn all of his team’s tokens.\n\nPLAYLIST = https://www.youtube.com/playlist?list=PLGSgoImPFTiVpkHhLXF78cE_Z3uG7VNGL\nPODCAST = https://podcasters.spotify.com/pod/show/fomohour\nLIVE SPACE = https://x.com/i/spaces/1jMKgkyMZYkKL\nJOIN YEET NOW = https://yeet.com/register?aff=fomohour\n\nLinks:\nhttps://linktr.ee/fomohour\nhttps://twitter.com/fomohour\nhttps://www.rug.fm/\nhttps://x.com/rugradio\nhttps://linktr.ee/rugradio\n\nHosts:\nhttps://twitter.com/farokh\nhttps://twitter.com/rektmando\nhttps://twitter.com/tyler_did_it\n\nMyriad:\nhttps://myriad.markets\nhttps://x.com/MyriadMarkets\nhttps://www.instagram.com/myriadmarkets\n\nFOMO HOUR brings you the biggest daily news, updates and events from inside and outside of the crypto and macro spheres! Join hosts Farokh, Mando and Tyler as they cover some of the biggest topics at present with some of the biggest names in the ecosystem. Streaming live 5 days per week, Monday to Friday 10:00 AM EST to 11:00 AM EST on YouTube and X.\n\n#bitcoin #crypto #podcast",
           "link": "https://decrypt.co/videos/interviews/PT25HMZ6/crypto-dips-china-open-to-tariff-talks-nvidia-faces-chip-ban",
           "publishedOn": "2025-04-16T15:46:28.000Z",
-          "wordCount": 6825,
+          "wordCount": 7231,
           "title": "Crypto dips, China open to Tariff talks, Nvidia faces chip ban",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/PT25HMZ6/poster.jpg",
@@ -641,7 +641,7 @@
           "description": "Crypto bounces, OM rugs, Metaplanet in top 10 BTC holders\nFOMO HOUR EP336\n\nBTC briefly hits $86k on tariff optimism. OM rugs, plunges 90% in an hour from $6bn. OM founder denies rug by team, blames liquidations. High inflation beneficial for crypto: Grayscale. Metaplanet buys $26m BTC, now 9th largest holder. BTC OTC desks being drained at record levels. Major crypto bills will be passed by August: Scott. Sweden considers BTC reserves. NY considers bill on state agencies accepting crypto. ETH Foundation shares simplified roadmap. SOL/ETH hit highest weekly close in history. SOL has most transactions by 6x over last week. Binance urges US government to ease crypto oversight.\n\nPLAYLIST = https://www.youtube.com/playlist?list=PLGSgoImPFTiVpkHhLXF78cE_Z3uG7VNGL\nPODCAST = https://podcasters.spotify.com/pod/show/fomohour\nLIVE SPACE = https://x.com/i/spaces/1BRJjmjwlvpGw\nJOIN YEET NOW = https://yeet.com/register?aff=fomohour\n\nLinks:\nhttps://linktr.ee/fomohour\nhttps://twitter.com/fomohour\nhttps://www.rug.fm/\nhttps://x.com/rugradio\nhttps://linktr.ee/rugradio\n\nHosts:\nhttps://twitter.com/farokh\nhttps://twitter.com/rektmando\nhttps://twitter.com/tyler_did_it\n\nMyriad:\nhttps://myriad.markets\nhttps://x.com/MyriadMarkets\nhttps://www.instagram.com/myriadmarkets\n\nFOMO HOUR brings you the biggest daily news, updates and events from inside and outside of the crypto and macro spheres! Join hosts Farokh, Mando and Tyler as they cover some of the biggest topics at present with some of the biggest names in the ecosystem. Streaming live 5 days per week, Monday to Friday 10:00 AM EST to 11:00 AM EST on YouTube and X.\n\n#bitcoin #crypto #podcast",
           "link": "https://decrypt.co/videos/interviews/YwrF3nmn/crypto-bounces-om-rugs-metaplanet-in-top-10-btc-holders",
           "publishedOn": "2025-04-14T16:19:55.000Z",
-          "wordCount": 6769,
+          "wordCount": 7175,
           "title": "Crypto bounces, OM rugs, Metaplanet in top 10 BTC holders",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/YwrF3nmn/poster.jpg",
@@ -656,7 +656,7 @@
           "description": "Tariff volatility returns, Gold hits ATH again, FARTCOIN nears $900M\nFOMO HOUR EP335\n\nBTC falls to $78k then rebounds strongly. Trump signs bill repealing IRS rule targeting DeFi. North Carolina proposes tax payments in crypto. Arizona passes BTC mining rights bill. SEC sets out new guidance for crypto offerings. VanEck files for AVAX ETF with Nasdaq. WLFI denies selling ETH. Vitalik shares simplified ETH L1 privacy roadmap. Crypto developer activity lowest since 2018. Janover Inc rebrands, acquires $4.6m SOL. OKX collabs with fin giants on collateral mirroring. HYPE leads rebound in L1s this week. VIRTUAL & ONDO may get Binance listing. Block Inc settles for $40m with NY regulators. Synthetix’s sUSD depegs to $0.85.\n\nPLAYLIST = https://www.youtube.com/playlist?list=PLGSgoImPFTiVpkHhLXF78cE_Z3uG7VNGL\nPODCAST = https://podcasters.spotify.com/pod/show/fomohour\nLIVE SPACE = https://x.com/i/spaces/1ypKdZnoAApJW\nJOIN YEET NOW = https://yeet.com/register?aff=fomohour\n\nLinks:\nhttps://linktr.ee/fomohour\nhttps://twitter.com/fomohour\nhttps://www.rug.fm/\nhttps://x.com/rugradio\nhttps://linktr.ee/rugradio\n\nHosts:\nhttps://twitter.com/farokh\nhttps://twitter.com/rektmando\nhttps://twitter.com/tyler_did_it\n\nMyriad:\nhttps://myriad.markets\nhttps://x.com/MyriadMarkets\nhttps://www.instagram.com/myriadmarkets\n\nFOMO HOUR brings you the biggest daily news, updates and events from inside and outside of the crypto and macro spheres! Join hosts Farokh, Mando and Tyler as they cover some of the biggest topics at present with some of the biggest names in the ecosystem. Streaming live 5 days per week, Monday to Friday 10:00 AM EST to 11:00 AM EST on YouTube and X.\n\n#bitcoin #crypto #podcast",
           "link": "https://decrypt.co/videos/interviews/LtVsD0Nv/tariff-volatility-returns-gold-hits-ath-again-fartcoin-nears-900m",
           "publishedOn": "2025-04-11T15:36:49.000Z",
-          "wordCount": 6794,
+          "wordCount": 7200,
           "title": "Tariff volatility returns, Gold hits ATH again, FARTCOIN nears $900M",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/LtVsD0Nv/poster.jpg",
@@ -686,7 +686,7 @@
           "description": "BTC holds above support, Stock rout continues, Bond yields Soar\nFOMO HOUR EP333\n\nBTC falls to $74.6k before rebound. BTC back above key $76.5k support level again. Crypto continues to outperform macro markets. CNY devaluation could boost BTC: Hayes. 250m USDC minted by Circle. Ripple acquires broker Hidden Road for $1.25bn. Justice Dept. disbands crypto dedicated unit. NY proposes blockchain for use in elections. Mastercard, Kraken collab on payments in Europe. BitGo integrates Lightning Network. BlackRock adds Anchorage Digital as custodian. SOL launches Confidential Balances extensions. WLFI to distribute stablecoin to all holders. WLFI sells $8m ETH amid $125m loss on its ETH. B2C2 could buy a stake in SBI Holdings for $100m. Ledger set to support SUI soon.\n\nPLAYLIST = https://www.youtube.com/playlist?list=PLGSgoImPFTiVpkHhLXF78cE_Z3uG7VNGL\nPODCAST = https://podcasters.spotify.com/pod/show/fomohour\nLIVE SPACE = https://x.com/i/spaces/1LyxBWleOyrKN\n\nLinks:\nhttps://linktr.ee/fomohour\nhttps://twitter.com/fomohour\nhttps://www.rug.fm/\nhttps://x.com/rugradio\nhttps://linktr.ee/rugradio\n\nHosts:\nhttps://twitter.com/farokh\nhttps://twitter.com/rektmando\nhttps://twitter.com/tyler_did_it\n\nMyriad:\nhttps://myriad.markets\nhttps://x.com/MyriadMarkets\nhttps://www.instagram.com/myriadmarkets\n\nFOMO HOUR brings you the biggest daily news, updates and events from inside and outside of the crypto and macro spheres! Join hosts Farokh, Mando and Tyler as they cover some of the biggest topics at present with some of the biggest names in the ecosystem. Streaming live 5 days per week, Monday to Friday 10:00 AM EST to 11:00 AM EST on YouTube and X.\n\n#bitcoin #crypto #podcast",
           "link": "https://decrypt.co/videos/interviews/IyNqz6q3/btc-holds-above-support-stock-rout-continues-bond-yields-soar",
           "publishedOn": "2025-04-09T15:41:56.000Z",
-          "wordCount": 6797,
+          "wordCount": 7203,
           "title": "BTC holds above support, Stock rout continues, Bond yields Soar",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/IyNqz6q3/poster.jpg",
@@ -716,7 +716,7 @@
           "description": "BTC Stabilises, Trump threatens China, FARTCOIN leads Crypto\nFOMO HOUR EP330\n\nBTC back to $79k after volatility on fake headlines. Key support level of $76.5k on BTC held again. BTC is a hedge against tariffs: StanChart. ETH/BTC RSI hits most oversold level ever. Tuberville introduces 2025 Financial Freedom Act. Strategy announces no new buys last week. SOL DEX volume down 85% since Jan. Teucrim launches first levered XRP ETF today. BCG predicts $19T tokenised assets by 2033. Galaxy Digital to debut on Nasdaq in May 2025. Attorney sues DHS to uncover Satoshi’s identity. Binance integrates Google Pay and Apple Pay. S. Korea’s NPS to explore blockchain usage. Pakistan appoints CZ as crypto advisor. SEC task force to host roundtable on Apr 11.\n\nPLAYLIST = https://www.youtube.com/playlist?list=PLGSgoImPFTiVpkHhLXF78cE_Z3uG7VNGL\nPODCAST = https://podcasters.spotify.com/pod/show/fomohour\nLIVE SPACE = https://x.com/i/spaces/1vOGwXBMQrPJB\n\nLinks:\nhttps://linktr.ee/fomohour\nhttps://twitter.com/fomohour\nhttps://www.rug.fm/\nhttps://x.com/rugradio\nhttps://linktr.ee/rugradio\n\nHosts:\nhttps://twitter.com/farokh\nhttps://twitter.com/rektmando\nhttps://twitter.com/tyler_did_it\n\nMyriad:\nhttps://myriad.markets\nhttps://x.com/MyriadMarkets\nhttps://www.instagram.com/myriadmarkets\n\nFOMO HOUR brings you the biggest daily news, updates and events from inside and outside of the crypto and macro spheres! Join hosts Farokh, Mando and Tyler as they cover some of the biggest topics at present with some of the biggest names in the ecosystem. Streaming live 5 days per week, Monday to Friday 10:00 AM EST to 11:00 AM EST on YouTube and X.\n\n#bitcoin #crypto #podcast",
           "link": "https://decrypt.co/videos/interviews/R2VkfSKW/btc-stabilises-trump-threatens-china-fartcoin-leads-crypto",
           "publishedOn": "2025-04-08T15:17:06.000Z",
-          "wordCount": 6800,
+          "wordCount": 7206,
           "title": "BTC Stabilises, Trump threatens China, FARTCOIN leads Crypto",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/R2VkfSKW/poster.jpg",
