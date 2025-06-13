@@ -6,12 +6,42 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=325028",
+          "author": "Vismaya V",
+          "description": "Two Chinese victims lost their Bitcoin after a business meeting in Mae Sai district, transferring funds in two separate transactions.",
+          "link": "https://decrypt.co/325028/thai-police-arrest-chinese-suspect-bitcoin-fraud-case",
+          "publishedOn": "2025-06-13T06:43:55.000Z",
+          "wordCount": 9814,
+          "title": "Thai Police Arrest Chinese Suspect in $6.1 Million Bitcoin Fraud Case",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/04/thailand-bitcoin-gID_7.jpg@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/04/thailand-bitcoin-gID_7.jpg@png"
+        },
+        {
+          "id": "https://decrypt.co/?p=325025",
+          "author": "Liz Napolitano",
+          "description": "Coinbase has launched a Bitcoin rewards credit card, with possible plans to support multiple tokens over time, Decrypt was told.",
+          "link": "https://decrypt.co/325025/coinbase-bitcoin-rewards-card-drive-subscriber-growth",
+          "publishedOn": "2025-06-13T06:21:06.000Z",
+          "wordCount": 9208,
+          "title": "Coinbase Launches Bitcoin Rewards Card to Drive Subscriber Growth",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Coinbase-phone-decrypt-style-01-gID_7.png@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Coinbase-phone-decrypt-style-01-gID_7.png@png"
+        },
+        {
           "id": "https://decrypt.co/?p=325022",
           "author": "Vismaya V",
           "description": "Mattel will retain full control of its brands while using AI to develop new products, with the first launch expected later this year.",
           "link": "https://decrypt.co/325022/barbie-hot-wheels-toy-maker-openai-tech-productivity",
           "publishedOn": "2025-06-13T05:27:23.000Z",
-          "wordCount": 9889,
+          "wordCount": 9871,
           "title": "Barbie, Hot Wheels Toy Maker to Use OpenAI Tech to Boost Productivity",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/openai-sam-altman-decrypt-style-gID_7.png@png",
@@ -26,7 +56,7 @@
           "description": "The joint filing proposes a $50 million payment to the SEC and marks a key step toward settling the years-long legal battle over XRP sales.",
           "link": "https://decrypt.co/325015/ripple-sec-ask-court-to-dissolve-xrp-injunction-release-125m-in-escrow",
           "publishedOn": "2025-06-13T04:31:12.000Z",
-          "wordCount": 9667,
+          "wordCount": 9649,
           "title": "Ripple, SEC Ask Court to Dissolve XRP Injunction, Release $125M in Escrow",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/xrp_us-securities-gID_7.png@png",
@@ -41,7 +71,7 @@
           "description": "The agreement marks one of the first major financial settlements against celebrities who promoted FTX before its spectacular collapse.",
           "link": "https://decrypt.co/325012/former-nba-star-shaquille-oneal-settle-ftx-suit",
           "publishedOn": "2025-06-13T04:09:05.000Z",
-          "wordCount": 9688,
+          "wordCount": 9670,
           "title": "Former NBA Star Shaquille O'Neal Agrees to Pay $1.8M to Settle FTX Suit",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/05/shaq-shutterstock-gID_7.png@png",
@@ -56,7 +86,7 @@
           "description": "The SEC has delayed decisions on crypto ETF proposals, including Dogecoin and HBAR, while seeking further public input.",
           "link": "https://decrypt.co/324998/sec-dogecoin-hedera-etfs-growing-list-delayed-decisions",
           "publishedOn": "2025-06-13T02:48:46.000Z",
-          "wordCount": 10051,
+          "wordCount": 10033,
           "title": "SEC Adds Dogecoin, Hedera ETFs to Growing List of Delayed Decisions",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/SecuritiesExchange_logo-gID_7.png@png",
@@ -71,7 +101,7 @@
           "description": "Multiverse Computing claims its quantum-inspired compression tech can get large AI models like Llama-2 to fit on a smartphone.",
           "link": "https://decrypt.co/324914/spains-multiverse-bags-215m-shrink-ai-smartphones",
           "publishedOn": "2025-06-13T01:57:34.000Z",
-          "wordCount": 10637,
+          "wordCount": 10619,
           "title": "Big Brains, Tiny Models: Spain’s Multiverse Computing Bags $215M to Shrink AI for Smartphones",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/d7428579-fca5-4fca-97f6-497f44d05b65-gID_7.png@png",
@@ -86,7 +116,7 @@
           "description": "Bitcoin fell sharply late Thursday after Israel launched strikes on Iran, rattling global markets and sparking a flight from risk assets.",
           "link": "https://decrypt.co/324979/bitcoin-drops-israel-launches-airstrikes-iran",
           "publishedOn": "2025-06-13T00:48:11.000Z",
-          "wordCount": 10849,
+          "wordCount": 10831,
           "title": "Bitcoin Dips as Israel Launches Airstrikes on Iran",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-08-gID_7.png@png",
@@ -101,7 +131,7 @@
           "description": "Billionaire investor Philippe Laffont called non-yielding stablecoins “outrageous,” as U.S. lawmakers move to ban interest-bearing tokens.",
           "link": "https://decrypt.co/324929/billionaire-investor-non-yielding-stablecoins-us-bill-advances",
           "publishedOn": "2025-06-13T00:36:11.000Z",
-          "wordCount": 9022,
+          "wordCount": 9004,
           "title": "Billionaire Investor Calls No-Interest Stablecoins ‘Outrageous’ as Key US Bill Advances",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/USDC-USDT-decrypt-style-01-gID_7.png@png",
@@ -116,7 +146,7 @@
           "description": "A Coinbase analyst warned that the trend of publicly traded companies whipping up Bitcoin treasuries could trigger “systemic risks” for all of crypto.",
           "link": "https://decrypt.co/324934/attack-clones-coinbase-risks-bitcoin-treasury-model",
           "publishedOn": "2025-06-12T23:26:43.000Z",
-          "wordCount": 10366,
+          "wordCount": 10348,
           "title": "'Attack of the Clones': Coinbase Raises Alarm on Risks With Bitcoin Treasury Model",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-decrypt-style-27-gID_7.jpg@png",
@@ -131,7 +161,7 @@
           "description": "Following a recent surge fueled by its embrace of Ethereum, SharpLink Gaming's stock price plummeted late Thursday.",
           "link": "https://decrypt.co/324932/ethereum-treasury-company-sharplink-gaming-plunges-70-sec-confusion",
           "publishedOn": "2025-06-12T23:17:57.000Z",
-          "wordCount": 9810,
+          "wordCount": 9792,
           "title": "Ethereum Treasury Company SharpLink Gaming Plunges 70% Amid SEC Filing Confusion",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ethereum-decrypt-style-05-gID_7.png@png",
@@ -146,7 +176,7 @@
           "description": "Customers buying from Shopify merchants will be able to use the USDC stablecoin thanks to a collaboration with Coinbase and Stripe.",
           "link": "https://decrypt.co/324930/shopify-roll-out-usdc-stablecoin-payments-on-base-coinbase-team-up",
           "publishedOn": "2025-06-12T22:12:44.000Z",
-          "wordCount": 10532,
+          "wordCount": 10514,
           "title": "Shopify to Roll Out USDC Stablecoin Payments on Base in Coinbase Team-Up",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/USDC-decrypt-style-06-gID_7.png@png",
@@ -161,7 +191,7 @@
           "description": "Singapore-based Trident is bucking the Bitcoin reserve trend, instead embracing the Ripple-linked XRP for its treasury.",
           "link": "https://decrypt.co/324927/public-company-goes-hard-xrp-with-500-million-treasury",
           "publishedOn": "2025-06-12T21:55:24.000Z",
-          "wordCount": 9068,
+          "wordCount": 9050,
           "title": "Another Public Company Goes Hard on XRP With $500 Million Treasury Plan",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/xrp-decrypt-style-02-gID_7.jpg@png",
@@ -176,7 +206,7 @@
           "description": "Long position liquidations are rapidly piling up as Bitcoin, Ethereum, Dogecoin, and Solana losses accelerate Thursday.",
           "link": "https://decrypt.co/324931/crypto-longs-get-rekt-bitcoin-ethereum-dogecoin-dive",
           "publishedOn": "2025-06-12T21:41:31.000Z",
-          "wordCount": 9080,
+          "wordCount": 9062,
           "title": "Crypto Longs Get Rekt as Bitcoin, Ethereum and Dogecoin Dive",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/bitcoin-down-decrypt-style-gID_7.png@png",
@@ -191,7 +221,7 @@
           "description": "Mobile soccer game FIFA Rivals launched on Thursday, pairing the \"beautiful game\" with blockchain on iOS and Android.",
           "link": "https://decrypt.co/324868/fifa-rivals-launches-why-mythical-games-hit-bigger-nfl",
           "publishedOn": "2025-06-12T20:13:19.000Z",
-          "wordCount": 11742,
+          "wordCount": 11724,
           "title": "'FIFA Rivals' Launches—Why Mythical Games Thinks It'll Hit Bigger Than 'NFL Rivals'",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/FifaRivals_Mythical-gID_7.png@png",
@@ -206,7 +236,7 @@
           "description": "This week's top Myriad markets include predictions on Fartcoin, Strategy's Bitcoin treasury plans, and FIFA Club World Cup.",
           "link": "https://decrypt.co/324902/myriad-moves-strategy-boost-bitcoin-buys-fartcoin-fifa",
           "publishedOn": "2025-06-12T19:24:01.000Z",
-          "wordCount": 11147,
+          "wordCount": 11129,
           "title": "Myriad Moves: Will Strategy Boost Its Bitcoin Buys? Also Predictions on Fartcoin’s Rise and FIFA Club World Cup",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/michael-saylor-decrypt-style-bitcoin-gID_7.png@png",
@@ -221,7 +251,7 @@
           "description": "Solana treasury company DeFi Development Corp. established a major line of equity credit to buy even more SOL.",
           "link": "https://decrypt.co/324897/publicly-traded-solana-treasury-company-stack-5-billion",
           "publishedOn": "2025-06-12T19:12:32.000Z",
-          "wordCount": 9952,
+          "wordCount": 9934,
           "title": "Publicly Traded Solana Treasury Company Wants to Stack Another $5 Billion in SOL",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/solana-decrypt-style-01-gID_7.png@png",
@@ -236,7 +266,7 @@
           "description": "Token launchpad Zora is suing consulting giant Deloitte for trademark infringement over its \"Zora AI\" digital workforce platform.",
           "link": "https://decrypt.co/324894/ethereum-token-launchpad-zora-sues-deloitte",
           "publishedOn": "2025-06-12T18:31:49.000Z",
-          "wordCount": 11516,
+          "wordCount": 11498,
           "title": "Ethereum Token Platform Zora Sues Deloitte Over AI Trademark Dispute",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Judge-decrypt-style-2-gID_7.png@png",
@@ -251,7 +281,7 @@
           "description": "Stablecoin issuer Tether has bought a substantial stake in a Canadian gold company as part of its safe-haven asset strategy, which includes a growing stash of Bitcoin.",
           "link": "https://decrypt.co/324867/bitcoin-gold-tether-latest-investment-dual-pillar-strategy",
           "publishedOn": "2025-06-12T17:46:52.000Z",
-          "wordCount": 9542,
+          "wordCount": 9524,
           "title": "Bitcoin and Gold: Tether's Latest Investment Boosts 'Dual Pillar Strategy'",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin_gold2-gID_7.png@png",
@@ -266,7 +296,7 @@
           "description": "The company’s stock price fell 22% on Thursday after it unveiled plans to offer investors $1.75 billion worth of convertible bonds.",
           "link": "https://decrypt.co/324879/will-gamestop-buy-more-bitcoin-shares-plunge-amid-black-box-criticism-over-strategy",
           "publishedOn": "2025-06-12T16:48:23.000Z",
-          "wordCount": 9939,
+          "wordCount": 9921,
           "title": "Will GameStop Buy More Bitcoin? Shares Plunge Amid 'Black Box' Criticism Over Strategy",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/gamestop-logo-decrypt-style-01-gID_7.jpg@png",
@@ -281,7 +311,7 @@
           "description": "Opportunity Cost is a browser extension that displays every price in Bitcoin or Sats, hoping to serve as a memetic tool for mass adoption.",
           "link": "https://decrypt.co/324842/browser-extension-converts-bitcoin",
           "publishedOn": "2025-06-12T15:31:02.000Z",
-          "wordCount": 11383,
+          "wordCount": 11365,
           "title": "This Browser Extension Converts Everything Into Bitcoin—Here's Why",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/burger-bitcoin-gID_7.png@png",
@@ -311,7 +341,7 @@
           "description": "Bitcoin dips to $107K after inflation data triggers a “sell the news” move—but Ethereum shows stronger technical momentum above key support.",
           "link": "https://decrypt.co/324843/bitcoin-ethereum-slip-cpi-shock-charts-not-bearish",
           "publishedOn": "2025-06-12T14:48:29.000Z",
-          "wordCount": 10216,
+          "wordCount": 10198,
           "title": "Bitcoin, Ethereum Slip After CPI Shock—But Charts Still Say 'Not Bearish': Analysis",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-Ethereum-decrypt-style-01-gID_7.png@png",
@@ -326,7 +356,7 @@
           "description": "More than 20,000 IPs and domains were taken down and 41 servers seized as part of the coordinated operation.",
           "link": "https://decrypt.co/324832/interpol-infostealer-malware-crackdown-leads-to-32-arrests",
           "publishedOn": "2025-06-12T13:43:08.000Z",
-          "wordCount": 9429,
+          "wordCount": 9411,
           "title": "Interpol Infostealer Malware Crackdown Leads to 32 Arrests",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/crime_jail-handcuffs-gID_7.png@png",
@@ -341,7 +371,7 @@
           "description": "Altcoins including DOGE, SOL and ADA outpaced Bitcoin’s losses Thursday morning, in what experts called a “routine” pullback.",
           "link": "https://decrypt.co/324829/dogecoin-solana-stumble-as-altcoins-hit-by-market-correction",
           "publishedOn": "2025-06-12T12:09:07.000Z",
-          "wordCount": 10086,
+          "wordCount": 10068,
           "title": "Dogecoin, Solana Stumble as Altcoins Hit by Market Correction",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/dogecoin-decrypt-style-02-gID_7.png@png",
@@ -356,7 +386,7 @@
           "description": "The Cypherock X1 employs a shard-based security model using cards with secure elements, to guard against the threat of wrench attacks.",
           "link": "https://decrypt.co/323050/cypherock-x1-review-crypto-hardware-wallet-card-based-security",
           "publishedOn": "2025-06-12T10:50:02.000Z",
-          "wordCount": 15661,
+          "wordCount": 15643,
           "title": "Cypherock X1 Review: A Crypto Hardware Wallet With a Slick Card-Based Security Model",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/cypherock-x1-review-main-decrypt-style-scaled-gID_7.jpg@png",
@@ -371,7 +401,7 @@
           "description": "India is home to 16% of the world’s AI talent, second only to the U.S., according to a new BCG report on the country’s booming AI sector.",
           "link": "https://decrypt.co/324814/a-business-necessity-indias-ai-market-set-to-triple-hit-17-billion-by-2027-says-bcg",
           "publishedOn": "2025-06-12T10:28:44.000Z",
-          "wordCount": 9422,
+          "wordCount": 9404,
           "title": "'A Business Necessity': India's AI Market Set to Triple, Hit $17 Billion by 2027, Says BCG",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/ai-artificial-intelligence-decrypt-style-1-scaled-gID_7.jpg@png",
@@ -386,7 +416,7 @@
           "description": "The new SEC framework imposes minimum capital, local incorporation, and strict data rules on crypto firms operating in the Philippines.",
           "link": "https://decrypt.co/324797/philippines-crypto-rules-licensing-capital-requirements",
           "publishedOn": "2025-06-12T07:01:07.000Z",
-          "wordCount": 10096,
+          "wordCount": 10078,
           "title": "Philippines Enacts Sweeping Crypto Rules, Mandates Licensing and Capital Requirements",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/justice-decrypt-style-gID_7.png@png",
@@ -401,7 +431,7 @@
           "description": "Senators Warren and Blumenthal are demanding answers from Meta over renewed stablecoin plans, warning of risks to competition and privacy.",
           "link": "https://decrypt.co/324791/us-senators-probe-stablecoin-plans-meta",
           "publishedOn": "2025-06-12T06:40:22.000Z",
-          "wordCount": 9903,
+          "wordCount": 9885,
           "title": "US Senators Probe Stablecoin Plans by Facebook Parent Meta",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/meta-logo-gID_7.png@png",
@@ -416,7 +446,7 @@
           "description": "ASIC has banned Glenda Rogan for misleading conduct after she allegedly transfered client funds into blacklisted crypto platform.",
           "link": "https://decrypt.co/324774/australian-woman-ten-year-ban-9-6-million-crypto-scheme",
           "publishedOn": "2025-06-12T05:20:01.000Z",
-          "wordCount": 9547,
+          "wordCount": 9529,
           "title": "Australian Woman Hit With Ten-Year Ban Over $9.6 Million Crypto Scheme",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Decrypt_backgrounds-06-gID_7.png@png",
@@ -431,7 +461,7 @@
           "description": "The decentralized physical infrastructure platform wants to scale and improve data infrastructure for vehicles in Japan.",
           "link": "https://decrypt.co/324771/startup-dimo-launches-depin-venture-in-japan-to-help-automakers-monetize-vehicle-data",
           "publishedOn": "2025-06-12T04:24:29.000Z",
-          "wordCount": 9565,
+          "wordCount": 9547,
           "title": "Startup DIMO Launches DePIN Venture in Japan to Help Automakers Monetize Vehicle Data",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-13-gID_7.png@png",
@@ -446,7 +476,7 @@
           "description": "Hollywood studios are accusing Midjourney of rampant copyright infringement, citing unauthorized use of iconic characters.",
           "link": "https://decrypt.co/324768/disney-universal-dreamworks-sue-midjourney",
           "publishedOn": "2025-06-12T03:36:58.000Z",
-          "wordCount": 9807,
+          "wordCount": 9789,
           "title": "Disney, Universal, DreamWorks Sue Midjourney, Call It a 'Bottomless Pit of Plagiarism'",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Judge-gID_7.png@png",
@@ -461,7 +491,7 @@
           "description": "Bitcoin miner Bitdeer reported an increase in BTC mined in May, an 18% jump from April, as the industry recovers from a tough spell.",
           "link": "https://decrypt.co/324710/bitcoin-miner-bitdeer-boosts-btc-production-may",
           "publishedOn": "2025-06-11T23:02:02.000Z",
-          "wordCount": 9466,
+          "wordCount": 9448,
           "title": "Bitcoin Miner Bitdeer Boosts BTC Production as Mining Industry Rebounds",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/bitcoin-mining-decrypt-style-02-gID_7.png@png",
@@ -476,7 +506,7 @@
           "description": "The two men charged with kidnapping a Bitcoin investor in NYC have pleaded not guilty as wild new details emerge in a court appearance.",
           "link": "https://decrypt.co/324714/alleged-nyc-bitcoin-kidnappers-plead-not-guilty",
           "publishedOn": "2025-06-11T22:13:57.000Z",
-          "wordCount": 9996,
+          "wordCount": 9978,
           "title": "Alleged NYC Bitcoin Kidnappers Plead Not Guilty, Claim Accuser Was 'Laughing and Smiling'",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/crime_jail-handcuffs-gID_7.png@png",
@@ -491,7 +521,7 @@
           "description": "A new Similarweb report reveals that ChatGPT commands 5.5 billion monthly visits while competitors struggle to make a fraction of that.",
           "link": "https://decrypt.co/324737/chatgpt-eating-internet-openai-dominates-ai-market",
           "publishedOn": "2025-06-11T21:58:23.000Z",
-          "wordCount": 11692,
+          "wordCount": 11674,
           "title": "ChatGPT Is Eating the Internet: OpenAI Commands 80% of AI Market",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-07-gID_7.png@png",
@@ -506,7 +536,7 @@
           "description": "Dogecoin skyrocketed after Elon Musk’s surprise apology to Trump amid fresh ETF optimism for the crypto market's leading meme coin.",
           "link": "https://decrypt.co/324715/musk-trump-truce-dogecoin-ethereum-price-analysis",
           "publishedOn": "2025-06-11T21:38:33.000Z",
-          "wordCount": 11581,
+          "wordCount": 11563,
           "title": "Musk-Trump Truce Sends Dogecoin Skyward, With Ethereum Along for the Ride: Analysis",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/dogecoin-decrypt-style-04-gID_7.png@png",
@@ -521,7 +551,7 @@
           "description": "After stockpiling over $500 million worth of Bitcoin, GameStop is raising more funds that could well fuel future BTC purchases.",
           "link": "https://decrypt.co/324713/gamestop-stock-falls-firm-plans-1-75-billion-raise-bitcoin",
           "publishedOn": "2025-06-11T21:22:42.000Z",
-          "wordCount": 9220,
+          "wordCount": 9202,
           "title": "GameStop Stock Falls as Firm Plans $1.75 Billion Raise After Bitcoin Buy",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/gamestop-logo-decrypt-style-03-gID_7.png@png",
@@ -529,36 +559,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/gamestop-logo-decrypt-style-03-gID_7.png@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=324698",
-          "author": "Jason Nelson",
-          "description": "Publicly traded fitness products company Interactive Strength plans to buy Fetch.ai tokens over the next 12 months for product integration.",
-          "link": "https://decrypt.co/324698/publicly-traded-firm-building-500-million-fet-treasury",
-          "publishedOn": "2025-06-11T19:45:38.000Z",
-          "wordCount": 10150,
-          "title": "Forget Bitcoin: Publicly Traded Firm Building $500 Million Crypto Treasury With FET",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-12-gID_7.png@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-12-gID_7.png@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=324696",
-          "author": "Logan Hitchcock",
-          "description": "Shares of stablecoin issuer Circle spiked on Wednesday as its USDC token expands natively to another blockchain, World Chain.",
-          "link": "https://decrypt.co/324696/circle-stock-jumps-usdc-stablecoin-world-chain",
-          "publishedOn": "2025-06-11T19:02:38.000Z",
-          "wordCount": 9527,
-          "title": "Circle Stock Jumps as USDC Stablecoin Expands to Sam Altman's World Chain",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/usdc-circle-decrypt-gID_7.png@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/usdc-circle-decrypt-gID_7.png@png"
         },
         {
           "id": "https://decrypt.co/videos/interviews/PTkIaZyj/btc-stable-ahead-of-cpi-sol-etfs-coming-soon-spx-hits-ath",
