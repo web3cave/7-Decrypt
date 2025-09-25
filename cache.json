@@ -6,12 +6,42 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=341423",
+          "author": "Logan Hitchcock",
+          "description": "Top markets on Myriad this week include price predictions on Ethereum and Solana, and the next stop for Pudgy Penguins culture coin, PENGU.",
+          "link": "https://decrypt.co/341423/myriad-moves-ethereum-solana-sentiment-flips-bearish-prices-tumble",
+          "publishedOn": "2025-09-25T19:27:39.000Z",
+          "wordCount": 12157,
+          "title": "Myriad Moves: Ethereum and Solana Sentiment Flips Bearish as Prices Tumble",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Chart4_red-gID_7.png@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Chart4_red-gID_7.png@png"
+        },
+        {
+          "id": "https://decrypt.co/?p=341401",
+          "author": "Jose Antonio Lanz",
+          "description": "A brutal weekly decline has pushed the crypto market into negative territory for September, keeping the seasonal curse alive—for now.",
+          "link": "https://decrypt.co/341401/crypto-market-red-september-bitcoin-barely-hangs-on",
+          "publishedOn": "2025-09-25T19:09:07.000Z",
+          "wordCount": 12411,
+          "title": "Crypto Market Wipes Out September Gains as Bitcoin Barely Hangs On: Analysis",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin-chart-decrypt-style-01-gID_7.png@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin-chart-decrypt-style-01-gID_7.png@png"
+        },
+        {
           "id": "https://decrypt.co/?p=341397",
           "author": "Mathew Di Salvo",
           "description": "Red September arrives? Liquidations are surging as Bitcoin and other major assets bleed, with Solana and Dogecoin both down 21% this week.",
           "link": "https://decrypt.co/341397/bitcoin-ethereum-dogecoin-dive-crypto-liquidations-1-billion",
           "publishedOn": "2025-09-25T17:48:03.000Z",
-          "wordCount": 10487,
+          "wordCount": 10557,
           "title": "Bitcoin, Ethereum and Dogecoin Dive as Crypto Liquidations Top $1 Billion",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-decrypt-style-27-gID_7.jpg@png",
@@ -26,7 +56,7 @@
           "description": "Built on Anthropic’s Claude, the new bot is trained on smart-money flows across two dozen blockchains.",
           "link": "https://decrypt.co/341341/ai-chatbot-trained-top-crypto-traders-offer-edge",
           "publishedOn": "2025-09-25T17:17:12.000Z",
-          "wordCount": 10155,
+          "wordCount": 10225,
           "title": "This AI Chatbot Is Trained on Top Crypto Traders—Can It Offer an Edge?",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-trading-decrypt-style-01-gID_7.png@png",
@@ -41,7 +71,7 @@
           "description": "USDC stablecoin issuer Circle is considering enabling reversibility for transactions due to needs from traditional finance players.",
           "link": "https://decrypt.co/341374/circle-mulls-reversible-usdc-stablecoin-transactions-in-push-for-tradfi-adoption",
           "publishedOn": "2025-09-25T16:34:12.000Z",
-          "wordCount": 9609,
+          "wordCount": 9679,
           "title": "Circle Mulls Reversible USDC Stablecoin Transactions in Push for TradFi Adoption",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/USDC-gID_7.png@png",
@@ -56,7 +86,7 @@
           "description": "Bitcoin was hovering above $111,000 as markets awaited crucial U.S. inflation data that could determine the Fed's next interest rate decision.",
           "link": "https://decrypt.co/341369/analysts-mixed-latest-inflation-reports-impact-bitcoin",
           "publishedOn": "2025-09-25T16:30:11.000Z",
-          "wordCount": 10032,
+          "wordCount": 10102,
           "title": "How Bitcoin Traders Are Preparing Ahead of Inflation Data—And What Comes Next",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin-decrypt-style-25-gID_7.png@png",
@@ -71,7 +101,7 @@
           "description": "Internet powerhouse Cloudflare wil debut its own U.S. dollar-backed stablecoin, the NET Dollar, to power AI agent finance.",
           "link": "https://decrypt.co/341371/cloudflare-launch-net-dollar-stablecoin-ai-driven-internet",
           "publishedOn": "2025-09-25T16:05:54.000Z",
-          "wordCount": 9684,
+          "wordCount": 9754,
           "title": "Tech Giant Cloudflare to Launch NET Dollar Stablecoin for 'AI-Driven Internet'",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-17-gID_7.png@png",
@@ -86,7 +116,7 @@
           "description": "AIQuant promises 24/7 autonomous trading across multiple blockchains, aiming to simplify and gamify algorithmic strategies via AI.",
           "link": "https://decrypt.co/341348/ai-bots-trade-crypto-solana-bnb-chain-base",
           "publishedOn": "2025-09-25T15:49:21.000Z",
-          "wordCount": 10295,
+          "wordCount": 10365,
           "title": "These AI Bots Will Trade Your Crypto Across Solana, BNB Chain and Base",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-05-gID_7.png@png",
@@ -101,7 +131,7 @@
           "description": "Plasma launched its “mainnet beta,” rolled out its XPL token, and handed out tens of millions of dollars' worth of free XPL.",
           "link": "https://decrypt.co/341345/plasma-debuts-xpl-at-massive-multiple-of-ico-price-and-hands-out-millions-in-free-tokens",
           "publishedOn": "2025-09-25T15:16:47.000Z",
-          "wordCount": 10765,
+          "wordCount": 10835,
           "title": "Plasma Debuts XPL at Massive Multiple of ICO Price—And Hands Out Millions in Free Tokens",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/stablecoins-decrypt-style-01-scaled-gID_7.jpg@png",
@@ -116,7 +146,7 @@
           "description": "Google last month signed a similar deal with sustainable miner TeraWulf.",
           "link": "https://decrypt.co/341339/google-dives-deeper-bitcoin-mining-backstopping-ai-hosting",
           "publishedOn": "2025-09-25T15:11:49.000Z",
-          "wordCount": 9221,
+          "wordCount": 9291,
           "title": "Google Dives Deeper Into Bitcoin Mining by Backstopping AI Hosting Deal",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/bitcoin-mining-decrypt-style-03-gID_7.png@png",
@@ -131,7 +161,7 @@
           "description": "Nearly four in five users said they would be willing to pay higher fees for an exchange they trust.",
           "link": "https://decrypt.co/341343/crypto-users-care-more-about-trust-lower-fees-kraken-survey",
           "publishedOn": "2025-09-25T15:00:47.000Z",
-          "wordCount": 10078,
+          "wordCount": 10148,
           "title": "Crypto Users Care More About Trust than Lower Fees: Kraken Survey",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/kraken2-gID_7.jpg@png",
@@ -146,7 +176,7 @@
           "description": "As the crypto market corrects amid macroeconomic uncertainty, all eyes are on the realized price for accumulating Ethereum addresses.",
           "link": "https://decrypt.co/341346/ethereum-cost-basis-comes-into-focus-amid-slowing-etf-treasury-investments",
           "publishedOn": "2025-09-25T14:55:35.000Z",
-          "wordCount": 9857,
+          "wordCount": 9927,
           "title": "Ethereum Cost Basis Comes Into Focus Amid Slowing ETF, Treasury Investments",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/ethereum-decrypt-style-05-gID_7.jpg@png",
@@ -161,7 +191,7 @@
           "description": "Operation HAECHI VI comes as Interpol and other law enforcement agencies step up their policing of crypto-related cybercrime.",
           "link": "https://decrypt.co/341328/interpol-seizes-97-million-crypto-multinational-crackdown",
           "publishedOn": "2025-09-25T14:29:23.000Z",
-          "wordCount": 10613,
+          "wordCount": 10683,
           "title": "Interpol Seizes $97 Million Worth of Crypto in Huge Multinational Crackdown",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/crime_jail-handcuffs-gID_7.png@png",
@@ -176,7 +206,7 @@
           "description": "The Nasdaq-listed Ethereum treasury firm will tokenize SBET shares via Superstate's Opening Bell, with an eye towards compliant DeFi trading.",
           "link": "https://decrypt.co/341337/nasdaq-listed-ethereum-treasury-firm-sharplink-offer-tokenized-shares",
           "publishedOn": "2025-09-25T14:23:39.000Z",
-          "wordCount": 10217,
+          "wordCount": 10287,
           "title": "Nasdaq-Listed Ethereum Treasury Firm SharpLink to Offer Tokenized Shares",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Sharplink-ethereum-decrypt-style-01-gID_7.jpg@png",
@@ -191,7 +221,7 @@
           "description": "The protocol targets dormant institutional BTC with programmable tokens, pitched as infrastructure for Bitcoin-based decentralized finance.",
           "link": "https://decrypt.co/341280/bos-rolls-out-new-protocol-to-put-dormant-institutional-bitcoin-to-work",
           "publishedOn": "2025-09-25T13:01:02.000Z",
-          "wordCount": 9645,
+          "wordCount": 9715,
           "title": "BOS Rolls Out New Protocol to Put Dormant Institutional Bitcoin to Work",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-decrypt-style-pixel-gID_7.png@png",
@@ -206,7 +236,7 @@
           "description": "The Democratic Party launched a Digital Asset Task Force targeting comprehensive stablecoin and cryptocurrency legislation by year-end.",
           "link": "https://decrypt.co/341279/south-koreas-ruling-party-task-force-aims-at-crypto-stablecoin-oversight",
           "publishedOn": "2025-09-25T12:31:59.000Z",
-          "wordCount": 9662,
+          "wordCount": 9732,
           "title": "South Korea's Ruling Party Task Force Aims at Crypto, Stablecoin Oversight",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/SouthKorea_Bitcoin3-gID_7.png@png",
@@ -221,7 +251,7 @@
           "description": "Bitcoin, Ethereum, and Solana made up the lion's share of liquidations as the crypto market took a dive Thursday morning.",
           "link": "https://decrypt.co/341276/crypto-market-liquidations-top-442m-as-bitcoin-ethereum-solana-dip",
           "publishedOn": "2025-09-25T12:02:49.000Z",
-          "wordCount": 9511,
+          "wordCount": 9581,
           "title": "Crypto Market Liquidations Top $442M as Bitcoin, Ethereum, Solana Dip",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/bitcoin-down-decrypt-style-gID_7.png@png",
@@ -236,7 +266,7 @@
           "description": "The Web3 streaming protocol is peer-to-peer and distributes content through DePIN infrastructure for high-quality streams with low latency.",
           "link": "https://decrypt.co/340884/aioz-stream-aims-to-unlock-next-level-rewards-for-viewers-and-creators",
           "publishedOn": "2025-09-25T12:01:09.000Z",
-          "wordCount": 9277,
+          "wordCount": 9347,
           "title": "AIOZ Stream Aims to Unlock Next-Level Rewards for Viewers and Creators",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/AIOZ-Stream-launch-visual-2-scaled-e1758639265105-gID_7.jpeg@png",
@@ -251,7 +281,7 @@
           "description": "The internet giant is in talks with Upbit operator Dunamu over a share swap that could fold the country’s largest exchange into its group.",
           "link": "https://decrypt.co/341273/south-koreas-naver-financial-discussing-upbit-stock-swap-eyeing-stablecoin-market",
           "publishedOn": "2025-09-25T11:12:04.000Z",
-          "wordCount": 9541,
+          "wordCount": 9611,
           "title": "South Korea’s Naver Financial 'Discussing' Upbit Stock Swap, Eyeing Stablecoin Market",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/bitcoin-south-korea-won-decrypt-style-gID_7.jpg@png",
@@ -266,7 +296,7 @@
           "description": "South Park singled out Polymarket and Kalshi in its latest episode—surprising users of prediction markets in the process.",
           "link": "https://decrypt.co/341253/prediction-markets-south-parks-episode",
           "publishedOn": "2025-09-25T10:30:05.000Z",
-          "wordCount": 9637,
+          "wordCount": 9707,
           "title": "How Prediction Markets Reacted to South Park’s Episode on… Prediction Markets",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/south-park-decrypt-style-01-gID_7.jpg@png",
@@ -281,7 +311,7 @@
           "description": "The board's decision follows months of preparation that began in April with LaRose and Treasurer Sprague's initial proposal.",
           "link": "https://decrypt.co/341246/ohio-moves-to-accept-crypto-payments-for-state-fees",
           "publishedOn": "2025-09-25T05:45:23.000Z",
-          "wordCount": 9886,
+          "wordCount": 9956,
           "title": "Ohio Moves to Accept Crypto Payments for State Fees",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/ohio-gID_7.jpg@png",
@@ -296,7 +326,7 @@
           "description": "Experts note that while Bitcoin is caught between macro headwinds, August's Core PCE data serves as a possible key near-term catalyst.",
           "link": "https://decrypt.co/341241/us-dollar-bounces-gold-pauses-rally-whats-next-for-bitcoin",
           "publishedOn": "2025-09-25T04:41:40.000Z",
-          "wordCount": 9393,
+          "wordCount": 9463,
           "title": "US Dollar Bounces, Gold Pauses Rally: What’s Next for Bitcoin?",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-decrypt-style-26-gID_7.png@png",
@@ -311,7 +341,7 @@
           "description": "The Philippines has launched a blockchain system to track public works spending following protests over corruption.",
           "link": "https://decrypt.co/341237/philippines-blockchain-mass-protests-corruption",
           "publishedOn": "2025-09-25T03:47:00.000Z",
-          "wordCount": 9727,
+          "wordCount": 9797,
           "title": "Philippines Turns to Blockchain After Mass Protests Over Corruption",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/Manilla-gID_7.jpg@png",
@@ -326,7 +356,7 @@
           "description": "FalconX has launched the first forwards market tied to Ethereum staking yields, giving institutions a way to hedge the network’s native rate.",
           "link": "https://decrypt.co/341225/falconx-launches-ethereum-staking-rate-derivatives-institutions",
           "publishedOn": "2025-09-25T01:07:20.000Z",
-          "wordCount": 9274,
+          "wordCount": 9344,
           "title": "FalconX Opens Door to Trading Ethereum’s Native Yield",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/ethereum-decrypt-style-07-gID_7.jpg@png",
@@ -341,7 +371,7 @@
           "description": "The new project will automate stacked indoor farming and share revenues with token holders through NFTs on the peaq network.",
           "link": "https://decrypt.co/341221/peaq-unveils-tokenized-robo-farm-hong-kong",
           "publishedOn": "2025-09-24T23:35:35.000Z",
-          "wordCount": 9898,
+          "wordCount": 9968,
           "title": "Peaq Unveils Tokenized Robo-Farm in Hong Kong",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/robot-typing-gID_7.jpg@png",
@@ -356,7 +386,7 @@
           "description": "Google’s DORA survey found developers were hooked on AI coding tools yet treated their output like junk mail.",
           "link": "https://decrypt.co/341190/coders-now-use-ai-nobody-trusts-it-google-finds",
           "publishedOn": "2025-09-24T23:14:39.000Z",
-          "wordCount": 10216,
+          "wordCount": 10286,
           "title": "Nearly All Coders Now Use AI—But Nobody Trusts It, Google Finds",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-18-gID_7.png@png",
@@ -371,7 +401,7 @@
           "description": "Australia’s draft bill extends financial services laws to crypto, aiming to boost safeguards and provide clearer rules.",
           "link": "https://decrypt.co/341217/australia-drafts-law-tighten-oversight-digital-asset-platforms",
           "publishedOn": "2025-09-24T23:04:12.000Z",
-          "wordCount": 9705,
+          "wordCount": 9775,
           "title": "Australia Drafts Law to Tighten Oversight of Digital Asset Platforms",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/Canberra-gID_7.jpg@png",
@@ -386,7 +416,7 @@
           "description": "Market maker GSR included a proposal for the treasury-focused fund along with four others in a filing Wednesday.",
           "link": "https://decrypt.co/341150/crypto-bitcoin-treasury-etf-gsr-sec",
           "publishedOn": "2025-09-24T22:49:28.000Z",
-          "wordCount": 9786,
+          "wordCount": 9856,
           "title": "Crypto Treasuries Meet ETFs in Novel Offering Before SEC",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/ETF2-gID_7.png@png",
@@ -401,7 +431,7 @@
           "description": "A ransomware operator is auctioning off sensitive data from the Maryland Department of Transportation for $3.4 million worth of Bitcoin.",
           "link": "https://decrypt.co/341183/hackers-selling-swiped-maryland-transit-data-millions-bitcoin",
           "publishedOn": "2025-09-24T21:31:03.000Z",
-          "wordCount": 9427,
+          "wordCount": 9497,
           "title": "Hackers Are Selling Swiped Maryland Transit Data for Millions in Bitcoin",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/crime_hacker-gID_7.png@png",
@@ -416,7 +446,7 @@
           "description": "The firm is also being sued by Washington, D.C.'s attorney general",
           "link": "https://decrypt.co/341169/atm-operator-athena-bitcoin-accused-stealing-copyrighted-source-code",
           "publishedOn": "2025-09-24T19:59:23.000Z",
-          "wordCount": 10074,
+          "wordCount": 10144,
           "title": "ATM Operator Athena Bitcoin Accused of Stealing Copyrighted Source Code",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-decrypt-style-wallet-gID_7.jpg@png",
@@ -431,7 +461,7 @@
           "description": "Hyperliquid rival Aster is the flavor of the week for crypto degens, flying up the charts since debuting seven days ago. Can it keep going?",
           "link": "https://decrypt.co/341157/crypto-traders-aster-price-how-high-can-it-go",
           "publishedOn": "2025-09-24T19:53:25.000Z",
-          "wordCount": 11257,
+          "wordCount": 11327,
           "title": "Crypto Traders Have a New Fave in Aster as It Jumps 2,000% in 7 Days: How High Can It Go?",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-trading-decrypt-style-01-gID_7.png@png",
@@ -446,7 +476,7 @@
           "description": "Thumzup gets a thumbs-up from investors, with TZUP shares rising as the Dogecoin and Bitcoin treasury firm plans to buy back more stock.",
           "link": "https://decrypt.co/341165/dogecoin-bitcoin-treasury-firm-thumzup-stock-climb-buyback-plans",
           "publishedOn": "2025-09-24T19:41:58.000Z",
-          "wordCount": 9585,
+          "wordCount": 9655,
           "title": "Dogecoin, Bitcoin Treasury Firm Thumzup Sees Stock Climb on Buyback Plans",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Doge4-gID_7.png@png",
@@ -461,7 +491,7 @@
           "description": "A new study suggests that Ethereum layer-2 rollups have issues pricing small transactions, risking costs and denial-of-service attacks.",
           "link": "https://decrypt.co/341111/ethereum-layer-2-rollups-misprice-small-transactions-study-warns",
           "publishedOn": "2025-09-24T19:12:48.000Z",
-          "wordCount": 10428,
+          "wordCount": 10498,
           "title": "Ethereum Layer-2 Rollups Misprice Small Transactions, Study Warns",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Ethereum-decrypt-style-04-gID_7.jpg@png",
@@ -476,7 +506,7 @@
           "description": "Wednesday night's episode of South Park promises to tackle the crypto-fueled prediction market ecosystem, weeks after skewering figures including President Trump and Charlie Kirk.",
           "link": "https://decrypt.co/341133/south-park-prediction-markets-traders-already-betting",
           "publishedOn": "2025-09-24T18:11:04.000Z",
-          "wordCount": 10101,
+          "wordCount": 10171,
           "title": "'South Park' Takes On Prediction Markets—And Traders Are Already Betting On It",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/south-park-prediction-gID_7.jpeg@png",
@@ -491,7 +521,7 @@
           "description": "Jiuzi Holdings announced plans for a $1 billion crypto treasury focused on Bitcoin, Ethereum, and BNB—garnering mixed signals from investors.",
           "link": "https://decrypt.co/341113/chinese-ev-firm-stock-surges-stumbles-billion-bitcoin-ethereum-bnb-plan",
           "publishedOn": "2025-09-24T17:09:59.000Z",
-          "wordCount": 9331,
+          "wordCount": 9401,
           "title": "Chinese EV Firm’s Stock Surges, Then Stumbles on $1 Billion Bitcoin, Ethereum and BNB Plan",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Chart4_red-gID_7.png@png",
@@ -501,42 +531,12 @@
           "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Chart4_red-gID_7.png@png"
         },
         {
-          "id": "https://decrypt.co/?p=341100",
-          "author": "Mathew Di Salvo",
-          "description": "The region was the fastest growing for on-chain activity, a new Chainalysis report observing transaction data found.",
-          "link": "https://decrypt.co/341100/asia-pacific-leads-worldwide-crypto-adoption-report",
-          "publishedOn": "2025-09-24T17:08:00.000Z",
-          "wordCount": 9057,
-          "title": "Asia-Pacific Leads Worldwide Crypto Adoption: Chainalysis",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/cryptocurrency-world-decrypt-style-gID_7.jpg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/cryptocurrency-world-decrypt-style-gID_7.jpg@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=341115",
-          "author": "Decrypt Staff",
-          "description": "The prediction market protocol is now offering revenue sharing, with USDC rewards for users who share using their personal referral link.",
-          "link": "https://decrypt.co/341115/myriad-launches-revenue-share-program-for-predictors-and-builders",
-          "publishedOn": "2025-09-24T17:07:12.000Z",
-          "wordCount": 9875,
-          "title": "Myriad Launches Revenue Share Program for Predictors and Builders",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/myriad-protocol-banner-gID_7.jpg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/myriad-protocol-banner-gID_7.jpg@png"
-        },
-        {
           "id": "https://decrypt.co/videos/interviews/zAvJZbIJ/catching-criminals-on-chain-interview-w-matt-price",
           "author": null,
           "description": "Matt Price, Elliptic's director of investigations and strategic advisory, delves into the world of on-chain analytics, outlining the role of AI in crypto analytics, an evolving game of cat and mouse on-chain, and the challenges faced by law enforcement in tackling sophisticated financial crimes.",
           "link": "https://decrypt.co/videos/interviews/zAvJZbIJ/catching-criminals-on-chain-interview-w-matt-price",
           "publishedOn": "2025-09-24T15:26:17.000Z",
-          "wordCount": 6000,
+          "wordCount": 6377,
           "title": "Catching Criminals On-chain (Interview w/ Matt Price)",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/zAvJZbIJ/poster.jpg",
@@ -581,7 +581,7 @@
           "description": "BTC taps $117k, BNB leads L1s ahead of Fed decision. Whale moves $116m BTC after 11-year dormancy. Binance nears deal to end DoJ compliance monitor. CZ updates X profile, sparks Binance return rumours. 67% fund managers don’t hold crypto: BofA survey. Crypto execs set to meet senate banking committee. New crypto PAC launches with $100m war chest. US, UK to collab on crypto initiatives. Sharplink announces 1m shares repurchased. ETH devs open Fusaka to $2m security audit contest. Ether Machine files to go public via Dynamix merger. Sharps to collab with Bonk to stake portion of its SOL. Circle launches USDC natively on Hyperliquid. Bitwise files for ETF focused on tokenization, stablecoins. Keyrock acquires Turing Capital. Google launches AI agent-to-agent payments protocol.",
           "link": "https://decrypt.co/videos/interviews/DTKH2Ice/fed-decision-today-cz-may-be-returning-creator-coins-head-south",
           "publishedOn": "2025-09-17T15:19:57.000Z",
-          "wordCount": 6414,
+          "wordCount": 6791,
           "title": "FED DECISION TODAY, CZ MAY BE RETURNING, CREATOR COINS HEAD SOUTH",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/DTKH2Ice/poster.jpg",
@@ -596,7 +596,7 @@
           "description": "Crypto reverses weekend strength, FOMC this week. BTC ETF inflows hit $2.3b last week. Gemini stock soars on IPO. Atkins scraps SEC’s crypto enforcement agenda. Tether launches USA₮ stablecoin, Bo Hines as CEO. Monero rallies despite being hit by 18 block reorg. Allied Gaming establishes DAT. Galaxy Digital buys $300m SOL. Native Markets wins USDH bid. Ethereum Foundation releases privacy roadmap. AI run crypto governance is a bad idea: Vitalik. ETH stablecoin supply hits ATH $166b. BoE plans to restrict stablecoin ownership in UK. LSE completes first blockchain powered fund raising. Pakistan invites crypto firms to apply for license. Yala’s YU stablecoin fails to restore peg after attack. Shibarium Bridge hacked for $2.4m. Polymarket weighs financing at $9-10b valuation. Polkadot to tighten tokenomics, capping DOT supply.",
           "link": "https://decrypt.co/videos/interviews/I8sYxriB/pump-overtakes-hyperliquid-galaxy-digital-buys-300m-sol-fomc-this-week",
           "publishedOn": "2025-09-15T16:08:22.000Z",
-          "wordCount": 6434,
+          "wordCount": 6811,
           "title": "PUMP OVERTAKES HYPERLIQUID, GALAXY DIGITAL BUYS $300M SOL, FOMC THIS WEEK",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/I8sYxriB/poster.jpg",
@@ -806,7 +806,7 @@
           "description": "SOL continues to lead majors, at key resistance. CRO up 50% after Trump Media partnership. Aave launches horizon RWA platform. CFTC to use NASDAQ surveillance system for crypto. Circle & Tether mint $1.25b more stables. Jupiter launches lending protocol.",
           "link": "https://decrypt.co/videos/interviews/PRUYO61s/sol-strong-nvidia-earnings-mixed-cro-up-50-on-trump-deal",
           "publishedOn": "2025-08-28T15:17:28.000Z",
-          "wordCount": 6376,
+          "wordCount": 5999,
           "title": "SOL STRONG, NVIDIA EARNINGS MIXED, CRO UP 50% ON TRUMP DEAL",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/PRUYO61s/poster.jpg",
