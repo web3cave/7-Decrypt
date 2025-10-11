@@ -59,6 +59,54 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2025-10-11 datetime="2025-10-11T15:04:01.000Z">2025-10-11</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2025-10-11 datetime="2025-10-11T15:04:01.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Decrypt</button>
+                  <a class="source-heading__link" href="https://decrypt.co/feed">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://decrypt.co/?p&#x3D;343941"
+                        open
+                      >
+                        <summary class="article-expander__title">Bitcoin, Ethereum, Dogecoin Down Bad Amid Record $19 Billion in Crypto Liquidations</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://decrypt.co/343941/bitcoin-ethereum-dogecoin-down-record-19-billion-crypto-liquidations">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/bitcoin-down-decrypt-style-gID_7.png@png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Bitcoin fell and altcoins crated Friday after President Trump ratcheted up his threats against China, fueling record crypto liquidations.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;33
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2025-10-10 datetime="2025-10-10T20:54:31.000Z">2025-10-10</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2025-10-10 datetime="2025-10-10T20:54:31.000Z"></time>
           </button>
@@ -88,7 +136,7 @@
                               <img src="https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/BlackRock-decrypt-style-01-gID_7.png@png" loading="lazy" class="media-object__media article-image" />
                             <span class="media-object__text">
                               <span>BlackRock&#x27;s Bitcoin ETF tops profit charts while Coinbase breaks into NY&#x27;s staking market. Plus: S&amp;P&#x27;s new hybrid crypto index.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;34
+                                &ensp;<span class="article-reading-time">(&hairsp;37
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -596,7 +644,7 @@
                               <img src="https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/jail_decrypt_style_01-gID_7.png@png" loading="lazy" class="media-object__media article-image" />
                             <span class="media-object__text">
                               <span>Haralambos Ioannou of Edlesborough was sentenced to 22 months in prison for illegally obtaining a second business relief loan—and spending the funds on crypto.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;30
+                                &ensp;<span class="article-reading-time">(&hairsp;28
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -737,26 +785,6 @@
                             <span class="media-object__text">
                               <span>The Vermont Senator warned AI could erase millions of jobs and urged Congress to protect U.S. workers.</span>
                                 &ensp;<span class="article-reading-time">(&hairsp;35
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://decrypt.co/?p&#x3D;343620"
-                        open
-                      >
-                        <summary class="article-expander__title">What the ‘Debasement Trade’ Means for Bitcoin</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://decrypt.co/343620/what-the-debasement-trade-means-for-bitcoin">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-B2-decrypt-style-gID_7.png@png" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>As investors seek to hedge against a weaker dollar, Bitcoin’s role in the so-called “debasement trade” remains more narrative than reality.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;37
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -1270,8 +1298,8 @@
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/web3cave/7-Decrypt/actions/runs/18430442519">
-        <time id="build-timestamp" datetime="2025-10-11T14:08:46.555Z">2025-10-11T14:08:46.555Z</time>
+      <a class="footer-link" href="https://github.com/web3cave/7-Decrypt/actions/runs/18431094472">
+        <time id="build-timestamp" datetime="2025-10-11T15:09:54.463Z">2025-10-11T15:09:54.463Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
