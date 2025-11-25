@@ -6,12 +6,27 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=350045",
+          "author": "Jason Nelson",
+          "description": "Saudi Arabia has deployed its first quantum computer, renewing questions about the future of blockchain security.",
+          "link": "https://decrypt.co/350045/saudi-arabias-first-quantum-computer-break-bitcoin",
+          "publishedOn": "2025-11-25T22:56:20.000Z",
+          "wordCount": 10763,
+          "title": "Saudi Arabia's First Quantum Computer: Can It Break Bitcoin?",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/google-quantum-decrypt-style-01-2-gID_7.jpg@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/google-quantum-decrypt-style-01-2-gID_7.jpg@png"
+        },
+        {
           "id": "https://decrypt.co/?p=350029",
           "author": "André Beganski",
           "description": "The price of Monad’s native cryptocurrency rose on Tuesday, following an anticipated airdrop that initially underwhelmed some speculators.",
           "link": "https://decrypt.co/350029/monad-rises-after-airdrop-bitcoin-ethereum-droop",
           "publishedOn": "2025-11-25T21:59:06.000Z",
-          "wordCount": 9805,
+          "wordCount": 9783,
           "title": "Monad Rises After Airdrop While Bitcoin and Ethereum Droop",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Chart4_green-gID_7.png@png",
@@ -26,7 +41,7 @@
           "description": "Bitwise's Dogecoin ETF, BWOW, was certified by NYSE Arca, signaling investors will soon be able to start trading the meme coin fund.",
           "link": "https://decrypt.co/350019/bitwise-dogecoin-etf-debut-imminent-quiet-start-grayscale-doge-fund",
           "publishedOn": "2025-11-25T21:29:25.000Z",
-          "wordCount": 9850,
+          "wordCount": 9828,
           "title": "Bitwise Dogecoin ETF Debut Imminent After Quiet Start for Grayscale DOGE Fund",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Doge4-gID_7.png@png",
@@ -41,7 +56,7 @@
           "description": "U.S. Bank joins the growing list of traditional banking institutions working on stablecoins, testing its own on the Stellar blockchain.",
           "link": "https://decrypt.co/350011/us-bank-testing-stablecoin-stellar-network",
           "publishedOn": "2025-11-25T20:49:51.000Z",
-          "wordCount": 9784,
+          "wordCount": 9762,
           "title": "US Bank Is Testing a Stablecoin on Stellar Network",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/stablecoins-decrypt-style-01-scaled-gID_7.jpg@png",
@@ -56,7 +71,7 @@
           "description": "Crypto payments firm MoonPay has gained regulatory approval in New York to safeguard customers’ digital assets and facilitate OTC trades.",
           "link": "https://decrypt.co/350004/moonpay-wins-new-york-trust-charter-joining-coinbase-ripple",
           "publishedOn": "2025-11-25T20:26:08.000Z",
-          "wordCount": 9670,
+          "wordCount": 9648,
           "title": "MoonPay Granted New York Trust Charter, Joining Coinbase and Ripple",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/bitcoin-dollar-decrypt-style-gID_7.jpg@png",
@@ -71,7 +86,7 @@
           "description": "Kraken unveiled a Bitcoin rewards Mastercard debit card that links to its peer-to-peer payments app, Krak.",
           "link": "https://decrypt.co/349996/kraken-launches-bitcoin-rewards-debit-mastercard-planned-ipo",
           "publishedOn": "2025-11-25T20:16:14.000Z",
-          "wordCount": 10177,
+          "wordCount": 10155,
           "title": "Kraken Launches Bitcoin Rewards Debit Mastercard Ahead of Planned IPO",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/kraken-decrypt-style-01-gID_7.jpg@png",
@@ -86,7 +101,7 @@
           "description": "The popular prediction market says it now has permission to directly onboard U.S. customers, brokerages, and market intermediaries.",
           "link": "https://decrypt.co/350003/polymarket-set-us-return-following-approval-cftc",
           "publishedOn": "2025-11-25T19:34:07.000Z",
-          "wordCount": 9647,
+          "wordCount": 9625,
           "title": "Polymarket Set for US Return Following Approval From CFTC",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/polymarket-decrypt-style-gID_7.jpg@png",
@@ -101,7 +116,7 @@
           "description": "Bitcoin treasury Metaplanet has announced a new plan to buy more BTC: Use its holdings as collateral to take a $130 million loan.",
           "link": "https://decrypt.co/349997/metaplanet-reveals-move-buy-bitcoin-130-million-loan",
           "publishedOn": "2025-11-25T18:55:56.000Z",
-          "wordCount": 9968,
+          "wordCount": 9946,
           "title": "Metaplanet Reveals Yet Another Move to Add to $2.7 Billion Bitcoin Stash, Taking $130M Loan",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-15-gID_7.png@png",
@@ -131,7 +146,7 @@
           "description": "Anthropic released Claude Opus 4.5, completing its three-model lineup upgrade with benchmark-topping coding performance and a dramatic 67% price cut.",
           "link": "https://decrypt.co/349986/anthropic-completes-ai-model-upgrades-claude-opus-4-5-slashes-prices",
           "publishedOn": "2025-11-25T17:04:33.000Z",
-          "wordCount": 11094,
+          "wordCount": 11072,
           "title": "Anthropic Completes AI Model Upgrades With Claude Opus 4.5—And Slashes Prices",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-12-gID_7.png@png",
@@ -161,7 +176,7 @@
           "description": "Klarna, a Swedish fintech company that provides “buy now, pay later” services, is launching its own stablecoin on layer-1 network Tempo.",
           "link": "https://decrypt.co/349969/klarna-stablecoin-tempo-challenge-old-networks",
           "publishedOn": "2025-11-25T16:19:42.000Z",
-          "wordCount": 9844,
+          "wordCount": 9822,
           "title": "Klarna Will Launch Stablecoin on Tempo in Effort to 'Challenge Old Networks'",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/credit-card-decrypt-style-04-gID_7.png@png",
@@ -176,7 +191,7 @@
           "description": "The amateurish robbery attempt at a crypto firm in Russia comes amid a global surge in violent crypto attacks.",
           "link": "https://decrypt.co/349954/russian-man-detonates-airsoft-grenades-in-botched-crypto-heist",
           "publishedOn": "2025-11-25T14:01:02.000Z",
-          "wordCount": 9528,
+          "wordCount": 9506,
           "title": "Russian Man Detonates Airsoft Grenades in Botched Crypto Heist",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/11/airsoft-grenade-decrypt-style-gID_7.jpg@png",
@@ -191,7 +206,7 @@
           "description": "It was a launch day that beat most expectations for the newest high-speed L1 blockchain.",
           "link": "https://decrypt.co/349960/morning-minute-monads-4b-debut",
           "publishedOn": "2025-11-25T13:32:11.000Z",
-          "wordCount": 12049,
+          "wordCount": 12027,
           "title": "Morning Minute: Monad's $4B Debut",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-trading-decrypt-style-01-gID_7.png@png",
@@ -206,7 +221,7 @@
           "description": "Experts cite regulatory clarity and selective institutional reallocation as being behind recent capital inflows into XRP and Solana ETFs.",
           "link": "https://decrypt.co/349951/altcoin-etfs-including-xrp-solana-in-green-amid-crypto-market-uncertainty",
           "publishedOn": "2025-11-25T12:35:50.000Z",
-          "wordCount": 9951,
+          "wordCount": 9929,
           "title": "Altcoin ETFs Including XRP, Solana in Green Amid Crypto Market Uncertainty",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/xrp-decrypt-style-05-gID_7.jpg@png",
@@ -221,7 +236,7 @@
           "description": "A federal judge has temporarily blocked OpenAI from using \"Cameo\" or confusingly similar marks for its Sora AI video generation products.",
           "link": "https://decrypt.co/349943/cameo-wins-temporary-restraining-order-against-openai",
           "publishedOn": "2025-11-25T10:57:44.000Z",
-          "wordCount": 10330,
+          "wordCount": 10308,
           "title": "Cameo Wins Temporary Restraining Order Against OpenAI",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/11/cameo-decrypt-style-gID_7.jpg@png",
@@ -236,7 +251,7 @@
           "description": "Japan is seeking to restore trust in crypto markets after a decade of security failures, from Mt. Gox to the recent DMM Bitcoin hack.",
           "link": "https://decrypt.co/349929/japans-fsa-crypto-exchanges-hold-liability-reserves-hacks",
           "publishedOn": "2025-11-25T05:00:24.000Z",
-          "wordCount": 10138,
+          "wordCount": 10116,
           "title": "Japan's FSA to Require Crypto Exchanges Hold Liability Reserves for Losses Relating to Hacks",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/japan-decrypt-style-scaled-gID_7.jpg@png",
@@ -251,7 +266,7 @@
           "description": "Bitcoin's weekend bounce is being supported by orderly derisking, a drop in bearish options hedging, and steady institutional conviction.",
           "link": "https://decrypt.co/349926/bitcoin-rebounds-above-88k-will-it-last",
           "publishedOn": "2025-11-25T03:56:11.000Z",
-          "wordCount": 9489,
+          "wordCount": 9467,
           "title": "Bitcoin Rebounds Above $88K—Will It Last?",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-17-gID_7.png@png",
@@ -266,7 +281,7 @@
           "description": "A court filing claims Binance’s structure and controls let users tied to U.S.-designated terrorist groups move funds through its exchange.",
           "link": "https://decrypt.co/349919/binance-fresh-anti-terrorism-lawsuit-alleged-hamas-transactions",
           "publishedOn": "2025-11-25T03:24:27.000Z",
-          "wordCount": 10603,
+          "wordCount": 10581,
           "title": "Binance Faces Fresh Lawsuit Over Alleged Hamas Transactions",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Judge-decrypt-style-2-gID_7.png@png",
@@ -281,7 +296,7 @@
           "description": "SpaceX's CEO, Elon Musk, said Tesa’s fleet and X’s live data are providing him with training inputs that competitors lack.",
           "link": "https://decrypt.co/349920/musk-real-world-data-x-tesla-drive-agi-efforts",
           "publishedOn": "2025-11-25T02:13:55.000Z",
-          "wordCount": 10607,
+          "wordCount": 10585,
           "title": "Musk Says Real-World Data From X and Tesla to Drive AGI Efforts",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/elon-musk-decrypt-style-01-gID_7.png@png",
@@ -296,7 +311,7 @@
           "description": "Horrific details of a Bitcoin wrench attack in Canada were revealed, with victims held hostage, waterboarded, and sexually assaulted.",
           "link": "https://decrypt.co/349901/bitcoin-heist-family-members-waterboarded-sexually-assaulted-steal-1-6-million",
           "publishedOn": "2025-11-25T00:31:02.000Z",
-          "wordCount": 9966,
+          "wordCount": 9944,
           "title": "Bitcoin Heist: Family Members Waterboarded, Sexually Assaulted as Attackers Steal $1.6 Million",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Crime-crypto-decrypt-style-01-gID_7.png@png",
@@ -311,7 +326,7 @@
           "description": "The SEC has granted no-action relief to Fuse’s rewards token, saying its value stems from consumer use rather than investment potential.",
           "link": "https://decrypt.co/349917/sec-clears-fuse-energy-token-in-win-for-us-crypto-regulatory-clarity",
           "publishedOn": "2025-11-25T00:25:01.000Z",
-          "wordCount": 9736,
+          "wordCount": 9714,
           "title": "SEC Clears Fuse Energy Token in Win for US Crypto ‘Regulatory Clarity’",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/SecuritiesExchange_logo-gID_7.png@png",
@@ -326,7 +341,7 @@
           "description": "Trump's latest order aims to fuse federal data, supercomputing, and AI to speed discoveries across energy, biology, and national security.",
           "link": "https://decrypt.co/349899/trump-signs-genesis-mission-executive-order-ai-us-innovation",
           "publishedOn": "2025-11-24T23:45:16.000Z",
-          "wordCount": 11788,
+          "wordCount": 11766,
           "title": "Trump Signs 'Genesis Mission' Executive Order to Use AI to Supercharge US Innovation",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Trump-decrypt-style-08-gID_7.png@png",
@@ -341,7 +356,7 @@
           "description": "The Bitcoin-buying firm has a habit of announcing purchases on Monday.",
           "link": "https://decrypt.co/349905/bitcoin-giant-strategy-skips-bitcoin-stock-down-67-peak",
           "publishedOn": "2025-11-24T22:52:23.000Z",
-          "wordCount": 9678,
+          "wordCount": 9656,
           "title": "Bitcoin Giant Strategy Skips Bitcoin Buy With Stock Down 67% From Peak",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/04/DSCF6455-2-scaled-gID_7.jpg@png",
@@ -356,7 +371,7 @@
           "description": "The Franklin XRP fund comes less than two weeks after the successful start of a Canary Capital XRP ETF.",
           "link": "https://decrypt.co/349903/xrp-jumps-franklin-templeton-debuts-crypto-fund",
           "publishedOn": "2025-11-24T22:34:30.000Z",
-          "wordCount": 9398,
+          "wordCount": 9376,
           "title": "XRP Jumps as Franklin Templeton Debuts Latest Crypto ETF",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/11/Franklin-Templeton-gID_7.jpg@png",
@@ -371,7 +386,7 @@
           "description": "The ECB reiterated its worries that the rapid growth of digital tokens could unsettle the wider financial system.",
           "link": "https://decrypt.co/349890/stablecoins-pose-stability-risks-ecb-latest-warning",
           "publishedOn": "2025-11-24T22:09:50.000Z",
-          "wordCount": 10282,
+          "wordCount": 10260,
           "title": "Stablecoins Could 'Pose Stability Risks,' ECB Says in Latest Warning",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/eu-flag-gID_7.jpg@png",
@@ -386,7 +401,7 @@
           "description": "Ubisoft’s experimental Teammates game demo is built around player voice commands with improvised dialogue generated by AI.",
           "link": "https://decrypt.co/349865/assassins-creed-maker-ubisoft-unveils-game-powered-generative-ai",
           "publishedOn": "2025-11-24T20:16:27.000Z",
-          "wordCount": 10092,
+          "wordCount": 10070,
           "title": "'Assassin's Creed' Maker Ubisoft Unveils Game Powered by Generative AI",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/gaming-decrypt-style-gID_7.jpg@png",
@@ -401,7 +416,7 @@
           "description": "Monad completed its long-awaited airdrop of MON tokens on Monday, giving recipients over $100 million worth of cryptocurrency.",
           "link": "https://decrypt.co/349883/monad-105-million-airdrop-underwhelms-speculators",
           "publishedOn": "2025-11-24T19:28:03.000Z",
-          "wordCount": 10200,
+          "wordCount": 10178,
           "title": "Monad's $105 Million Airdrop Underwhelms Speculators as Token Debuts Near Sale Price",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-08-gID_7.png@png",
@@ -416,7 +431,7 @@
           "description": "Bitcoin crashed from $126K to $82K—Deutsche Bank explains the five factors behind the plunge and uncertain recovery ahead.",
           "link": "https://decrypt.co/349874/5-things-bitcoin-crash-deutsche-bank",
           "publishedOn": "2025-11-24T18:59:46.000Z",
-          "wordCount": 10745,
+          "wordCount": 10723,
           "title": "5 Reasons Why Bitcoin Crashed—And Why It Could Fall Further: Deutsche Bank",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/Bitcoin-decrypt-style-24-gID_7.png@png",
@@ -431,7 +446,7 @@
           "description": "Shares of top miner and Bitcoin treasury MARA dropped last week—with other BTC miners. Analysts are divided over what's next for the firm's stock price.",
           "link": "https://decrypt.co/349873/why-analysts-split-bitcoin-miner-maras-prospects",
           "publishedOn": "2025-11-24T18:45:42.000Z",
-          "wordCount": 9528,
+          "wordCount": 9506,
           "title": "Why Analysts Are Split on Bitcoin Miner MARA's Prospects",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/bitcoin-mining-decrypt-style-02-gID_7.png@png",
@@ -446,7 +461,7 @@
           "description": "YouTube rival Rumble saw its share price spike after Tether disclosed it bought another 1 million shares of RUM last week.",
           "link": "https://decrypt.co/349876/rumble-stock-jumps-after-stablecoin-giant-tether-buys-million-shares",
           "publishedOn": "2025-11-24T18:41:27.000Z",
-          "wordCount": 9413,
+          "wordCount": 9391,
           "title": "Rumble Stock Jumps After Stablecoin Giant Tether Buys 1 Million Shares",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Tether-decrypt-style-02-gID_7.png@png",
@@ -461,7 +476,7 @@
           "description": "A major security breach impacting U.S. banks has renewed debate on privacy as interest in crypto privacy tools and protocols grows.",
           "link": "https://decrypt.co/349864/privacy-is-hygiene-says-ethereum-creator-vitalik-buterin-after-bank-data-leak",
           "publishedOn": "2025-11-24T18:05:25.000Z",
-          "wordCount": 10802,
+          "wordCount": 10780,
           "title": "'Privacy Is Hygiene,’ Says Ethereum Creator Vitalik Buterin After Bank Data Leak",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/vitalik-buterin-ethereum-decrypt-style-05-1-gID_7.jpg@png",
@@ -476,7 +491,7 @@
           "description": "Revolut’s share sale attracted investors like Fidelity and Franklin Templeton as the neobank continues expanding its crypto offerings.",
           "link": "https://decrypt.co/349854/neobank-revolut-boosts-valuation-75-billion-ahead-potential-stablecoin-launch",
           "publishedOn": "2025-11-24T17:06:34.000Z",
-          "wordCount": 9324,
+          "wordCount": 9302,
           "title": "Neobank Revolut Boosts Valuation to $75 Billion Ahead of Potential Stablecoin Launch",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/revolut-decrypt-style-01-gID_7.jpg@png",
@@ -491,7 +506,7 @@
           "description": "The company was valued at a discount to its Ethereum holdings.",
           "link": "https://decrypt.co/349859/bitmine-shares-stop-bleeding-195-million-ethereum-buy",
           "publishedOn": "2025-11-24T17:04:55.000Z",
-          "wordCount": 9773,
+          "wordCount": 9751,
           "title": "BitMine Shares Stop Bleeding on $195 Million Ethereum Buy",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/11/tom-lee-decrypt-style-03-gID_7.jpg@png",
@@ -506,7 +521,7 @@
           "description": "New XRP and DOGE ETFs from digital asset focused investment firm Grayscale are now live for trading on NYSE Arca.",
           "link": "https://decrypt.co/349843/grayscale-dogecoin-xrp-etfs-flurry-altcoin-fund-debuts",
           "publishedOn": "2025-11-24T16:43:10.000Z",
-          "wordCount": 10114,
+          "wordCount": 10092,
           "title": "Grayscale Dogecoin, XRP ETFs Add to Flurry of Altcoin Fund Debuts",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/dogecoin-decrypt-style-04-gID_7.png@png",
@@ -536,7 +551,7 @@
           "description": "Black Friday saw Bitcoin go as low as $81,000 before a weekend rebound brought relief.",
           "link": "https://decrypt.co/349816/morning-minute-bitcoin-crashes-then-snaps-back",
           "publishedOn": "2025-11-24T15:11:53.000Z",
-          "wordCount": 10949,
+          "wordCount": 10927,
           "title": "Morning Minute: Bitcoin Crashes, Then Snaps Back",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-decrypt-style-27-gID_7.jpg@png",
@@ -551,7 +566,7 @@
           "description": "The prediction market protocol’s rapid growth shows the “massive demand” for a marketplace of forecasts and insights, its founders said.",
           "link": "https://decrypt.co/349815/prediction-market-myriad-hits-100m-milestone-growing-10x-in-three-months",
           "publishedOn": "2025-11-24T13:59:33.000Z",
-          "wordCount": 9088,
+          "wordCount": 9066,
           "title": "Prediction Market Myriad Hits $100M Milestone, Growing 10x in Three Months",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/11/image1-3-gID_7.png@png",
@@ -566,7 +581,7 @@
           "description": "Other Asian tech conglomerates are watching closely as the region races to launch stablecoins, an expert told Decrypt.",
           "link": "https://decrypt.co/349812/upbit-operator-dunamu-naver-financial-to-vote-on-merger-as-market-eyes-possible-ipo-path",
           "publishedOn": "2025-11-24T12:50:44.000Z",
-          "wordCount": 9708,
+          "wordCount": 9686,
           "title": "Upbit Operator Dunamu, Naver Financial to Vote on Merger as Market Eyes Possible IPO Path",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/seoul-south-korea-decrypt-style-01-gID_7.jpg@png",
@@ -581,7 +596,7 @@
           "description": "With 80% of SOL holders underwater and $239M in longs at risk, analysts warn of panic selling but see long-term value in ETF inflows.",
           "link": "https://decrypt.co/349791/solana-holders-under-pressure-as-sell-off-deepens",
           "publishedOn": "2025-11-24T11:38:45.000Z",
-          "wordCount": 10104,
+          "wordCount": 10082,
           "title": "Solana Holders Under Pressure as Sell-Off Deepens",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/solana-decrypt-style-04-gID_7.png@png",
@@ -596,7 +611,7 @@
           "description": "Btc: 81.6k (-11%) | btc.D: 58.8% (-0.5%). Eth: 2665 (-12%) | bnb: 800 (-11%) | sol: 123 (-13%). Bitcoin and Ethereum ETFs saw significant outflows, with broader crypto markets falling sharply as strong jobs data reduced expectations for interest-rate cuts. Bitcoin’s technicals weakened, with RSI hitting a three-year low and the price hovering only slightly above a major strategy’s average entry level. Major holders were reported to be selling, including a long-term wallet unloading $1.4 billion in BTC and another entity selling 10,000 ETH to support a share buyback. Institutions faced pressure as well, with concerns that certain digital-asset-related companies could be removed from major indexes, while one prominent mining-related firm carried billions in unrealized losses. Some attributed part of the sell-off to a software glitch. Meanwhile, policy and corporate developments continued: a U.S. representative introduced new crypto legislation, Metaplanet announced plans to purchase $95 million in BTC, Coinbase launched ETH-backed loans through Morpho, and Securitize partnered with Plume to expand real-world-asset offerings. India also signaled plans to launch an ARC stablecoin.",
           "link": "https://decrypt.co/videos/interviews/feVCIfte/bitcoin-plummets-11-crypto-in-free-fall-guests-osf-wizard-of-soho",
           "publishedOn": "2025-11-21T16:23:07.000Z",
-          "wordCount": 6670,
+          "wordCount": 7145,
           "title": "Bitcoin Plummets 11%! Crypto in Free-Fall! Guests: OSF & Wizard Of SoHo",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/feVCIfte/poster.jpg",
@@ -626,7 +641,7 @@
           "description": "Superstate founder and CEO Robert Leshner (@rleshner) said tokenization will hit velocity when end users start to get excited about applications, like borrowing cash against stock to help fund a vehicle purchase. But we're not there yet, he said\n\n00:00 - An Intro to Robert & his story in DeFi\n02:05 - Tokenisation now vs it’s ideal state\n07:40 - Has the stablecoin explosion impacted other RWA’s moving on-chain?\n11:25 - Robert’s Tokenisation “Wish List”\n15:35 - What problems were you hearing from issuers?\n22:46 - Where do you expect you toughest competition to come from?\n24:22 - Predictions for the end of the year?",
           "link": "https://decrypt.co/videos/interviews/t3mo8oyn/borrowing-against-your-tesla-stock-to-buy-a-car-is-the-future-of-defi-superstate-ceo-robert-leshner",
           "publishedOn": "2025-11-21T10:56:37.000Z",
-          "wordCount": 6350,
+          "wordCount": 6825,
           "title": "Borrowing Against Your Tesla Stock to Buy a Car Is the Future of DeFi: Superstate CEO Robert Leshner",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/t3mo8oyn/poster.jpg",
@@ -641,7 +656,7 @@
           "description": "Against The Odds: Your Weekly insight into Prediction Markets & Sports Betting! - Hosted by @Tyler_Did_It & @Geebz - Today's Guest: @0xTyrael, the #1 Mentions Market Trader will be sharing their strategies and thoughts on prediction/mention market trading with us.",
           "link": "https://decrypt.co/videos/interviews/S03jFnRg/1-mentions-market-trader-0xtyrael-shares-his-prediction-market-strategies",
           "publishedOn": "2025-11-20T18:17:31.000Z",
-          "wordCount": 6473,
+          "wordCount": 5998,
           "title": "#1 Mentions Market Trader @0xTyrael shares his Prediction Market strategies!",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/S03jFnRg/poster.jpg",
@@ -671,7 +686,7 @@
           "description": "Crypto majors were slightly green ahead of tonight’s major NVDA earnings call, with BTC hovering around $91,300, ETH up 2% at $3,090, BNB up 1% at $922, and SOL also up 1% at $139. Among top movers, MYX (+38%), STRK (+30%), and ZEC (+10%) led the pack. Bitcoin’s latest 30% drawdown unfolded far more rapidly—over 42 days—compared with the previous two drawdowns in Summer 2024 (147 days) and April 2025 (77 days). Kraken raised $800M at a $20B valuation in a round led by Jane Street, DRW, Oppenheimer, and a $200M stake from Citadel. The Ethereum Foundation outlined new goals for its upcoming Interop Layer, designed to unify all EVM L2s and make them function as “one chain.” In regulatory news, the OCC said national banks may hold and spend crypto in certain cases, such as paying for gas or testing applications. New Hampshire launched the first Bitcoin-backed municipal bond, while Mt. Gox moved 10,608 BTC—nearly $1B—from a cold wallet to new addresses, renewing expectations of imminent creditor repayments. Meanwhile, Tether made a strategic investment in Ledn to expand bitcoin-backed lending.",
           "link": "https://decrypt.co/videos/interviews/h4Jk7hvq/crypto-majors-chop-ahead-of-nvda-earnings-kraken-raises-800m-fidelity-launch-sol-etf",
           "publishedOn": "2025-11-19T16:50:40.000Z",
-          "wordCount": 6727,
+          "wordCount": 7202,
           "title": "Crypto Majors Chop ahead of NVDA earnings! Kraken raises $800M! Fidelity launch SOL ETF!",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/h4Jk7hvq/poster.jpg",
@@ -701,7 +716,7 @@
           "description": "Crypto majors are very red as btc briefly fell below $90k; btc -4% at $91,300; eth -5% at $3,050, bnb -2% at $915, sol -3% at $137. Icp (+9%), aster (+7%) and hype (+5%) led top movers. Crypto fear & greed remained in extreme fear at 11, now in that range for 6 straight days. Bitcoin wiped out its 2025 gains after falling below $92k (briefly sub-$90k), now down 2% on the ytd. The cboe unveiled “continuous” bitcoin and ethereum futures with 10-year terms as a perps-like alternative. The white house is considering to allow the irs to track and tax crypto holdings on foreign exchanges. Vitalik buterin and the ethereum foundation launched kohaku as a new initiative to bake privacy and security into ethereum wallets instead of treating them as add-ons. Trump international maldives announced tokenized real-estate stakes, letting investors buy blockchain-based shares in its 80-villa luxury resort. Hive stock jumped after posting record q2 revenue and landing new ai-infra deals, as investors rotated into miners despite broader crypto weakness. Japan is changing its crypto tax rules, dropping cap gains from 55% to 20%. Coinbase ventures announced an investment in usd ai.",
           "link": "https://decrypt.co/videos/interviews/dtWNmTN3/btc-dipped-to-90k-btc-wipes-out-2025-gains-monad-cofounder-interview",
           "publishedOn": "2025-11-18T17:40:56.000Z",
-          "wordCount": 6775,
+          "wordCount": 7250,
           "title": "BTC Dipped to $90K! BTC wipes out 2025 Gains! Monad CoFounder Interview!",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/dtWNmTN3/poster.jpg",
@@ -836,7 +851,7 @@
           "description": "NBA star Tristan Thompson views prediction markets as an evolution of today's gambling scene, with stickier feedback loops that are changing sports culture. Here's why.",
           "link": "https://decrypt.co/videos/interviews/D7Xdltrz/tristan-thompson-is-keeping-a-close-eye-on-prediction-markets-sports",
           "publishedOn": "2025-11-11T11:56:09.000Z",
-          "wordCount": 5935,
+          "wordCount": 6410,
           "title": "Tristan Thompson is Keeping a Close Eye on Prediction Markets & Sports",
           "enclosure": {
             "url": "https://cdn.jwplayer.com/v2/media/D7Xdltrz/poster.jpg",
