@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-09T21:13:34.363Z</id>
+    <id>urn:2026-01-09T22:13:24.444Z</id>
     <title>web3::cave</title>
-    <updated>2026-01-09T21:13:34.363Z</updated>
+    <updated>2026-01-09T22:13:24.444Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Should Politicians Be Able to Use Prediction Markets? House Bill Proposes Ban]]></title>
+        <id>https://decrypt.co/?p=354167</id>
+        <link href="https://decrypt.co/354167/should-politicians-use-prediction-markets-house-bill-proposes-ban"/>
+        <updated>2026-01-09T21:36:57.000Z</updated>
+        <summary type="html"><![CDATA[Rep. Ritchie Torres introduced legislation to ban government officials from prediction markets, citing insider information concerns.]]></summary>
+        <author>
+            <name>Stacy Elliott</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Insiders Say DeepSeek V4 Will Beat Claude and ChatGPT at Coding, Launch Within Weeks]]></title>
         <id>https://decrypt.co/?p=354177</id>
@@ -333,16 +343,6 @@
         <summary type="html"><![CDATA[World Liberty Financial is seeking to overcome a federal oversight hurdle, following a spate of recent approvals.]]></summary>
         <author>
             <name>Vince Dioquino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI’s ChatGPT Health Push Raises Questions About Data Security]]></title>
-        <id>https://decrypt.co/?p=353919</id>
-        <link href="https://decrypt.co/353919/openai-users-medical-data-ai-chatgpt-privacy-concerns"/>
-        <updated>2026-01-08T01:55:03.000Z</updated>
-        <summary type="html"><![CDATA[The new feature lets users link medical records, while OpenAI emphasized encryption, data separation, and limits on health advice.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
         </author>
     </entry>
 </feed>
