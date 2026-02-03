@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-03T21:25:55.653Z</id>
+    <id>urn:2026-02-03T22:21:48.012Z</id>
     <title>web3::cave</title>
-    <updated>2026-02-03T21:25:55.653Z</updated>
+    <updated>2026-02-03T22:21:48.012Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto Dev Launches Site for AI to Hire Humans]]></title>
+        <id>https://decrypt.co/?p=356784</id>
+        <link href="https://decrypt.co/356784/crypto-dev-ai-hire-humans"/>
+        <updated>2026-02-03T21:27:07.000Z</updated>
+        <summary type="html"><![CDATA[Riding OpenClaw’s viral moment, a new startup called RentAHuman.ai pitches itself as the “meatspace layer” for autonomous agents—letting bots pay people to do the things software still can’t.]]></summary>
+        <author>
+            <name>Josh Quittner</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[France Considers Restricting VPNs to Support Under-15 Social Media Ban]]></title>
         <id>https://decrypt.co/?p=356823</id>
@@ -353,16 +363,6 @@
         <summary type="html"><![CDATA[Nevada's court ruling against Polymarket comes as prediction markets face global regulatory pressure and bans across multiple jurisdictions.]]></summary>
         <author>
             <name>Vismaya V</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Derivatives Signal Elevated Stress Following Market Rout]]></title>
-        <id>https://decrypt.co/?p=356594</id>
-        <link href="https://decrypt.co/356594/bitcoin-derivatives-signal-elevated-stress"/>
-        <updated>2026-02-02T04:42:40.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin’s weekend plunge opened a rare CME futures gap, as macro and geopolitical pressures drove a broad deleveraging.]]></summary>
-        <author>
-            <name>Akash Girimath</name>
         </author>
     </entry>
 </feed>
