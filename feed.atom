@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-03T01:19:42.827Z</id>
+    <id>urn:2026-02-03T04:06:51.557Z</id>
     <title>web3::cave</title>
-    <updated>2026-02-03T01:19:42.827Z</updated>
+    <updated>2026-02-03T04:06:51.557Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Musk Folds xAI Into SpaceX, Cites Limits on Earth-Based AI Infrastructure]]></title>
+        <id>https://decrypt.co/?p=356736</id>
+        <link href="https://decrypt.co/356736/musk-xai-spacex-limits-earth-based-ai-infrastructure"/>
+        <updated>2026-02-03T02:10:25.000Z</updated>
+        <summary type="html"><![CDATA[Elon Musk says power and cooling constraints on Earth are pushing AI compute into orbit, with Starship central to the plan.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenClaw Opens the Gates for AI Agents—Here’s What’s Real and What’s Not]]></title>
+        <id>https://decrypt.co/?p=356730</id>
+        <link href="https://decrypt.co/356730/openclaw-ai-agents-whats-real"/>
+        <updated>2026-02-03T01:34:09.000Z</updated>
+        <summary type="html"><![CDATA[OpenClaw hit 147,000 GitHub stars in a matter of weeks and spawned an entire ecosystem of AI agents. But just how much is revolutionary tech?]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Will GameStop Dump Its Bitcoin? CEO Says ‘Way More Compelling’ Move Ahead]]></title>
         <id>https://decrypt.co/?p=356724</id>
@@ -353,26 +373,6 @@
         <summary type="html"><![CDATA[It was a big day for crypto policy in the US yesterday, but work still remains to be done]]></summary>
         <author>
             <name>Tyler Warner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin ETFs Shed $817M as BTC Hits Nine-Month Low]]></title>
-        <id>https://decrypt.co/?p=356458</id>
-        <link href="https://decrypt.co/356458/bitcoin-etfs-shed-817m-as-btc-hits-nine-month-low"/>
-        <updated>2026-01-30T11:24:48.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin’s crash to a nine-month low, coupled with growing uncertainty about macroeconomic policy, catalyzed $817 million in ETF outflows.]]></summary>
-        <author>
-            <name>Akash Girimath</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Former Google Engineer Convicted of Stealing AI Secrets for China]]></title>
-        <id>https://decrypt.co/?p=356455</id>
-        <link href="https://decrypt.co/356455/former-google-engineer-convicted-of-stealing-ai-secrets-for-china"/>
-        <updated>2026-01-30T10:39:08.000Z</updated>
-        <summary type="html"><![CDATA[A U.S. jury found Linwei Ding guilty of economic espionage and trade secret theft after he stole Google’s sensitive AI infrastructure data.]]></summary>
-        <author>
-            <name>Vismaya V</name>
         </author>
     </entry>
 </feed>
