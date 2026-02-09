@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-08T23:21:57.586Z</id>
+    <id>urn:2026-02-09T01:21:25.509Z</id>
     <title>web3::cave</title>
-    <updated>2026-02-08T23:21:57.586Z</updated>
+    <updated>2026-02-09T01:21:25.509Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Why Quantum Computing Isn’t a Serious Risk for Bitcoin Yet: CoinShares]]></title>
+        <id>https://decrypt.co/?p=357415</id>
+        <link href="https://decrypt.co/357415/quantum-computing-risk-bitcoin-coinshares"/>
+        <updated>2026-02-09T01:01:22.000Z</updated>
+        <summary type="html"><![CDATA[New research says today’s quantum computers are far too weak to threaten Bitcoin’s cryptography, leaving the network years to prepare.]]></summary>
+        <author>
+            <name>Vince Dioquino</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pudgy Penguins Hit New York City With Valentine's Day Pop-Up Event]]></title>
         <id>https://decrypt.co/?p=357401</id>
@@ -373,16 +383,6 @@
         <summary type="html"><![CDATA[Crypto developers are leaning into a hot new jobs sector: AI agents that employ humans for IRL tasks.]]></summary>
         <author>
             <name>Tyler Warner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ro Khanna Launches Probe Into $500M UAE Deal With Trump-Linked World Liberty Financial]]></title>
-        <id>https://decrypt.co/?p=357046</id>
-        <link href="https://decrypt.co/357046/ro-khanna-launches-probe-into-500m-uae-deal-with-trump-linked-world-liberty-financial"/>
-        <updated>2026-02-05T13:02:23.000Z</updated>
-        <summary type="html"><![CDATA[The lawmaker is formally seeking records on the UAE’s deal with WLFI amid conflict-of-interest and national security concerns.]]></summary>
-        <author>
-            <name>Vismaya V</name>
         </author>
     </entry>
 </feed>
