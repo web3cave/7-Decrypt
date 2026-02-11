@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-11T19:51:01.128Z</id>
+    <id>urn:2026-02-11T20:29:50.754Z</id>
     <title>web3::cave</title>
-    <updated>2026-02-11T19:51:01.129Z</updated>
+    <updated>2026-02-11T20:29:50.754Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Exchange Paxful Must Pay $4 Million Over Prostitution, Money Laundering Charges]]></title>
+        <id>https://decrypt.co/?p=357793</id>
+        <link href="https://decrypt.co/357793/bitcoin-exchange-paxful-pay-4-million-prostitution-money-laundering"/>
+        <updated>2026-02-11T20:04:32.000Z</updated>
+        <summary type="html"><![CDATA[Paxful signed a plea deal saying it should pay a $112 million fine for its crimes. But the DOJ determined it could only afford to pay $4 million.]]></summary>
+        <author>
+            <name>Sander Lutz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoin Slides as Fed Rate Cut Doubts Follow Strong Jobs Report]]></title>
         <id>https://decrypt.co/?p=357789</id>
@@ -353,16 +363,6 @@
         <summary type="html"><![CDATA[Fintech groups are pressing the Fed to loosen payment access for non-banks, setting up a clash with banks over risk and crypto exposure.]]></summary>
         <author>
             <name>Vince Dioquino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Promised to Save Time—Instead It's Created a New Kind of Burnout]]></title>
-        <id>https://decrypt.co/?p=357527</id>
-        <link href="https://decrypt.co/357527/ai-save-time-instead-created-new-kind-burnout"/>
-        <updated>2026-02-09T22:24:32.000Z</updated>
-        <summary type="html"><![CDATA[UC-Berkeley and Yale researchers found that AI tools don't reduce work; they intensify it by creating workload creep and widespread burnout.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
         </author>
     </entry>
 </feed>
