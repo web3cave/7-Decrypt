@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-12T01:21:12.246Z</id>
+    <id>urn:2026-02-12T04:15:30.737Z</id>
     <title>web3::cave</title>
-    <updated>2026-02-12T01:21:12.246Z</updated>
+    <updated>2026-02-12T04:15:30.737Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Thailand's SEC Clears Path for Crypto-Linked Derivatives]]></title>
+        <id>https://decrypt.co/?p=357816</id>
+        <link href="https://decrypt.co/357816/thailands-sec-clears-path-crypto-linked-derivatives"/>
+        <updated>2026-02-12T03:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Thailand will allow digital assets to back regulated derivatives, deepening crypto’s role in its capital markets.]]></summary>
+        <author>
+            <name>Vince Dioquino</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Coinbase Launches Wallet for AI Agents With Built-In Guardrails]]></title>
         <id>https://decrypt.co/?p=357813</id>
@@ -363,16 +373,6 @@
         <summary type="html"><![CDATA[Analysts remain split on Bitcoin's next move: a short squeeze toward $84K or a 6-12-month grind toward $55K.]]></summary>
         <author>
             <name>Akash Girimath</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vitalik Buterin Calls for Ethereum-Led Alternative to the 'Race for AGI']]></title>
-        <id>https://decrypt.co/?p=357575</id>
-        <link href="https://decrypt.co/357575/vitalik-buterin-ethereum-led-alternative-race-for-agi"/>
-        <updated>2026-02-10T06:29:16.000Z</updated>
-        <summary type="html"><![CDATA[The Ethereum co-founder has outlined a four-quadrant Ethereum-AI buildout spanning private AI use, agent markets, and governance.]]></summary>
-        <author>
-            <name>Vismaya V</name>
         </author>
     </entry>
 </feed>
