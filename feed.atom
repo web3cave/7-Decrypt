@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-12T09:39:12.271Z</id>
+    <id>urn:2026-02-12T10:35:50.327Z</id>
     <title>web3::cave</title>
-    <updated>2026-02-12T09:39:12.271Z</updated>
+    <updated>2026-02-12T10:35:50.327Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Russia Moves to Block WhatsApp, Pushes 100M Users to State-Controlled 'Surveillance App']]></title>
+        <id>https://decrypt.co/?p=357850</id>
+        <link href="https://decrypt.co/357850/russia-moves-to-block-whatsapp-pushes-100m-users-to-state-controlled-surveillance-app"/>
+        <updated>2026-02-12T10:05:08.000Z</updated>
+        <summary type="html"><![CDATA[Moscow's communications watchdog is simultaneously restricting Telegram, as the Kremlin doubles down on its push for a homegrown "super app."]]></summary>
+        <author>
+            <name>Vismaya V</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[US Banks Urge Regulator to Slow Crypto-Linked Charters Amid Rule Overhaul]]></title>
         <id>https://decrypt.co/?p=357820</id>
@@ -343,16 +353,6 @@
         <summary type="html"><![CDATA[The Financial Conduct Authority has approved the crypto exchange to offer crypto services in the UK, following its European MiCA license.]]></summary>
         <author>
             <name>Stacy Elliott</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Warns of AI-Powered North Korean Malware Campaign Targeting Crypto, DeFi]]></title>
-        <id>https://decrypt.co/?p=357601</id>
-        <link href="https://decrypt.co/357601/google-warns-of-ai-powered-north-korean-malware-campaign-targeting-crypto-defi"/>
-        <updated>2026-02-10T16:21:11.000Z</updated>
-        <summary type="html"><![CDATA[The Mandiant security team says North Korean hackers are upgrading their social engineering tactics to include AI-generated video.]]></summary>
-        <author>
-            <name>Callan Quinn</name>
         </author>
     </entry>
 </feed>
