@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-16T01:20:11.798Z</id>
+    <id>urn:2026-02-16T04:15:15.449Z</id>
     <title>web3::cave</title>
-    <updated>2026-02-16T01:20:11.798Z</updated>
+    <updated>2026-02-16T04:15:15.449Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Hollywood’s AI Crackdown Opens Door for Copyright Detection Startups]]></title>
+        <id>https://decrypt.co/?p=358131</id>
+        <link href="https://decrypt.co/358131/hollywoods-ai-crackdown-copyright-detection-startups"/>
+        <updated>2026-02-16T02:49:10.000Z</updated>
+        <summary type="html"><![CDATA[Studios are escalating pressure on AI developers, as new tools aim to document whether generative models are trained on copyrighted material.]]></summary>
+        <author>
+            <name>Vince Dioquino</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OpenClaw Creator Gets Big Offers to Acquire AI Sensation—Will It Stay Open Source?]]></title>
         <id>https://decrypt.co/?p=358129</id>
@@ -383,16 +393,6 @@
         <summary type="html"><![CDATA[Altcoins are posting gains as the crypto market cap ticks up—but experts warn structural trend reversal remains elusive.]]></summary>
         <author>
             <name>Akash Girimath</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Russia Moves to Block WhatsApp, Pushes 100M Users to State-Controlled 'Surveillance App']]></title>
-        <id>https://decrypt.co/?p=357850</id>
-        <link href="https://decrypt.co/357850/russia-moves-to-block-whatsapp-pushes-100m-users-to-state-controlled-surveillance-app"/>
-        <updated>2026-02-12T10:05:08.000Z</updated>
-        <summary type="html"><![CDATA[Moscow's communications watchdog is simultaneously restricting Telegram, as the Kremlin doubles down on its push for a homegrown "super app."]]></summary>
-        <author>
-            <name>Vismaya V</name>
         </author>
     </entry>
 </feed>
