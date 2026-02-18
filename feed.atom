@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-18T01:21:44.171Z</id>
+    <id>urn:2026-02-18T04:12:43.193Z</id>
     <title>web3::cave</title>
-    <updated>2026-02-18T01:21:44.171Z</updated>
+    <updated>2026-02-18T04:12:43.193Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin's Divergence From Nasdaq Is a Warning on Dollar Liquidity: Arthur Hayes]]></title>
+        <id>https://decrypt.co/?p=358372</id>
+        <link href="https://decrypt.co/358372/bitcoin-divergence-nasdaq-warning-dollar-liquidity-hayes"/>
+        <updated>2026-02-18T03:43:18.000Z</updated>
+        <summary type="html"><![CDATA[Arthur Hayes warns Bitcoin's divergence from a flat Nasdaq signals an AI-driven credit crisis, but experts say the timeline is overstretched.]]></summary>
+        <author>
+            <name>Akash Girimath</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Federal Appeals Court Rejects Kalshi Bid to Pause Nevada Enforcement]]></title>
         <id>https://decrypt.co/?p=358364</id>
@@ -363,16 +373,6 @@
         <summary type="html"><![CDATA[Studios are escalating pressure on AI developers, as new tools aim to document whether generative models are trained on copyrighted material.]]></summary>
         <author>
             <name>Vince Dioquino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenClaw Creator Gets Big Offers to Acquire AI Sensation—Will It Stay Open Source?]]></title>
-        <id>https://decrypt.co/?p=358129</id>
-        <link href="https://decrypt.co/358129/openclaw-creator-offers-acquire-ai-sensation-stay-open-source"/>
-        <updated>2026-02-15T20:01:03.000Z</updated>
-        <summary type="html"><![CDATA[Peter Steinberger's open-source AI agent OpenClaw hit 180,000 GitHub stars and spawned MoltBook chaos. Now Meta and OpenAI want to buy it, but he's determined to keep it free.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
         </author>
     </entry>
 </feed>
