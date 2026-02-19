@@ -6,6 +6,21 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=358559",
+          "author": "Vismaya V",
+          "description": "Brian Armstrong downplayed fears that quantum computing will break blockchain encryption, pointing to Coinbase’s new advisory council.",
+          "link": "https://decrypt.co/358559/coinbase-ceo-says-quantum-computing-solvable-issue-for-crypto",
+          "publishedOn": "2026-02-19T11:56:23.000Z",
+          "wordCount": 10176,
+          "title": "Coinbase CEO Says Quantum Computing 'Solvable Issue' for Crypto",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/brian-armstrong-coinbase-decrypt-style-3-gID_7.jpg@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/brian-armstrong-coinbase-decrypt-style-3-gID_7.jpg@png"
+        },
+        {
           "id": "https://decrypt.co/?p=358549",
           "author": "Akash Girimath",
           "description": "Optimism's OP token sank after Base announced it's moving away from the OP Stack to a unified, self-operated tech stack.",
@@ -514,21 +529,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-Ethereum-decrypt-style-01-gID_7.png@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=358267",
-          "author": "Vismaya V",
-          "description": "The request marks a shift from Capitol Hill questioning to formal regulatory pressure, as lawmakers raise concerns about safety, accountability, and national security.",
-          "link": "https://decrypt.co/358267/congressman-overseas-support-autonomous-vehicles",
-          "publishedOn": "2026-02-17T13:01:02.000Z",
-          "wordCount": 9958,
-          "title": "Congressman Calls for Review of Overseas Support for Autonomous Vehicles",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/us-capitol-decrypt-style-02-gID_7.jpg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/us-capitol-decrypt-style-02-gID_7.jpg@png"
         }
       ]
     }
