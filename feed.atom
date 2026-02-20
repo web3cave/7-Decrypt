@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-20T01:16:49.285Z</id>
+    <id>urn:2026-02-20T04:07:04.828Z</id>
     <title>web3::cave</title>
-    <updated>2026-02-20T01:16:49.285Z</updated>
+    <updated>2026-02-20T04:07:04.828Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Australian Executive Accused of Selling Cyber Secrets to Russia for Crypto]]></title>
+        <id>https://decrypt.co/?p=358690</id>
+        <link href="https://decrypt.co/358690/australian-executive-cyber-secrets-russia-crypto"/>
+        <updated>2026-02-20T02:52:25.000Z</updated>
+        <summary type="html"><![CDATA[U.S. prosecutors say the former defense contractor executive took about $1.26 million in crypto to transfer sensitive exploit tools tied to Five Eyes intelligence work.]]></summary>
+        <author>
+            <name>Vince Dioquino</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[White House, Banks and Crypto Groups Resume Talks on Stablecoin Rewards]]></title>
         <id>https://decrypt.co/?p=358688</id>
@@ -353,16 +363,6 @@
         <summary type="html"><![CDATA[Prediction market exposure is being packaged for public investors as the U.S. election cycle draws institutional interest.]]></summary>
         <author>
             <name>Vismaya V</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oracle Error Leaves DeFi Lender Moonwell With $1.8 Million in Bad Debt]]></title>
-        <id>https://decrypt.co/?p=358374</id>
-        <link href="https://decrypt.co/358374/oracle-error-leaves-defi-lender-moonwell-1-8-million-bad-debt"/>
-        <updated>2026-02-18T05:46:00.000Z</updated>
-        <summary type="html"><![CDATA[The error allowed liquidators to repay roughly $1 of debt to seize cbETH collateral, leaving Moonwell with nearly $1.8 million in bad debt.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
         </author>
     </entry>
 </feed>
