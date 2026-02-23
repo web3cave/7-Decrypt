@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-23T22:32:21.022Z</id>
+    <id>urn:2026-02-23T23:27:25.084Z</id>
     <title>web3::cave</title>
-    <updated>2026-02-23T22:32:21.022Z</updated>
+    <updated>2026-02-23T23:27:25.084Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Critics Mock Anthropic's Claims Chinese AI Labs Are Stealing Its Data]]></title>
+        <id>https://decrypt.co/?p=358911</id>
+        <link href="https://decrypt.co/358911/critics-mock-anthropics-claims-chinese-ai-labs-stealing-data"/>
+        <updated>2026-02-23T22:40:40.000Z</updated>
+        <summary type="html"><![CDATA[Anthropic says Chinese AI firms are copying Claude, drawing online ridicule and scrutiny of AI training practices.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crypto Exchange Backpack Plans to Offer Company Equity to Token Stakers]]></title>
         <id>https://decrypt.co/?p=358909</id>
@@ -383,16 +393,6 @@
         <summary type="html"><![CDATA[“Silicon Valley” actor T.J. Miller joked that an AI bot “replaced” him as this week’s ETH Denver host, amid actual growing job fears.]]></summary>
         <author>
             <name>Jason Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Brings AI Music Generation to Gemini—We Tried It, and It's Too Little Too Late]]></title>
-        <id>https://decrypt.co/?p=358654</id>
-        <link href="https://decrypt.co/358654/google-ai-music-gemini-lyria-3-review-suno-udio"/>
-        <updated>2026-02-19T21:13:13.000Z</updated>
-        <summary type="html"><![CDATA[Google AI music generator Lyria 3 is now available on the Gemini app. It works—mostly—but the competition has a big head start.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
         </author>
     </entry>
 </feed>
