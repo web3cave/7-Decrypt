@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-24T22:23:54.127Z</id>
+    <id>urn:2026-02-24T23:22:52.727Z</id>
     <title>web3::cave</title>
-    <updated>2026-02-24T22:23:54.127Z</updated>
+    <updated>2026-02-24T23:22:52.727Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Coinbase, Kraken and Binance Push Deeper Into Tokenization as Capital Shifts]]></title>
+        <id>https://decrypt.co/?p=359008</id>
+        <link href="https://decrypt.co/359008/coinbase-kraken-binance-push-deeper-tokenization-capital-shifts"/>
+        <updated>2026-02-24T22:50:36.000Z</updated>
+        <summary type="html"><![CDATA[Tokenized real-world assets have continued to expand despite a broader market slide, with assets distributed on-chain up nearly 300% year over year.]]></summary>
+        <author>
+            <name>Stacy Elliott</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoin Depot Will Require ID for 'Every Transaction' at ATMs Amid Growing Pressure]]></title>
         <id>https://decrypt.co/?p=359045</id>
@@ -383,16 +393,6 @@
         <summary type="html"><![CDATA[Researchers built AdGazer, a machine learning tool that predicts whether you'll actually look at a digital ad—before it's ever shown to you.]]></summary>
         <author>
             <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Quantum Threat Takes Center Stage at Ethereum Conference]]></title>
-        <id>https://decrypt.co/?p=358784</id>
-        <link href="https://decrypt.co/358784/bitcoin-quantum-threat-center-stage-ethereum-conference"/>
-        <updated>2026-02-21T14:01:03.000Z</updated>
-        <summary type="html"><![CDATA[At ETH Denver, developers warned that advances in quantum computing could threaten Bitcoin’s digital signatures as the industry continues to debate how to prepare.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
         </author>
     </entry>
 </feed>
