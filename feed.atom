@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-27T18:30:27.171Z</id>
+    <id>urn:2026-02-27T19:27:15.014Z</id>
     <title>web3::cave</title>
-    <updated>2026-02-27T18:30:27.171Z</updated>
+    <updated>2026-02-27T19:27:15.014Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Magic Eden Pulls Plug on Bitcoin and Ethereum Support, Doubles Down on Solana]]></title>
+        <id>https://decrypt.co/?p=359422</id>
+        <link href="https://decrypt.co/359422/magic-eden-pulls-plug-bitcoin-ethereum-doubles-down-solana"/>
+        <updated>2026-02-27T18:58:22.000Z</updated>
+        <summary type="html"><![CDATA[Magic Eden is pulling support for Ethereum-compatible and Bitcoin-based assets, marking an end to its multi-chain approach to user adoption.]]></summary>
+        <author>
+            <name>André Beganski</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trump Media Weighs Truth Social Spinoff Following Bitcoin, Crypto ETF Moves]]></title>
+        <id>https://decrypt.co/?p=359421</id>
+        <link href="https://decrypt.co/359421/trump-media-weighs-truth-social-spinoff-bitcoin-crypto"/>
+        <updated>2026-02-27T18:33:13.000Z</updated>
+        <summary type="html"><![CDATA[Trump Media is considering spinning off its Truth Social platform into its own public entity.]]></summary>
+        <author>
+            <name>Logan Hitchcock</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ethereum Tokens Swiped, Returned After South Korean Tax Service Publishes Wallet Seed Phrases]]></title>
         <id>https://decrypt.co/?p=359404</id>
@@ -343,26 +363,6 @@
         <summary type="html"><![CDATA[Nvidia’s earnings lifted technology shares and steadied broader markets, even as investors weigh how long the AI investment cycle can run.]]></summary>
         <author>
             <name>Sebastian Sinclair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Samsung's Galaxy S26 Billed as First 'Agentic AI Phone'—Here's What That Means]]></title>
-        <id>https://decrypt.co/?p=359150</id>
-        <link href="https://decrypt.co/359150/samsung-galaxy-s26-agentic-ai-phone-gemini-perplexity"/>
-        <updated>2026-02-25T22:27:59.000Z</updated>
-        <summary type="html"><![CDATA[The Galaxy S26 doesn't just answer your questions—it acts on your behalf. Samsung is the first to use the agentic phone label.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI, Google and Anthropic AI Models Deployed Nuclear Weapons in 95% of War Simulations]]></title>
-        <id>https://decrypt.co/?p=359137</id>
-        <link href="https://decrypt.co/359137/openai-google-anthropic-ai-models-nuclear-weapons-war-simulations"/>
-        <updated>2026-02-25T21:07:09.000Z</updated>
-        <summary type="html"><![CDATA[As the Department of Defense pushes for greater AI integration, researchers said the top models chose the nuclear option in nearly all war simulations.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
         </author>
     </entry>
 </feed>
