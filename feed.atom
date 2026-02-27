@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-27T01:15:57.008Z</id>
+    <id>urn:2026-02-27T04:05:01.239Z</id>
     <title>web3::cave</title>
-    <updated>2026-02-27T01:15:57.008Z</updated>
+    <updated>2026-02-27T04:05:01.239Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[MARA Shares Rise After Bitcoin Miner Strikes AI Data Center Deal]]></title>
+        <id>https://decrypt.co/?p=359361</id>
+        <link href="https://decrypt.co/359361/mara-shares-rise-bitcoin-miner-strikes-ai-data-center-deal"/>
+        <updated>2026-02-27T03:00:57.000Z</updated>
+        <summary type="html"><![CDATA[The Bitcoin miner moved to convert U.S. sites into AI-ready campuses, though analysts say confirmed tenants will be key.]]></summary>
+        <author>
+            <name>Vince Dioquino</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Anthropic Won’t Lift AI Safeguards Amid Ongoing Pentagon Dispute: CEO]]></title>
         <id>https://decrypt.co/?p=359358</id>
@@ -363,16 +373,6 @@
         <summary type="html"><![CDATA[Crypto markets climb 3% as traders position for Nvidia's earnings, which analysts say now overshadow the SOTU as the key catalyst.]]></summary>
         <author>
             <name>Akash Girimath</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Judge Dismisses xAI Trade Secrets Lawsuit Against OpenAI, Allows Refiling]]></title>
-        <id>https://decrypt.co/?p=359094</id>
-        <link href="https://decrypt.co/359094/judge-dismisses-xai-trade-secrets-lawsuit-against-openai-allows-refiling"/>
-        <updated>2026-02-25T10:49:01.000Z</updated>
-        <summary type="html"><![CDATA[A federal judge has ruled that xAI's complaint failed to connect OpenAI to any alleged theft by former employees.]]></summary>
-        <author>
-            <name>Vismaya V</name>
         </author>
     </entry>
 </feed>
