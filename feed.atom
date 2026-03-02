@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-02T19:30:44.897Z</id>
+    <id>urn:2026-03-02T20:26:36.419Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-02T19:30:44.897Z</updated>
+    <updated>2026-03-02T20:26:36.419Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Treasury Firm ProCap Adds $31 Million in BTC as Stock Buybacks Grow]]></title>
+        <id>https://decrypt.co/?p=359646</id>
+        <link href="https://decrypt.co/359646/bitcoin-treasury-firm-procap-adds-31-million-stock-buybacks-grow"/>
+        <updated>2026-03-02T19:57:49.000Z</updated>
+        <summary type="html"><![CDATA[Publicly traded Bitcoin treasury ProCap Financial boosted its BTC stash to $376 million as it continues buying back its own shares.]]></summary>
+        <author>
+            <name>Logan Hitchcock</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Trump’s CFTC Appoints Crypto Lawyer to Lead Shrinking Enforcement Team]]></title>
         <id>https://decrypt.co/?p=359636</id>
@@ -383,16 +393,6 @@
         <summary type="html"><![CDATA[Police in South Korea didn't follow proper procedures and lost $1.4 million worth of confiscated Bitcoin, according to a local news report.]]></summary>
         <author>
             <name>Logan Hitchcock</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vitalik Buterin Maps Quantum Upgrade to Ethereum to Replace Core Cryptography]]></title>
-        <id>https://decrypt.co/?p=359352</id>
-        <link href="https://decrypt.co/359352/vitalik-buterin-maps-quantum-upgrade-ethereum"/>
-        <updated>2026-02-26T23:42:08.000Z</updated>
-        <summary type="html"><![CDATA[Buterin has outlined a phased roadmap to replace four vulnerable components of Ethereum's cryptographic architecture.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
         </author>
     </entry>
 </feed>
