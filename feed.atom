@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-02T20:26:36.419Z</id>
+    <id>urn:2026-03-02T21:24:46.985Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-02T20:26:36.419Z</updated>
+    <updated>2026-03-02T21:24:46.985Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[OpenAI Claims Safety 'Red Lines' in Pentagon Deal—But Users Aren't Buying It]]></title>
+        <id>https://decrypt.co/?p=359649</id>
+        <link href="https://decrypt.co/359649/openai-claims-safety-red-lines-pentagon-deal"/>
+        <updated>2026-03-02T21:16:39.000Z</updated>
+        <summary type="html"><![CDATA[The Pentagon deal sparked a mass exodus from ChatGPT—and pushed Anthropic's Claude to the top of the App Store. But the bigger story is in the contract language.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Supreme Court Declines AI Copyright Case, Extending Legal Setback for AI-Generated Works]]></title>
+        <id>https://decrypt.co/?p=359661</id>
+        <link href="https://decrypt.co/359661/supreme-court-declines-ai-copyright-case"/>
+        <updated>2026-03-02T21:03:45.000Z</updated>
+        <summary type="html"><![CDATA[U.S. justices leave human authorship rule intact, reinforcing legal limits on AI intellectual property claims.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoin Treasury Firm ProCap Adds $31 Million in BTC as Stock Buybacks Grow]]></title>
         <id>https://decrypt.co/?p=359646</id>
@@ -373,26 +393,6 @@
         <summary type="html"><![CDATA[Anthropic CEO’s said the company will not comply with Defense Department demands as the Pentagon weighs whether to label the company a “supply chain risk.”]]></summary>
         <author>
             <name>Jason Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta’s AI Floods Child Abuse Investigators With 'Junk' Tips, Law Enforcement Officials Claim]]></title>
-        <id>https://decrypt.co/?p=359353</id>
-        <link href="https://decrypt.co/359353/metas-ai-child-abuse-investigators-junk-tips"/>
-        <updated>2026-02-27T00:17:10.000Z</updated>
-        <summary type="html"><![CDATA[ICAC officers say AI-generated reports are overwhelming investigators and slowing down cases as Meta disputes the claims.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Suspects Arrested After South Korean Police Mishandle $1.4 Million in Bitcoin: Report]]></title>
-        <id>https://decrypt.co/?p=359317</id>
-        <link href="https://decrypt.co/359317/suspects-arrested-south-korean-olice-mishandle-million-bitcoin"/>
-        <updated>2026-02-27T00:00:03.000Z</updated>
-        <summary type="html"><![CDATA[Police in South Korea didn't follow proper procedures and lost $1.4 million worth of confiscated Bitcoin, according to a local news report.]]></summary>
-        <author>
-            <name>Logan Hitchcock</name>
         </author>
     </entry>
 </feed>
