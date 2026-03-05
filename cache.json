@@ -6,12 +6,42 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=360201",
+          "author": "Sebastian Sinclair",
+          "description": "The judgment would resolve one of the agency’s highest-profile crypto enforcement actions and dismiss the remaining claims against Sun.",
+          "link": "https://decrypt.co/360201/sec-settle-justin-sun-case-10m-penalty-bittorrent-owner",
+          "publishedOn": "2026-03-05T22:16:03.000Z",
+          "wordCount": 9018,
+          "title": "SEC Moves to Settle Justin Sun Case With $10M Penalty for BitTorrent Owner",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/justin-sun-decrypt-style-03-gID_7.jpg@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/justin-sun-decrypt-style-03-gID_7.jpg@png"
+        },
+        {
+          "id": "https://decrypt.co/?p=360183",
+          "author": "Jason Nelson",
+          "description": "Roblox's new AI feature replaces blocked messages with rewritten text to keep conversations readable while enforcing platform rules.",
+          "link": "https://decrypt.co/360183/roblox-using-ai-rewrite-chat-swears-slurs-real-time",
+          "publishedOn": "2026-03-05T21:37:17.000Z",
+          "wordCount": 10192,
+          "title": "Roblox Is Now Using AI to Rewrite Chat Swears and Slurs in Real Time",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-10-gID_7.png@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-10-gID_7.png@png"
+        },
+        {
           "id": "https://decrypt.co/?p=360185",
           "author": "Logan Hitchcock",
           "description": "After a strong bounce on Wednesday, Dogecoin is leading the top 100 tokens in losses on Thursday as Bitcoin falls.",
           "link": "https://decrypt.co/360185/dogecoin-down-bad-bitcoin-gives-up-latest-gains",
           "publishedOn": "2026-03-05T21:12:09.000Z",
-          "wordCount": 9627,
+          "wordCount": 9638,
           "title": "Dogecoin Down Bad as Bitcoin Gives Up Latest Gains",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Doge4-gID_7.png@png",
@@ -26,7 +56,7 @@
           "description": "Iran, Russia, North Korea, and other sanctioned countries boosted their use of cryptocurrency last year, according to Chainalysis.",
           "link": "https://decrypt.co/360146/iran-regime-crypto-activity-topped-3-billion-illicit-transactions-2025",
           "publishedOn": "2026-03-05T21:00:22.000Z",
-          "wordCount": 10161,
+          "wordCount": 10172,
           "title": "Iran Regime's Crypto Activity Topped $3 Billion as Illicit Transactions Surged in 2025: Report",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/Iran-Bitcoin-1-gID_7.jpg@png",
@@ -41,7 +71,7 @@
           "description": "The firm behind the Original Penguin brand is suing Pudgy Penguins in a lawsuit that alleges the crypto brand infringes on its trademarks.",
           "link": "https://decrypt.co/360169/penguin-apparel-brand-targets-pudgy-trademark-infringement-lawsuit",
           "publishedOn": "2026-03-05T20:31:02.000Z",
-          "wordCount": 10144,
+          "wordCount": 10155,
           "title": "Penguin Apparel Brand Targets Crypto IP Pudgy Penguins in Trademark Infringement Lawsuit",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/12/PudgyPenguins-DecryptStyle2-scaled-gID_7.jpg@png",
@@ -56,7 +86,7 @@
           "description": "OpenAI debuted its most capable model yet under pressure from a mass user exodus tied to the company's controversial Pentagon contract.",
           "link": "https://decrypt.co/360148/openai-launches-gpt-5-4-quitgpt-exodus-gains-steam",
           "publishedOn": "2026-03-05T19:38:49.000Z",
-          "wordCount": 10890,
+          "wordCount": 10886,
           "title": "OpenAI Launches GPT-5.4 Days Just After Last Version as 'QuitGPT' Exodus Gains Steam",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/openai-decrypt-style-02-gID_7.jpg@png",
@@ -71,7 +101,7 @@
           "description": "ZeroHash wants OCC trust bank status for crypto custody—and Revolut is gunning for a full U.S. banking license.",
           "link": "https://decrypt.co/360095/zerohash-applies-national-trust-bank-charter-occ-crypto-pipeline-grows",
           "publishedOn": "2026-03-05T17:28:09.000Z",
-          "wordCount": 9094,
+          "wordCount": 9105,
           "title": "ZeroHash Applies for National Trust Bank Charter as OCC Crypto Pipeline Grows",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/Treasury-Department1-gID_7.jpg@png",
@@ -86,7 +116,7 @@
           "description": "Brick-and-mortar retail payments in Swiss Spar stores are enabled through the Cardano blockchain’s integration with DFX.swiss.",
           "link": "https://decrypt.co/360122/cardano-ada-token-accepted-spar-supermarkets-switzerland",
           "publishedOn": "2026-03-05T16:45:40.000Z",
-          "wordCount": 9384,
+          "wordCount": 9395,
           "title": "Cardano's ADA Token Now Accepted at Spar Supermarkets in Switzerland",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/spar-decrypt-style-gID_7.jpg@png",
@@ -101,7 +131,7 @@
           "description": "Prediction market traders are becoming more bullish on Bitcoin's near-term price, but they're not as confident on Ethereum.",
           "link": "https://decrypt.co/360131/bitcoin-price-predictions-flip-bullish-but-ethereum-stuck",
           "publishedOn": "2026-03-05T16:36:02.000Z",
-          "wordCount": 9656,
+          "wordCount": 9667,
           "title": "Bitcoin Price Predictions Flip Bullish, But Ethereum Is Still Stuck",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/bitcoin-ethereum-decrypt-style-new-01-1-gID_7.jpg@png",
@@ -116,7 +146,7 @@
           "description": "John Daghita was publicly accused of the crime by blockchain sleuth ZachXBT in January.",
           "link": "https://decrypt.co/360120/federal-contractors-son-arrested-charged-with-stealing-46-million-from-us-crypto-stockpile",
           "publishedOn": "2026-03-05T16:08:42.000Z",
-          "wordCount": 10106,
+          "wordCount": 10117,
           "title": "Federal Contractor’s Son Arrested, Charged With Stealing $46 Million From US Crypto Stockpile",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/fbi-decrypt-style-gID_7.jpg@png",
@@ -131,7 +161,7 @@
           "description": "The firm continues to pivot away from Bitcoin mining.",
           "link": "https://decrypt.co/360117/core-scientifics-secures-1-billion-morgan-stanley-pivot-bitcoin-ai",
           "publishedOn": "2026-03-05T15:33:08.000Z",
-          "wordCount": 9394,
+          "wordCount": 9405,
           "title": "Core Scientific Secures Up to $1 Billion From Morgan Stanley for Pivot From Bitcoin Mining to AI",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/bitcoin-mining-decrypt-style-02-gID_7.png@png",
@@ -146,7 +176,7 @@
           "description": "Kraken made crypto history yesterday, receiving federal banking access that's been sought after by the industry for years.",
           "link": "https://decrypt.co/360098/morning-minute-kraken-cracks-the-fed",
           "publishedOn": "2026-03-05T14:28:38.000Z",
-          "wordCount": 11180,
+          "wordCount": 11191,
           "title": "Morning Minute: Kraken Cracks the Fed",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/kraken2-gID_7.jpg@png",
@@ -161,7 +191,7 @@
           "description": "The New York Stock Exchange’s parent company has invested in crypto exchange OKX as part of a push into tokenized stocks.",
           "link": "https://decrypt.co/360101/okb-token-surges-38-on-nyses-okx-investment-at-25b-valuation",
           "publishedOn": "2026-03-05T14:20:32.000Z",
-          "wordCount": 8984,
+          "wordCount": 8995,
           "title": "OKB Token Surges 38% on NYSE’s OKX Investment at $25B Valuation",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/okx-decrypt-style-gID_7.jpg@png",
@@ -176,7 +206,7 @@
           "description": "Ethereum ETFs saw inflows of $169 million Wednesday, as geopolitical tensions and price reset institutions’ crypto appetite.",
           "link": "https://decrypt.co/360097/ethereum-etfs-draw-in-169m-highest-level-in-two-months",
           "publishedOn": "2026-03-05T12:44:35.000Z",
-          "wordCount": 9145,
+          "wordCount": 9156,
           "title": "Ethereum ETFs Draw In $169M, Highest Level in Two Months",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Ethereum-decrypt-style-04-gID_7.jpg@png",
@@ -191,7 +221,7 @@
           "description": "The Financial Action Task Force wants issuers to embed freeze and deny-list controls directly into smart contracts.",
           "link": "https://decrypt.co/360087/fatf-flags-peer-to-peer-stablecoin-transfers-as-top-money-laundering-risk",
           "publishedOn": "2026-03-05T11:44:53.000Z",
-          "wordCount": 9985,
+          "wordCount": 9996,
           "title": "FATF Flags Peer-to-Peer Stablecoin Transfers as Top Money Laundering Risk",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/stablecoins-decrypt-style-01-scaled-gID_7.jpg@png",
@@ -206,7 +236,7 @@
           "description": "The senator has slammed predictions markets betting on war in the Middle East, accusing White House officials of corruption.",
           "link": "https://decrypt.co/360079/senator-white-house-corruption-iran-war-predictions-markets",
           "publishedOn": "2026-03-05T05:42:14.000Z",
-          "wordCount": 10241,
+          "wordCount": 10252,
           "title": "Senator Flags White House 'Corruption' Concerns Over Iran War Predictions Markets",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/Senator-Chris-Murphy-gID_7.jpg@png",
@@ -221,7 +251,7 @@
           "description": "Police say scammers used RCMP branding to target a Nanaimo victim in a crypto recovery scheme after an earlier fraud.",
           "link": "https://decrypt.co/360072/canadian-robbed-via-atm-kiosk-recovery-lead-another-scam",
           "publishedOn": "2026-03-05T04:34:58.000Z",
-          "wordCount": 10179,
+          "wordCount": 10190,
           "title": "Canadian Robbed of Crypto via ATM Kiosk, Recovery Efforts Lead to Another Scam Attempt",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/shutterstock_1261474762-gID_7.jpg@png",
@@ -236,7 +266,7 @@
           "description": "Amazon, Google, Meta, Microsoft, OpenAI, Oracle, and xAI agreed to fund electricity supply and grid upgrades as AI energy demands spike.",
           "link": "https://decrypt.co/360059/big-tech-white-house-energy-pledge-iran-higher-costs",
           "publishedOn": "2026-03-05T03:37:46.000Z",
-          "wordCount": 10846,
+          "wordCount": 10842,
           "title": "Big Tech Joins White House Energy Pledge as Iran Tensions Threaten Higher Costs",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/White-House-decrypt-style-02-gID_7.png@png",
@@ -251,7 +281,7 @@
           "description": "Fresh ETF inflows, policy momentum and a deeper integration with the financial system are beginning to shift sentiment, analysts say.",
           "link": "https://decrypt.co/360056/policy-shifts-geopolitical-tensions-reshaping-bitcoin-trade",
           "publishedOn": "2026-03-05T01:02:06.000Z",
-          "wordCount": 10268,
+          "wordCount": 10279,
           "title": "How Policy Shifts, Geopolitical Tensions Are Reshaping the Bitcoin Trade",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-decrypt-style-neon-gID_7.png@png",
@@ -266,7 +296,7 @@
           "description": "An investigation into Meta’s smart glasses has ignited concerns from regulators and privacy advocates over the use of sensitive footage.",
           "link": "https://decrypt.co/360048/ray-ban-smart-glasses-controversy-meta",
           "publishedOn": "2026-03-05T00:51:41.000Z",
-          "wordCount": 10775,
+          "wordCount": 10771,
           "title": "Inside the Ray-Ban Smart Glasses Controversy Plaguing Meta",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/Ray-Ban-Meta-Smart-Glasses1-gID_7.jpg@png",
@@ -281,7 +311,7 @@
           "description": "The \"QuitGPT\" movement has passed 2.5 million pledges. But before you delete ChatGPT, here is every step to take so your data doesn't stay behind.",
           "link": "https://decrypt.co/359976/quitgpt-delete-chatgpt-data-privacy-guide",
           "publishedOn": "2026-03-04T21:57:53.000Z",
-          "wordCount": 17621,
+          "wordCount": 17617,
           "title": "Before You Quit ChatGPT, Do This to Take Your Data With You",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/ChatGPT-gID_7.jpg@png",
@@ -296,7 +326,7 @@
           "description": "Crypto asset management firm and ETF issuer Bitwise donated $233,000 to open-source Bitcoin developers in its latest annual contribution.",
           "link": "https://decrypt.co/360028/bitwise-donates-233k-bitcoin-etf-profits-open-source-btc-developers",
           "publishedOn": "2026-03-04T21:44:13.000Z",
-          "wordCount": 9338,
+          "wordCount": 9349,
           "title": "Bitwise Donates $233K of Bitcoin ETF Profits to Open-Source BTC Developers",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin-decrypt-style-25-gID_7.png@png",
@@ -311,7 +341,7 @@
           "description": "Several technical indicators for Bitcoin have reached levels not seen since the market chaos of 2022",
           "link": "https://decrypt.co/359970/worst-behind-us-bitcoin-market-conditions-mirror-ftx-bottom-analysts",
           "publishedOn": "2026-03-04T21:22:04.000Z",
-          "wordCount": 9641,
+          "wordCount": 9652,
           "title": "'The Worst Is Behind Us': Bitcoin Market Conditions Mirror FTX Bottom, Analysts Say",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-decrypt-style-26-gID_7.png@png",
@@ -326,7 +356,7 @@
           "description": "The family of Jonathan Gavalas claims that Google's AI chatbot pushed a delusional narrative that escalated into violent missions and ended with his death.",
           "link": "https://decrypt.co/359966/google-gemini-ai-pushed-florida-man-suicide-lawsuit",
           "publishedOn": "2026-03-04T20:53:38.000Z",
-          "wordCount": 12823,
+          "wordCount": 12819,
           "title": "Google's Gemini AI Pushed Florida Man to Suicide Amid 'Collapsing Reality', Lawsuit Alleges",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/google-decrypt-style-2-gID_7.png@png",
@@ -341,7 +371,7 @@
           "description": "Leading meme coin Dogecoin (DOGE) is outperforming Bitcoin, spiking 15% on the day as crypto prices rebound across the board.",
           "link": "https://decrypt.co/359967/dogecoin-pumps-bitcoin-pops-reversing-doge-losing-streak",
           "publishedOn": "2026-03-04T19:20:49.000Z",
-          "wordCount": 10429,
+          "wordCount": 10440,
           "title": "Dogecoin Pumps as Bitcoin Pops, Reversing Recent DOGE Losing Streak",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/dogecoin-decrypt-style-02-gID_7.png@png",
@@ -356,7 +386,7 @@
           "description": "Morgan Stanley reveals its Bitcoin ETF custodians as the Wall Street giant moves closer to a full crypto embrace.",
           "link": "https://decrypt.co/359931/morgan-stanley-picks-coinbase-bny-mellon-custodians-bitcoin-etf",
           "publishedOn": "2026-03-04T18:52:19.000Z",
-          "wordCount": 9178,
+          "wordCount": 9189,
           "title": "Morgan Stanley Picks Coinbase, BNY as Custodians for Planned Bitcoin ETF",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-morgan-stanley-gID_7.png@png",
@@ -371,7 +401,7 @@
           "description": "A former police officer in charge of investigating crypto crime in Seoul was sentenced to six years in prison for accepting bribes.",
           "link": "https://decrypt.co/359943/south-korean-cop-sentenced-to-six-years-in-prison-for-bribes-tied-to-crypto-crime-report",
           "publishedOn": "2026-03-04T18:06:58.000Z",
-          "wordCount": 10075,
+          "wordCount": 10086,
           "title": "South Korean Cop Sentenced to Six Years in Prison for Bribes Tied to Crypto Crime: Report",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Jail-cell-2-gID_7.png@png",
@@ -386,7 +416,7 @@
           "description": "Kraken became the first crypto bank to receive a Fed master account on Wednesday. The banking industry is not pleased.",
           "link": "https://decrypt.co/359954/banking-groups-slam-crypto-bank-kraken-fed-approval-improper-dangerous",
           "publishedOn": "2026-03-04T17:39:11.000Z",
-          "wordCount": 9864,
+          "wordCount": 9875,
           "title": "Banking Groups Slam Crypto Bank Kraken’s Fed Approval as Improper, Dangerous",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/federal-reserve-decrypt-style-02-gID_7.jpg@png",
@@ -401,7 +431,7 @@
           "description": "Prosecutors have indicted 62 people over alleged links to Prince Group, designated as a transnational criminal organization by the U.S. DOJ.",
           "link": "https://decrypt.co/359920/taiwan-indicts-62-laundering-339m-crypto-scam-compounds-cambodia",
           "publishedOn": "2026-03-04T17:14:53.000Z",
-          "wordCount": 9795,
+          "wordCount": 9806,
           "title": "Taiwan Indicts 62 Over Laundering $339M From Crypto Scam Compounds in Cambodia",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Judge-decrypt-style-2-gID_7.png@png",
@@ -416,7 +446,7 @@
           "description": "Researchers said a sophisticated exploit kit with 23 iOS vulnerabilities is being used by espionage and cybercrime campaigns.",
           "link": "https://decrypt.co/359927/apple-iphone-hacking-kit-used-by-spies-crypto-scams-could-have-us-intelligence-origins",
           "publishedOn": "2026-03-04T16:38:09.000Z",
-          "wordCount": 9602,
+          "wordCount": 9613,
           "title": "Apple iPhone Hacking Kit Used By Spies, Crypto Scams Could Have US Intelligence Origins",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/malware-code-decrypt-style-gID_7.jpg@png",
@@ -431,7 +461,7 @@
           "description": "The prediction market platform took action against Artem Kaptur, who allegedly abused inside knowledge about the YouTube creator’s videos.",
           "link": "https://decrypt.co/359926/mrbeast-video-editor-fired-beast-industries-kalshi-insider-trading-probe",
           "publishedOn": "2026-03-04T16:26:37.000Z",
-          "wordCount": 9374,
+          "wordCount": 9385,
           "title": "MrBeast Video Editor Fired From Beast Industries Following Kalshi Insider Trading Probe",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/MrBeast-DecryptStyle-01-scaled-gID_7.jpg@png",
@@ -446,7 +476,7 @@
           "description": "The investment firm of tech investor Cathie Wood bought the dip on Coinbase and Robinhood ahead of Wednesday's strong opening.",
           "link": "https://decrypt.co/359921/cathie-wood-ark-invest-buys-dip-coinbase-robinhood",
           "publishedOn": "2026-03-04T15:21:38.000Z",
-          "wordCount": 9593,
+          "wordCount": 9604,
           "title": "Cathie Wood's Ark Invest Buys the Dip on Coinbase and Robinhood—Both Now Surging",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/11/cathie-wood-ark-invest-decrypt-style-gID_7.jpg@png",
@@ -461,7 +491,7 @@
           "description": "Perp trading volumes are likely set to explode on this news—but what does that mean for the onchain perps leader?",
           "link": "https://decrypt.co/359916/morning-minute-cftc-chair-says-u-s-perpetual-futures-are-coming",
           "publishedOn": "2026-03-04T13:22:25.000Z",
-          "wordCount": 11843,
+          "wordCount": 11854,
           "title": "Morning Minute: CFTC Chair Says U.S. Perpetual Futures Are Coming",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/cftc-decrypt-style-01-gID_7.jpg@png",
@@ -476,7 +506,7 @@
           "description": "Kraken’s banking unit has won approval for a Federal Reserve “master account,” enabling it to move money on existing financial rails.",
           "link": "https://decrypt.co/359913/kraken-secures-access-to-feds-core-payment-systems-wsj",
           "publishedOn": "2026-03-04T12:34:30.000Z",
-          "wordCount": 9711,
+          "wordCount": 9722,
           "title": "Kraken Secures Access to Fed’s Core Payment Systems: WSJ",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/kraken-decrypt-style-01-gID_7.jpg@png",
@@ -491,7 +521,7 @@
           "description": "Positioning resets and liquidity expectations have seen Bitcoin retest $71,000 amid the escalating conflict in the Middle East.",
           "link": "https://decrypt.co/359910/bitcoin-pushes-past-71k-but-can-the-rally-last",
           "publishedOn": "2026-03-04T11:55:53.000Z",
-          "wordCount": 9619,
+          "wordCount": 9630,
           "title": "Bitcoin Pushes Past $71K, But Can the Rally Last?",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/Bitcoin-decrypt-style-23-gID_7.jpg@png",
@@ -506,7 +536,7 @@
           "description": "War betting, insider trading accusations, and a list of overseas bans are piling pressure on the prediction market giant.",
           "link": "https://decrypt.co/359897/polymarket-pulls-nuclear-detonation-market-following-public-backlash",
           "publishedOn": "2026-03-04T05:31:32.000Z",
-          "wordCount": 10311,
+          "wordCount": 10322,
           "title": "Polymarket Pulls Nuclear Detonation Market Following Public Backlash",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/polymarket-decrypt-style-gID_7.jpg@png",
@@ -521,7 +551,7 @@
           "description": "Ethereum’s co-founder is calling for “sanctuary technologies” spanning privacy tools, social systems, and infrastructure beyond finance.",
           "link": "https://decrypt.co/359895/vitalik-buterin-ethereum-broaden-mission-beyond-finance",
           "publishedOn": "2026-03-04T04:31:50.000Z",
-          "wordCount": 10271,
+          "wordCount": 10282,
           "title": "Vitalik Buterin Urges Ethereum to Broaden Its Mission Beyond Finance",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/vitalik-buterin-ethereum-decrypt-style-06-gID_7.jpg@png",
@@ -529,36 +559,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/vitalik-buterin-ethereum-decrypt-style-06-gID_7.jpg@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=359893",
-          "author": "Sebastian Sinclair",
-          "description": "Analysts say large investors are increasingly locking up ETH for yield rather than positioning to sell into market rallies.",
-          "link": "https://decrypt.co/359893/corporates-exchanges-stake-ethereum-instead-of-selling",
-          "publishedOn": "2026-03-04T03:13:11.000Z",
-          "wordCount": 9417,
-          "title": "Corporates and Exchanges Rush to Stake Ethereum Instead of Selling",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/ethereum-decrypt-style-06-gID_7.jpg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/ethereum-decrypt-style-06-gID_7.jpg@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=359890",
-          "author": "Jason Nelson",
-          "description": "Bitcoin Policy Institute study finds AI systems, including Claude, GPT, Grok, and Gemini, favored Bitcoin over fiat and other digital assets.",
-          "link": "https://decrypt.co/359890/ai-models-prefer-bitcoin-over-fiat-stablecoins-study",
-          "publishedOn": "2026-03-04T01:48:45.000Z",
-          "wordCount": 9704,
-          "title": "AI Models Prefer Bitcoin Over Fiat and Stablecoins, Study Finds",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-10-gID_7.png@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-10-gID_7.png@png"
         }
       ]
     }

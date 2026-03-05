@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-05T21:26:08.736Z</id>
+    <id>urn:2026-03-05T22:22:31.705Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-05T21:26:08.736Z</updated>
+    <updated>2026-03-05T22:22:31.705Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[SEC Moves to Settle Justin Sun Case With $10M Penalty for BitTorrent Owner]]></title>
+        <id>https://decrypt.co/?p=360201</id>
+        <link href="https://decrypt.co/360201/sec-settle-justin-sun-case-10m-penalty-bittorrent-owner"/>
+        <updated>2026-03-05T22:16:03.000Z</updated>
+        <summary type="html"><![CDATA[The judgment would resolve one of the agency’s highest-profile crypto enforcement actions and dismiss the remaining claims against Sun.]]></summary>
+        <author>
+            <name>Sebastian Sinclair</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roblox Is Now Using AI to Rewrite Chat Swears and Slurs in Real Time]]></title>
+        <id>https://decrypt.co/?p=360183</id>
+        <link href="https://decrypt.co/360183/roblox-using-ai-rewrite-chat-swears-slurs-real-time"/>
+        <updated>2026-03-05T21:37:17.000Z</updated>
+        <summary type="html"><![CDATA[Roblox's new AI feature replaces blocked messages with rewritten text to keep conversations readable while enforcing platform rules.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dogecoin Down Bad as Bitcoin Gives Up Latest Gains]]></title>
         <id>https://decrypt.co/?p=360185</id>
@@ -353,26 +373,6 @@
         <summary type="html"><![CDATA[Ethereum’s co-founder is calling for “sanctuary technologies” spanning privacy tools, social systems, and infrastructure beyond finance.]]></summary>
         <author>
             <name>Vince Dioquino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Corporates and Exchanges Rush to Stake Ethereum Instead of Selling]]></title>
-        <id>https://decrypt.co/?p=359893</id>
-        <link href="https://decrypt.co/359893/corporates-exchanges-stake-ethereum-instead-of-selling"/>
-        <updated>2026-03-04T03:13:11.000Z</updated>
-        <summary type="html"><![CDATA[Analysts say large investors are increasingly locking up ETH for yield rather than positioning to sell into market rallies.]]></summary>
-        <author>
-            <name>Sebastian Sinclair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Models Prefer Bitcoin Over Fiat and Stablecoins, Study Finds]]></title>
-        <id>https://decrypt.co/?p=359890</id>
-        <link href="https://decrypt.co/359890/ai-models-prefer-bitcoin-over-fiat-stablecoins-study"/>
-        <updated>2026-03-04T01:48:45.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin Policy Institute study finds AI systems, including Claude, GPT, Grok, and Gemini, favored Bitcoin over fiat and other digital assets.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
         </author>
     </entry>
 </feed>
