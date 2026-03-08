@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-08T18:21:42.790Z</id>
+    <id>urn:2026-03-08T19:17:34.400Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-08T18:21:42.790Z</updated>
+    <updated>2026-03-08T19:17:34.400Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Smell Fraud? This Telegram App Was Built to Reward Whistleblowers]]></title>
+        <id>https://decrypt.co/?p=360294</id>
+        <link href="https://decrypt.co/360294/smell-fraud-telegram-app-built-reward-whistleblowers"/>
+        <updated>2026-03-08T19:01:02.000Z</updated>
+        <summary type="html"><![CDATA[Vera Report was shaped by AlphaTON CEO Brittany Kaiser’s experiences as a whistleblower, and she hopes it’ll move the needle on fraud.]]></summary>
+        <author>
+            <name>André Beganski</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OpenAI GPT-5.4 vs xAI Grok 4.20: Which AI Chatbot Is Best for You?]]></title>
         <id>https://decrypt.co/?p=360302</id>
@@ -343,16 +353,6 @@
         <summary type="html"><![CDATA[Police say scammers used RCMP branding to target a Nanaimo victim in a crypto recovery scheme after an earlier fraud.]]></summary>
         <author>
             <name>Vince Dioquino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Big Tech Joins White House Energy Pledge as Iran Tensions Threaten Higher Costs]]></title>
-        <id>https://decrypt.co/?p=360059</id>
-        <link href="https://decrypt.co/360059/big-tech-white-house-energy-pledge-iran-higher-costs"/>
-        <updated>2026-03-05T03:37:46.000Z</updated>
-        <summary type="html"><![CDATA[Amazon, Google, Meta, Microsoft, OpenAI, Oracle, and xAI agreed to fund electricity supply and grid upgrades as AI energy demands spike.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
         </author>
     </entry>
 </feed>
