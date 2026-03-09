@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-09T05:51:20.859Z</id>
+    <id>urn:2026-03-09T06:51:29.916Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-09T05:51:20.859Z</updated>
+    <updated>2026-03-09T06:51:29.916Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Post-Quantum Shift Could Force Crypto Exchanges to Rethink Wallet Security]]></title>
+        <id>https://decrypt.co/?p=360394</id>
+        <link href="https://decrypt.co/360394/post-quantum-shift-crypto-exchanges-wallet-security"/>
+        <updated>2026-03-09T05:53:18.000Z</updated>
+        <summary type="html"><![CDATA[New wallet research aims to preserve a core feature exchanges use to generate deposit addresses without exposing private keys.]]></summary>
+        <author>
+            <name>Sebastian Sinclair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Aave Users Reach Record as Traders Quietly Shift Capital Toward DeFi Lending]]></title>
         <id>https://decrypt.co/?p=360391</id>
@@ -353,16 +363,6 @@
         <summary type="html"><![CDATA[Ethereum ETFs saw inflows of $169 million Wednesday, as geopolitical tensions and price reset institutions’ crypto appetite.]]></summary>
         <author>
             <name>Akash Girimath</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FATF Flags Peer-to-Peer Stablecoin Transfers as Top Money Laundering Risk]]></title>
-        <id>https://decrypt.co/?p=360087</id>
-        <link href="https://decrypt.co/360087/fatf-flags-peer-to-peer-stablecoin-transfers-as-top-money-laundering-risk"/>
-        <updated>2026-03-05T11:44:53.000Z</updated>
-        <summary type="html"><![CDATA[The Financial Action Task Force wants issuers to embed freeze and deny-list controls directly into smart contracts.]]></summary>
-        <author>
-            <name>Vismaya V</name>
         </author>
     </entry>
 </feed>
