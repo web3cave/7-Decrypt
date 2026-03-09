@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-09T22:19:50.860Z</id>
+    <id>urn:2026-03-09T23:19:30.074Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-09T22:19:50.860Z</updated>
+    <updated>2026-03-09T23:19:30.074Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Americans Use AI Every Day—But Most Still Don't Like It, New Poll Shows]]></title>
+        <id>https://decrypt.co/?p=360493</id>
+        <link href="https://decrypt.co/360493/americans-ai-every-day-most-still-dont-like-it"/>
+        <updated>2026-03-09T22:34:03.000Z</updated>
+        <summary type="html"><![CDATA[Americans are increasingly using AI tools even as a majority say the technology’s risks outweigh its benefits.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Moldova's Anticorruption Center Alleges $107M Crypto Scheme to Influence Elections]]></title>
         <id>https://decrypt.co/?p=360396</id>
@@ -373,16 +383,6 @@
         <summary type="html"><![CDATA[The judgment would resolve one of the agency’s highest-profile crypto enforcement actions and dismiss the remaining claims against Sun.]]></summary>
         <author>
             <name>Sebastian Sinclair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Roblox Is Now Using AI to Rewrite Chat Swears in Real Time]]></title>
-        <id>https://decrypt.co/?p=360183</id>
-        <link href="https://decrypt.co/360183/roblox-using-ai-rewrite-chat-swears-slurs-real-time"/>
-        <updated>2026-03-05T21:37:17.000Z</updated>
-        <summary type="html"><![CDATA[Roblox's new AI feature replaces blocked messages with rewritten text to keep conversations readable while enforcing platform rules.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
         </author>
     </entry>
 </feed>
