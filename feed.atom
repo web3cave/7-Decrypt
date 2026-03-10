@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-10T22:19:24.739Z</id>
+    <id>urn:2026-03-10T23:19:31.534Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-10T22:19:24.739Z</updated>
+    <updated>2026-03-10T23:19:31.534Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Amazon Wins Court Order Blocking Perplexity AI Shopping Agent]]></title>
+        <id>https://decrypt.co/?p=360629</id>
+        <link href="https://decrypt.co/360629/amazon-perplexity-comet-court-order-agentic-commerce"/>
+        <updated>2026-03-10T22:39:44.000Z</updated>
+        <summary type="html"><![CDATA[The order sides with Amazon’s claim Perplexity accessed password-protected accounts without authorization despite users granting permission.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Basketball.fun Eyes Base, Marketplace Launches as NBA Star Tristan Thompson Departs]]></title>
         <id>https://decrypt.co/?p=360628</id>
@@ -373,16 +383,6 @@
         <summary type="html"><![CDATA[Vera Report was shaped by AlphaTON CEO Brittany Kaiser’s experiences as a whistleblower, and she hopes it’ll move the needle on fraud.]]></summary>
         <author>
             <name>André Beganski</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI GPT-5.4 vs xAI Grok 4.20: Which AI Chatbot Is Best for You?]]></title>
-        <id>https://decrypt.co/?p=360302</id>
-        <link href="https://decrypt.co/360302/review-openai-gpt-5-4-vs-xai-grok-4-20-which-ai-best-you"/>
-        <updated>2026-03-08T16:15:32.000Z</updated>
-        <summary type="html"><![CDATA[OpenAI dropped GPT-5.4 two days after GPT-5.3. xAI's Grok 4.20 is still in beta. We ran both through real tasks to find out which one holds up.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
         </author>
     </entry>
 </feed>
