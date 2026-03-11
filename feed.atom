@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-11T10:30:33.818Z</id>
+    <id>urn:2026-03-11T11:26:11.896Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-11T10:30:33.818Z</updated>
+    <updated>2026-03-11T11:26:11.896Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[DOJ Seeks Forfeiture of $3.4M in USDT Tied to Ethereum Investment Scam]]></title>
+        <id>https://decrypt.co/?p=360650</id>
+        <link href="https://decrypt.co/360650/doj-seeks-forfeiture-of-3-4m-in-usdt-tied-to-ethereum-investment-scam"/>
+        <updated>2026-03-11T10:52:18.000Z</updated>
+        <summary type="html"><![CDATA[Federal prosecutors in Massachusetts have moved to forfeit 3.44 million USDT linked to an alleged text-based crypto investment fraud.]]></summary>
+        <author>
+            <name>Decrypt Agent</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Democrats Introduce Bill to Ban Prediction Market Contracts on War and Death]]></title>
         <id>https://decrypt.co/?p=360647</id>
@@ -363,26 +373,6 @@
         <summary type="html"><![CDATA[The initiative is geared towards modernizing processes including corporate actions, shareholder engagement and proxy voting.]]></summary>
         <author>
             <name>Stephen Graves</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vienna-based Startup Launches AI Pipeline Builder for Gaming Studios]]></title>
-        <id>https://decrypt.co/?p=360385</id>
-        <link href="https://decrypt.co/360385/vienna-startup-ai-pipeline-builder-gaming-studios"/>
-        <updated>2026-03-09T13:01:02.000Z</updated>
-        <summary type="html"><![CDATA[The platform uses multiple AI agents to generate and optimize game assets as studios increasingly experiment with AI in production.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Post-Quantum Shift Could Force Crypto Exchanges to Rethink Wallet Security]]></title>
-        <id>https://decrypt.co/?p=360394</id>
-        <link href="https://decrypt.co/360394/post-quantum-shift-crypto-exchanges-wallet-security"/>
-        <updated>2026-03-09T05:53:18.000Z</updated>
-        <summary type="html"><![CDATA[New wallet research aims to preserve a core feature exchanges use to generate deposit addresses without exposing private keys.]]></summary>
-        <author>
-            <name>Sebastian Sinclair</name>
         </author>
     </entry>
 </feed>
