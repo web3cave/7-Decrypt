@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-11T17:41:47.229Z</id>
+    <id>urn:2026-03-11T18:42:25.106Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-11T17:41:47.229Z</updated>
+    <updated>2026-03-11T18:42:25.106Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Android Phone Crypto Wallets Could Be at Risk Due to MediaTek Exploit: Ledger]]></title>
+        <id>https://decrypt.co/?p=360722</id>
+        <link href="https://decrypt.co/360722/android-phone-crypto-wallets-could-be-exposed-to-exploit-heres-who-is-at-risk"/>
+        <updated>2026-03-11T18:08:19.000Z</updated>
+        <summary type="html"><![CDATA[A vulnerability in some MediaTek-powered phones could allow attackers to extract encrypted data, including wallet seed phrases, using only a USB connection.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Myriad to Use USD1 on BNB Chain as Exclusive Settlement Asset]]></title>
         <id>https://decrypt.co/?p=360708</id>
@@ -363,16 +373,6 @@
         <summary type="html"><![CDATA[The AI company filed a lawsuit in federal court after the Pentagon blacklisted Claude over restrictions on military use.]]></summary>
         <author>
             <name>Jason Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Price Bounces, But Bears Are Still in Control: Analysis]]></title>
-        <id>https://decrypt.co/?p=360448</id>
-        <link href="https://decrypt.co/360448/bitcoin-price-bounces-bears-in-control-analysis"/>
-        <updated>2026-03-09T19:37:58.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin broke the descending triangle with a massive candle—then crept right back inside. Today, it's trying again, but the daily chart isn't convincing.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
         </author>
     </entry>
 </feed>
