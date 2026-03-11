@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-10T23:19:31.534Z</id>
+    <id>urn:2026-03-11T01:13:50.580Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-10T23:19:31.534Z</updated>
+    <updated>2026-03-11T01:13:50.580Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Quantum Computing Isn't Just Coming for Bitcoin—It Threatens Messaging Apps Too]]></title>
+        <id>https://decrypt.co/?p=360639</id>
+        <link href="https://decrypt.co/360639/quantum-computing-bitcoin-threatens-messaging-apps"/>
+        <updated>2026-03-10T23:55:49.000Z</updated>
+        <summary type="html"><![CDATA[Experts warn that encrypted chats could face a “harvest now, decrypt later” risk as quantum computing advances.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Amazon Wins Court Order Blocking Perplexity AI Shopping Agent]]></title>
         <id>https://decrypt.co/?p=360629</id>
@@ -373,16 +383,6 @@
         <summary type="html"><![CDATA[Whether Bitcoin’s resilience holds may depend less on battlefield developments than on how energy prices respond in the days ahead.]]></summary>
         <author>
             <name>Sebastian Sinclair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smell Fraud? This Telegram App Was Built to Reward Whistleblowers]]></title>
-        <id>https://decrypt.co/?p=360294</id>
-        <link href="https://decrypt.co/360294/smell-fraud-telegram-app-built-reward-whistleblowers"/>
-        <updated>2026-03-08T19:01:02.000Z</updated>
-        <summary type="html"><![CDATA[Vera Report was shaped by AlphaTON CEO Brittany Kaiser’s experiences as a whistleblower, and she hopes it’ll move the needle on fraud.]]></summary>
-        <author>
-            <name>André Beganski</name>
         </author>
     </entry>
 </feed>
