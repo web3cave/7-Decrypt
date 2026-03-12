@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-12T22:16:46.321Z</id>
+    <id>urn:2026-03-12T23:19:44.694Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-12T22:16:46.321Z</updated>
+    <updated>2026-03-12T23:19:44.694Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto Trader Loses Nearly $50M in Aave Trade, Protocol Offers $600K Fee Refund]]></title>
+        <id>https://decrypt.co/?p=360961</id>
+        <link href="https://decrypt.co/360961/crypto-trader-loses-nearly-50m-aave-trade-600k-fee-refund"/>
+        <updated>2026-03-12T22:49:05.000Z</updated>
+        <summary type="html"><![CDATA[A $50 million USDT trade executed through Aave’s interface returned just 324 AAVE tokens after a user went ahead despite a high-slippage warning.]]></summary>
+        <author>
+            <name>Sebastian Sinclair</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google's New AI Tool Predicts Flash Floods Up to 24 Hours in Advance]]></title>
         <id>https://decrypt.co/?p=360946</id>
@@ -353,16 +363,6 @@
         <summary type="html"><![CDATA[Digital gold is outperforming thanks to Saylor's STRC, while Polymarket got one of the world's most powerful surveillance firms to watch its markets.]]></summary>
         <author>
             <name>Tyler Warner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DOJ Investigating if Iran Used Binance to Evade Sanctions: WSJ]]></title>
-        <id>https://decrypt.co/?p=360680</id>
-        <link href="https://decrypt.co/360680/doj-investigating-if-iran-used-binance-to-evade-sanctions-wsj"/>
-        <updated>2026-03-11T12:57:05.000Z</updated>
-        <summary type="html"><![CDATA[Binance has sued the Wall Street Journal over what it termed "false and defamatory reporting" in a previous story from February.]]></summary>
-        <author>
-            <name>Stephen Graves</name>
         </author>
     </entry>
 </feed>
