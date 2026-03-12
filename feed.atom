@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-12T21:24:18.949Z</id>
+    <id>urn:2026-03-12T22:16:46.321Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-12T21:24:18.949Z</updated>
+    <updated>2026-03-12T22:16:46.321Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Google's New AI Tool Predicts Flash Floods Up to 24 Hours in Advance]]></title>
+        <id>https://decrypt.co/?p=360946</id>
+        <link href="https://decrypt.co/360946/google-gemini-groundsource-flash-flood-prediction-24-hours"/>
+        <updated>2026-03-12T22:09:01.000Z</updated>
+        <summary type="html"><![CDATA[Google's Gemini-powered Groundsource AI system mines decades of news reports, powering real-time flash flood warnings in 150 countries.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[President Trump Is Hosting Another Exclusive Event for Meme Coin Holders]]></title>
         <id>https://decrypt.co/?p=360954</id>
@@ -353,16 +363,6 @@
         <summary type="html"><![CDATA[Binance has sued the Wall Street Journal over what it termed "false and defamatory reporting" in a previous story from February.]]></summary>
         <author>
             <name>Stephen Graves</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Retreats Under $70K as IEA Weighs Historic Oil Reserve Release]]></title>
-        <id>https://decrypt.co/?p=360671</id>
-        <link href="https://decrypt.co/360671/bitcoin-retreats-under-70k-as-iea-weighs-historic-oil-reserve-release"/>
-        <updated>2026-03-11T12:00:27.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin’s drop coincides with an IEA proposal to stabilize energy markets, leaving derivatives traders paying for downside protection.]]></summary>
-        <author>
-            <name>Akash Girimath</name>
         </author>
     </entry>
 </feed>
