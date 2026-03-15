@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-15T12:33:33.991Z</id>
+    <id>urn:2026-03-15T13:40:28.226Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-15T12:33:33.991Z</updated>
+    <updated>2026-03-15T13:40:28.226Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What Is AGI? The AI Goal Everyone Talks About But No One Can Clearly Define]]></title>
+        <id>https://decrypt.co/?p=360964</id>
+        <link href="https://decrypt.co/360964/agi-ai-goal-everyone-talks-about-no-one-can-clearly-define"/>
+        <updated>2026-03-15T13:01:03.000Z</updated>
+        <summary type="html"><![CDATA[Experts say artificial general intelligence lacks a clear definition or arrival point, despite promises from Silicon Valley and abroad.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tom Lee's BitMine Buys $10.2 Million in ETH Directly From Ethereum Foundation]]></title>
         <id>https://decrypt.co/?p=361162</id>
@@ -333,16 +343,6 @@
         <summary type="html"><![CDATA[Ripple is buying back shares at a $50 billion valuation, while Binance is pushing back at the Wall Street Journal's recent reporting.]]></summary>
         <author>
             <name>Tyler Warner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Recovers Above $70K as Tanker Attacks Push Oil Back Over $100]]></title>
-        <id>https://decrypt.co/?p=360845</id>
-        <link href="https://decrypt.co/360845/bitcoin-recovers-above-70k-as-tanker-attacks-push-oil-back-over-100"/>
-        <updated>2026-03-12T11:54:30.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin rebounded as Gulf shipping strikes sent Brent crude past $101, with analysts split on near-term outlook.]]></summary>
-        <author>
-            <name>Akash Girimath</name>
         </author>
     </entry>
 </feed>
