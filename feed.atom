@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-16T18:54:58.809Z</id>
+    <id>urn:2026-03-16T19:48:23.174Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-16T18:54:58.809Z</updated>
+    <updated>2026-03-16T19:48:23.174Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[SEC Drops Case Against BitClout Founder Nader Al-Naji]]></title>
+        <id>https://decrypt.co/?p=361275</id>
+        <link href="https://decrypt.co/361275/sec-drops-case-bitclout-founder-nader-al-naji"/>
+        <updated>2026-03-16T19:07:29.000Z</updated>
+        <summary type="html"><![CDATA[The SEC has ended its case against Nader Al-Naji, who was accused of $257 million in unregistered securities sales via the BitClout token.]]></summary>
+        <author>
+            <name>Logan Hitchcock</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Trump-Backed World Liberty Puts $5.3 Million Price Tag on 'Guaranteed Access' to Team]]></title>
         <id>https://decrypt.co/?p=361259</id>
@@ -323,16 +333,6 @@
         <summary type="html"><![CDATA[Officials say the FBI alert cited by the network came from an unverified tip, as Iran deploys drones across the Middle East following U.S. and Israeli strikes.]]></summary>
         <author>
             <name>Jason Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Trader Loses Nearly $50M in Aave Trade, Protocol Offers $600K Fee Refund]]></title>
-        <id>https://decrypt.co/?p=360961</id>
-        <link href="https://decrypt.co/360961/crypto-trader-loses-nearly-50m-aave-trade-600k-fee-refund"/>
-        <updated>2026-03-12T22:49:05.000Z</updated>
-        <summary type="html"><![CDATA[A $50 million USDT trade executed through Aave’s interface returned just 324 AAVE tokens after a user went ahead despite a high-slippage warning.]]></summary>
-        <author>
-            <name>Sebastian Sinclair</name>
         </author>
     </entry>
 </feed>
