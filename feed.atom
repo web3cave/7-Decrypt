@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-16T20:28:50.466Z</id>
+    <id>urn:2026-03-16T21:30:02.627Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-16T20:28:50.466Z</updated>
+    <updated>2026-03-16T21:30:02.627Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[IBM Opens Quantum Hardware to Researchers as Bitcoin Security Threat Looms]]></title>
+        <id>https://decrypt.co/?p=361286</id>
+        <link href="https://decrypt.co/361286/ibm-opens-quantum-hardware-researchers-bitcoin-security-threat"/>
+        <updated>2026-03-16T21:04:15.000Z</updated>
+        <summary type="html"><![CDATA[IBM offers expanded access to quantum processors as developers prepare for the eventual challenge to Bitcoin's cryptography.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ethereum Founder Vitalik Buterin Wants Running a Node to Feel Less Like Rocket Science]]></title>
         <id>https://decrypt.co/?p=361240</id>
@@ -323,16 +333,6 @@
         <summary type="html"><![CDATA[Chairman Selig has issued a staff advisory amid a formal rulemaking process, as states and Congress close in.]]></summary>
         <author>
             <name>Vismaya V</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adobe CEO Narayen Plans Exit as Tech Firms Restructure Around AI]]></title>
-        <id>https://decrypt.co/?p=360972</id>
-        <link href="https://decrypt.co/360972/adobe-ceo-narayen-plans-exit-tech-firms-restructure-ai"/>
-        <updated>2026-03-13T04:46:20.000Z</updated>
-        <summary type="html"><![CDATA[The transition comes as generative AI reshapes the tech industry, forcing companies to rethink how they build products and run teams.]]></summary>
-        <author>
-            <name>Vince Dioquino</name>
         </author>
     </entry>
 </feed>
