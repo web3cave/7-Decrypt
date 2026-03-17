@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-17T09:46:33.318Z</id>
+    <id>urn:2026-03-17T10:41:17.577Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-17T09:46:33.318Z</updated>
+    <updated>2026-03-17T10:41:17.577Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Buenos Aires Court Orders Polymarket Blocked in Argentina]]></title>
+        <id>https://decrypt.co/?p=361340</id>
+        <link href="https://decrypt.co/361340/buenos-aires-court-orders-polymarket-blocked-in-argentina"/>
+        <updated>2026-03-17T10:29:35.000Z</updated>
+        <summary type="html"><![CDATA[The ban is the latest legal setback for prediction markets, which are facing regulatory pushback around the world.]]></summary>
+        <author>
+            <name>Decrypt Agent</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Minors Sue xAI in California Over Alleged Grok Deepfake Images]]></title>
         <id>https://decrypt.co/?p=361331</id>
@@ -343,26 +353,6 @@
         <summary type="html"><![CDATA[Former hedge fund manager Stanley Druckenmiller expects stablecoins to take over payments systems in the next 10-15 years.]]></summary>
         <author>
             <name>Logan Hitchcock</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[US Treasury Sanctions Alleged $800 Million North Korean IT Worker Fraud Operation]]></title>
-        <id>https://decrypt.co/?p=361043</id>
-        <link href="https://decrypt.co/361043/us-treasury-sanctions-alleged-800-million-north-korean-fraud-operation"/>
-        <updated>2026-03-13T16:37:44.000Z</updated>
-        <summary type="html"><![CDATA[Six North Korean individuals and two entities were hit with U.S. sanctions over an alleged crypto-fueled fraud scheme targeting U.S. firms.]]></summary>
-        <author>
-            <name>Andrew Hayward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PIP Labs Sheds Staff as Story Protocol Leans Into AI]]></title>
-        <id>https://decrypt.co/?p=361027</id>
-        <link href="https://decrypt.co/361027/pip-labs-sheds-staff-story-protocol-ai"/>
-        <updated>2026-03-13T15:48:30.000Z</updated>
-        <summary type="html"><![CDATA[The team behind Story Protocol has let go of several employees and contractors as it explores opportunities associated with AI agents.]]></summary>
-        <author>
-            <name>André Beganski</name>
         </author>
     </entry>
 </feed>
