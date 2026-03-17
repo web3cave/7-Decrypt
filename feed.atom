@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-17T14:14:09.870Z</id>
+    <id>urn:2026-03-17T15:56:02.673Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-17T14:14:09.870Z</updated>
+    <updated>2026-03-17T15:56:02.673Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Sam Altman’s World Taps Coinbase’s Open Protocol to Verify Humans Behind AI Agents]]></title>
+        <id>https://decrypt.co/?p=361323</id>
+        <link href="https://decrypt.co/361323/altman-world-coinbase-open-protocol-verify-humans-ai"/>
+        <updated>2026-03-17T15:01:03.000Z</updated>
+        <summary type="html"><![CDATA[A new toolkit aims to allow AI agents to prove that a real person stands behind them when interacting online.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Morning Minute: Strategy's $1.58B Buy Pushes Bitcoin to $75k]]></title>
         <id>https://decrypt.co/?p=361363</id>
@@ -333,16 +343,6 @@
         <summary type="html"><![CDATA[Experts say artificial general intelligence lacks a clear definition or arrival point, despite promises from Silicon Valley and abroad.]]></summary>
         <author>
             <name>Jason Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tom Lee's BitMine Buys $10.2 Million in ETH Directly From Ethereum Foundation]]></title>
-        <id>https://decrypt.co/?p=361162</id>
-        <link href="https://decrypt.co/361162/tom-lees-bitmine-buys-10-million-ethereum-foundation"/>
-        <updated>2026-03-14T19:12:58.000Z</updated>
-        <summary type="html"><![CDATA[The Ethereum Foundation said Saturday that it sold 5,000 ETH for approximately $10.2 million to Tom Lee's BitMine Immersion Technologies.]]></summary>
-        <author>
-            <name>Andrew Hayward</name>
         </author>
     </entry>
 </feed>
