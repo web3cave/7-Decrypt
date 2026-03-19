@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-19T04:13:49.483Z</id>
+    <id>urn:2026-03-19T05:52:01.082Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-19T04:13:49.483Z</updated>
+    <updated>2026-03-19T05:52:01.082Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Nasdaq Wins SEC Approval to Trade Tokenized Securities in Pilot Program]]></title>
+        <id>https://decrypt.co/?p=361654</id>
+        <link href="https://decrypt.co/361654/nasdaq-wins-sec-approval-tokenized-securities-pilot-program"/>
+        <updated>2026-03-19T05:35:26.000Z</updated>
+        <summary type="html"><![CDATA[The approval lets Nasdaq test tokenized versions of some stocks and ETFs without moving beyond existing market rails.]]></summary>
+        <author>
+            <name>Vince Dioquino</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenClaw Developers Lured in GitHub Phishing Campaign Targeting Crypto Wallets]]></title>
+        <id>https://decrypt.co/?p=361646</id>
+        <link href="https://decrypt.co/361646/openclaw-developers-lured-github-phishing-campaign"/>
+        <updated>2026-03-19T05:07:25.000Z</updated>
+        <summary type="html"><![CDATA[The phishing campaign lures OpenClaw developers with fake $5,000 token airdrops, then drains wallets through a cloned site with a hidden connection prompt.]]></summary>
+        <author>
+            <name>Vismaya V</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why Bitcoin Is Falling Despite $1.1 Billion in ETF Inflows]]></title>
         <id>https://decrypt.co/?p=361644</id>
@@ -333,26 +353,6 @@
         <summary type="html"><![CDATA[The partnership aims to lay the foundations for the agentic workflows that will become increasingly important to on-chain finance.]]></summary>
         <author>
             <name>Decrypt Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XRP Flips BNB, Hitting Highest Price in a Month as Ripple Plans to Seek Brazil License]]></title>
-        <id>https://decrypt.co/?p=361389</id>
-        <link href="https://decrypt.co/361389/xrp-flips-bnb-highest-price-month-ripple-brazil-license"/>
-        <updated>2026-03-17T16:02:05.000Z</updated>
-        <summary type="html"><![CDATA[The Ripple-linked XRP has leapfrogged BNB in market cap as the crypto payments firm expands its Brazil push.]]></summary>
-        <author>
-            <name>Logan Hitchcock</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sam Altman’s World Taps Coinbase’s Open Protocol to Verify Humans Behind AI Agents]]></title>
-        <id>https://decrypt.co/?p=361323</id>
-        <link href="https://decrypt.co/361323/altman-world-coinbase-open-protocol-verify-humans-ai"/>
-        <updated>2026-03-17T15:01:03.000Z</updated>
-        <summary type="html"><![CDATA[A new toolkit aims to allow AI agents to prove that a real person stands behind them when interacting online.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
         </author>
     </entry>
 </feed>
