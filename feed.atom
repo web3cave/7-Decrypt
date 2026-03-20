@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-20T19:31:41.500Z</id>
+    <id>urn:2026-03-20T20:22:18.453Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-20T19:31:41.500Z</updated>
+    <updated>2026-03-20T20:22:18.453Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Nevada Becomes First State to Ban Prediction Market Kalshi—At Least for Now]]></title>
+        <id>https://decrypt.co/?p=361938</id>
+        <link href="https://decrypt.co/361938/nevada-first-state-ban-prediction-market-kalshi"/>
+        <updated>2026-03-20T20:16:45.000Z</updated>
+        <summary type="html"><![CDATA[Kalshi's sports, politics, and entertainment prediction markets will be banned in Nevada for at least the next 14 days.]]></summary>
+        <author>
+            <name>Sander Lutz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OpenAI Plans to Merge ChatGPT, Codex and Atlas Into One 'Superapp': WSJ]]></title>
         <id>https://decrypt.co/?p=361925</id>
@@ -353,16 +363,6 @@
         <summary type="html"><![CDATA[The approval lets Nasdaq test tokenized versions of some stocks and ETFs without moving beyond existing market rails.]]></summary>
         <author>
             <name>Vince Dioquino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenClaw Developers Lured in GitHub Phishing Campaign Targeting Crypto Wallets]]></title>
-        <id>https://decrypt.co/?p=361646</id>
-        <link href="https://decrypt.co/361646/openclaw-developers-lured-github-phishing-campaign"/>
-        <updated>2026-03-19T05:07:25.000Z</updated>
-        <summary type="html"><![CDATA[The phishing campaign lures OpenClaw developers with fake $5,000 token airdrops, then drains wallets through a cloned site with a hidden connection prompt.]]></summary>
-        <author>
-            <name>Vismaya V</name>
         </author>
     </entry>
 </feed>
