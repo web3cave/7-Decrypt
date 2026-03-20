@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-20T20:22:18.453Z</id>
+    <id>urn:2026-03-20T21:22:21.964Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-20T20:22:18.453Z</updated>
+    <updated>2026-03-20T21:22:21.964Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Has Stabilized, But Investors Are Paying Up for Downside Protection: VanEck]]></title>
+        <id>https://decrypt.co/?p=361939</id>
+        <link href="https://decrypt.co/361939/bitcoin-stabilized-investors-paying-downside-protection-vaneck"/>
+        <updated>2026-03-20T20:47:07.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin's volatility has subsided over the last month, but traders are still paying a premium for downside protection, VanEck said.]]></summary>
+        <author>
+            <name>Logan Hitchcock</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Man Pleads Guilty to Using AI to Generate $8 Million in Fraudulent Streaming Music Royalties]]></title>
+        <id>https://decrypt.co/?p=361940</id>
+        <link href="https://decrypt.co/361940/man-pleads-guilty-ai-generate-8-million-fraudulent-streaming-music-royalties"/>
+        <updated>2026-03-20T20:36:50.000Z</updated>
+        <summary type="html"><![CDATA[Prosecutors say automated plays of AI-generated songs fraudulently diverted royalties from human artists—to the tune of $8 million.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nevada Becomes First State to Ban Prediction Market Kalshi—At Least for Now]]></title>
         <id>https://decrypt.co/?p=361938</id>
@@ -343,26 +363,6 @@
         <summary type="html"><![CDATA[Authorities seized almost 40 BTC as part of the investigation, in which a rideshare driver is accused of wire fraud and money laundering.]]></summary>
         <author>
             <name>Decrypt Agent</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quantum-Ready Bitcoin Prototype Debuts, but Adoption Hurdles Loom]]></title>
-        <id>https://decrypt.co/?p=361639</id>
-        <link href="https://decrypt.co/361639/quantum-ready-bitcoin-prototype-debuts-adoption-hurdles-loom"/>
-        <updated>2026-03-19T11:31:03.000Z</updated>
-        <summary type="html"><![CDATA[Adopting the model would require miners and users to migrate to a separate “Bitcoin Quantum” blockchain rather than upgrade the existing network.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nasdaq Wins SEC Approval to Trade Tokenized Securities in Pilot Program]]></title>
-        <id>https://decrypt.co/?p=361654</id>
-        <link href="https://decrypt.co/361654/nasdaq-wins-sec-approval-tokenized-securities-pilot-program"/>
-        <updated>2026-03-19T05:35:26.000Z</updated>
-        <summary type="html"><![CDATA[The approval lets Nasdaq test tokenized versions of some stocks and ETFs without moving beyond existing market rails.]]></summary>
-        <author>
-            <name>Vince Dioquino</name>
         </author>
     </entry>
 </feed>
