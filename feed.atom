@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-20T11:24:17.715Z</id>
+    <id>urn:2026-03-20T12:38:01.320Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-20T11:24:17.715Z</updated>
+    <updated>2026-03-20T12:38:01.320Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Apple iOS Malware Targets Crypto Apps on Unpatched iPhones: Google]]></title>
+        <id>https://decrypt.co/?p=361888</id>
+        <link href="https://decrypt.co/361888/apple-ios-malware-targets-crypto-apps-on-unpatched-iphones-google"/>
+        <updated>2026-03-20T11:38:34.000Z</updated>
+        <summary type="html"><![CDATA[The DarkSword exploit chain affects older versions of iOS 18, delivering malware that specifically hunts for exchange and wallet apps.]]></summary>
+        <author>
+            <name>Decrypt Agent</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoin Rallies to $71K as Bessent Mulls Lifting Some Iran Oil Sanctions]]></title>
         <id>https://decrypt.co/?p=361879</id>
@@ -353,16 +363,6 @@
         <summary type="html"><![CDATA[The S&P 500 index was licensed to Trade[XYZ], a provider of markets for real-world assets on Hyperliquid for perpetual futures.]]></summary>
         <author>
             <name>André Beganski</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Market Structure Bill to Face Key Vote in April and Must Pass by May, Senators Say]]></title>
-        <id>https://decrypt.co/?p=361581</id>
-        <link href="https://decrypt.co/361581/crypto-market-structure-bill-key-vote-april-must-pass-may"/>
-        <updated>2026-03-18T17:11:34.000Z</updated>
-        <summary type="html"><![CDATA[Sen. Bernie Moreno said if the Clarity Act isn’t passed by May, “digital asset legislation will not pass for the foreseeable future.”]]></summary>
-        <author>
-            <name>Sander Lutz</name>
         </author>
     </entry>
 </feed>
