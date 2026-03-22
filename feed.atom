@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-22T12:31:48.881Z</id>
+    <id>urn:2026-03-22T13:37:41.787Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-22T12:31:48.881Z</updated>
+    <updated>2026-03-22T13:37:41.787Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How AI Is Being Used to Clear Court Backlogs in LA]]></title>
+        <id>https://decrypt.co/?p=361852</id>
+        <link href="https://decrypt.co/361852/ai-enters-courtroom-los-angeles-pilot-program"/>
+        <updated>2026-03-22T13:01:03.000Z</updated>
+        <summary type="html"><![CDATA[The Los Angeles Superior Court is pilot testing whether Learned Hand’s curated AI can help manage rising workloads.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The 7 Largest Publicly Traded Ethereum Treasury Firms]]></title>
         <id>https://decrypt.co/?p=335519</id>
@@ -353,16 +363,6 @@
         <summary type="html"><![CDATA[Bitcoin, gold and stocks all tumbled after several strikes on energy infrastructure. Hyperliquid just brought the S&P 500 onchain. And Kraken has put its IPO on ice.]]></summary>
         <author>
             <name>Tyler Warner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Dips Under $70K as Stocks Tumble on Hawkish Fed Hold—What’s Next?]]></title>
-        <id>https://decrypt.co/?p=361683</id>
-        <link href="https://decrypt.co/361683/bitcoin-dips-under-70k-as-stocks-tumble-on-hawkish-fed-hold-whats-next"/>
-        <updated>2026-03-19T12:12:29.000Z</updated>
-        <summary type="html"><![CDATA[Analysts remain cautiously optimistic after the Fed’s hawkish stance, expecting a low volatility regime ahead of the quarterly options expiry.]]></summary>
-        <author>
-            <name>Akash Girimath</name>
         </author>
     </entry>
 </feed>
