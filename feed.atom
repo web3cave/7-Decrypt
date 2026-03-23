@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-23T16:48:02.942Z</id>
+    <id>urn:2026-03-23T17:43:42.696Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-23T16:48:02.942Z</updated>
+    <updated>2026-03-23T17:43:42.696Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Arrest Made in Violent Kidnapping of Ledger Founder for Crypto Ransom: Report]]></title>
+        <id>https://decrypt.co/?p=362037</id>
+        <link href="https://decrypt.co/362037/arrest-violent-kidnapping-ledger-founder-crypto-ransom-report"/>
+        <updated>2026-03-23T17:11:13.000Z</updated>
+        <summary type="html"><![CDATA[An individual was arrested in Spain for their alleged role in the violent kidnapping of Ledger co-founder David Balland and his wife last year.]]></summary>
+        <author>
+            <name>Logan Hitchcock</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[European Bitcoin Treasury H100 Aims to Triple BTC Stash by Acquiring Two Firms]]></title>
         <id>https://decrypt.co/?p=361998</id>
@@ -363,26 +373,6 @@
         <summary type="html"><![CDATA[Morgan Stanley updated its Bitcoin ETF S-1 filing, adding Fidelity as custodian and revealing the NYSE Arca ticker MSBT.]]></summary>
         <author>
             <name>Stacy Elliott</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XRP Treasury Firm Evernorth Inches Closer to Public Listing With $685 Million Stash]]></title>
-        <id>https://decrypt.co/?p=361771</id>
-        <link href="https://decrypt.co/361771/xrp-treasury-firm-evernorth-public-listing-685-million-stash"/>
-        <updated>2026-03-19T19:51:47.000Z</updated>
-        <summary type="html"><![CDATA[Evernorth aims to become the largest publicly traded XRP treasury firm and is expected to launch with more than 473 million XRP.]]></summary>
-        <author>
-            <name>Logan Hitchcock</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[First Working Quantum Battery Proves Bigger Really Does Mean Faster]]></title>
-        <id>https://decrypt.co/?p=361772</id>
-        <link href="https://decrypt.co/361772/first-working-quantum-battery-csiro-australia"/>
-        <updated>2026-03-19T19:41:29.000Z</updated>
-        <summary type="html"><![CDATA[Australian researchers built a battery that charges in femtoseconds, stores energy for nanoseconds, and gets faster the larger it grows—defying every rule conventional batteries follow.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
         </author>
     </entry>
 </feed>
