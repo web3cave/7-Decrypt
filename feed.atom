@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-23T11:37:33.050Z</id>
+    <id>urn:2026-03-23T12:44:49.286Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-23T11:37:33.050Z</updated>
+    <updated>2026-03-23T12:44:49.286Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Minute: Bitcoin Rips as Iran Strikes Postponed]]></title>
+        <id>https://decrypt.co/?p=361988</id>
+        <link href="https://decrypt.co/361988/morning-minute-bitcoin-rips-as-iran-strikes-postponed"/>
+        <updated>2026-03-23T12:19:58.000Z</updated>
+        <summary type="html"><![CDATA[Crypto is soaring on a major development in the Iran war, while A Senate deal could finally unlock the Clarity Act.]]></summary>
+        <author>
+            <name>Tyler Warner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Tops $71,000 as Trump Postpones Iran Power Plant Strike Plans]]></title>
+        <id>https://decrypt.co/?p=361987</id>
+        <link href="https://decrypt.co/361987/bitcoin-tops-71000-as-trump-postpones-iran-power-plant-strike-plans"/>
+        <updated>2026-03-23T12:11:15.000Z</updated>
+        <summary type="html"><![CDATA[The price move came after Donald Trump touted "productive conversations" regarding a cessation of hostilities in the Middle East.]]></summary>
+        <author>
+            <name>Stephen Graves</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Resolv Labs Stablecoin Depegs, Plunges 74% After $25M Exploit]]></title>
         <id>https://decrypt.co/?p=361984</id>
@@ -343,26 +363,6 @@
         <summary type="html"><![CDATA[Major League Baseball named Polymarket its exclusive prediction markets partner while inking an "integrity framework" with the CFTC.]]></summary>
         <author>
             <name>Andrew Hayward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Are Coin Mixers and How Do They Work?]]></title>
-        <id>https://decrypt.co/?p=107192</id>
-        <link href="https://decrypt.co/resources/what-are-coin-mixers-tornado-cash-how-do-they-work"/>
-        <updated>2026-03-19T17:10:46.000Z</updated>
-        <summary type="html"><![CDATA[Coin mixers obfuscate the source and destination of crypto transactions—sparking conflict between regulators and privacy advocates.]]></summary>
-        <author>
-            <name>Jason Nelson,Reza Jafery</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UK to Dissolve Crypto Exchange Accused of Aiding Iranian Sanctions Evasion]]></title>
-        <id>https://decrypt.co/?p=361725</id>
-        <link href="https://decrypt.co/361725/uk-to-dissolve-crypto-exchange-accused-of-aiding-iranian-sanctions-evasion"/>
-        <updated>2026-03-19T16:49:34.000Z</updated>
-        <summary type="html"><![CDATA[The UK’s Companies House has moved to strike off Zedxion Exchange, a crypto firm accused of processing funds for Iran’s Revolutionary Guard.]]></summary>
-        <author>
-            <name>Callan Quinn</name>
         </author>
     </entry>
 </feed>
