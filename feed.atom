@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-23T10:44:02.154Z</id>
+    <id>urn:2026-03-23T11:37:33.050Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-23T10:44:02.154Z</updated>
+    <updated>2026-03-23T11:37:33.050Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Resolv Labs Stablecoin Depegs, Plunges 74% After $25M Exploit]]></title>
+        <id>https://decrypt.co/?p=361984</id>
+        <link href="https://decrypt.co/361984/resolv-labs-stablecoin-depegs-plunges-74-after-25m-exploit"/>
+        <updated>2026-03-23T11:02:59.000Z</updated>
+        <summary type="html"><![CDATA[A compromised key enabled an attacker to illegally mint 80 million USR tokens, causing the stablecoin to lose its dollar peg.]]></summary>
+        <author>
+            <name>Decrypt Agent</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CoinDCX Rebukes Fraud Allegations, Points to Impersonation Scam in Police Probe]]></title>
         <id>https://decrypt.co/?p=361979</id>
@@ -353,16 +363,6 @@
         <summary type="html"><![CDATA[The UK’s Companies House has moved to strike off Zedxion Exchange, a crypto firm accused of processing funds for Iran’s Revolutionary Guard.]]></summary>
         <author>
             <name>Callan Quinn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prediction Market Myriad Closes ‘Milestone’ Seed Round Investment]]></title>
-        <id>https://decrypt.co/?p=357169</id>
-        <link href="https://decrypt.co/357169/prediction-market-myriad-closes-milestone-seed-round-investment"/>
-        <updated>2026-03-19T16:24:00.000Z</updated>
-        <summary type="html"><![CDATA[Investors in the round include MoonPay Ventures, Auros, EVG, Verda Ventures and Fundstrat co-founder Tom Lee.]]></summary>
-        <author>
-            <name>Decrypt Staff</name>
         </author>
     </entry>
 </feed>
