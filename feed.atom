@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-24T17:53:22.761Z</id>
+    <id>urn:2026-03-24T18:50:43.156Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-24T17:53:22.761Z</updated>
+    <updated>2026-03-24T18:50:43.156Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Russian Hacker Jailed for 81 Months Over $9M Ransomware Attacks]]></title>
+        <id>https://decrypt.co/?p=362217</id>
+        <link href="https://decrypt.co/362217/russian-hacker-jailed-for-81-months-over-9m-ransomware-attacks"/>
+        <updated>2026-03-24T18:47:14.000Z</updated>
+        <summary type="html"><![CDATA[Aleksei Volkov facilitated dozens of attacks across the U.S. as an "initial access broker," causing over $9 million in actual losses.]]></summary>
+        <author>
+            <name>Decrypt Agent</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CFTC Unveils Innovation Task Force Focused on Crypto, AI and Prediction Markets]]></title>
+        <id>https://decrypt.co/?p=362212</id>
+        <link href="https://decrypt.co/362212/cftc-unveils-innovation-task-force-crypto-ai-prediction-markets"/>
+        <updated>2026-03-24T18:23:37.000Z</updated>
+        <summary type="html"><![CDATA[The CFTC launched a new task force designed to create a clear framework of rules for technologies like AI, crypto, and prediction markets.]]></summary>
+        <author>
+            <name>Logan Hitchcock</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BMO Is First Bank to Join CME's Tokenized Cash Platform on Google Cloud]]></title>
         <id>https://decrypt.co/?p=362188</id>
@@ -343,26 +363,6 @@
         <summary type="html"><![CDATA[Bitcoin's volatility has subsided over the last month, but traders are still paying a premium for downside protection, VanEck said.]]></summary>
         <author>
             <name>Logan Hitchcock</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Man Pleads Guilty to Using AI to Generate $8 Million in Fraudulent Streaming Music Royalties]]></title>
-        <id>https://decrypt.co/?p=361940</id>
-        <link href="https://decrypt.co/361940/man-pleads-guilty-ai-generate-8-million-fraudulent-streaming-music-royalties"/>
-        <updated>2026-03-20T20:36:50.000Z</updated>
-        <summary type="html"><![CDATA[Prosecutors say automated plays of AI-generated songs fraudulently diverted royalties from human artists—to the tune of $8 million.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nevada Becomes First State to Ban Prediction Market Kalshi—At Least for Now]]></title>
-        <id>https://decrypt.co/?p=361938</id>
-        <link href="https://decrypt.co/361938/nevada-first-state-ban-prediction-market-kalshi"/>
-        <updated>2026-03-20T20:16:45.000Z</updated>
-        <summary type="html"><![CDATA[Kalshi's sports, politics, and entertainment prediction markets will be banned in Nevada for at least the next 14 days.]]></summary>
-        <author>
-            <name>Sander Lutz</name>
         </author>
     </entry>
 </feed>
