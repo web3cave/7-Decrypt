@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-23T23:23:47.631Z</id>
+    <id>urn:2026-03-24T01:17:18.207Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-23T23:23:47.631Z</updated>
+    <updated>2026-03-24T01:17:18.207Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Protesters Rally Outside OpenAI, Anthropic, and xAI Offices Over Industry Concerns]]></title>
+        <id>https://decrypt.co/?p=362129</id>
+        <link href="https://decrypt.co/362129/protesters-rally-openai-anthropic-xai-offices"/>
+        <updated>2026-03-23T23:28:30.000Z</updated>
+        <summary type="html"><![CDATA[Protesters marched between the San Francisco offices of major AI developers, calling for a pause in the development of more powerful AI systems.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Polymarket, Kalshi Make Moves to Counter Insider Trading as Scrutiny Grows]]></title>
         <id>https://decrypt.co/?p=362121</id>
@@ -363,16 +373,6 @@
         <summary type="html"><![CDATA[The deal would help scale capacity as AWS builds its own chips, revealing deeper reliance on Nvidia’s stack as usage keeps growing.]]></summary>
         <author>
             <name>Vince Dioquino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Trails Money Supply Growth as Energy Costs and Rates Bite]]></title>
-        <id>https://decrypt.co/?p=361864</id>
-        <link href="https://decrypt.co/361864/bitcoin-trails-money-supply-growth-as-energy-costs-and-rates-bite"/>
-        <updated>2026-03-20T01:56:02.000Z</updated>
-        <summary type="html"><![CDATA[Higher fuel costs and restrictive financial conditions are absorbing consumer liquidity, helping explain why expanding global money supply has yet to translate into gains for Bitcoin.]]></summary>
-        <author>
-            <name>Sebastian Sinclair</name>
         </author>
     </entry>
 </feed>
