@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-25T23:26:11.605Z</id>
+    <id>urn:2026-03-26T01:27:05.898Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-25T23:26:11.605Z</updated>
+    <updated>2026-03-26T01:27:05.898Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Australia Lays Groundwork for Tokenized Asset Markets After RBA Project]]></title>
+        <id>https://decrypt.co/?p=362391</id>
+        <link href="https://decrypt.co/362391/australia-tokenized-asset-markets-rba-project"/>
+        <updated>2026-03-26T00:03:18.000Z</updated>
+        <summary type="html"><![CDATA[Regulators are beginning work on legal and market infrastructure for tokenized assets, moving from pilot programs to real-world implementation.]]></summary>
+        <author>
+            <name>Sebastian Sinclair</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Shrinks AI Memory With No Accuracy Loss—But There's a Catch]]></title>
+        <id>https://decrypt.co/?p=362384</id>
+        <link href="https://decrypt.co/362384/google-shrinks-ai-memory-no-accuracy-loss"/>
+        <updated>2026-03-25T23:28:14.000Z</updated>
+        <summary type="html"><![CDATA[The technique reduces the memory required to run large language models as context windows grow, a key constraint on AI deployment.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google Sets 2029 Deadline to Deal With Quantum Threat—Is It a Problem for Bitcoin?]]></title>
         <id>https://decrypt.co/?p=362356</id>
@@ -333,26 +353,6 @@
         <summary type="html"><![CDATA[Hostplus’s crypto ambition is attempting to meet rising investor demand, even as volatility keeps rivals on the sidelines.]]></summary>
         <author>
             <name>Vismaya V</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Balancer Labs Winds Down Months After $128M DeFi Exploit]]></title>
-        <id>https://decrypt.co/?p=362141</id>
-        <link href="https://decrypt.co/362141/balancer-labs-winds-down-128m-defi-exploit"/>
-        <updated>2026-03-24T04:36:39.000Z</updated>
-        <summary type="html"><![CDATA[The restructuring comes as analysts say older DeFi models built on token incentives and emissions are increasingly under pressure.]]></summary>
-        <author>
-            <name>Vince Dioquino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Protesters Rally Outside OpenAI, Anthropic, and xAI Offices Over Industry Concerns]]></title>
-        <id>https://decrypt.co/?p=362129</id>
-        <link href="https://decrypt.co/362129/protesters-rally-openai-anthropic-xai-offices"/>
-        <updated>2026-03-23T23:28:30.000Z</updated>
-        <summary type="html"><![CDATA[Protesters marched between the San Francisco offices of major AI developers, calling for a pause in the development of more powerful AI systems.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
         </author>
     </entry>
 </feed>
