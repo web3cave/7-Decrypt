@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-26T19:50:32.349Z</id>
+    <id>urn:2026-03-26T20:28:08.819Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-26T19:50:32.349Z</updated>
+    <updated>2026-03-26T20:28:08.819Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Wikipedia Bans AI-Generated Text in Articles Under New Editing Policy]]></title>
+        <id>https://decrypt.co/?p=362510</id>
+        <link href="https://decrypt.co/362510/wikipedia-bans-ai-articles-new-editing-policy"/>
+        <updated>2026-03-26T19:59:06.000Z</updated>
+        <summary type="html"><![CDATA[The online encyclopedia bars AI-written content but allows limited AI-assisted copyediting under strict rules.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Venture Firm Founder Offers Bounty to Help Recover $42 Million in Stolen Bitcoin, Crypto]]></title>
         <id>https://decrypt.co/?p=362482</id>
@@ -353,16 +363,6 @@
         <summary type="html"><![CDATA[The proposal would create a state licensing regime for stablecoin issuers while bolstering Delaware’s position to attract digital asset firms.]]></summary>
         <author>
             <name>Sebastian Sinclair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NASA Pivots Artemis Program Toward Building Permanent Base on the Moon]]></title>
-        <id>https://decrypt.co/?p=362246</id>
-        <link href="https://decrypt.co/362246/nasa-artemis-program-permanent-base-moon"/>
-        <updated>2026-03-25T02:01:48.000Z</updated>
-        <summary type="html"><![CDATA[The agency has outlined a three-phase plan for lunar infrastructure and says the effort will serve as a proving ground for future missions to Mars.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
         </author>
     </entry>
 </feed>
