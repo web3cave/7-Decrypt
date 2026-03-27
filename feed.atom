@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-27T17:42:08.999Z</id>
+    <id>urn:2026-03-27T18:43:51.280Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-27T17:42:08.999Z</updated>
+    <updated>2026-03-27T18:43:51.280Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Anthropic's 'Most Capable' AI Model Claude Mythos Leaks, Deemed Major Cybersecurity Threat]]></title>
+        <id>https://decrypt.co/?p=362606</id>
+        <link href="https://decrypt.co/362606/anthropic-most-capable-ai-model-claude-mythos-leaks"/>
+        <updated>2026-03-27T18:27:12.000Z</updated>
+        <summary type="html"><![CDATA[Anthropic's next-generation model, dubbed Claude Mythos, is seen as a "step change" for AI—and potentially bad news for cybersecurity.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NYSE Parent Company Finalizes Polymarket Investment, Totaling $1.6 Billion]]></title>
         <id>https://decrypt.co/?p=362596</id>
@@ -351,16 +361,6 @@
         <link href="https://decrypt.co/362384/google-shrinks-ai-memory-no-accuracy-loss"/>
         <updated>2026-03-25T23:28:14.000Z</updated>
         <summary type="html"><![CDATA[The technique reduces the memory required to run large language models as context windows grow, a key constraint on AI deployment.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Sets 2029 Deadline to Deal With Quantum Threat—Is It a Problem for Bitcoin?]]></title>
-        <id>https://decrypt.co/?p=362356</id>
-        <link href="https://decrypt.co/362356/google-2029-deadline-quantum-threat-problem-bitcoin"/>
-        <updated>2026-03-25T21:31:04.000Z</updated>
-        <summary type="html"><![CDATA[Google just issued a 2029 deadline to encrypt its systems against quantum computers. Bitcoin may not have the same luxury of time.]]></summary>
         <author>
             <name>Jose Antonio Lanz</name>
         </author>
