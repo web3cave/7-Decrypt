@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-29T15:22:57.719Z</id>
+    <id>urn:2026-03-29T16:25:02.646Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-29T15:22:57.719Z</updated>
+    <updated>2026-03-29T16:25:02.646Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What’s on the Ethereum Roadmap: Glamsterdam, Hegota and Beyond]]></title>
+        <id>https://decrypt.co/?p=362597</id>
+        <link href="https://decrypt.co/resources/whats-on-ethereum-roadmap-glamsterdam-hegota-beyond"/>
+        <updated>2026-03-29T16:01:04.000Z</updated>
+        <summary type="html"><![CDATA[Ethereum has rolled out a steady stream of upgrades since 2022. Here’s how those changes fit together—and what’s still ahead.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Xiaomi MiMo v2 Pro Review: The AI Model So Good It Was Mistaken for DeepSeek V4]]></title>
         <id>https://decrypt.co/?p=362633</id>
@@ -353,16 +363,6 @@
         <summary type="html"><![CDATA[The chipmaker failed to rebut claims its crypto disclosures affected its stock price, allowing the case to move forward.]]></summary>
         <author>
             <name>Vince Dioquino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Case Over Money Transmitter Laws Dismissed by US Judge]]></title>
-        <id>https://decrypt.co/?p=362408</id>
-        <link href="https://decrypt.co/362408/crypto-money-transmitter-laws-dismissed-us-judge"/>
-        <updated>2026-03-26T04:25:13.000Z</updated>
-        <summary type="html"><![CDATA[The decision leaves unresolved whether developers of non-custodial crypto tools must comply with federal money-transmission rules.]]></summary>
-        <author>
-            <name>Sebastian Sinclair</name>
         </author>
     </entry>
 </feed>
