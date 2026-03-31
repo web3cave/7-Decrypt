@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-31T19:49:25.022Z</id>
+    <id>urn:2026-03-31T20:34:26.301Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-31T19:49:25.022Z</updated>
+    <updated>2026-03-31T20:34:26.301Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[California Tightens AI Contract Rules as Fight With Trump Admin Grows]]></title>
+        <id>https://decrypt.co/?p=362968</id>
+        <link href="https://decrypt.co/362968/california-tightens-ai-contract-rules-fight-trump-admin"/>
+        <updated>2026-03-31T20:18:45.000Z</updated>
+        <summary type="html"><![CDATA[Governor Gavin Newsom orders stronger safeguards for AI companies seeking California contracts, escalating tensions with the Trump administration over national AI regulation.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Latin America’s Mercado Libre Pulls the Plug on Its Crypto Coin]]></title>
+        <id>https://decrypt.co/?p=362958</id>
+        <link href="https://decrypt.co/362958/latin-america-mercado-libre-pulls-plug-crypto-coin"/>
+        <updated>2026-03-31T20:12:38.000Z</updated>
+        <summary type="html"><![CDATA[Latin America's e-commerce giant Mercado Libre quietly killed its Mercado Coin loyalty token—pivoting to its own stablecoin.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zcash Vulnerability That Put Millions of Dollars of ZEC at Risk Has Been Fixed]]></title>
+        <id>https://decrypt.co/?p=362957</id>
+        <link href="https://decrypt.co/362957/zcash-devs-patch-vulnerability-millions-dollars-zec-risk"/>
+        <updated>2026-03-31T20:03:13.000Z</updated>
+        <summary type="html"><![CDATA[A critical vulnerability in Zcash node software could have allowed attackers to drain millions of dollars of ZEC from a deprecated shielded pool.]]></summary>
+        <author>
+            <name>Decrypt Agent</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoin, Crypto Stocks Climb on Reports That Iran's President Is 'Ready to End War']]></title>
         <id>https://decrypt.co/?p=362913</id>
@@ -313,36 +343,6 @@
         <summary type="html"><![CDATA[Xiaomi's MiMo V2 family arrives quietly but lands hard—a trillion-parameter AI challenger that nobody in the West saw coming.]]></summary>
         <author>
             <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why GameStop Put $315 Million in Bitcoin Into a Covered Call Options Strategy]]></title>
-        <id>https://decrypt.co/?p=362632</id>
-        <link href="https://decrypt.co/362632/why-gamestop-bitcoin-covered-call-strategy"/>
-        <updated>2026-03-28T16:32:04.000Z</updated>
-        <summary type="html"><![CDATA[GameStop has pledged nearly all of its Bitcoin to a covered call strategy on Coinbase Prime to generate some yield.]]></summary>
-        <author>
-            <name>Stacy Elliott</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthropic's 'Most Capable' AI Model Claude Mythos Leaks, Deemed Major Cybersecurity Threat]]></title>
-        <id>https://decrypt.co/?p=362606</id>
-        <link href="https://decrypt.co/362606/anthropic-most-capable-ai-model-claude-mythos-leaks"/>
-        <updated>2026-03-27T18:27:12.000Z</updated>
-        <summary type="html"><![CDATA[Anthropic's next-generation model, dubbed Claude Mythos, is seen as a "step change" for AI—and potentially bad news for cybersecurity.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NYSE Parent Company Finalizes Polymarket Investment, Totaling $1.6 Billion]]></title>
-        <id>https://decrypt.co/?p=362596</id>
-        <link href="https://decrypt.co/362596/nyse-parent-company-finalizes-polymarket-investment-1-6-billion"/>
-        <updated>2026-03-27T17:38:11.000Z</updated>
-        <summary type="html"><![CDATA[Intercontinental Exchange, the firm behind the New York Stock Exchange, invested a total of $1.6 billion into prediction market Polymarket.]]></summary>
-        <author>
-            <name>Stacy Elliott</name>
         </author>
     </entry>
 </feed>
