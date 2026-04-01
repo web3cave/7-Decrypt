@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-31T23:26:06.641Z</id>
+    <id>urn:2026-04-01T01:49:38.422Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-31T23:26:06.641Z</updated>
+    <updated>2026-04-01T01:49:38.422Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Watch Out Bitcoin: Cryptography-Breaking Quantum Computers May Be Closer Than Expected, Says Caltech]]></title>
+        <id>https://decrypt.co/?p=362988</id>
+        <link href="https://decrypt.co/362988/cryptography-breaking-quantum-computers-closer-expected-caltech-bitcoin"/>
+        <updated>2026-04-01T00:50:54.000Z</updated>
+        <summary type="html"><![CDATA[Research suggests fault-tolerant quantum machines could arrive sooner than expected, posing a threat to Bitcoin and Ethereum cryptography.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crypto Startup Uses Polymarket to Bet on Its Own Fundraise, Blindsiding Backers]]></title>
         <id>https://decrypt.co/?p=362977</id>
@@ -333,16 +343,6 @@
         <summary type="html"><![CDATA[Analysts attribute last week's BTC ETF outflows to geopolitical tensions, fading ceasefire hopes, and end-of-quarter rebalancing.]]></summary>
         <author>
             <name>Vismaya V</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Three Reasons Why Circle’s Stock Is Under Pressure]]></title>
-        <id>https://decrypt.co/?p=362694</id>
-        <link href="https://decrypt.co/362694/three-reasons-why-circles-stock-is-under-pressure"/>
-        <updated>2026-03-30T04:20:35.000Z</updated>
-        <summary type="html"><![CDATA[A yield ban, a rival's audit, and an unresolved legislative clock have left Circle's stock in limbo for the past week.]]></summary>
-        <author>
-            <name>Vince Dioquino</name>
         </author>
     </entry>
 </feed>
