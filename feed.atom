@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-01T19:52:33.149Z</id>
+    <id>urn:2026-04-01T20:35:41.181Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-01T19:52:33.149Z</updated>
+    <updated>2026-04-01T20:35:41.181Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Solana DeFi Exchange Drift Protocol Exploited, Upwards of $285 Million Stolen]]></title>
+        <id>https://decrypt.co/?p=363087</id>
+        <link href="https://decrypt.co/363087/solana-drift-protocol-exploited-285-million"/>
+        <updated>2026-04-01T20:13:38.000Z</updated>
+        <summary type="html"><![CDATA[Solana-based perpetuals DEX Drift Protocol has suffered an exploit impacting more than $200 million in funds.]]></summary>
+        <author>
+            <name>Logan Hitchcock</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google's Veo 3.1 Lite Cuts API Costs in Half as OpenAI's Sora Exits the Market]]></title>
         <id>https://decrypt.co/?p=363077</id>
@@ -333,16 +343,6 @@
         <summary type="html"><![CDATA[Sens. Bill Cassidy and Cynthia Lummis introduced legislation to support Bitcoin miners, arguing that the industry needs government help.]]></summary>
         <author>
             <name>André Beganski</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chainlink Labs, Anchorage Digital Back New Crypto Super PAC Ahead of Midterms]]></title>
-        <id>https://decrypt.co/?p=362795</id>
-        <link href="https://decrypt.co/362795/chainlink-labs-anchorage-digital-back-crypto-super-pac-midterms"/>
-        <updated>2026-03-30T21:01:13.000Z</updated>
-        <summary type="html"><![CDATA[The Blockchain Leadership Fund is a new hybrid PAC launched to support pro-crypto candidates in the 2026 midterm elections.]]></summary>
-        <author>
-            <name>Stacy Elliott</name>
         </author>
     </entry>
 </feed>
