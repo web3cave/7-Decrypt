@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-02T20:26:36.644Z</id>
+    <id>urn:2026-04-02T21:28:50.625Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-02T20:26:36.644Z</updated>
+    <updated>2026-04-02T21:28:50.625Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[USDC Stablecoin Issuer Circle Unveils New Token to Give Bitcoin More Utility]]></title>
+        <id>https://decrypt.co/?p=363199</id>
+        <link href="https://decrypt.co/363199/usdc-stablecoin-issuer-circle-give-bitcoin-utility"/>
+        <updated>2026-04-02T21:04:47.000Z</updated>
+        <summary type="html"><![CDATA[Publicly traded stablecoin issuer Circle is launching a new token, cirBTC, its own wrapped Bitcoin alternative.]]></summary>
+        <author>
+            <name>Logan Hitchcock</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Researchers Reveal Every Way Hackers Can Trap, Hijack AI Agents]]></title>
+        <id>https://decrypt.co/?p=363201</id>
+        <link href="https://decrypt.co/363201/google-researchers-reveal-every-way-hackers-can-trap-hijack-ai-agents"/>
+        <updated>2026-04-02T21:01:09.000Z</updated>
+        <summary type="html"><![CDATA[A Google DeepMind paper maps six attack categories against autonomous AI agents—from invisible HTML commands to multi-agent flash crashes.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Elon Musk's X Is Making Big Changes to Combat Crypto Scams]]></title>
         <id>https://decrypt.co/?p=363194</id>
@@ -363,26 +383,6 @@
         <summary type="html"><![CDATA[Stocks are surging while Bitcoin and Ethereum hit their highest prices in days after Iran's president said he's looking to end the conflict.]]></summary>
         <author>
             <name>Stacy Elliott</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tether's USAT Stablecoin Expands Beyond Ethereum Mainnet to Celo]]></title>
-        <id>https://decrypt.co/?p=362941</id>
-        <link href="https://decrypt.co/362941/tethers-usat-stablecoin-expands-ethereum-mainnet-celo"/>
-        <updated>2026-03-31T18:35:41.000Z</updated>
-        <summary type="html"><![CDATA[The Tether-backed USAT stablecoin built for the U.S. market is expanding to Ethereum layer-2 network Celo with help from Google Cloud.]]></summary>
-        <author>
-            <name>Decrypt Agent</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthropic Accidentally Leaked Claude Code's Source—The Internet Is Keeping It Forever]]></title>
-        <id>https://decrypt.co/?p=362917</id>
-        <link href="https://decrypt.co/362917/anthropic-accidentally-leaked-claude-code-source-internet-keeping-forever"/>
-        <updated>2026-03-31T18:02:56.000Z</updated>
-        <summary type="html"><![CDATA[Claude Code exposed: Anthropic is scrambling to contain the leak, but the AI coding agent is spreading far and wide and being picked apart.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
         </author>
     </entry>
 </feed>
