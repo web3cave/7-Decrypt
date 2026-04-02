@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-02T22:24:00.486Z</id>
+    <id>urn:2026-04-02T23:26:37.747Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-02T22:24:00.486Z</updated>
+    <updated>2026-04-02T23:26:37.747Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Naoris Launches Post-Quantum Blockchain as Bitcoin, Ethereum Devs Scramble to Face Threat]]></title>
+        <id>https://decrypt.co/?p=363207</id>
+        <link href="https://decrypt.co/363207/naoris-launches-post-quantum-blockchain-bitcoin-ethereum"/>
+        <updated>2026-04-02T23:00:05.000Z</updated>
+        <summary type="html"><![CDATA[Naoris Protocol says its blockchain network uses quantum-resistant cryptography, as the wider crypto industry prepares for future threats.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[USDC Stablecoin Issuer Circle Unveils New Token to Give Bitcoin More Utility]]></title>
         <id>https://decrypt.co/?p=363199</id>
@@ -373,16 +383,6 @@
         <summary type="html"><![CDATA[A critical vulnerability in Zcash node software could have allowed attackers to drain millions of dollars of ZEC from a deprecated shielded pool.]]></summary>
         <author>
             <name>Decrypt Agent</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin, Crypto Stocks Climb on Reports That Iran's President Is 'Ready to End War']]></title>
-        <id>https://decrypt.co/?p=362913</id>
-        <link href="https://decrypt.co/362913/bitcon-crypto-stocks-climb-reports-iranian-president-end-war"/>
-        <updated>2026-03-31T19:08:05.000Z</updated>
-        <summary type="html"><![CDATA[Stocks are surging while Bitcoin and Ethereum hit their highest prices in days after Iran's president said he's looking to end the conflict.]]></summary>
-        <author>
-            <name>Stacy Elliott</name>
         </author>
     </entry>
 </feed>
