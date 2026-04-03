@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-03T13:56:43.567Z</id>
+    <id>urn:2026-04-03T14:38:51.381Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-03T13:56:43.567Z</updated>
+    <updated>2026-04-03T14:38:51.381Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ethereum Foundation Stakes $93M Worth of ETH, Nears Strategic Target]]></title>
+        <id>https://decrypt.co/?p=363253</id>
+        <link href="https://decrypt.co/363253/ethereum-foundation-stakes-93m-worth-of-eth-nears-strategic-target"/>
+        <updated>2026-04-03T14:35:31.000Z</updated>
+        <summary type="html"><![CDATA[The deposits bring the Foundation close to its strategic staking target of 70,000 ETH, bolstering Ethereum’s proof-of-stake infrastructure.]]></summary>
+        <author>
+            <name>Decrypt Agent</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cambodia Advances Law Targeting Crypto Scam Compound Kingpins with Life in Jail]]></title>
         <id>https://decrypt.co/?p=363244</id>
@@ -353,16 +363,6 @@
         <summary type="html"><![CDATA[Federal grand juries have indicted ten individuals tied to alleged pump-and-dump schemes, following an FBI undercover operation.]]></summary>
         <author>
             <name>Decrypt Agent</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Watch Out Bitcoin: Cryptography-Breaking Quantum Computers May Be Closer Than Expected, Says Caltech]]></title>
-        <id>https://decrypt.co/?p=362988</id>
-        <link href="https://decrypt.co/362988/cryptography-breaking-quantum-computers-closer-expected-caltech-bitcoin"/>
-        <updated>2026-04-01T00:50:54.000Z</updated>
-        <summary type="html"><![CDATA[Research suggests fault-tolerant quantum machines could arrive sooner than expected, posing a threat to Bitcoin and Ethereum cryptography.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
         </author>
     </entry>
 </feed>
