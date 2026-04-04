@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-04T15:22:46.989Z</id>
+    <id>urn:2026-04-04T16:24:56.259Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-04T15:22:46.989Z</updated>
+    <updated>2026-04-04T16:24:56.259Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[AI Giant Anthropic Files to Launch 'AnthroPAC' Amid Clash With Trump Administration]]></title>
+        <id>https://decrypt.co/?p=363355</id>
+        <link href="https://decrypt.co/363355/ai-giant-anthropic-anthropac-clash-trump-administration"/>
+        <updated>2026-04-04T16:01:03.000Z</updated>
+        <summary type="html"><![CDATA[Claude developer Anthropic registered an employee-funded PAC amid a legal battle with the White House and rising election-year scrutiny of AI.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Anthropic Spots 'Emotion Vectors' Inside Claude That Influence AI Behavior]]></title>
         <id>https://decrypt.co/?p=363309</id>
@@ -363,16 +373,6 @@
         <summary type="html"><![CDATA[Google's cheapest video model yet targets developers burned by high generation costs, arriving just days after OpenAI pulled the plug on Sora.]]></summary>
         <author>
             <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Elon Musk’s SpaceX Files Confidentially for Record-Breaking $1.75 Trillion IPO]]></title>
-        <id>https://decrypt.co/?p=363074</id>
-        <link href="https://decrypt.co/363074/elon-musk-spacex-files-ipo"/>
-        <updated>2026-04-01T19:05:57.000Z</updated>
-        <summary type="html"><![CDATA[Elon Musk’s rocket company has confidentially submitted IPO paperwork to U.S. regulators, potentially setting up one of the largest public listings in history.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
         </author>
     </entry>
 </feed>
