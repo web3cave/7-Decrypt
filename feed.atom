@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-06T21:30:23.135Z</id>
+    <id>urn:2026-04-06T22:26:47.812Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-06T21:30:23.135Z</updated>
+    <updated>2026-04-06T22:26:47.812Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Jamie Dimon Says AI Will Impact 'Virtually Every Function' at JPMorgan Chase]]></title>
+        <id>https://decrypt.co/?p=363441</id>
+        <link href="https://decrypt.co/363441/jamie-dimon-ai-impact-virtually-every-function-jpmorgan"/>
+        <updated>2026-04-06T21:56:47.000Z</updated>
+        <summary type="html"><![CDATA[JPMorgan Chase CEO Jamie Dimon said that the rate of AI adoption "will likely be far faster than prior technological transformations."]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Polymarket to Launch Stablecoin, Order Book Overhaul in Prediction Market Upgrade]]></title>
         <id>https://decrypt.co/?p=363437</id>
@@ -363,16 +373,6 @@
         <summary type="html"><![CDATA[A blockchain security expert compared Drift’s lapse in security to Ethereum network Ronin's $625 million loss in 2022.]]></summary>
         <author>
             <name>André Beganski</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Jumps Back Into the Open Source AI Race With Gemma 4]]></title>
-        <id>https://decrypt.co/?p=363178</id>
-        <link href="https://decrypt.co/363178/google-gemma-4-open-source-ai"/>
-        <updated>2026-04-02T18:18:58.000Z</updated>
-        <summary type="html"><![CDATA[Google drops Gemma 4, a family of open models under the Apache 2.0 license, just as the U.S. open-source scene badly needed a win.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
         </author>
     </entry>
 </feed>
