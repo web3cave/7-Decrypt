@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-06T08:18:04.378Z</id>
+    <id>urn:2026-04-06T10:00:46.824Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-06T08:18:04.378Z</updated>
+    <updated>2026-04-06T10:00:46.824Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[North Korean Hackers Spent Six Months Infiltrating Drift Before $285M Exploit]]></title>
+        <id>https://decrypt.co/?p=363364</id>
+        <link href="https://decrypt.co/363364/north-korean-hackers-spent-six-months-infiltrating-drift-before-285m-exploit"/>
+        <updated>2026-04-06T09:52:05.000Z</updated>
+        <summary type="html"><![CDATA[Drift Protocol said the attackers posed as traders, met contributors in person, and spent months infiltrating before draining the platform.]]></summary>
+        <author>
+            <name>Vismaya V</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Hits Weekly High Over $69K on US-Iran Ceasefire Hopes as Oil Slides]]></title>
+        <id>https://decrypt.co/?p=363361</id>
+        <link href="https://decrypt.co/363361/bitcoin-hits-weekly-high-over-69k-on-us-iran-ceasefire-hopes-as-oil-slides"/>
+        <updated>2026-04-06T09:08:48.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin jumped on reports that Pakistan has put together a framework for a U.S.-Iran ceasefire, but analysts remain cautious.]]></summary>
+        <author>
+            <name>Akash Girimath</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI Giant Anthropic Files to Launch 'AnthroPAC' Amid Clash With Trump Administration]]></title>
         <id>https://decrypt.co/?p=363355</id>
@@ -353,26 +373,6 @@
         <summary type="html"><![CDATA[Volatility Shares, the company that launched the first leveraged crypto fund in the U.S., is expanding its roster to smaller digital assets]]></summary>
         <author>
             <name>André Beganski</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solana DeFi Exchange Drift Protocol Exploited, Upwards of $285 Million Stolen]]></title>
-        <id>https://decrypt.co/?p=363087</id>
-        <link href="https://decrypt.co/363087/solana-drift-protocol-exploited-285-million"/>
-        <updated>2026-04-01T20:13:38.000Z</updated>
-        <summary type="html"><![CDATA[Solana-based perpetuals DEX Drift Protocol has suffered an exploit impacting more than $200 million in funds.]]></summary>
-        <author>
-            <name>Logan Hitchcock</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google's Veo 3.1 Lite Cuts API Costs in Half as OpenAI's Sora Exits the Market]]></title>
-        <id>https://decrypt.co/?p=363077</id>
-        <link href="https://decrypt.co/363077/google-veo-3-1-lite-cuts-api-costs-half-openai-sora"/>
-        <updated>2026-04-01T19:47:28.000Z</updated>
-        <summary type="html"><![CDATA[Google's cheapest video model yet targets developers burned by high generation costs, arriving just days after OpenAI pulled the plug on Sora.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
         </author>
     </entry>
 </feed>
