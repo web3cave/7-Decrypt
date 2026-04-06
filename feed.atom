@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-06T19:45:23.167Z</id>
+    <id>urn:2026-04-06T20:29:52.876Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-06T19:45:23.167Z</updated>
+    <updated>2026-04-06T20:29:52.876Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Polymarket to Launch Stablecoin, Order Book Overhaul in Prediction Market Upgrade]]></title>
+        <id>https://decrypt.co/?p=363437</id>
+        <link href="https://decrypt.co/363437/polymarket-launch-stablecoin-prediction-market-upgrade"/>
+        <updated>2026-04-06T20:21:30.000Z</updated>
+        <summary type="html"><![CDATA[Polymarket is overhauling its technical foundations and launching a stablecoin as it aims to improve the user experience and order book.]]></summary>
+        <author>
+            <name>Logan Hitchcock</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OpenAI Calls for Global Shift in Taxation, Labor Policy as AI Takes Over]]></title>
         <id>https://decrypt.co/?p=363431</id>
@@ -363,16 +373,6 @@
         <summary type="html"><![CDATA[Google drops Gemma 4, a family of open models under the Apache 2.0 license, just as the U.S. open-source scene badly needed a win.]]></summary>
         <author>
             <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase Links Up With Linux Foundation to Launch x402 Foundation]]></title>
-        <id>https://decrypt.co/?p=363173</id>
-        <link href="https://decrypt.co/363173/coinbase-linux-foundation-launch-x402-foundation"/>
-        <updated>2026-04-02T17:44:15.000Z</updated>
-        <summary type="html"><![CDATA[The new group will steward an open standard for embedding payments into web interactions.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
         </author>
     </entry>
 </feed>
