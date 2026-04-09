@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-09T18:58:26.752Z</id>
+    <id>urn:2026-04-09T20:01:26.824Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-09T18:58:26.752Z</updated>
+    <updated>2026-04-09T20:01:26.824Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[YouTube Now Lets You Create Your Own AI Deepfakes]]></title>
+        <id>https://decrypt.co/?p=363852</id>
+        <link href="https://decrypt.co/363852/youtube-now-lets-you-create-ai-deepfakes"/>
+        <updated>2026-04-09T19:18:34.000Z</updated>
+        <summary type="html"><![CDATA[The new YouTube Shorts feature lets creators generate short videos using a realistic digital recreation of their own face and voice.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OpenAI Says Enterprise AI Is Already 40% of Its Revenue Amid ‘Agentic Workflow’ Shift]]></title>
         <id>https://decrypt.co/?p=363844</id>
@@ -363,16 +373,6 @@
         <summary type="html"><![CDATA[Markets are ripping on a surprise Trump-announced ceasefire, while Morgan Stanley’s Bitcoin ETF goes live today.]]></summary>
         <author>
             <name>Tyler Warner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Spikes Over $72K as Trump Announces Conditional Ceasefire With Iran]]></title>
-        <id>https://decrypt.co/?p=363611</id>
-        <link href="https://decrypt.co/363611/bitcoin-spikes-over-72k-as-trump-announces-conditional-ceasefire-with-iran"/>
-        <updated>2026-04-08T09:47:03.000Z</updated>
-        <summary type="html"><![CDATA[Crypto prices jumped on the announcement of a two-week ceasefire and the reopening of the Strait of Hormuz—but macro events loom.]]></summary>
-        <author>
-            <name>Akash Girimath</name>
         </author>
     </entry>
 </feed>
