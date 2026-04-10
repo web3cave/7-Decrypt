@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-10T18:40:03.092Z</id>
+    <id>urn:2026-04-10T19:37:14.036Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-10T18:40:03.092Z</updated>
+    <updated>2026-04-10T19:37:14.036Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Suspect Arrested After Molotov Cocktail Thrown at Sam Altman’s San Francisco Home]]></title>
+        <id>https://decrypt.co/?p=364007</id>
+        <link href="https://decrypt.co/364007/suspect-arrested-molotov-cocktail-sam-altman-san-francisco"/>
+        <updated>2026-04-10T18:44:54.000Z</updated>
+        <summary type="html"><![CDATA[Police say a 20-year-old man also threatened to burn down OpenAI’s headquarters shortly after the incident.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gen Z Thinks AI Is Rotting Their Brains, But Can't Stop Using It: Survey]]></title>
         <id>https://decrypt.co/?p=363976</id>
@@ -373,16 +383,6 @@
         <summary type="html"><![CDATA[Meta's first model from its Superintelligence team is natively multimodal, built for health reasoning, and genuinely competitive—but it doesn't top every leaderboard.]]></summary>
         <author>
             <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Treasury Outlines How Stablecoin Rules Will Fight Illicit Finance Under GENIUS Act]]></title>
-        <id>https://decrypt.co/?p=363690</id>
-        <link href="https://decrypt.co/363690/treasury-outlines-stablecoin-rules-fight-illicit-finance-under-genius-act"/>
-        <updated>2026-04-08T19:42:29.000Z</updated>
-        <summary type="html"><![CDATA[The proposed rule prohibits people with criminal backgrounds from serving as the head of stablecoin issuers’ compliance programs.]]></summary>
-        <author>
-            <name>André Beganski</name>
         </author>
     </entry>
 </feed>
