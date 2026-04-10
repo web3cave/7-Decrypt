@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-10T17:40:33.214Z</id>
+    <id>urn:2026-04-10T18:40:03.092Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-10T17:40:33.214Z</updated>
+    <updated>2026-04-10T18:40:03.092Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Gen Z Thinks AI Is Rotting Their Brains, But Can't Stop Using It: Survey]]></title>
+        <id>https://decrypt.co/?p=363976</id>
+        <link href="https://decrypt.co/363976/gen-z-ai-rotting-brains-survey"/>
+        <updated>2026-04-10T17:57:21.000Z</updated>
+        <summary type="html"><![CDATA[AI usage among Gen Z is up, but excitement over the technology is way down—so are feelings of “hopefulness.”]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Elon Musk's SpaceX Is Nearing Its $1.75 Trillion IPO—Bitget Is Offering Pre-IPO Exposure]]></title>
         <id>https://decrypt.co/?p=363950</id>
@@ -373,16 +383,6 @@
         <summary type="html"><![CDATA[The proposed rule prohibits people with criminal backgrounds from serving as the head of stablecoin issuers’ compliance programs.]]></summary>
         <author>
             <name>André Beganski</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthropic's Mythos Safety Report Shows It Can No Longer Fully Measure What It Built]]></title>
-        <id>https://decrypt.co/?p=363663</id>
-        <link href="https://decrypt.co/363663/anthropic-claude-mythos-safety-report-warning-risk-assesment"/>
-        <updated>2026-04-08T19:36:03.000Z</updated>
-        <summary type="html"><![CDATA[Anthropic’s Claude Mythos is powerful, but Its own safety report reveals a deeper crisis that's gone largely unnoticed.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
         </author>
     </entry>
 </feed>
