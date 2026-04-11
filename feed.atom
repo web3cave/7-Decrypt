@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-11T14:29:30.020Z</id>
+    <id>urn:2026-04-11T15:25:01.542Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-11T14:29:30.020Z</updated>
+    <updated>2026-04-11T15:25:01.542Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[New Tools Aim to Make AI 'Vibe Coding' Safer for Crypto]]></title>
+        <id>https://decrypt.co/?p=364080</id>
+        <link href="https://decrypt.co/364080/asi-alliance-matterhorn-ai-tools-vibe-coding-crypto"/>
+        <updated>2026-04-11T15:01:02.000Z</updated>
+        <summary type="html"><![CDATA[A new initiative by Matterhorn and the ASI Alliance adds auditing tools and safety checks for AI-generated smart contracts.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Economists Said AI Wouldn’t Take Jobs—Some Now Admit They Got It Wrong]]></title>
         <id>https://decrypt.co/?p=364008</id>
@@ -373,16 +383,6 @@
         <summary type="html"><![CDATA[The Bitcoin ATM operator disclosed a hack two weeks after attackers gained control of settlement account credentials and stole BTC.]]></summary>
         <author>
             <name>Decrypt Agent</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Researchers Propose New Way to Manage Financial Risk When AI Agents Fumble Trades]]></title>
-        <id>https://decrypt.co/?p=363727</id>
-        <link href="https://decrypt.co/363727/agentic-risk-standard-ai-research-finance-trades"/>
-        <updated>2026-04-08T20:56:52.000Z</updated>
-        <summary type="html"><![CDATA[A newly proposed agentic settlement standard would hold fees in escrow and bring underwriters into AI agent transactions.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
         </author>
     </entry>
 </feed>
