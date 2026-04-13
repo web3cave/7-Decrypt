@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-13T15:08:15.779Z</id>
+    <id>urn:2026-04-13T16:54:49.429Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-13T15:08:15.779Z</updated>
+    <updated>2026-04-13T16:54:49.429Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Justin Sun Bashes Trump Family's World Liberty, Claims Investors Used as 'Personal ATM']]></title>
+        <id>https://decrypt.co/?p=364137</id>
+        <link href="https://decrypt.co/364137/justin-sun-bashes-trump-world-liberty-financial-investors-personal-atm"/>
+        <updated>2026-04-13T16:51:10.000Z</updated>
+        <summary type="html"><![CDATA[Tron founder Justin Sun, a major investor in the Trump-backed World Liberty Financial, lashed out at the company over the weekend.]]></summary>
+        <author>
+            <name>Sander Lutz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crypto Hacker Mints $1.1 Billion in Polkadot via Ethereum Bridge, But Can Only Cash Out $237K]]></title>
+        <id>https://decrypt.co/?p=364131</id>
+        <link href="https://decrypt.co/364131/crypto-hacker-mints-billion-polkadot-ethereum-bridge-cashes-out-237k"/>
+        <updated>2026-04-13T16:09:57.000Z</updated>
+        <summary type="html"><![CDATA[A hacker exploited a Polkadot bridge, minting $1.1 billion worth of DOT tokens before making a tiny fraction of that tally by selling it.]]></summary>
+        <author>
+            <name>Logan Hitchcock</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Foundry Launches Zcash Mining Pool Alongside Industry-Leading Bitcoin Pool]]></title>
+        <id>https://decrypt.co/?p=364124</id>
+        <link href="https://decrypt.co/364124/foundry-launches-zcash-mining-pool-bitcoin"/>
+        <updated>2026-04-13T15:21:38.000Z</updated>
+        <summary type="html"><![CDATA[The world's largest Bitcoin mining pool operator expands into the privacy-focused Zcash token with rapid network adoption.]]></summary>
+        <author>
+            <name>Decrypt Agent</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tom Lee’s BitMine Makes Biggest Ethereum Buy Since December]]></title>
         <id>https://decrypt.co/?p=364119</id>
@@ -351,36 +381,6 @@
         <link href="https://decrypt.co/363818/openai-pauses-uk-ai-tech-nvidia-energy-costs-regulation"/>
         <updated>2026-04-09T15:39:32.000Z</updated>
         <summary type="html"><![CDATA[OpenAI's planned Stargate project with Nvidia and Nscale aimed to deploy thousands of GPUs to support AI workloads in Britain.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stablecoin Giant Tether Launches Toolkit for Building Local, Offline AI Apps]]></title>
-        <id>https://decrypt.co/?p=363809</id>
-        <link href="https://decrypt.co/363809/stablecoin-giant-tether-launches-toolkit-for-building-local-offline-ai-apps"/>
-        <updated>2026-04-09T15:09:32.000Z</updated>
-        <summary type="html"><![CDATA[Tether’s new toolkit lets developers build AI applications that run entirely on-device, marking an expanded push into decentralized AI.]]></summary>
-        <author>
-            <name>Decrypt Agent</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bithumb Files to Seize Bitcoin From Holdouts After $43B Blunder]]></title>
-        <id>https://decrypt.co/?p=363804</id>
-        <link href="https://decrypt.co/363804/bithumb-files-to-seize-bitcoin-from-holdouts-after-43b-blunder"/>
-        <updated>2026-04-09T15:02:22.000Z</updated>
-        <summary type="html"><![CDATA[The South Korean exchange is pursuing formal legal remedies to recover 7 BTC after voluntary return requests failed.]]></summary>
-        <author>
-            <name>Decrypt Agent</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nunchuk Launches Open-Source Bitcoin Tools for AI Agents With 'Bounded Authority']]></title>
-        <id>https://decrypt.co/?p=363737</id>
-        <link href="https://decrypt.co/363737/nunchuk-open-source-bitcoin-tools-ai-agents-bounded-authority"/>
-        <updated>2026-04-09T14:57:29.000Z</updated>
-        <summary type="html"><![CDATA[Nunchuk releases open-source tools that allow AI agents to interact with Bitcoin wallets while keeping humans in control over spending.]]></summary>
         <author>
             <name>Jason Nelson</name>
         </author>
