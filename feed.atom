@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-14T17:58:47.161Z</id>
+    <id>urn:2026-04-14T19:17:17.015Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-14T17:58:47.161Z</updated>
+    <updated>2026-04-14T19:17:17.015Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Google's Gemma Already Acts Like Gemini—Someone Made It Think Like Claude Opus Too]]></title>
+        <id>https://decrypt.co/?p=364344</id>
+        <link href="https://decrypt.co/364344/gemopus-gemma-4-claude-opus-style-local-ai"/>
+        <updated>2026-04-14T18:30:43.000Z</updated>
+        <summary type="html"><![CDATA[Jackrong, the developer behind Qwopus, has released Gemopus—a family of Claude Opus-style fine-tunes built on Google's open-source Gemma 4, putting all-American AI in your pocket and on your potato PC.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fed Chair Nominee Kevin Warsh Discloses Vast Wealth, Investments in Polymarket and SpaceX]]></title>
         <id>https://decrypt.co/?p=364336</id>
@@ -373,16 +383,6 @@
         <summary type="html"><![CDATA[AI usage among Gen Z is up, but excitement over the technology is way down—so are feelings of “hopefulness.”]]></summary>
         <author>
             <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Elon Musk's SpaceX Is Nearing Its $1.75 Trillion IPO—Bitget Is Offering Pre-IPO Exposure]]></title>
-        <id>https://decrypt.co/?p=363950</id>
-        <link href="https://decrypt.co/363950/elon-musk-spacex-nearing-1-75-trillion-ipo-bitget-pre-ipo-exposure"/>
-        <updated>2026-04-10T17:36:35.000Z</updated>
-        <summary type="html"><![CDATA[Bitget's new IPO Prime platform debuts with a Republic-issued token offering exposure to SpaceX's eventual public market performance.]]></summary>
-        <author>
-            <name>Decrypt Agent</name>
         </author>
     </entry>
 </feed>
