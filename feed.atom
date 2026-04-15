@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-15T10:09:00.285Z</id>
+    <id>urn:2026-04-15T11:49:56.877Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-15T10:09:00.285Z</updated>
+    <updated>2026-04-15T11:49:56.877Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Virginia Governor Signs Law Protecting Dormant Crypto From Forced Liquidation]]></title>
+        <id>https://decrypt.co/?p=364426</id>
+        <link href="https://decrypt.co/364426/virginia-governor-signs-law-protecting-dormant-crypto-from-forced-liquidation"/>
+        <updated>2026-04-15T11:13:03.000Z</updated>
+        <summary type="html"><![CDATA[The legislation ensures unclaimed digital assets are held in their native form for at least one year before the state can move to sell them.]]></summary>
+        <author>
+            <name>Vismaya V</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin ETFs Draw $411M After BTC Hits $75K, But Analysts Urge Caution]]></title>
+        <id>https://decrypt.co/?p=364423</id>
+        <link href="https://decrypt.co/364423/bitcoin-etfs-draw-411m-after-btc-hits-75k-but-analysts-urge-caution"/>
+        <updated>2026-04-15T10:42:06.000Z</updated>
+        <summary type="html"><![CDATA[Analysts cited easing geopolitical tensions and improving liquidity as driving Bitcoin’s uptick, but warned of a “weak and unstable” market.]]></summary>
+        <author>
+            <name>Akash Girimath</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Trump Is Hosting Another Meme Coin Gala—The Price for VIP Access Is Down 90%]]></title>
         <id>https://decrypt.co/?p=364382</id>
@@ -343,26 +363,6 @@
         <summary type="html"><![CDATA[A developer distilled Claude Opus 4.6's reasoning into a local Qwen model anyone can run. The result is Qwopus—and it's surprisingly close to the real thing.]]></summary>
         <author>
             <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[There’s a Way to Make Bitcoin Safe From Quantum Without a Fork, Researchers Say]]></title>
-        <id>https://decrypt.co/?p=364092</id>
-        <link href="https://decrypt.co/364092/quantum-safe-bitcoin-transactions-without-fork"/>
-        <updated>2026-04-12T13:01:03.000Z</updated>
-        <summary type="html"><![CDATA[A new proposal suggests Bitcoin users could defend against future quantum attacks using a transaction design that works within the network’s existing rules.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['Not Going to Stop at Bitcoin': Morgan Stanley Weighs Tokenization, Tax Solutions in Crypto Push]]></title>
-        <id>https://decrypt.co/?p=364030</id>
-        <link href="https://decrypt.co/364030/not-going-stop-bitcoin-morgan-stanley-weighs-tokenization-tax-solutions"/>
-        <updated>2026-04-11T16:33:12.000Z</updated>
-        <summary type="html"><![CDATA[Morgan Stanley’s Amy Oldenburg signaled that the Wall Street giant’s crypto journey has a long way to go.]]></summary>
-        <author>
-            <name>André Beganski</name>
         </author>
     </entry>
 </feed>
