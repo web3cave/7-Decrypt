@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-15T17:59:33.569Z</id>
+    <id>urn:2026-04-15T19:22:16.248Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-15T17:59:33.569Z</updated>
+    <updated>2026-04-15T19:22:16.248Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Free Qwen Is Dead: Alibaba Shuts Down Qwen Code Free Tier]]></title>
+        <id>https://decrypt.co/?p=364501</id>
+        <link href="https://decrypt.co/364501/alibaba-shuts-down-free-tier-qwen-code"/>
+        <updated>2026-04-15T19:01:59.000Z</updated>
+        <summary type="html"><![CDATA[Alibaba shut down Qwen Code's free tier today, following MiniMax's license bait-and-switch. The idea that Chinese labs are the "open-source good guys" is crumbling fast.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Try a LattAI? Starbucks Debuts ChatGPT App for AI Drink Suggestions]]></title>
+        <id>https://decrypt.co/?p=364491</id>
+        <link href="https://decrypt.co/364491/starbucks-debuts-chatgpt-app-ai-drink-suggestions"/>
+        <updated>2026-04-15T18:04:35.000Z</updated>
+        <summary type="html"><![CDATA[Starbucks’ ChatGPT integration lets customers describe their mood or upload photos to receive AI-generated drink picks.]]></summary>
+        <author>
+            <name>Decrypt Agent</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Anthropic Preps Opus 4.7 and Full-Stack AI Studio—While Sitting on Something Much Scarier]]></title>
         <id>https://decrypt.co/?p=364483</id>
@@ -333,26 +353,6 @@
         <summary type="html"><![CDATA[StarkWare co-founder and CEO Eli Ben-Sasson said the firm building on Ethereum slashed its headcount in a move to prioritize revenue.]]></summary>
         <author>
             <name>André Beganski</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MiniMax Drops State-of-the-Art AI Agent Model—Then Quietly Changes the License]]></title>
-        <id>https://decrypt.co/?p=364225</id>
-        <link href="https://decrypt.co/364225/minimax-m27-agent-model-license-change"/>
-        <updated>2026-04-13T20:24:48.000Z</updated>
-        <summary type="html"><![CDATA[MiniMax M2.7 rivals Claude Opus on key coding benchmarks, but the Chinese AI lab updated commercial terms shortly after releasing the weights on Hugging Face.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Pro-DeFi Policies Show the SEC Isn't Waiting for Congress to Act on Crypto]]></title>
-        <id>https://decrypt.co/?p=364215</id>
-        <link href="https://decrypt.co/364215/new-pro-defi-policies-show-sec-isnt-waiting-congress-act-crypto"/>
-        <updated>2026-04-13T20:18:44.000Z</updated>
-        <summary type="html"><![CDATA[The SEC released a new, permissive policy on DeFi interfaces Monday that was immediately celebrated by crypto industry leaders.]]></summary>
-        <author>
-            <name>Sander Lutz</name>
         </author>
     </entry>
 </feed>
