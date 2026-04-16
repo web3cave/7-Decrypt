@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-16T10:08:49.650Z</id>
+    <id>urn:2026-04-16T11:53:19.038Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-16T10:08:49.650Z</updated>
+    <updated>2026-04-16T11:53:19.038Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Exchange Inflows Spike as Bitcoin Faces $76K Headwinds]]></title>
+        <id>https://decrypt.co/?p=364565</id>
+        <link href="https://decrypt.co/364565/exchange-inflows-spike-as-bitcoin-faces-76k-headwinds"/>
+        <updated>2026-04-16T11:33:43.000Z</updated>
+        <summary type="html"><![CDATA[On-chain data show increased selling pressure, with Bitcoin exchange inflows and large-holder deposits spiking to multi-month highs.]]></summary>
+        <author>
+            <name>Akash Girimath</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adam Back Pushes for Optional Upgrades to Quantum-Proof Bitcoin]]></title>
+        <id>https://decrypt.co/?p=364562</id>
+        <link href="https://decrypt.co/364562/adam-back-pushes-for-optional-upgrades-to-quantum-proof-bitcoin"/>
+        <updated>2026-04-16T10:45:27.000Z</updated>
+        <summary type="html"><![CDATA[The Blockstream CEO’s approach contrasts with BIP-361, a proposal that would implement mandatory freezes of quantum-vulnerable Bitcoin.]]></summary>
+        <author>
+            <name>Decrypt Agent</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google's Latest AI Update Makes Industrial Robots Way Smarter—Here's How]]></title>
         <id>https://decrypt.co/?p=364521</id>
@@ -333,16 +353,6 @@
         <summary type="html"><![CDATA[Bitcoin just hit its highest price in over two months, with Ethereum and other top coins rising faster as crypto bears get liquidated.]]></summary>
         <author>
             <name>Andrew Hayward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deutsche Börse Acquires Kraken Stake in $200M Deal]]></title>
-        <id>https://decrypt.co/?p=364290</id>
-        <link href="https://decrypt.co/364290/deutsche-borse-acquires-kraken-stake-in-200m-deal"/>
-        <updated>2026-04-14T11:56:10.000Z</updated>
-        <summary type="html"><![CDATA[The Frankfurt exchange operator's investment values Kraken at $13.3 billion, as TradFi giants race to secure footholds in crypto.]]></summary>
-        <author>
-            <name>Vismaya V</name>
         </author>
     </entry>
 </feed>
