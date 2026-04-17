@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-17T16:44:06.121Z</id>
+    <id>urn:2026-04-17T17:40:49.248Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-17T16:44:06.121Z</updated>
+    <updated>2026-04-17T17:40:49.248Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[US Government Moves Bitcoin Tied to $9 Billion Bitfinex Hack]]></title>
+        <id>https://decrypt.co/?p=364730</id>
+        <link href="https://decrypt.co/364730/us-government-moves-bitcoin-9-billion-bitfinex-hack"/>
+        <updated>2026-04-17T16:47:35.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. government moved 8.2 Bitcoin, or greater than $600,000, that is linked to the $9 billion Bitfinex hack from 2016.]]></summary>
+        <author>
+            <name>Logan Hitchcock</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dogecoin Gold? A DOGE-Themed Company Is Joining the Tokenized Gold Rush]]></title>
         <id>https://decrypt.co/?p=364739</id>
@@ -373,16 +383,6 @@
         <summary type="html"><![CDATA[Leading Ethereum treasury firm BitMine Immersion Technologies posted a major loss thanks to unrealized losses on its ETH.]]></summary>
         <author>
             <name>Logan Hitchcock</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[eToro Acquires Self-Custody Crypto Wallet Firm Zengo for $70 Million]]></title>
-        <id>https://decrypt.co/?p=364464</id>
-        <link href="https://decrypt.co/364464/etoro-acquires-self-custody-crypto-wallet-firm-70-million"/>
-        <updated>2026-04-15T16:40:20.000Z</updated>
-        <summary type="html"><![CDATA[The deal signals eToro's strategic push into self-custody solutions amid growing demand for non-custodial crypto infrastructure.]]></summary>
-        <author>
-            <name>Decrypt Agent</name>
         </author>
     </entry>
 </feed>
