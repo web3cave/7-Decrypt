@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-17T18:45:21.207Z</id>
+    <id>urn:2026-04-17T19:52:40.326Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-17T18:45:21.207Z</updated>
+    <updated>2026-04-17T19:52:40.326Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Sam Altman's World Teams With Zoom, Tinder to Better Verify Humans in the AI Age]]></title>
+        <id>https://decrypt.co/?p=364774</id>
+        <link href="https://decrypt.co/364774/sam-altman-world-zoom-tinder-better-verify-humans-ai-age"/>
+        <updated>2026-04-17T19:39:44.000Z</updated>
+        <summary type="html"><![CDATA[Iris-scanning crypto project World expands with Tinder's U.S. human verification rollout and Zoom's Deep Face feature.]]></summary>
+        <author>
+            <name>Andrew Hayward</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Elizabeth Warren Accuses SEC Chair Paul Atkins of Potentially Lying to Congress]]></title>
         <id>https://decrypt.co/?p=364758</id>
@@ -383,16 +393,6 @@
         <summary type="html"><![CDATA[A $70 million feature film focusing on Bitcoin and the hunt for creator Satoshi Nakamoto will lean heavily on AI tools.]]></summary>
         <author>
             <name>Logan Hitchcock</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Free Qwen Is Dead: Alibaba Shuts Down Qwen Code Free Tier]]></title>
-        <id>https://decrypt.co/?p=364501</id>
-        <link href="https://decrypt.co/364501/alibaba-shuts-down-free-tier-qwen-code"/>
-        <updated>2026-04-15T19:01:59.000Z</updated>
-        <summary type="html"><![CDATA[Alibaba shut down Qwen Code's free tier today, following MiniMax's license bait-and-switch. The idea that Chinese labs are the "open-source good guys" is crumbling fast.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
         </author>
     </entry>
 </feed>
