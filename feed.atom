@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-18T15:30:16.178Z</id>
+    <id>urn:2026-04-18T16:29:00.326Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-18T15:30:16.178Z</updated>
+    <updated>2026-04-18T16:29:00.326Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What Is Q-Day? The Quantum Threat to Bitcoin Explained]]></title>
+        <id>https://decrypt.co/?p=348754</id>
+        <link href="https://decrypt.co/resources/what-q-day-quantum-threat-bitcoin-explained"/>
+        <updated>2026-04-18T15:53:16.000Z</updated>
+        <summary type="html"><![CDATA[Experts warn quantum computers could someday forge Bitcoin’s digital signatures, allowing unauthorized transactions.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OpenAI's New AI Model Rosalind Could Shave Years Off Drug Discovery. You Probably Can't Use It]]></title>
         <id>https://decrypt.co/?p=364783</id>
@@ -381,16 +391,6 @@
         <link href="https://decrypt.co/364562/adam-back-pushes-for-optional-upgrades-to-quantum-proof-bitcoin"/>
         <updated>2026-04-16T10:45:27.000Z</updated>
         <summary type="html"><![CDATA[The Blockstream CEO’s approach contrasts with BIP-361, a proposal that would implement mandatory freezes of quantum-vulnerable Bitcoin.]]></summary>
-        <author>
-            <name>Decrypt Agent</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google's Latest AI Update Makes Industrial Robots Way Smarter—Here's How]]></title>
-        <id>https://decrypt.co/?p=364521</id>
-        <link href="https://decrypt.co/364521/google-ai-update-makes-industrial-robots-way-smarter"/>
-        <updated>2026-04-15T21:31:35.000Z</updated>
-        <summary type="html"><![CDATA[The new Google Gemini Robotics AI model gives robots improved spatial reasoning and task planning abilities for industrial applications.]]></summary>
         <author>
             <name>Decrypt Agent</name>
         </author>
