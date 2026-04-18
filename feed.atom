@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-18T12:40:32.725Z</id>
+    <id>urn:2026-04-18T13:56:07.111Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-18T12:40:32.725Z</updated>
+    <updated>2026-04-18T13:56:07.111Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[OpenAI's New AI Model Rosalind Could Shave Years Off Drug Discovery. You Probably Can't Use It]]></title>
+        <id>https://decrypt.co/?p=364783</id>
+        <link href="https://decrypt.co/364783/openai-gpt-rosalind-drug-discovery-life-sciences-model"/>
+        <updated>2026-04-18T13:01:03.000Z</updated>
+        <summary type="html"><![CDATA[GPT-Rosalind is OpenAI's first domain-specific model, built for drug discovery and life sciences—and it's not for everyone.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoin Cracks 7-Month Ceiling. Can Bulls Push It Higher?]]></title>
         <id>https://decrypt.co/?p=364793</id>
@@ -383,16 +393,6 @@
         <summary type="html"><![CDATA[The new Google Gemini Robotics AI model gives robots improved spatial reasoning and task planning abilities for industrial applications.]]></summary>
         <author>
             <name>Decrypt Agent</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Will Maine Governor Janet Mills Sign Nation's First AI Data Center Ban Into Law?]]></title>
-        <id>https://decrypt.co/?p=364518</id>
-        <link href="https://decrypt.co/364518/will-maine-governor-janet-mills-sign-first-ai-data-center-ban"/>
-        <updated>2026-04-15T21:14:00.000Z</updated>
-        <summary type="html"><![CDATA[Maine's moratorium on AI data centers would last for over a year. Will the governor, embroiled in a tough Senate primary, sign it into law?]]></summary>
-        <author>
-            <name>Sander Lutz</name>
         </author>
     </entry>
 </feed>
