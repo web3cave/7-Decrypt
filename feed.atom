@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-19T15:30:14.744Z</id>
+    <id>urn:2026-04-19T16:29:38.467Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-19T15:30:14.744Z</updated>
+    <updated>2026-04-19T16:29:38.467Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[AI Traffic to US Retailers Jumps 393% in Q1 as Agentic Shoppers Outspend Humans]]></title>
+        <id>https://decrypt.co/?p=364733</id>
+        <link href="https://decrypt.co/364733/ai-traffic-us-retailers-jumps-q1-agentic-shoppers-outspend-humans"/>
+        <updated>2026-04-19T16:01:41.000Z</updated>
+        <summary type="html"><![CDATA[AI-driven traffic to U.S. retail sites surged in early 2026, and those visitors are generating more revenue than regular shoppers.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GalaxyOne Head Wants Retail Investors to Stake More, Predict Less]]></title>
         <id>https://decrypt.co/?p=364817</id>
@@ -393,16 +403,6 @@
         <summary type="html"><![CDATA[On-chain data show increased selling pressure, with Bitcoin exchange inflows and large-holder deposits spiking to multi-month highs.]]></summary>
         <author>
             <name>Akash Girimath</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adam Back Pushes for Optional Upgrades to Quantum-Proof Bitcoin]]></title>
-        <id>https://decrypt.co/?p=364562</id>
-        <link href="https://decrypt.co/364562/adam-back-pushes-for-optional-upgrades-to-quantum-proof-bitcoin"/>
-        <updated>2026-04-16T10:45:27.000Z</updated>
-        <summary type="html"><![CDATA[The Blockstream CEO’s approach contrasts with BIP-361, a proposal that would implement mandatory freezes of quantum-vulnerable Bitcoin.]]></summary>
-        <author>
-            <name>Decrypt Agent</name>
         </author>
     </entry>
 </feed>
