@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-19T18:35:59.422Z</id>
+    <id>urn:2026-04-19T19:35:31.954Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-19T18:35:59.422Z</updated>
+    <updated>2026-04-19T19:35:31.954Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Kelp DAO Exploit Sparks Aave Liquidity Crunch, $6.2 Billion Withdrawal Panic]]></title>
+        <id>https://decrypt.co/?p=364849</id>
+        <link href="https://decrypt.co/364849/kelp-dao-exploit-aave-liquidity-crunch-6-2-billion-withdrawal-panic"/>
+        <updated>2026-04-19T19:12:20.000Z</updated>
+        <summary type="html"><![CDATA[After attackers drained $291 million in crypto from Kelp DAO-linked infrastructure, DeFi users struggled on Aave to withdraw funds.]]></summary>
+        <author>
+            <name>André Beganski</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The 10 Public Companies With the Biggest Bitcoin Portfolios]]></title>
         <id>https://decrypt.co/?p=47061</id>
@@ -393,16 +403,6 @@
         <summary type="html"><![CDATA[BIP-361 would freeze the Bitcoin most at risk of seizure from quantum exploits. But will the community go for it?]]></summary>
         <author>
             <name>Tyler Warner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UK Sets Path to Crypto Regulation With FCA Consultation]]></title>
-        <id>https://decrypt.co/?p=364568</id>
-        <link href="https://decrypt.co/364568/uk-sets-path-to-crypto-regulation-with-fca-consultation"/>
-        <updated>2026-04-16T11:57:45.000Z</updated>
-        <summary type="html"><![CDATA[The regulator is seeking feedback on its interpretation of regulated cryptoasset activities under rules set to take effect in October 2027.]]></summary>
-        <author>
-            <name>Vismaya V</name>
         </author>
     </entry>
 </feed>
