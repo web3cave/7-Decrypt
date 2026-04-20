@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-20T11:13:25.425Z</id>
+    <id>urn:2026-04-20T13:09:08.718Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-20T11:13:25.425Z</updated>
+    <updated>2026-04-20T13:09:08.718Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Minute: DeFi's Future in Question After $292M KelpDAO Exploit]]></title>
+        <id>https://decrypt.co/?p=364875</id>
+        <link href="https://decrypt.co/364875/morning-minute-defis-future-in-question-after-292m-kelpdao-exploit"/>
+        <updated>2026-04-20T12:33:51.000Z</updated>
+        <summary type="html"><![CDATA[DeFi TVL fell by $13B after the KelpDAO exploit, and now the Vercel CEO is saying "highly sophisticated" actors used AI for its exploit.]]></summary>
+        <author>
+            <name>Tyler Warner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LayerZero Pins $292M KelpDAO Bridge Hack on North Korea’s Lazarus Group]]></title>
+        <id>https://decrypt.co/?p=364872</id>
+        <link href="https://decrypt.co/364872/layerzero-pins-292m-kelpdao-bridge-hack-on-north-koreas-lazarus-group"/>
+        <updated>2026-04-20T11:35:44.000Z</updated>
+        <summary type="html"><![CDATA[Attackers forged a cross-chain message, came within minutes of a second drain, and wiped their tracks on the way out.]]></summary>
+        <author>
+            <name>Vince Dioquino</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘Highly Sophisticated,’ AI-Powered Hackers Behind Vercel Breach: CEO]]></title>
         <id>https://decrypt.co/?p=364869</id>
@@ -373,26 +393,6 @@
         <summary type="html"><![CDATA[The global RAM shortage claims another victim, with Meta boosting Quest 3 and Quest 3S prices following other gadget price hikes.]]></summary>
         <author>
             <name>Decrypt Agent</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Drift Taps Tether for $148 Million Recovery Plan, Ditches Circle's USDC Following DeFi Exploit]]></title>
-        <id>https://decrypt.co/?p=364589</id>
-        <link href="https://decrypt.co/364589/drift-tether-148-million-recovery-plan-ditches-circle-usdc"/>
-        <updated>2026-04-16T15:54:01.000Z</updated>
-        <summary type="html"><![CDATA[Circle has faced pushback online for standing pat as actors used its cross-chain protocol to move stolen funds.]]></summary>
-        <author>
-            <name>André Beganski</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Polkadot-Ethereum Bridge Hack Losses Were 10x Worse Than Reported, Team Admits]]></title>
-        <id>https://decrypt.co/?p=364588</id>
-        <link href="https://decrypt.co/364588/polkadot-ethereum-bridge-hack-losses-10x-worse-team-admits"/>
-        <updated>2026-04-16T15:28:22.000Z</updated>
-        <summary type="html"><![CDATA[Polkadot bridge protocol Hyperbridge said losses from this week's hack were 10x worse than originally reported, tallying about $2.5 million.]]></summary>
-        <author>
-            <name>Logan Hitchcock</name>
         </author>
     </entry>
 </feed>
