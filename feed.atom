@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-20T09:50:29.596Z</id>
+    <id>urn:2026-04-20T11:13:25.425Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-20T09:50:29.596Z</updated>
+    <updated>2026-04-20T11:13:25.425Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[‘Highly Sophisticated,’ AI-Powered Hackers Behind Vercel Breach: CEO]]></title>
+        <id>https://decrypt.co/?p=364869</id>
+        <link href="https://decrypt.co/364869/highly-sophisticated-ai-powered-hackers-behind-vercel-breach-ceo"/>
+        <updated>2026-04-20T10:53:01.000Z</updated>
+        <summary type="html"><![CDATA[The security incident compromised some customer credentials of the cloud platform, which is used by many crypto frontends to host their UI.]]></summary>
+        <author>
+            <name>Callan Quinn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coinbase Tests AI Agents Modeled on ‘Legendary’ Former Execs]]></title>
+        <id>https://decrypt.co/?p=364866</id>
+        <link href="https://decrypt.co/364866/coinbase-tests-ai-agents-modeled-on-legendary-former-execs"/>
+        <updated>2026-04-20T10:31:03.000Z</updated>
+        <summary type="html"><![CDATA[The exchange is trialing AI agents that replicate the decision-making styles of co-founder Fred Ehrsam and former CTO Balaji Srinivasan.]]></summary>
+        <author>
+            <name>Decrypt Agent</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kelp DAO Exploit Sparks Aave Liquidity Crunch, $6.2 Billion Withdrawal Panic]]></title>
         <id>https://decrypt.co/?p=364849</id>
@@ -373,26 +393,6 @@
         <summary type="html"><![CDATA[Polkadot bridge protocol Hyperbridge said losses from this week's hack were 10x worse than originally reported, tallying about $2.5 million.]]></summary>
         <author>
             <name>Logan Hitchcock</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[French Police Rescue Mother and Child After $400K Crypto Ransom Kidnapping]]></title>
-        <id>https://decrypt.co/?p=364582</id>
-        <link href="https://decrypt.co/364582/french-police-rescue-mother-child-400k-crypto-ransom-kidnapping"/>
-        <updated>2026-04-16T14:46:38.000Z</updated>
-        <summary type="html"><![CDATA[Elite French police rescued a mother and child after kidnappers targeted the family's crypto wealth in the latest “wrench attack.”]]></summary>
-        <author>
-            <name>Stephen Graves</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Snap Cuts 1,000 Jobs, Aims to Save $500 Million as AI Reshapes Operations]]></title>
-        <id>https://decrypt.co/?p=364581</id>
-        <link href="https://decrypt.co/364581/snap-cuts-1000-jobs-save-500-million-ai-reshapes-operations"/>
-        <updated>2026-04-16T14:28:33.000Z</updated>
-        <summary type="html"><![CDATA[Social media company Snap is restructuring operations to focus on profitability as AI tools reshape how teams work across key initiatives.]]></summary>
-        <author>
-            <name>Decrypt Agent</name>
         </author>
     </entry>
 </feed>
