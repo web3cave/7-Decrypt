@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-20T19:55:48.837Z</id>
+    <id>urn:2026-04-20T20:38:25.632Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-20T19:55:48.837Z</updated>
+    <updated>2026-04-20T20:38:25.632Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[UK Gas Firm Faces Pushback Over Plans to Mine Bitcoin]]></title>
+        <id>https://decrypt.co/?p=364944</id>
+        <link href="https://decrypt.co/364944/uk-gas-firm-faces-pushback-plans-mine-bitcoin"/>
+        <updated>2026-04-20T20:16:57.000Z</updated>
+        <summary type="html"><![CDATA[Reabold Resources faced criticism for plans to use a gas field to mine Bitcoin, but said serving U.K. energy demand remains its main focus.]]></summary>
+        <author>
+            <name>Logan Hitchcock</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Palantir Faces Backlash Over AI-Driven Military Doctrine]]></title>
         <id>https://decrypt.co/?p=364935</id>
@@ -383,16 +393,6 @@
         <summary type="html"><![CDATA[Bitcoin funding rates hit year-high negative levels, setting up a potential short squeeze—or bull trap—as its price tests $76K.]]></summary>
         <author>
             <name>Akash Girimath</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Circle Hit With Class Action Lawsuit Over $285M Drift Protocol Hack]]></title>
-        <id>https://decrypt.co/?p=364710</id>
-        <link href="https://decrypt.co/364710/circle-hit-with-class-action-lawsuit-over-285m-drift-protocol-hack"/>
-        <updated>2026-04-17T11:10:35.000Z</updated>
-        <summary type="html"><![CDATA[Lawyers allege Circle failed to freeze stolen USDC during an eight-hour window as hackers moved funds from the exploited trading platform.]]></summary>
-        <author>
-            <name>Decrypt Agent</name>
         </author>
     </entry>
 </feed>
