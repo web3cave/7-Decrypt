@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-21T16:50:01.855Z</id>
+    <id>urn:2026-04-21T17:53:05.829Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-21T16:50:01.856Z</updated>
+    <updated>2026-04-21T17:53:05.829Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[New York Sues Coinbase, Gemini Over Prediction Market Offerings]]></title>
+        <id>https://decrypt.co/?p=365048</id>
+        <link href="https://decrypt.co/365048/new-york-sues-coinbase-gemini-prediction-market-offerings"/>
+        <updated>2026-04-21T17:36:45.000Z</updated>
+        <summary type="html"><![CDATA["Gemini and Coinbase’s so-called prediction markets are just illegal gambling operations," alleged New York AG Letitia James.]]></summary>
+        <author>
+            <name>Sander Lutz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dogecoin Foundation, MoonPay Team to Donate 1 Million DOGE to Dog Charity]]></title>
+        <id>https://decrypt.co/?p=365042</id>
+        <link href="https://decrypt.co/365042/dogecoin-foundation-moonpay-donate-1-million-doge-dog-charity"/>
+        <updated>2026-04-21T17:20:03.000Z</updated>
+        <summary type="html"><![CDATA[Crypto payments firm MoonPay enabled contributions to dog welfare programs, marking a practical use case for Dogecoin.]]></summary>
+        <author>
+            <name>Decrypt Agent</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quantum Computers Could Boost AI by Processing Large Datasets More Efficiently]]></title>
+        <id>https://decrypt.co/?p=365030</id>
+        <link href="https://decrypt.co/365030/quantum-computers-boost-ai-large-datasets"/>
+        <updated>2026-04-21T17:18:44.000Z</updated>
+        <summary type="html"><![CDATA[In a new study, researchers describe a method that feeds data into quantum computers in smaller batches instead of storing entire datasets.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Amazon Will Invest Up to $25 Billion More in Anthropic as AI Demand Surges]]></title>
         <id>https://decrypt.co/?p=365034</id>
@@ -343,36 +373,6 @@
         <summary type="html"><![CDATA[Zac Prince, head of Galaxy’s retail platform, said he struggles to see prediction markets in diversified portfolios for long-term investors.]]></summary>
         <author>
             <name>André Beganski</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Is Q-Day? The Quantum Threat to Bitcoin Explained]]></title>
-        <id>https://decrypt.co/?p=348754</id>
-        <link href="https://decrypt.co/resources/what-q-day-quantum-threat-bitcoin-explained"/>
-        <updated>2026-04-18T15:53:16.000Z</updated>
-        <summary type="html"><![CDATA[Experts warn quantum computers could someday forge Bitcoin’s digital signatures, allowing unauthorized transactions.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI's New AI Model Rosalind Could Shave Years Off Drug Discovery. You Probably Can't Use It]]></title>
-        <id>https://decrypt.co/?p=364783</id>
-        <link href="https://decrypt.co/364783/openai-gpt-rosalind-drug-discovery-life-sciences-model"/>
-        <updated>2026-04-18T13:01:03.000Z</updated>
-        <summary type="html"><![CDATA[GPT-Rosalind is OpenAI's first domain-specific model, built for drug discovery and life sciences—and it's not for everyone.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Cracks 7-Month Ceiling. Can Bulls Push It Higher?]]></title>
-        <id>https://decrypt.co/?p=364793</id>
-        <link href="https://decrypt.co/364793/bitcoin-btc-price-breaks-seven-month-resistance"/>
-        <updated>2026-04-17T21:11:36.000Z</updated>
-        <summary type="html"><![CDATA[The price of Bitcoin breaks a seven-month downtrend as geopolitical shifts and prediction markets point to $84K next.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
         </author>
     </entry>
 </feed>
