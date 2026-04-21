@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-21T21:37:31.865Z</id>
+    <id>urn:2026-04-21T22:31:05.582Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-21T21:37:31.865Z</updated>
+    <updated>2026-04-21T22:31:05.582Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Coinbase Flags Proof-of-Stake Chains Like Ethereum, Solana as Potential Quantum Risks]]></title>
+        <id>https://decrypt.co/?p=365079</id>
+        <link href="https://decrypt.co/365079/coinbase-proof-of-stake-blockchains-ethereum-solana-quantum-risk"/>
+        <updated>2026-04-21T21:54:18.000Z</updated>
+        <summary type="html"><![CDATA[Advisory council says validator signatures and wallet cryptography could be vulnerable if future quantum computers break current encryption.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Core Scientific Reveals $3.3 Billion Junk-Bond Sale to Pivot Further from Bitcoin Mining to AI]]></title>
+        <id>https://decrypt.co/?p=365080</id>
+        <link href="https://decrypt.co/365080/core-scientific-3-3-billion-junk-bond-sale-pivot-bitcoin-mining-ai"/>
+        <updated>2026-04-21T21:53:33.000Z</updated>
+        <summary type="html"><![CDATA[Core Scientific, a Bitcoin miner turned data center operator, said that it plans to offer $3.3 billion worth of speculative-grade debt.]]></summary>
+        <author>
+            <name>André Beganski</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Strategy Now Holds $62 Billion in Bitcoin—These Are Its Biggest BTC Buys]]></title>
         <id>https://decrypt.co/?p=292448</id>
@@ -363,26 +383,6 @@
         <summary type="html"><![CDATA[Strategy reported its largest purchase in over 16 months, scooping up $2.54 billion in Bitcoin last week alongside STRC’s ex-dividend date.]]></summary>
         <author>
             <name>André Beganski</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Minute: DeFi's Future in Question After $292M KelpDAO Exploit]]></title>
-        <id>https://decrypt.co/?p=364875</id>
-        <link href="https://decrypt.co/364875/morning-minute-defis-future-in-question-after-292m-kelpdao-exploit"/>
-        <updated>2026-04-20T12:33:51.000Z</updated>
-        <summary type="html"><![CDATA[DeFi TVL fell by $13B after the KelpDAO exploit, and now the Vercel CEO is saying "highly sophisticated" actors used AI for its exploit.]]></summary>
-        <author>
-            <name>Tyler Warner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LayerZero Pins $292M KelpDAO Bridge Hack on North Korea’s Lazarus Group]]></title>
-        <id>https://decrypt.co/?p=364872</id>
-        <link href="https://decrypt.co/364872/layerzero-pins-292m-kelpdao-bridge-hack-on-north-koreas-lazarus-group"/>
-        <updated>2026-04-20T11:35:44.000Z</updated>
-        <summary type="html"><![CDATA[Attackers forged a cross-chain message, came within minutes of a second drain, and wiped their tracks on the way out.]]></summary>
-        <author>
-            <name>Vince Dioquino</name>
         </author>
     </entry>
 </feed>
