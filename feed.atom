@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-21T08:27:39.185Z</id>
+    <id>urn:2026-04-21T10:12:16.804Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-21T08:27:39.185Z</updated>
+    <updated>2026-04-21T10:12:16.804Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Arbitrum Security Council Freezes $71.5M in Ethereum linked to $292M KelpDAO Exploit]]></title>
+        <id>https://decrypt.co/?p=364981</id>
+        <link href="https://decrypt.co/364981/arbitrum-security-council-freezes-71-5m-in-ethereum-linked-to-292m-kelpdao-exploit"/>
+        <updated>2026-04-21T09:55:42.000Z</updated>
+        <summary type="html"><![CDATA[Arbitrum's emergency response to the KelpDAO exploit has sparked praise and criticism over the network's ability to freeze stolen assets.]]></summary>
+        <author>
+            <name>Decrypt Agent</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Playdate Gaming Handheld Maker Bans Generative AI Tools for Development]]></title>
         <id>https://decrypt.co/?p=364960</id>
@@ -373,26 +383,6 @@
         <summary type="html"><![CDATA[A new report finds that agents have taken over the predictable corners of DeFi, but humans still clear the table when trades get complex.]]></summary>
         <author>
             <name>Vince Dioquino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin, Stocks Surge as Iran Says Strait of Hormuz Is 'Completely Open']]></title>
-        <id>https://decrypt.co/?p=364725</id>
-        <link href="https://decrypt.co/364725/bitcoin-stocks-surge-iran-strait-hormuz-completely-open"/>
-        <updated>2026-04-17T14:10:16.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin spiked above $77,000 as stock indices set records, following word that Iran's Strait of Hormuz is open during the ceasefire.]]></summary>
-        <author>
-            <name>André Beganski</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kraken Parent Payward Agrees to Acquire Derivatives Exchange Bitnomial for $550 Million]]></title>
-        <id>https://decrypt.co/?p=364723</id>
-        <link href="https://decrypt.co/364723/kraken-parent-payward-acquire-derivatives-exchange-bitnomial-550-million"/>
-        <updated>2026-04-17T14:01:20.000Z</updated>
-        <summary type="html"><![CDATA[The acquisition will give Kraken access to complete CFTC-licensed crypto derivatives infrastructure in the U.S.]]></summary>
-        <author>
-            <name>Decrypt Agent</name>
         </author>
     </entry>
 </feed>
