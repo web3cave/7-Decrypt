@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-22T16:50:24.143Z</id>
+    <id>urn:2026-04-22T17:53:36.540Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-22T16:50:24.143Z</updated>
+    <updated>2026-04-22T17:53:36.540Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[OpenAI Just Open-Sourced a Tool That Scrubs Your Secrets Before ChatGPT Ever Sees Them]]></title>
+        <id>https://decrypt.co/?p=365139</id>
+        <link href="https://decrypt.co/365139/openai-privacy-filter-open-source-pii-masking-model"/>
+        <updated>2026-04-22T16:56:25.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI has released a small, free model that strips names, addresses, passwords, and account numbers out of any text, right on your laptop, before you paste it into an AI chatbot.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Keel, Hive Shares Jump as Companies Continue Shift From Bitcoin Mining to AI]]></title>
+        <id>https://decrypt.co/?p=365130</id>
+        <link href="https://decrypt.co/365130/keel-hive-shares-jump-continue-shift-bitcoin-mining-ai"/>
+        <updated>2026-04-22T16:51:06.000Z</updated>
+        <summary type="html"><![CDATA[Hive raised $115 million while Keel (formerly Bitfarms) sold off a mining facility as both Bitcoin miners embrace the AI boom.]]></summary>
+        <author>
+            <name>Logan Hitchcock</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SpaceX Warns Investors Elon Musk’s Space-Based AI Data Centers May Not Pay Off]]></title>
         <id>https://decrypt.co/?p=365132</id>
@@ -363,26 +383,6 @@
         <summary type="html"><![CDATA[Congressional candidate Alex Bores outlined a policy that would trigger payments to Americans if surging AI use reduces employment.]]></summary>
         <author>
             <name>Jason Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alibaba Drops Qwen 3.6 Max Preview—Its Most Powerful Model Yet]]></title>
-        <id>https://decrypt.co/?p=364948</id>
-        <link href="https://decrypt.co/364948/alibaba-qwen-3-6-max-preview-most-powerful-model"/>
-        <updated>2026-04-20T21:24:53.000Z</updated>
-        <summary type="html"><![CDATA[Alibaba released Qwen3.6-Max-Preview, its most powerful AI model yet, topping six major coding benchmarks and posting gains in world knowledge and instruction following over its predecessor.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UK Gas Firm Faces Pushback Over Plans to Mine Bitcoin]]></title>
-        <id>https://decrypt.co/?p=364944</id>
-        <link href="https://decrypt.co/364944/uk-gas-firm-faces-pushback-plans-mine-bitcoin"/>
-        <updated>2026-04-20T20:16:57.000Z</updated>
-        <summary type="html"><![CDATA[Reabold Resources faced criticism for plans to use a gas field to mine Bitcoin, but said serving U.K. energy demand remains its main focus.]]></summary>
-        <author>
-            <name>Logan Hitchcock</name>
         </author>
     </entry>
 </feed>
