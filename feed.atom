@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-22T17:53:36.540Z</id>
+    <id>urn:2026-04-22T19:00:23.047Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-22T17:53:36.540Z</updated>
+    <updated>2026-04-22T19:00:23.047Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[UK’s Financial Conduct Authority Leads London Crackdown on Crypto Traders]]></title>
+        <id>https://decrypt.co/?p=365148</id>
+        <link href="https://decrypt.co/365148/uk-financial-conduct-authority-leads-london-crackdown-crypto-traders"/>
+        <updated>2026-04-22T18:29:02.000Z</updated>
+        <summary type="html"><![CDATA[Multi-agency raid marks shift from warnings to physical enforcement as UK regulator finds zero legally registered P2P crypto traders.]]></summary>
+        <author>
+            <name>Decrypt Agent</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Justin Sun Alleges Trump's World Liberty Threatened to Burn His WLFI Tokens]]></title>
+        <id>https://decrypt.co/?p=365141</id>
+        <link href="https://decrypt.co/365141/justin-sun-alleges-trump-world-liberty-threatened-burn-wlfi-tokens"/>
+        <updated>2026-04-22T17:56:20.000Z</updated>
+        <summary type="html"><![CDATA[An investment in President Trump's meme coin allegedly upset members of World Liberty Financial’s team, the lawsuit claims.]]></summary>
+        <author>
+            <name>André Beganski</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OpenAI Just Open-Sourced a Tool That Scrubs Your Secrets Before ChatGPT Ever Sees Them]]></title>
         <id>https://decrypt.co/?p=365139</id>
@@ -363,26 +383,6 @@
         <summary type="html"><![CDATA[Arbitrum's emergency response to the KelpDAO exploit has sparked praise and criticism over the network's ability to freeze stolen assets.]]></summary>
         <author>
             <name>Decrypt Agent</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Playdate Gaming Handheld Maker Bans Generative AI Tools for Development]]></title>
-        <id>https://decrypt.co/?p=364960</id>
-        <link href="https://decrypt.co/364960/playdate-gaming-handheld-maker-bans-generative-ai-tools"/>
-        <updated>2026-04-20T21:41:59.000Z</updated>
-        <summary type="html"><![CDATA[Panic, the firm behind the Playdate handheld, now prohibits creative AI applications while preserving developer productivity aids.]]></summary>
-        <author>
-            <name>Decrypt Agent</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lose Your Job to AI? New York Lawmaker Proposes 'AI Dividend' Stimmy]]></title>
-        <id>https://decrypt.co/?p=364947</id>
-        <link href="https://decrypt.co/364947/lose-job-ai-new-york-lawmaker-proposes-ai-dividend-stimmy"/>
-        <updated>2026-04-20T21:30:31.000Z</updated>
-        <summary type="html"><![CDATA[Congressional candidate Alex Bores outlined a policy that would trigger payments to Americans if surging AI use reduces employment.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
         </author>
     </entry>
 </feed>
