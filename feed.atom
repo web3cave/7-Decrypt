@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-22T21:42:42.872Z</id>
+    <id>urn:2026-04-22T22:39:11.753Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-22T21:42:42.872Z</updated>
+    <updated>2026-04-22T22:39:11.753Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[US Government Runs a Bitcoin Node, But Not Mining BTC: US Admiral]]></title>
+        <id>https://decrypt.co/?p=365221</id>
+        <link href="https://decrypt.co/365221/us-government-runs-bitcoin-node-not-mining-btc"/>
+        <updated>2026-04-22T21:46:02.000Z</updated>
+        <summary type="html"><![CDATA[The commander of U.S. forces in the Pacific said the military is investigating Bitcoin’s ability to “secure and protect networks.”]]></summary>
+        <author>
+            <name>Sander Lutz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OpenAI Launches Workspace Agents Feature in ChatGPT]]></title>
         <id>https://decrypt.co/?p=365220</id>
@@ -393,16 +403,6 @@
         <summary type="html"><![CDATA[The layer-2 Ethereum scaling network’s privacy offering is expected to expand to additional blockchains.]]></summary>
         <author>
             <name>André Beganski</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bank of Korea's New Governor Prioritizes CBDCs Over Stablecoins in First Policy Address]]></title>
-        <id>https://decrypt.co/?p=365016</id>
-        <link href="https://decrypt.co/365016/bank-of-koreas-new-governor-prioritizes-cbdcs-over-stablecoins-in-first-policy-address"/>
-        <updated>2026-04-21T13:02:10.000Z</updated>
-        <summary type="html"><![CDATA[The central bank chief outlined digital finance priorities while legislative debates continue over private stablecoin frameworks.]]></summary>
-        <author>
-            <name>Decrypt Agent</name>
         </author>
     </entry>
 </feed>
