@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-22T01:48:49.573Z</id>
+    <id>urn:2026-04-22T04:39:54.926Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-22T01:48:49.573Z</updated>
+    <updated>2026-04-22T04:39:54.926Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Anthropic's Claude Mythos AI Finds 271 Vulnerabilities in Firefox—Yes, It's Seriously Powerful]]></title>
+        <id>https://decrypt.co/?p=365099</id>
+        <link href="https://decrypt.co/365099/anthropic-claude-mythos-ai-271-vulnerabilities-firefox-seriously-powerful"/>
+        <updated>2026-04-22T02:06:41.000Z</updated>
+        <summary type="html"><![CDATA[Anthropic’s powerful Claude Mythos AI model found hundreds of vulnerabilities in Mozilla Firefox, highlighting its cybersecurity potential.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Coinbase Flags Proof-of-Stake Chains Like Ethereum, Solana as Potential Quantum Risks]]></title>
         <id>https://decrypt.co/?p=365079</id>
@@ -373,16 +383,6 @@
         <summary type="html"><![CDATA[BitMine Immersion Technologies bought $235 million worth of Ethereum last week, bring its total holdings to nearly 5 million ETH.]]></summary>
         <author>
             <name>Logan Hitchcock</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Strategy Adds $2.5 Billion in Bitcoin as STRC Dividend Traders Drive Largest Buy Since 2024]]></title>
-        <id>https://decrypt.co/?p=364883</id>
-        <link href="https://decrypt.co/364883/strategy-2-5-billion-bitcoin-strc-dividend-traders-drive-largest-buy-2024"/>
-        <updated>2026-04-20T13:28:38.000Z</updated>
-        <summary type="html"><![CDATA[Strategy reported its largest purchase in over 16 months, scooping up $2.54 billion in Bitcoin last week alongside STRC’s ex-dividend date.]]></summary>
-        <author>
-            <name>André Beganski</name>
         </author>
     </entry>
 </feed>
