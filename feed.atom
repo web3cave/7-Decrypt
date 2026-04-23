@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-23T15:44:18.857Z</id>
+    <id>urn:2026-04-23T17:10:38.794Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-23T15:44:18.857Z</updated>
+    <updated>2026-04-23T17:10:38.794Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Founder of Solana Token Launchpad Believe Arrested on Assault, Strangulation Charges]]></title>
+        <id>https://decrypt.co/?p=365292</id>
+        <link href="https://decrypt.co/365292/founder-solana-token-launchpad-believe-arrested"/>
+        <updated>2026-04-23T15:44:59.000Z</updated>
+        <summary type="html"><![CDATA[Benjamin Pasternak faces criminal charges following an investor class action lawsuit and accusations of breaching an OTC token deal.]]></summary>
+        <author>
+            <name>Vince Dioquino</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[White House Accuses China of 'Industrial-Scale' Theft From American AI Models]]></title>
         <id>https://decrypt.co/?p=365285</id>
@@ -383,16 +393,6 @@
         <summary type="html"><![CDATA[Global fintech firm Revolut is eying a $200 billion IPO, according to a report—but don't expect the move any time soon.]]></summary>
         <author>
             <name>Logan Hitchcock</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Fixes AI Coding Tool Flaw That Let Attackers Execute Malicious Code: Report]]></title>
-        <id>https://decrypt.co/?p=365068</id>
-        <link href="https://decrypt.co/365068/google-fixes-ai-coding-tool-flaw-attackers-execute-malicious-code"/>
-        <updated>2026-04-21T20:02:05.000Z</updated>
-        <summary type="html"><![CDATA[Researchers say a prompt injection bug in Google's Antigravity AI coding tool could have let attackers run commands, despite safeguards.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
         </author>
     </entry>
 </feed>
