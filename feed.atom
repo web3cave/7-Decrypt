@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-23T18:56:33.414Z</id>
+    <id>urn:2026-04-23T20:02:37.377Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-23T18:56:33.414Z</updated>
+    <updated>2026-04-23T20:02:37.377Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Circle Economist Proposes 50% Rate Ceiling to Snap Aave's USDC Liquidity Crisis]]></title>
+        <id>https://decrypt.co/?p=365353</id>
+        <link href="https://decrypt.co/365353/circle-economist-50-rate-ceiling-snap-aave-usdc-liquidity-crisis"/>
+        <updated>2026-04-23T19:58:13.000Z</updated>
+        <summary type="html"><![CDATA[Some users pushed back via Aave’s governance forum, fearing the changes would fuel liquidations on the lending protocol.]]></summary>
+        <author>
+            <name>André Beganski</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI Releases GPT-5.5: Faster, Smarter—And Pricier]]></title>
+        <id>https://decrypt.co/?p=365333</id>
+        <link href="https://decrypt.co/365333/openai-gpt-5-5-release-agentic-coding-benchmarks"/>
+        <updated>2026-04-23T19:25:16.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI's newest model matches GPT-5.4's speed while outperforming it on nearly every benchmark. It's rolling out to paid ChatGPT users today.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[US Treasury Sanctions Powerful Cambodian Politician Allegedly Tied to Crypto Scam Network]]></title>
+        <id>https://decrypt.co/?p=365331</id>
+        <link href="https://decrypt.co/365331/us-treasury-sanctions-powerful-cambodian-politician-crypto-scam-network"/>
+        <updated>2026-04-23T19:08:41.000Z</updated>
+        <summary type="html"><![CDATA[Kok An, a Cambodian senator, is accused of running a massive crypto crime operation through his many resorts and casinos.]]></summary>
+        <author>
+            <name>Sander Lutz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OpenAI Says Its New ChatGPT for Doctors Outperforms Humans in Clinical Tasks]]></title>
         <id>https://decrypt.co/?p=365328</id>
@@ -353,46 +383,6 @@
         <summary type="html"><![CDATA[Bitcoin is ripping past $78K. Kevin Warsh faced off against the Senate. And Kalshi and Polymarket are now both coming for perpetual futures.]]></summary>
         <author>
             <name>Tyler Warner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PENGU Notches Double-Digit Gains as Bitcoin Hits $78K Amid $418M Liquidation Spree]]></title>
-        <id>https://decrypt.co/?p=365109</id>
-        <link href="https://decrypt.co/365109/pengu-notches-double-digit-gains-as-bitcoin-hits-78k-amid-418m-liquidation-spree"/>
-        <updated>2026-04-22T10:49:24.000Z</updated>
-        <summary type="html"><![CDATA[The crypto market outlook improved as altcoins rallied amid Bitcoin's $78,000 retest, but experts remain cautious.]]></summary>
-        <author>
-            <name>Akash Girimath</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Justin Sun Sues Trump-Backed World Liberty Financial Over Frozen Tokens]]></title>
-        <id>https://decrypt.co/?p=365106</id>
-        <link href="https://decrypt.co/365106/justin-sun-sues-trump-backed-world-liberty-financial-over-frozen-tokens"/>
-        <updated>2026-04-22T10:17:04.000Z</updated>
-        <summary type="html"><![CDATA[The Tron founder says World Liberty froze his tokens, stripped his voting rights, and threatened to burn his holdings. Now he's suing.]]></summary>
-        <author>
-            <name>Vismaya V</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthropic's Claude Mythos AI Finds 271 Vulnerabilities in Firefox—Yes, It's Seriously Powerful]]></title>
-        <id>https://decrypt.co/?p=365099</id>
-        <link href="https://decrypt.co/365099/anthropic-claude-mythos-ai-271-vulnerabilities-firefox-seriously-powerful"/>
-        <updated>2026-04-22T02:06:41.000Z</updated>
-        <summary type="html"><![CDATA[Anthropic’s powerful Claude Mythos AI model found hundreds of vulnerabilities in Mozilla Firefox, highlighting its cybersecurity potential.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase Flags Proof-of-Stake Chains Like Ethereum, Solana as Potential Quantum Risks]]></title>
-        <id>https://decrypt.co/?p=365079</id>
-        <link href="https://decrypt.co/365079/coinbase-proof-of-stake-blockchains-ethereum-solana-quantum-risk"/>
-        <updated>2026-04-21T21:54:18.000Z</updated>
-        <summary type="html"><![CDATA[Advisory council says validator signatures and wallet cryptography could be vulnerable if future quantum computers break current encryption.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
         </author>
     </entry>
 </feed>
