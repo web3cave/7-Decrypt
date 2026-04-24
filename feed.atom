@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-24T18:38:05.659Z</id>
+    <id>urn:2026-04-24T19:44:16.119Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-24T18:38:05.659Z</updated>
+    <updated>2026-04-24T19:44:16.119Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Anthropic Rolls Out Election Safeguards for Claude AI Ahead of US Midterms]]></title>
+        <id>https://decrypt.co/?p=365486</id>
+        <link href="https://decrypt.co/365486/anthropic-election-safeguards-claude-ai-us-midterms"/>
+        <updated>2026-04-24T18:58:18.000Z</updated>
+        <summary type="html"><![CDATA[Claude maker Anthropic reported that its latest AI models scored 95-96% on political neutrality tests ahead of the 2026 midterms.]]></summary>
+        <author>
+            <name>Decrypt Agent</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Justice Department Ends Probe of Fed Chair Powell, Clearing Path for Warsh Confirmation]]></title>
         <id>https://decrypt.co/?p=365481</id>
@@ -353,16 +363,6 @@
         <summary type="html"><![CDATA[The commander of U.S. forces in the Pacific said the military is investigating Bitcoin’s ability to “secure and protect networks.”]]></summary>
         <author>
             <name>Sander Lutz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI Launches Workspace Agents Feature in ChatGPT]]></title>
-        <id>https://decrypt.co/?p=365220</id>
-        <link href="https://decrypt.co/365220/openai-workspace-agents-feature-chatgpt"/>
-        <updated>2026-04-22T21:38:38.000Z</updated>
-        <summary type="html"><![CDATA[Codex-powered tools automate reports, code, Slack replies, and other workplace tasks.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
         </author>
     </entry>
 </feed>
