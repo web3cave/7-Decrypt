@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-27T21:47:16.290Z</id>
+    <id>urn:2026-04-27T22:41:36.166Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-27T21:47:16.290Z</updated>
+    <updated>2026-04-27T22:41:36.166Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Elon Musk’s Fight With Colorado Over AI Law Hits Pause as State Considers Revisions]]></title>
+        <id>https://decrypt.co/?p=365751</id>
+        <link href="https://decrypt.co/365751/elon-musk-colorado-ai-law-pause-state-considers-revisions"/>
+        <updated>2026-04-27T22:22:51.000Z</updated>
+        <summary type="html"><![CDATA[The joint motion halts deadlines and enforcement in xAI’s lawsuit while Colorado lawmakers weigh changes to the state’s AI bias law.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Aave-Led 'DeFi United' Relief Effort Raises $300 Million to Cover Kelp DAO Exploit Losses]]></title>
         <id>https://decrypt.co/?p=365724</id>
@@ -373,16 +383,6 @@
         <summary type="html"><![CDATA[The state alleges sports betting products on Kalshi, Polymarket and other financial platforms violate Wisconsin gambling laws.]]></summary>
         <author>
             <name>Decrypt Agent</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin 'Q-Day' Draws Nearer as Quantum Researcher Breaks Simplified Key]]></title>
-        <id>https://decrypt.co/?p=365444</id>
-        <link href="https://decrypt.co/365444/bitcoin-q-day-draws-nearer-quantum-researcher-breaks-simplified-key"/>
-        <updated>2026-04-24T15:24:58.000Z</updated>
-        <summary type="html"><![CDATA[Project Eleven awarded 1 BTC to an Italian researcher after a public quantum computer breaks a 15-bit elliptic curve key, the largest public demonstration of its kind to date.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
         </author>
     </entry>
 </feed>
