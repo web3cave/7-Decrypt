@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-27T14:58:26.412Z</id>
+    <id>urn:2026-04-27T16:25:41.804Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-27T14:58:26.412Z</updated>
+    <updated>2026-04-27T16:25:41.804Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[OpenAI's Sam Altman Apologizes for Not Alerting Police Before Tumbler Ridge Mass Shooting]]></title>
+        <id>https://decrypt.co/?p=365645</id>
+        <link href="https://decrypt.co/365645/openai-sam-altman-apologizes-not-alerting-police-tumbler-ridge-mass-shooting"/>
+        <updated>2026-04-27T16:05:57.000Z</updated>
+        <summary type="html"><![CDATA[Sam Altman admitted that OpenAI should have warned law enforcement after banning the suspect’s account months before the attack.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[China Blocks Meta's $2 Billion Acquisition of AI Startup Manus]]></title>
+        <id>https://decrypt.co/?p=365644</id>
+        <link href="https://decrypt.co/365644/china-blocks-meta-2-billion-acquisition-ai-startup-manus"/>
+        <updated>2026-04-27T15:38:46.000Z</updated>
+        <summary type="html"><![CDATA[Beijing's intervention in Meta's startup acquisition signals tighter scrutiny of foreign investments in China's AI sector.]]></summary>
+        <author>
+            <name>Decrypt Agent</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft and OpenAI Rework AI Deal, Cutting Exclusivity and AGI Provisions]]></title>
         <id>https://decrypt.co/?p=365630</id>
@@ -343,16 +363,6 @@
         <summary type="html"><![CDATA[The no-code platform aims to make building and deploying on-chain apps as simple as writing a prompt.]]></summary>
         <author>
             <name>Jason Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Circle Economist Proposes 50% Rate Ceiling to Snap Aave's USDC Liquidity Crisis]]></title>
-        <id>https://decrypt.co/?p=365353</id>
-        <link href="https://decrypt.co/365353/circle-economist-50-rate-ceiling-snap-aave-usdc-liquidity-crisis"/>
-        <updated>2026-04-23T19:58:13.000Z</updated>
-        <summary type="html"><![CDATA[Some users pushed back via Aave’s governance forum, fearing the changes would fuel liquidations on the lending protocol.]]></summary>
-        <author>
-            <name>André Beganski</name>
         </author>
     </entry>
 </feed>
