@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-28T20:59:37.566Z</id>
+    <id>urn:2026-04-28T22:01:19.820Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-28T20:59:37.566Z</updated>
+    <updated>2026-04-28T22:01:19.820Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[OpenClaw Insider Builds the Enterprise Safety Layer the Project Never Shipped]]></title>
+        <id>https://decrypt.co/?p=365888</id>
+        <link href="https://decrypt.co/365888/red-hat-tank-os-openclaw-enterprise-security"/>
+        <updated>2026-04-28T21:46:02.000Z</updated>
+        <summary type="html"><![CDATA[Red Hat principal engineer and OpenClaw maintainer Sally O'Malley released Tank OS—a tool that sandboxes AI agents in isolated containers, keeping credentials locked and agents from interfering with each other or the host machine.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CFTC Backs Prediction Markets in Yet Another Lawsuit Against a State]]></title>
+        <id>https://decrypt.co/?p=365889</id>
+        <link href="https://decrypt.co/365889/cftc-prediction-markets-lawsuit-wisconsin"/>
+        <updated>2026-04-28T21:21:51.000Z</updated>
+        <summary type="html"><![CDATA[CFTC Chair Mike Selig has vowed to sue any state that attempts to regulate prediction markets under its own gambling laws.]]></summary>
+        <author>
+            <name>Sander Lutz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dead Internet? A Third of New Websites Are AI-Generated, Says Stanford]]></title>
         <id>https://decrypt.co/?p=365864</id>
@@ -313,26 +333,6 @@
         <summary type="html"><![CDATA[The restructured deal with Microsoft removes exclusivity provisions and revenue-sharing arrangements, freeing OpenAI to pursue additional allies.]]></summary>
         <author>
             <name>Decrypt Agent</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tom Lee's BitMine Makes Biggest Ethereum Buy So Far in 2026, Hitting 5 Million ETH Milestone]]></title>
-        <id>https://decrypt.co/?p=365619</id>
-        <link href="https://decrypt.co/365619/tom-lees-bitmine-biggest-ethereum-buy-december-eth-milestone"/>
-        <updated>2026-04-27T14:21:54.000Z</updated>
-        <summary type="html"><![CDATA[BitMine Immersion Technologies now holds over 5 million ETH, following the leading Ethereum treasury firm's biggest buy since December.]]></summary>
-        <author>
-            <name>Andrew Hayward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Giant Strategy's Buying Pace Falls 91% Amid STRC Cooldown]]></title>
-        <id>https://decrypt.co/?p=365620</id>
-        <link href="https://decrypt.co/365620/bitcoin-giant-strategy-buying-pace-falls-strc-cooldown"/>
-        <updated>2026-04-27T13:57:33.000Z</updated>
-        <summary type="html"><![CDATA[The Bitcoin-buying firm leaned on common shares to grow its holdings after STRC powered its largest purchase in 16 months.]]></summary>
-        <author>
-            <name>André Beganski</name>
         </author>
     </entry>
 </feed>
