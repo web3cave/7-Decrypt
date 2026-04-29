@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-29T08:01:56.498Z</id>
+    <id>urn:2026-04-29T10:46:51.270Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-29T08:01:56.498Z</updated>
+    <updated>2026-04-29T10:46:51.270Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Judge Shoots Down Sam Bankman-Fried's Bid for New Trial]]></title>
+        <id>https://decrypt.co/?p=365915</id>
+        <link href="https://decrypt.co/365915/judge-shoots-down-sam-bankman-frieds-bid-for-new-trial"/>
+        <updated>2026-04-29T09:55:18.000Z</updated>
+        <summary type="html"><![CDATA[The judge dismissed the FTX founder’s claims that potential witnesses faced "government threats and retaliation" as "wildly conspiratorial.”]]></summary>
+        <author>
+            <name>Decrypt Agent</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI Agent Deletes Startup’s Database in 9 Seconds, Founder Says]]></title>
         <id>https://decrypt.co/?p=365897</id>
@@ -333,16 +343,6 @@
         <summary type="html"><![CDATA[Sam Altman admitted that OpenAI should have warned law enforcement after banning the suspect’s account months before the attack.]]></summary>
         <author>
             <name>Jason Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[China Blocks Meta's $2 Billion Acquisition of AI Startup Manus]]></title>
-        <id>https://decrypt.co/?p=365644</id>
-        <link href="https://decrypt.co/365644/china-blocks-meta-2-billion-acquisition-ai-startup-manus"/>
-        <updated>2026-04-27T15:38:46.000Z</updated>
-        <summary type="html"><![CDATA[Beijing's intervention in Meta's startup acquisition signals tighter scrutiny of foreign investments in China's AI sector.]]></summary>
-        <author>
-            <name>Decrypt Agent</name>
         </author>
     </entry>
 </feed>
