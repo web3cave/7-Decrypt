@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-30T18:04:54.597Z</id>
+    <id>urn:2026-04-30T20:04:55.528Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-30T18:04:54.597Z</updated>
+    <updated>2026-04-30T20:04:55.528Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[OpenAI Rolls Out Advanced Account Security for ChatGPT Users]]></title>
+        <id>https://decrypt.co/?p=366262</id>
+        <link href="https://decrypt.co/366262/openai-advanced-account-security-chatgpt-users"/>
+        <updated>2026-04-30T19:51:43.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI's new opt-in security feature requires passkeys, limits recovery options, and excludes chats from training.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ubuntu Linux Is Adding AI Features—Its Users Are Worried]]></title>
+        <id>https://decrypt.co/?p=366247</id>
+        <link href="https://decrypt.co/366247/ubuntu-linux-adding-ai-features-users-worried"/>
+        <updated>2026-04-30T19:33:26.000Z</updated>
+        <summary type="html"><![CDATA[Canonical announced plans to bake AI into Linux's most popular distro. The community that chose Ubuntu specifically to avoid this kind of thing was not thrilled.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Senate Votes to Ban Senators and Staff From Using Prediction Markets]]></title>
+        <id>https://decrypt.co/?p=366243</id>
+        <link href="https://decrypt.co/366243/senate-votes-ban-senators-staff-using-prediction-markets"/>
+        <updated>2026-04-30T19:16:38.000Z</updated>
+        <summary type="html"><![CDATA[S. Res. 708 prohibits senators and staff from using prediction markets, and became effective immediately upon passage.]]></summary>
+        <author>
+            <name>Decrypt Agent</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[North Korean Hackers Have Stolen $6 Billion in Crypto—Including 76% of 2026's Spoils: TRM]]></title>
+        <id>https://decrypt.co/?p=366241</id>
+        <link href="https://decrypt.co/366241/north-korean-hackers-stolen-6-billion-crypto-trm"/>
+        <updated>2026-04-30T18:42:53.000Z</updated>
+        <summary type="html"><![CDATA[Pyongyang-linked hackers drained $577 million from two DeFi platforms in April, underscoring an escalating threat to crypto markets.]]></summary>
+        <author>
+            <name>Decrypt Agent</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI Finally Explains Why ChatGPT Wouldn't Stop Talking About Goblins]]></title>
+        <id>https://decrypt.co/?p=366197</id>
+        <link href="https://decrypt.co/366197/openai-explains-chatgpt-mention-goblins"/>
+        <updated>2026-04-30T18:16:37.000Z</updated>
+        <summary type="html"><![CDATA[Why did OpenAI have to write "never mention goblins" into its production code on ChatGPT? The company has published a post-mortem.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Agentic Memory: Walrus Takes On AI's Next Big Bottleneck]]></title>
         <id>https://decrypt.co/?p=365834</id>
@@ -303,56 +353,6 @@
         <summary type="html"><![CDATA[Red Hat principal engineer and OpenClaw maintainer Sally O'Malley released Tank OS—a tool that sandboxes AI agents in isolated containers, keeping credentials locked and agents from interfering with each other or the host machine.]]></summary>
         <author>
             <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CFTC Backs Prediction Markets in Yet Another Lawsuit Against a State]]></title>
-        <id>https://decrypt.co/?p=365889</id>
-        <link href="https://decrypt.co/365889/cftc-prediction-markets-lawsuit-wisconsin"/>
-        <updated>2026-04-28T21:21:51.000Z</updated>
-        <summary type="html"><![CDATA[CFTC Chair Mike Selig has vowed to sue any state that attempts to regulate prediction markets under its own gambling laws.]]></summary>
-        <author>
-            <name>Sander Lutz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dead Internet? A Third of New Websites Are AI-Generated, Says Stanford]]></title>
-        <id>https://decrypt.co/?p=365864</id>
-        <link href="https://decrypt.co/365864/one-third-new-websites-ai-generated-study"/>
-        <updated>2026-04-28T20:32:26.000Z</updated>
-        <summary type="html"><![CDATA[A Stanford-led study quantified what everyone already suspected—but the findings aren't quite what people expected.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Robinhood Shares Slide on 34% Decrease in Crypto Revenue]]></title>
-        <id>https://decrypt.co/?p=365876</id>
-        <link href="https://decrypt.co/365876/robinhood-shares-slide-34-decrease-crypto-revenue"/>
-        <updated>2026-04-28T20:26:00.000Z</updated>
-        <summary type="html"><![CDATA[Retail brokerage Robinhood's business has gotten a boost from prediction markets, though its crypto trading revenue fell in Q1.]]></summary>
-        <author>
-            <name>André Beganski</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google DeepMind Veteran Raises $1.1 Billion to Build AI That Isn’t Trained With Human Data]]></title>
-        <id>https://decrypt.co/?p=365853</id>
-        <link href="https://decrypt.co/365853/google-deepmind-veteran-raises-1-1-billion-ai-isnt-trained-human-data"/>
-        <updated>2026-04-28T20:13:48.000Z</updated>
-        <summary type="html"><![CDATA[Ineffable Intelligence is betting that reinforcement learning is the path to superintelligence, rather than AI's large language models.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Soldier Charged in Polymarket Insider Trading Case Pleads Not Guilty]]></title>
-        <id>https://decrypt.co/?p=365858</id>
-        <link href="https://decrypt.co/365858/soldier-charged-polymarket-insider-trading-case-pleads-not-guilty"/>
-        <updated>2026-04-28T19:21:17.000Z</updated>
-        <summary type="html"><![CDATA[Special forces member Gannon Ken Van Dyke allegedly used inside knowledge of a Venezuelan military operation to make nearly $400K profit on Polymarket.]]></summary>
-        <author>
-            <name>Decrypt Agent</name>
         </author>
     </entry>
 </feed>
