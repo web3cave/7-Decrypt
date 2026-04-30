@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-30T20:04:55.528Z</id>
+    <id>urn:2026-04-30T21:49:36.457Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-30T20:04:55.528Z</updated>
+    <updated>2026-04-30T21:49:36.457Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Mistral AI Drops New Open-Source Model. The Internet Is Not Impressed, Except for One Thing]]></title>
+        <id>https://decrypt.co/?p=366275</id>
+        <link href="https://decrypt.co/366275/mistral-ai-open-source-model-agents-internet-not-impressed"/>
+        <updated>2026-04-30T21:31:03.000Z</updated>
+        <summary type="html"><![CDATA[Mistral Medium 3.5 is the rare Western entry in the open-source top tier, but it costs multiples more than Chinese rivals that beat it on benchmarks.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elon Musk Says xAI Used OpenAI Models to Train Grok]]></title>
+        <id>https://decrypt.co/?p=366274</id>
+        <link href="https://decrypt.co/366274/elon-musk-xai-used-openai-models-train-grok"/>
+        <updated>2026-04-30T20:52:43.000Z</updated>
+        <summary type="html"><![CDATA[The admission in federal court is a rare acknowledgment of the use of distillation techniques as AI firms compete to build more capable and cheaper models.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Crash Incoming? April Surge Was Built on Shaky Ground, Analysts Warn]]></title>
+        <id>https://decrypt.co/?p=366267</id>
+        <link href="https://decrypt.co/366267/bitcoin-crash-incoming-april-surge-built-shaky-ground-analysts-warn"/>
+        <updated>2026-04-30T20:30:19.000Z</updated>
+        <summary type="html"><![CDATA[Analysts warn that the Bitcoin rally was fueled by speculative futures trading, mirroring conditions that preceded the 2022 crypto crash.]]></summary>
+        <author>
+            <name>Decrypt Agent</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OpenAI Rolls Out Advanced Account Security for ChatGPT Users]]></title>
         <id>https://decrypt.co/?p=366262</id>
@@ -323,36 +353,6 @@
         <summary type="html"><![CDATA[The judge dismissed the FTX founder’s claims that potential witnesses faced "government threats and retaliation" as "wildly conspiratorial.”]]></summary>
         <author>
             <name>Decrypt Agent</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Agent Deletes Startup’s Database in 9 Seconds, Founder Says]]></title>
-        <id>https://decrypt.co/?p=365897</id>
-        <link href="https://decrypt.co/365897/ai-agent-deletes-startup-database-9-seconds-founder-says"/>
-        <updated>2026-04-28T23:00:02.000Z</updated>
-        <summary type="html"><![CDATA[PocketOS founder Jeremy Crane claims a Cursor agent running Claude Opus wiped production data and backups through a single Railway API call.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Woman Gets 71 Months in Prison Over Bitcoin Investment Fraud Targeting Elderly Victims]]></title>
-        <id>https://decrypt.co/?p=365894</id>
-        <link href="https://decrypt.co/365894/woman-71-months-prison-bitcoin-investment-fraud-targeting-elderly-victims"/>
-        <updated>2026-04-28T22:01:02.000Z</updated>
-        <summary type="html"><![CDATA[Federal prosecutors secured a prison term for a Saipan woman who defrauded elderly victims through a fake Bitcoin investment scheme]]></summary>
-        <author>
-            <name>Decrypt Agent</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenClaw Insider Builds the Enterprise Safety Layer the Project Never Shipped]]></title>
-        <id>https://decrypt.co/?p=365888</id>
-        <link href="https://decrypt.co/365888/red-hat-tank-os-openclaw-enterprise-security"/>
-        <updated>2026-04-28T21:46:02.000Z</updated>
-        <summary type="html"><![CDATA[Red Hat principal engineer and OpenClaw maintainer Sally O'Malley released Tank OS—a tool that sandboxes AI agents in isolated containers, keeping credentials locked and agents from interfering with each other or the host machine.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
         </author>
     </entry>
 </feed>
