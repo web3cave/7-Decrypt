@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-30T12:08:46.131Z</id>
+    <id>urn:2026-04-30T15:00:25.688Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-30T12:08:46.131Z</updated>
+    <updated>2026-04-30T15:00:25.688Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Minute: Bitcoin Falls After Powell's Likely Final FOMC]]></title>
+        <id>https://decrypt.co/?p=366109</id>
+        <link href="https://decrypt.co/366109/morning-minute-bitcoin-falls-after-powells-likely-final-fomc"/>
+        <updated>2026-04-30T13:48:15.000Z</updated>
+        <summary type="html"><![CDATA[No rate cuts are coming any time soon, Big Tech earnings gave AI bulls more to work with, and Meta is back in crypto payments with USDC creator payouts.]]></summary>
+        <author>
+            <name>Tyler Warner</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google and Microsoft Just Proved the AI Trade Is Alive—While OpenAI Is Sweating]]></title>
         <id>https://decrypt.co/?p=366100</id>
@@ -343,16 +353,6 @@
         <summary type="html"><![CDATA[CEO Mike Novogratz said Galaxy Digital’s balance sheet suffered because crypto prices are down, yet Hyperliquid partially offset losses.]]></summary>
         <author>
             <name>André Beganski</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta Turns to Space-Based Solar Energy to Power AI Data Centers on Earth]]></title>
-        <id>https://decrypt.co/?p=365805</id>
-        <link href="https://decrypt.co/365805/meta-turns-space-based-solar-energy-power-ai-data-centers"/>
-        <updated>2026-04-28T14:34:16.000Z</updated>
-        <summary type="html"><![CDATA[Facebook parent company Meta secured up to 1 gigawatt of orbital solar power as AI drives demand for electricity.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
         </author>
     </entry>
 </feed>
