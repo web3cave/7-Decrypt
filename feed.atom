@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-01T20:04:13.401Z</id>
+    <id>urn:2026-05-01T21:43:30.899Z</id>
     <title>web3::cave</title>
-    <updated>2026-05-01T20:04:13.401Z</updated>
+    <updated>2026-05-01T21:43:30.899Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Minnesota Moves to Ban AI Apps That Generate Fake Nude Images]]></title>
+        <id>https://decrypt.co/?p=366388</id>
+        <link href="https://decrypt.co/366388/minnesota-moves-ban-ai-apps-generate-fake-nude-images"/>
+        <updated>2026-05-01T21:16:03.000Z</updated>
+        <summary type="html"><![CDATA[The bill, which bans AI tools that generate fake nudity and lets victims sue their creators, will go to Governor Walz for his signature.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ethereum Foundation Sells $23 Million More in ETH to Tom Lee's BitMine]]></title>
         <id>https://decrypt.co/?p=366385</id>
@@ -343,16 +353,6 @@
         <summary type="html"><![CDATA[The settlement represents a massive reduction from an initial $4.7 billion judgment against the Celsius founder.]]></summary>
         <author>
             <name>Decrypt Agent</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This AI Was Trained Only on Pre-1930 Text. We Asked It About Hitler, Stocks, and the Future]]></title>
-        <id>https://decrypt.co/?p=366015</id>
-        <link href="https://decrypt.co/366015/talkie-1930-ai-model-pre-1931-training-hitler-stocks"/>
-        <updated>2026-04-29T19:38:03.000Z</updated>
-        <summary type="html"><![CDATA[Talkie-1930 is a 13-billion-parameter model that has never heard of the internet, World War II, or modern politics. The results are fascinating, funny, and occasionally unsettling.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
         </author>
     </entry>
 </feed>
