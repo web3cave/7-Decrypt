@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-03T14:06:49.967Z</id>
+    <id>urn:2026-05-03T15:38:30.319Z</id>
     <title>web3::cave</title>
-    <updated>2026-05-03T14:06:49.967Z</updated>
+    <updated>2026-05-03T15:38:30.319Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[North Korea's Crypto Hack Playbook Won't Work on Canton Network, Says Digital Asset CEO]]></title>
+        <id>https://decrypt.co/?p=366086</id>
+        <link href="https://decrypt.co/366086/north-korea-crypto-hack-playbook-wont-work-canton-ceo"/>
+        <updated>2026-05-03T15:33:28.000Z</updated>
+        <summary type="html"><![CDATA[Because Canton allows participants to implement guardrails, Digital Asset's Yuval Rooz isn't afraid of North Korean-linked hacking groups.]]></summary>
+        <author>
+            <name>André Beganski</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OpenAI GPT Image 2 vs Google Nano Banana 2: Which AI Image Generator Is Best?]]></title>
         <id>https://decrypt.co/?p=366408</id>
@@ -343,16 +353,6 @@
         <summary type="html"><![CDATA[The Labor Department unveils an online hub to help workers and employers build AI skills amid a quickly changing jobs market.]]></summary>
         <author>
             <name>Jason Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mayo Clinic Says AI Can Detect Pancreatic Cancer Years Before Human Doctors]]></title>
-        <id>https://decrypt.co/?p=366095</id>
-        <link href="https://decrypt.co/366095/mayo-clinic-says-ai-can-detect-pancreatic-cancer-years-before-human-doctors"/>
-        <updated>2026-04-29T21:01:08.000Z</updated>
-        <summary type="html"><![CDATA[The AI model analyzes subtle tissue changes on routine CT scans invisible to human specialists, detecting pancreatic cancer up to three years earlier than doctors can.]]></summary>
-        <author>
-            <name>Decrypt Agent</name>
         </author>
     </entry>
 </feed>
