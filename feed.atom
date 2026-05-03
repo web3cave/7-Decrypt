@@ -1,18 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-03T19:47:58.549Z</id>
+    <id>urn:2026-05-03T20:33:22.920Z</id>
     <title>web3::cave</title>
-    <updated>2026-05-03T19:47:58.549Z</updated>
+    <updated>2026-05-03T20:33:22.920Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[North Korea's Crypto Hack Playbook Won't Work on Canton Network, Says Digital Asset CEO]]></title>
+        <title type="html"><![CDATA[How Canton Network Lets Institutions Guard Against DeFi Security Risks: Digital Asset CEO]]></title>
         <id>https://decrypt.co/?p=366086</id>
-        <link href="https://decrypt.co/366086/north-korea-crypto-hack-playbook-wont-work-canton-ceo"/>
-        <updated>2026-05-03T15:33:28.000Z</updated>
-        <summary type="html"><![CDATA[Because Canton allows participants to implement guardrails, Digital Asset's Yuval Rooz isn't afraid of North Korean-linked hacking groups.]]></summary>
+        <link href="https://decrypt.co/366086/how-canton-network-lets-institutions-guard-against-defi-security-risks"/>
+        <updated>2026-05-03T20:20:00.000Z</updated>
+        <summary type="html"><![CDATA[Because Canton allows participants to implement guardrails, Digital Asset's Yuval Rooz said institutions can protect against bad actors.]]></summary>
         <author>
             <name>André Beganski</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[You Installed Hermes. Now Make It Look Better Than ChatGPT or Claude]]></title>
+        <id>https://decrypt.co/?p=366535</id>
+        <link href="https://decrypt.co/366535/you-installed-hermes-make-look-better-chatgpt-claude"/>
+        <updated>2026-05-03T19:55:35.000Z</updated>
+        <summary type="html"><![CDATA[The terminal is fine. But if you actually want to live in your Hermes agent, here are the four best GUIs the community has built—and how to run them.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
         </author>
     </entry>
     <entry>
@@ -343,16 +353,6 @@
         <summary type="html"><![CDATA[Alphabet and Microsoft crushed Q1 estimates on the same day, with Google Cloud up 63% and Microsoft's AI business hitting a $37 billion run rate.]]></summary>
         <author>
             <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Labor Department Launches AI Apprenticeship Portal as Trump Admin Continues AI Policy Push]]></title>
-        <id>https://decrypt.co/?p=366097</id>
-        <link href="https://decrypt.co/366097/labor-department-ai-apprenticeship-portal"/>
-        <updated>2026-04-29T21:22:39.000Z</updated>
-        <summary type="html"><![CDATA[The Labor Department unveils an online hub to help workers and employers build AI skills amid a quickly changing jobs market.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
         </author>
     </entry>
 </feed>
