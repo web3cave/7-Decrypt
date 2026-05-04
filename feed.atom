@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-04T22:02:12.729Z</id>
+    <id>urn:2026-05-04T23:43:41.072Z</id>
     <title>web3::cave</title>
-    <updated>2026-05-04T22:02:12.729Z</updated>
+    <updated>2026-05-04T23:43:41.072Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Someone Built an Open-Source 'Theoretical Mythos' to Reverse-Engineer Anthropic's Most Dangerous AI]]></title>
+        <id>https://decrypt.co/?p=366745</id>
+        <link href="https://decrypt.co/366745/openmythos-claude-mythos-architecture-open-source-reconstruction"/>
+        <updated>2026-05-04T22:31:02.000Z</updated>
+        <summary type="html"><![CDATA[OpenMythos is a from-scratch attempt to reconstruct the architecture behind Claude Mythos, the cyber-capable model Anthropic refuses to release. It's speculation in code form.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Aave Fights to Unfreeze $71 Million as Kelp DAO Hack Spills Into Court]]></title>
         <id>https://decrypt.co/?p=366744</id>
@@ -343,16 +353,6 @@
         <summary type="html"><![CDATA[MegaETH just debuted the biggest token of 2026 to date, while Kalshi is now officially a top-five U.S. sportsbook.]]></summary>
         <author>
             <name>Tyler Warner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Closes April Up 12% as Strategy's MSTR Posts First Positive Month Since July]]></title>
-        <id>https://decrypt.co/?p=366297</id>
-        <link href="https://decrypt.co/366297/bitcoin-closes-april-up-12-as-strategys-mstr-posts-first-positive-month-since-july"/>
-        <updated>2026-05-01T11:47:53.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin rallied 12% in April as Strategy added $4.1 billion in BTC, but on-chain data suggests gains may be speculative.]]></summary>
-        <author>
-            <name>Akash Girimath</name>
         </author>
     </entry>
 </feed>
