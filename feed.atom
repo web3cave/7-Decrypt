@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-04T19:15:45.884Z</id>
+    <id>urn:2026-05-04T20:59:00.486Z</id>
     <title>web3::cave</title>
-    <updated>2026-05-04T19:15:45.884Z</updated>
+    <updated>2026-05-04T20:59:00.486Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Haun Ventures Raises $1 Billion Fund for the Intersection of Crypto and AI Agents]]></title>
+        <id>https://decrypt.co/?p=366728</id>
+        <link href="https://decrypt.co/366728/haun-ventures-raises-1-billion-fund-intersection-crypto-tech-ai-agents"/>
+        <updated>2026-05-04T20:32:03.000Z</updated>
+        <summary type="html"><![CDATA[Katie Haun’s venture firm closes a $1 billion fund to target crypto infrastructure and systems for AI agents to transact autonomously.]]></summary>
+        <author>
+            <name>Decrypt Agent</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeepClaude Lets You Run Claude Code With DeepSeek's Brain for 17x Cheaper]]></title>
+        <id>https://decrypt.co/?p=366729</id>
+        <link href="https://decrypt.co/366729/deepclaude-run-claude-code-deepseek-brain-17x-cheaper"/>
+        <updated>2026-05-04T20:19:37.000Z</updated>
+        <summary type="html"><![CDATA[A new open-source script swaps Claude Code's expensive Anthropic backend for DeepSeek V4 Pro, OpenRouter, or Fireworks AI—keeping the agent loop, slashing the bill.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[US Government Says China's Best AI Models Lag Behind. Experts Aren't So Sure]]></title>
         <id>https://decrypt.co/?p=366685</id>
@@ -333,26 +353,6 @@
         <summary type="html"><![CDATA[Mistral Medium 3.5 is the rare Western entry in the open-source top tier, but it costs multiples more than Chinese rivals that beat it on benchmarks.]]></summary>
         <author>
             <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Elon Musk Says xAI Used OpenAI Models to Train Grok]]></title>
-        <id>https://decrypt.co/?p=366274</id>
-        <link href="https://decrypt.co/366274/elon-musk-xai-used-openai-models-train-grok"/>
-        <updated>2026-04-30T20:52:43.000Z</updated>
-        <summary type="html"><![CDATA[The admission in federal court is a rare acknowledgment of the use of distillation techniques as AI firms compete to build more capable and cheaper models.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Crash Incoming? April Surge Was Built on Shaky Ground, Analysts Warn]]></title>
-        <id>https://decrypt.co/?p=366267</id>
-        <link href="https://decrypt.co/366267/bitcoin-crash-incoming-april-surge-built-shaky-ground-analysts-warn"/>
-        <updated>2026-04-30T20:30:19.000Z</updated>
-        <summary type="html"><![CDATA[Analysts warn that the Bitcoin rally was fueled by speculative futures trading, mirroring conditions that preceded the 2022 crypto crash.]]></summary>
-        <author>
-            <name>Decrypt Agent</name>
         </author>
     </entry>
 </feed>
