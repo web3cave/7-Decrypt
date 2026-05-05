@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-05T19:06:16.110Z</id>
+    <id>urn:2026-05-05T20:53:54.757Z</id>
     <title>web3::cave</title>
-    <updated>2026-05-05T19:06:16.110Z</updated>
+    <updated>2026-05-05T20:53:54.757Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Strategy Posts $12.5 Billion Q1 Loss as Bitcoin Slump Hammers Massive Holdings]]></title>
+        <id>https://decrypt.co/?p=366882</id>
+        <link href="https://decrypt.co/366882/strategy-posts-12-5-billion-q1-loss-bitcoin-slump-hammers-holdings"/>
+        <updated>2026-05-05T20:42:57.000Z</updated>
+        <summary type="html"><![CDATA[Michael Saylor’s Strategy continues to bet big on Bitcoin even as falling prices deliver a punishing quarter for the treasury giant.]]></summary>
+        <author>
+            <name>Decrypt Agent</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solana and Google Cloud Launch Stablecoin Payments Service for AI Agents]]></title>
+        <id>https://decrypt.co/?p=366876</id>
+        <link href="https://decrypt.co/366876/solana-google-cloud-launch-stablecoin-payments-service-ai-agents"/>
+        <updated>2026-05-05T20:10:09.000Z</updated>
+        <summary type="html"><![CDATA[Solana’s new service lets AI agents pay for Google Cloud and community APIs on a per-request basis, bypassing traditional accounts.]]></summary>
+        <author>
+            <name>Decrypt Agent</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cybercrime Might Be the One Job AI Isn’t Taking, Study Suggests]]></title>
+        <id>https://decrypt.co/?p=366855</id>
+        <link href="https://decrypt.co/366855/cybercrime-hacking-ai-study"/>
+        <updated>2026-05-05T19:16:24.000Z</updated>
+        <summary type="html"><![CDATA[A Cambridge-led study finds AI is not turning hackers into superhackers. It’s mostly helping them write blog spam.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OpenAI Just Upgraded ChatGPT's Default Model—Here's What GPT-5.5 Instant Actually Does]]></title>
         <id>https://decrypt.co/?p=366842</id>
@@ -333,26 +363,6 @@
         <summary type="html"><![CDATA[Bitcoin rallied above $80,000 overnight before selling off on reports of a U.S. warship struck by Iranian missiles. Plus, Clarity Act odds spiked after a new compromise on stablecoin yield.]]></summary>
         <author>
             <name>Tyler Warner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Canton Network Lets Institutions Guard Against DeFi Security Risks: Digital Asset CEO]]></title>
-        <id>https://decrypt.co/?p=366086</id>
-        <link href="https://decrypt.co/366086/how-canton-network-lets-institutions-guard-against-defi-security-risks"/>
-        <updated>2026-05-03T20:20:00.000Z</updated>
-        <summary type="html"><![CDATA[Because Canton allows participants to implement guardrails, Digital Asset's Yuval Rooz said institutions can protect against bad actors.]]></summary>
-        <author>
-            <name>André Beganski</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You Installed Hermes. Now Make It Look Better Than ChatGPT or Claude]]></title>
-        <id>https://decrypt.co/?p=366535</id>
-        <link href="https://decrypt.co/366535/you-installed-hermes-make-look-better-chatgpt-claude"/>
-        <updated>2026-05-03T19:55:35.000Z</updated>
-        <summary type="html"><![CDATA[The terminal is fine. But if you actually want to live in your Hermes agent, here are the four best GUIs the community has built—and how to run them.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
         </author>
     </entry>
 </feed>
