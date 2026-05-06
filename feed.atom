@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-06T21:02:50.884Z</id>
+    <id>urn:2026-05-06T22:40:31.674Z</id>
     <title>web3::cave</title>
-    <updated>2026-05-06T21:02:50.884Z</updated>
+    <updated>2026-05-06T22:40:31.674Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Chrome Is Quietly Installing a 4GB AI Model on Your Computer—And Putting It Back If You Delete It]]></title>
+        <id>https://decrypt.co/?p=367060</id>
+        <link href="https://decrypt.co/367060/chrome-quietly-installing-4gb-ai-model-computer"/>
+        <updated>2026-05-06T22:01:02.000Z</updated>
+        <summary type="html"><![CDATA[Google Chrome silently downloads a 4GB Gemini Nano model to eligible devices, re-downloads it if deleted, and the AI Mode button users actually see doesn't even use it.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This AI Reads Your Chemistry Instructions and Finds the Best Way to Build You a Molecule]]></title>
+        <id>https://decrypt.co/?p=367048</id>
+        <link href="https://decrypt.co/367048/ai-chemistry-instructions-build-molecule"/>
+        <updated>2026-05-06T21:31:03.000Z</updated>
+        <summary type="html"><![CDATA[Researchers at EPFL built a framework that lets chemists describe what they want in plain language—and have AI sift through thousands of synthesis routes to find the right one.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin, Ethereum 'Q-Day' Quantum Threat Could Arrive as Soon as 2030: Report]]></title>
+        <id>https://decrypt.co/?p=367047</id>
+        <link href="https://decrypt.co/367047/bitcoin-ethereum-q-day-quantum-threat-could-arrive-2030"/>
+        <updated>2026-05-06T21:07:08.000Z</updated>
+        <summary type="html"><![CDATA[By the time Bitcoin and other networks are ready to defend themselves, it may already be too late, according to a new analysis.]]></summary>
+        <author>
+            <name>Decrypt Agent</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Elon Musk's SpaceX Will Help Power Anthropic's Claude in Surprise AI Deal]]></title>
         <id>https://decrypt.co/?p=367035</id>
@@ -343,36 +373,6 @@
         <summary type="html"><![CDATA[Andreessen Horowitz's latest fund signals institutional confidence in crypto as the investment landscape shows signs of recovery.]]></summary>
         <author>
             <name>Andrew Hayward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin's $81K Rally Comes Amid 66-Day Negative Funding Streak: Here’s Why]]></title>
-        <id>https://decrypt.co/?p=366768</id>
-        <link href="https://decrypt.co/366768/bitcoins-81k-rally-comes-amid-66-day-negative-funding-streak-heres-why"/>
-        <updated>2026-05-05T12:48:16.000Z</updated>
-        <summary type="html"><![CDATA[Shorts have paid a 12% annualized carry for 66 days amid Bitcoin's climb—analysts say the driver is institutional hedging, not fear.]]></summary>
-        <author>
-            <name>Akash Girimath</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase Cuts 14% of Staff Amid Crypto 'Down Market,' AI Adoption: CEO]]></title>
-        <id>https://decrypt.co/?p=366765</id>
-        <link href="https://decrypt.co/366765/coinbase-cuts-14-of-staff-amid-crypto-down-market-ai-adoption-ceo"/>
-        <updated>2026-05-05T12:18:41.000Z</updated>
-        <summary type="html"><![CDATA[The crypto exchange is restructuring around artificial intelligence and flattening its org chart, CEO Brian Armstrong said.]]></summary>
-        <author>
-            <name>Vismaya V</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Minute: Crypto VC Haun Raises $1B Despite Market Slump]]></title>
-        <id>https://decrypt.co/?p=366761</id>
-        <link href="https://decrypt.co/366761/morning-minute-crypto-vc-haun-raises-1b-despite-market-slump"/>
-        <updated>2026-05-05T11:44:08.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin is firmly over $80k. The DTCC is about to tokenize everything. And World Liberty Fi countersues Justin Sun.]]></summary>
-        <author>
-            <name>Tyler Warner</name>
         </author>
     </entry>
 </feed>
