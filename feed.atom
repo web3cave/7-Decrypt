@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-07T15:59:27.913Z</id>
+    <id>urn:2026-05-07T17:49:33.081Z</id>
     <title>web3::cave</title>
-    <updated>2026-05-07T15:59:27.913Z</updated>
+    <updated>2026-05-07T17:49:33.081Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Trump-Backed American Bitcoin Shares Fall After $82 Million Q1 Loss]]></title>
+        <id>https://decrypt.co/?p=367150</id>
+        <link href="https://decrypt.co/367150/trump-backed-american-bitcoin-shares-fall-82-million-q1-loss"/>
+        <updated>2026-05-07T17:35:56.000Z</updated>
+        <summary type="html"><![CDATA[Shares in Eric Trump's mining firm American Bitcoin have fallen more than 9% after reporting a quarterly loss of nearly $82 million.]]></summary>
+        <author>
+            <name>Logan Hitchcock</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Teams With Coinbase and Stripe to Let AI Agents Pay With Stablecoins]]></title>
+        <id>https://decrypt.co/?p=367125</id>
+        <link href="https://decrypt.co/367125/amazon-coinbase-stripe-ai-agents-pay-stablecoins"/>
+        <updated>2026-05-07T16:32:16.000Z</updated>
+        <summary type="html"><![CDATA[The new Amazon Web Services system lets AI agents use the USDC stablecoin to pay for APIs, data, and online services.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tether's Medical AI Runs on Your Phone and Outperforms Models 16x Its Size]]></title>
+        <id>https://decrypt.co/?p=367127</id>
+        <link href="https://decrypt.co/367127/tether-medical-ai-runs-on-phone-outperforms-models-16x"/>
+        <updated>2026-05-07T16:01:23.000Z</updated>
+        <summary type="html"><![CDATA[QVAC MedPsy squeezes clinical AI onto a smartphone, beating Google's MedGemma-27B on real-world scenarios while using three times fewer compute resources.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Prediction Market Kalshi Boosts Valuation to $22 Billion With Fresh $1 Billion Investment]]></title>
         <id>https://decrypt.co/?p=367108</id>
@@ -343,36 +373,6 @@
         <summary type="html"><![CDATA[Michael Saylor’s Strategy continues to bet big on Bitcoin even as falling prices deliver a punishing quarter for the treasury giant.]]></summary>
         <author>
             <name>Decrypt Agent</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solana and Google Cloud Launch Stablecoin Payments Service for AI Agents]]></title>
-        <id>https://decrypt.co/?p=366876</id>
-        <link href="https://decrypt.co/366876/solana-google-cloud-launch-stablecoin-payments-service-ai-agents"/>
-        <updated>2026-05-05T20:10:09.000Z</updated>
-        <summary type="html"><![CDATA[Solana’s new service lets AI agents pay for Google Cloud and community APIs on a per-request basis, bypassing traditional accounts.]]></summary>
-        <author>
-            <name>Decrypt Agent</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cybercrime Might Be the One Job AI Isn’t Taking, Study Suggests]]></title>
-        <id>https://decrypt.co/?p=366855</id>
-        <link href="https://decrypt.co/366855/cybercrime-hacking-ai-study"/>
-        <updated>2026-05-05T19:16:24.000Z</updated>
-        <summary type="html"><![CDATA[A Cambridge-led study finds AI is not turning hackers into superhackers. It’s mostly helping them write blog spam.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI Just Upgraded ChatGPT's Default Model—Here's What GPT-5.5 Instant Actually Does]]></title>
-        <id>https://decrypt.co/?p=366842</id>
-        <link href="https://decrypt.co/366842/openai-upgraded-chatgpt-default-model-what-gpt-5-5-instant-does"/>
-        <updated>2026-05-05T18:29:40.000Z</updated>
-        <summary type="html"><![CDATA[GPT-5.5 Instant is now the default ChatGPT model. It makes fewer things up, answers more concisely, and finally remembers what you told it last week.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
         </author>
     </entry>
 </feed>
