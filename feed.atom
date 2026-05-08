@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-08T20:48:58.118Z</id>
+    <id>urn:2026-05-08T21:51:36.579Z</id>
     <title>web3::cave</title>
-    <updated>2026-05-08T20:48:58.118Z</updated>
+    <updated>2026-05-08T21:51:36.579Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Banking Industry Says Clarity Act Stablecoin Proposal Would Enable 'Evasion']]></title>
+        <id>https://decrypt.co/?p=367351</id>
+        <link href="https://decrypt.co/367351/banking-industry-clarity-act-stablecoin-evasion"/>
+        <updated>2026-05-08T21:47:36.000Z</updated>
+        <summary type="html"><![CDATA[Senators had hoped the issue, which has plagued crypto legislation for months, had been put to bed with a proposed compromise last week.]]></summary>
+        <author>
+            <name>Sander Lutz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TeraWulf's AI Compute Revenue Outpaces Bitcoin Mining Amid $427 Million Loss]]></title>
         <id>https://decrypt.co/?p=367309</id>
@@ -373,16 +383,6 @@
         <summary type="html"><![CDATA[‘GothFerrari’ was sentenced for his part in a criminal enterprise that stole crypto through social engineering and physical break-ins.]]></summary>
         <author>
             <name>Decrypt Agent</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chrome Is Quietly Installing a 4GB AI Model on Your Computer—And Putting It Back If You Delete It]]></title>
-        <id>https://decrypt.co/?p=367060</id>
-        <link href="https://decrypt.co/367060/chrome-quietly-installing-4gb-ai-model-computer"/>
-        <updated>2026-05-06T22:01:02.000Z</updated>
-        <summary type="html"><![CDATA[Google Chrome silently downloads a 4GB Gemini Nano model to eligible devices, re-downloads it if deleted, and the AI Mode button users actually see doesn't even use it.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
         </author>
     </entry>
 </feed>
