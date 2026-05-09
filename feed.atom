@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-09T12:56:23.769Z</id>
+    <id>urn:2026-05-09T14:14:39.685Z</id>
     <title>web3::cave</title>
-    <updated>2026-05-09T12:56:23.769Z</updated>
+    <updated>2026-05-09T14:14:39.685Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Olympic Sprinter Can't Outrun Charges in UK Crypto Fraud Investigation]]></title>
+        <id>https://decrypt.co/?p=367353</id>
+        <link href="https://decrypt.co/367353/olympic-sprinter-cant-outrun-charges-uk-crypto-fraud"/>
+        <updated>2026-05-09T13:01:03.000Z</updated>
+        <summary type="html"><![CDATA[U.K. police charged British sprinter CJ Ujah in an alleged crypto fraud scheme involving wallet seed phrase theft and impersonation calls.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Banking Industry Says Clarity Act Stablecoin Proposal Would Enable 'Evasion']]></title>
         <id>https://decrypt.co/?p=367351</id>
@@ -373,16 +383,6 @@
         <summary type="html"><![CDATA[The liquidity resolver used by multiple DeFi protocols was hit, with DEX aggregator 1inch claiming no impact on its systems.]]></summary>
         <author>
             <name>Vismaya V</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hardware Wallet Thief Gets 78 Months in Prison Over $250M Crypto 'Heist']]></title>
-        <id>https://decrypt.co/?p=367066</id>
-        <link href="https://decrypt.co/367066/hardware-wallet-thief-gets-78-months-in-prison-over-250m-crypto-heist"/>
-        <updated>2026-05-07T09:42:17.000Z</updated>
-        <summary type="html"><![CDATA[‘GothFerrari’ was sentenced for his part in a criminal enterprise that stole crypto through social engineering and physical break-ins.]]></summary>
-        <author>
-            <name>Decrypt Agent</name>
         </author>
     </entry>
 </feed>
