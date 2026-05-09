@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-09T16:42:04.543Z</id>
+    <id>urn:2026-05-09T17:41:30.649Z</id>
     <title>web3::cave</title>
-    <updated>2026-05-09T16:42:04.543Z</updated>
+    <updated>2026-05-09T17:41:30.649Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Australian Police Seize Millions in Bitcoin From Alleged Darknet Marketplace Operator]]></title>
+        <id>https://decrypt.co/?p=367363</id>
+        <link href="https://decrypt.co/367363/australian-police-seize-millions-bitcoin-darknet-marketplace-operator"/>
+        <updated>2026-05-09T17:24:07.000Z</updated>
+        <summary type="html"><![CDATA[Two men face money laundering and drug charges following the seizure of $4.2 million in Bitcoin from alleged darknet marketplace dealings.]]></summary>
+        <author>
+            <name>Decrypt Agent</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Olympic Sprinter Can't Outrun Charges in UK Crypto Fraud Investigation]]></title>
         <id>https://decrypt.co/?p=367353</id>
@@ -373,16 +383,6 @@
         <summary type="html"><![CDATA[Morgan Stanley just launched crypto trading on ETrade, while the White House wants the Clarity Act signed by July 4.]]></summary>
         <author>
             <name>Tyler Warner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeFi Platform TrustedVolumes Hit by $6.7M Exploit]]></title>
-        <id>https://decrypt.co/?p=367070</id>
-        <link href="https://decrypt.co/367070/defi-platform-trustedvolumes-hit-by-6-7m-exploit"/>
-        <updated>2026-05-07T11:25:55.000Z</updated>
-        <summary type="html"><![CDATA[The liquidity resolver used by multiple DeFi protocols was hit, with DEX aggregator 1inch claiming no impact on its systems.]]></summary>
-        <author>
-            <name>Vismaya V</name>
         </author>
     </entry>
 </feed>
