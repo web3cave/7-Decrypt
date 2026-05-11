@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-11T21:58:06.914Z</id>
+    <id>urn:2026-05-11T22:52:36.755Z</id>
     <title>web3::cave</title>
-    <updated>2026-05-11T21:58:06.914Z</updated>
+    <updated>2026-05-11T22:52:36.755Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[OpenAI Launches Daybreak as AI Firms Expand Into Cybersecurity]]></title>
+        <id>https://decrypt.co/?p=367506</id>
+        <link href="https://decrypt.co/367506/openai-launches-daybreak-ai-cybersecurity"/>
+        <updated>2026-05-11T22:30:36.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI said its new Daybreak initiative uses AI to help companies identify software vulnerabilities and speed up cyber defense.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Baidu's New AI Is Already Beating Top Models and Cost 94% Less to Build]]></title>
         <id>https://decrypt.co/?p=367493</id>
@@ -363,16 +373,6 @@
         <summary type="html"><![CDATA[Bitcoin briefly plummeted to about 2 cents on Revolut due to what the financial platform described as a third-party service disruption.]]></summary>
         <author>
             <name>Andrew Hayward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XRP New Addresses, Active Supply Plunge Amid Shift to ‘Institutional Rails’]]></title>
-        <id>https://decrypt.co/?p=367253</id>
-        <link href="https://decrypt.co/367253/xrp-new-addresses-active-supply-plunge-amid-shift-to-institutional-rails"/>
-        <updated>2026-05-08T13:34:29.000Z</updated>
-        <summary type="html"><![CDATA[New XRP addresses hit multi-year lows, per Glassnode data, as the network shifts from "retail speculation" to institutional usage.]]></summary>
-        <author>
-            <name>Akash Girimath</name>
         </author>
     </entry>
 </feed>
