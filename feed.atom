@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-11T18:50:43.189Z</id>
+    <id>urn:2026-05-11T20:26:45.270Z</id>
     <title>web3::cave</title>
-    <updated>2026-05-11T18:50:43.189Z</updated>
+    <updated>2026-05-11T20:26:45.270Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Hackers Used AI to Build a Zero-Day Exploit That Bypasses Two-Factor Authentication: Google]]></title>
+        <id>https://decrypt.co/?p=367477</id>
+        <link href="https://decrypt.co/367477/hackers-ai-zero-day-exploit-google"/>
+        <updated>2026-05-11T19:49:10.000Z</updated>
+        <summary type="html"><![CDATA[Cybercriminals used an AI model to find and weaponize a previously unknown software flaw, Google's threat team confirmed Monday.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Major Solana Upgrade Alpenglow Begins Testing Ahead of Full Rollout]]></title>
         <id>https://decrypt.co/?p=367470</id>
@@ -363,16 +373,6 @@
         <summary type="html"><![CDATA[Arbitrum DAO voted to release the Kelp exploit funds, but a U.S. Court restraining notice has put the approved transfer in legal jeopardy.]]></summary>
         <author>
             <name>Vismaya V</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AUSTRAC Launches Supervision Campaigns as Australia's Crypto Regulatory Reforms Kick In]]></title>
-        <id>https://decrypt.co/?p=367236</id>
-        <link href="https://decrypt.co/367236/austrac-launches-supervision-campaigns-as-australias-crypto-regulatory-reforms-kick-in"/>
-        <updated>2026-05-08T10:13:11.000Z</updated>
-        <summary type="html"><![CDATA[The campaigns target over-the-counter operators and local exchanges as new laws expand oversight to custody and brokerage services.]]></summary>
-        <author>
-            <name>Decrypt Agent</name>
         </author>
     </entry>
 </feed>
