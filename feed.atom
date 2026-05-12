@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-12T08:39:48.429Z</id>
+    <id>urn:2026-05-12T11:12:54.826Z</id>
     <title>web3::cave</title>
-    <updated>2026-05-12T08:39:48.429Z</updated>
+    <updated>2026-05-12T11:12:54.826Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Three Indicted Over ‘Brazen’ Crypto Wrench Attack Spree in California]]></title>
+        <id>https://decrypt.co/?p=367513</id>
+        <link href="https://decrypt.co/367513/three-indicted-over-brazen-crypto-wrench-attack-spree-in-california"/>
+        <updated>2026-05-12T10:19:50.000Z</updated>
+        <summary type="html"><![CDATA[Federal prosecutors charged the trio with a multi-million dollar crypto theft scheme targeting victims across California.]]></summary>
+        <author>
+            <name>Decrypt Agent</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OpenAI Launches Daybreak as AI Firms Expand Into Cybersecurity]]></title>
         <id>https://decrypt.co/?p=367506</id>
@@ -353,26 +363,6 @@
         <summary type="html"><![CDATA[Coinbase says Amazon Web Services failures across multiple availability zones caused an extended outage on its platform.]]></summary>
         <author>
             <name>Jason Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Won’t End Human Work, Andreessen Horowitz Partner Says]]></title>
-        <id>https://decrypt.co/?p=367222</id>
-        <link href="https://decrypt.co/367222/ai-wont-end-human-work-andreessen-horowitz-partner"/>
-        <updated>2026-05-08T15:14:15.000Z</updated>
-        <summary type="html"><![CDATA[a16z partner David George argues AI will reshape work instead of erasing it.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Price Crashes Near Zero on Revolut, Blamed on Third-Party Service Disruption]]></title>
-        <id>https://decrypt.co/?p=367258</id>
-        <link href="https://decrypt.co/367258/bitcoin-price-crashes-near-zero-revolut-third-party-disruption"/>
-        <updated>2026-05-08T14:29:52.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin briefly plummeted to about 2 cents on Revolut due to what the financial platform described as a third-party service disruption.]]></summary>
-        <author>
-            <name>Andrew Hayward</name>
         </author>
     </entry>
 </feed>
