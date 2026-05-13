@@ -6,6 +6,36 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=367796",
+          "author": "Jason Nelson",
+          "description": "A viral thread on X drew millions of views as a user claimed Claude AI helped recover a lost Bitcoin wallet.",
+          "link": "https://decrypt.co/367796/claude-ai-cracked-lost-bitcoin-wallet-owner-claims",
+          "publishedOn": "2026-05-13T22:06:29.000Z",
+          "wordCount": 10033,
+          "title": "Bitcoin Owner Claims Claude AI Cracked Lost Wallet Password, Netting $400K in BTC",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-19-gID_7.png@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-19-gID_7.png@png"
+        },
+        {
+          "id": "https://decrypt.co/?p=367787",
+          "author": "Logan Hitchcock",
+          "description": "Bitcoin's recent rally stalled at a critical level, putting the top crypto asset in a position that has previously led to major downturns.",
+          "link": "https://decrypt.co/367787/bitcoin-rally-cut-short-profit-taking-rises-us-demand-falls-cryptoquant",
+          "publishedOn": "2026-05-13T21:30:46.000Z",
+          "wordCount": 9627,
+          "title": "Bitcoin Rally Cut Short as Profit-Taking Rises, US Demand Falls: CryptoQuant",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/Bitcoin-decrypt-style-23-gID_7.jpg@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/Bitcoin-decrypt-style-23-gID_7.jpg@png"
+        },
+        {
           "id": "https://decrypt.co/?p=367581",
           "author": "Decrypt Staff",
           "description": "Chainlink Runtime Environment enables Myriad to deploy a new range of prediction markets with immediate settlement.",
@@ -86,7 +116,7 @@
           "description": "Peter Jackson says Hollywood’s fears around AI could hurt recognition for performance-capture acting, as debates about how the technology will reshape the movie industry grow.",
           "link": "https://decrypt.co/367759/lord-rings-director-peter-jackson-ai-just-special-effect",
           "publishedOn": "2026-05-13T17:06:51.000Z",
-          "wordCount": 9620,
+          "wordCount": 9629,
           "title": "'Lord of the Rings' Director Peter Jackson Says AI Is 'Just a Special Effect'",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/peter-jackson-decrypt-style-gID_7.jpg@png",
@@ -146,7 +176,7 @@
           "description": "A peer-reviewed audit in BMJ Open found that nearly 50% of health responses from five major AI chatbots were problematic, with fabricated sources and confident delivery.",
           "link": "https://decrypt.co/367689/half-ai-health-advice-wrong-seems-right",
           "publishedOn": "2026-05-13T14:55:14.000Z",
-          "wordCount": 10665,
+          "wordCount": 10674,
           "title": "Half of AI Health Advice Is Wrong—And Seems Just Right",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/doctor-decrypt-style-gID_7.png@png",
@@ -191,7 +221,7 @@
           "description": "Microsoft Threat Intelligence said attackers placed malicious code inside a Mistral AI software download distributed through a Python package.",
           "link": "https://decrypt.co/367683/hackers-insert-malware-mistral-ai",
           "publishedOn": "2026-05-12T22:26:18.000Z",
-          "wordCount": 9454,
+          "wordCount": 9463,
           "title": "Hackers Insert Malware Into Mistral AI Software Download",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Hacker-hack-decrypt-style-04-gID_7.jpg@png",
@@ -236,7 +266,7 @@
           "description": "A lookalike repository impersonating OpenAI's Privacy Filter model racked up 244,000 downloads in under 18 hours before Hugging Face pulled it.",
           "link": "https://decrypt.co/367659/fake-openai-repo-hugging-face-stole-passwords",
           "publishedOn": "2026-05-12T20:46:59.000Z",
-          "wordCount": 10801,
+          "wordCount": 10810,
           "title": "Fake OpenAI Repo Hit #1 on Hugging Face—And Stole Passwords While It Trended",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Hacker-decrypt-style-02-gID_7.png@png",
@@ -251,7 +281,7 @@
           "description": "Google launched Gemini Intelligence, a feature suite that aims to turn Android devices into proactive AI assistants.",
           "link": "https://decrypt.co/367648/android-smarter-google-ai-boosts-heres-how",
           "publishedOn": "2026-05-12T20:35:35.000Z",
-          "wordCount": 10207,
+          "wordCount": 10216,
           "title": "Android Is About to Get a Lot Smarter With Google AI Boosts—Here's How",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/google-pixel-10-decrypt-style-gID_7.jpg@png",
@@ -296,7 +326,7 @@
           "description": "Both companies declared SPV-based share schemes invalid this week—and Anthropic named names, including Forge Global.",
           "link": "https://decrypt.co/367614/anthropic-openai-warn-unauthorized-ai-startup-stock-worthless-spv",
           "publishedOn": "2026-05-12T18:07:43.000Z",
-          "wordCount": 11347,
+          "wordCount": 11356,
           "title": "Anthropic and OpenAI Warn Buyers: Unauthorized AI Startup Shares May Be Worthless",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-sam-altman-2-gID_7.png@png",
@@ -326,7 +356,7 @@
           "description": "The family of a deceased 19-year-old college student alleges ChatGPT encouraged dangerous drug use and contributed to his fatal overdose.",
           "link": "https://decrypt.co/367601/openai-faces-lawsuit-chatgpt-encouraged-teens-fatal-overdose",
           "publishedOn": "2026-05-12T17:18:54.000Z",
-          "wordCount": 9615,
+          "wordCount": 9624,
           "title": "OpenAI Faces Lawsuit Over Claims ChatGPT Encouraged Teen's Fatal Overdose",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-gID_7.png@png",
@@ -439,36 +469,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/US-Capitol-decrypt-style-02-gID_7.png@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=367529",
-          "author": "Akash Girimath",
-          "description": "Bitcoin is down 35% from its all-time high, making this drawdown shallower than past cycles, but analysts warn the bear market could resume.",
-          "link": "https://decrypt.co/367529/is-this-bitcoin-bear-market-different-analysts-weigh-in",
-          "publishedOn": "2026-05-12T11:25:04.000Z",
-          "wordCount": 10330,
-          "title": "Is This Bitcoin Bear Market Different? Analysts Weigh In",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bear-market-decrypt-style-gID_7.jpg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bear-market-decrypt-style-gID_7.jpg@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=367513",
-          "author": "Decrypt Agent",
-          "description": "Federal prosecutors charged the trio with a multi-million dollar crypto theft scheme targeting victims across California.",
-          "link": "https://decrypt.co/367513/three-indicted-over-brazen-crypto-wrench-attack-spree-in-california",
-          "publishedOn": "2026-05-12T10:19:50.000Z",
-          "wordCount": 9714,
-          "title": "Three Indicted Over ‘Brazen’ Crypto Wrench Attack Spree in California",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Judge-gID_7.png@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Judge-gID_7.png@png"
         }
       ]
     }
