@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-15T20:52:22.732Z</id>
+    <id>urn:2026-05-15T21:50:29.546Z</id>
     <title>web3::cave</title>
-    <updated>2026-05-15T20:52:22.732Z</updated>
+    <updated>2026-05-15T21:50:29.546Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Drake Calls for Sam Bankman-Fried's Release in New, Critically Panned Album]]></title>
+        <id>https://decrypt.co/?p=368105</id>
+        <link href="https://decrypt.co/368105/drake-calls-sam-bankman-frieds-release-critically-panned-album"/>
+        <updated>2026-05-15T21:10:56.000Z</updated>
+        <summary type="html"><![CDATA[Rapper Drake released three new albums on Friday, and described himself on one as “a BTC crypto big-timer.”]]></summary>
+        <author>
+            <name>Sander Lutz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lombard Finance Dumps LayerZero, Will Use Chainlink to Power $1 Billion in Bitcoin Assets]]></title>
+        <id>https://decrypt.co/?p=368100</id>
+        <link href="https://decrypt.co/368100/lombard-finance-dumps-layerzero-chainlink-1-billion-bitcoin-assets"/>
+        <updated>2026-05-15T20:54:03.000Z</updated>
+        <summary type="html"><![CDATA[The Bitcoin DeFi protocol is moving its assets away from LayerZero following the Kelp DAO exploit that led to the loss of $292 million.]]></summary>
+        <author>
+            <name>Logan Hitchcock</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hyperliquid Policy Arm Rejects Market Integrity Concerns Amid Oil Futures Surge]]></title>
         <id>https://decrypt.co/?p=368101</id>
@@ -353,26 +373,6 @@
         <summary type="html"><![CDATA[Inflation fears and Fed uncertainty trigger the biggest U.S. Bitcoin ETF outflows since January, snapping weeks of institutional inflows.]]></summary>
         <author>
             <name>Vismaya V</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Owner Claims Claude AI Cracked Lost Wallet Password, Netting $400K in BTC]]></title>
-        <id>https://decrypt.co/?p=367796</id>
-        <link href="https://decrypt.co/367796/claude-ai-cracked-lost-bitcoin-wallet-owner-claims"/>
-        <updated>2026-05-13T22:06:29.000Z</updated>
-        <summary type="html"><![CDATA[A viral thread on X drew millions of views as a user claimed Claude AI helped recover a lost Bitcoin wallet.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Rally Cut Short as Profit-Taking Rises, US Demand Falls: CryptoQuant]]></title>
-        <id>https://decrypt.co/?p=367787</id>
-        <link href="https://decrypt.co/367787/bitcoin-rally-cut-short-profit-taking-rises-us-demand-falls-cryptoquant"/>
-        <updated>2026-05-13T21:30:46.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin's recent rally stalled at a critical level, putting the top crypto asset in a position that has previously led to major downturns.]]></summary>
-        <author>
-            <name>Logan Hitchcock</name>
         </author>
     </entry>
 </feed>
