@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-15T09:39:04.826Z</id>
+    <id>urn:2026-05-15T11:48:06.367Z</id>
     <title>web3::cave</title>
-    <updated>2026-05-15T09:39:04.826Z</updated>
+    <updated>2026-05-15T11:48:06.367Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[THORChain’s RUNE Token Plunges Double Digits After $10M Exploit, Trading Halt]]></title>
+        <id>https://decrypt.co/?p=367943</id>
+        <link href="https://decrypt.co/367943/thorchains-rune-token-plunges-double-digits-after-10m-exploit-trading-halt"/>
+        <updated>2026-05-15T10:58:24.000Z</updated>
+        <summary type="html"><![CDATA[The liquidity protocol halted operations after blockchain researchers identified a suspected $10 million breach across multiple networks.]]></summary>
+        <author>
+            <name>Decrypt Agent</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OpenAI Pushes New ChatGPT Safety Features as Lawsuits Mount]]></title>
         <id>https://decrypt.co/?p=367937</id>
@@ -353,16 +363,6 @@
         <summary type="html"><![CDATA[Microsoft Threat Intelligence said attackers placed malicious code inside a Mistral AI software download distributed through a Python package.]]></summary>
         <author>
             <name>Jason Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JPMorgan Files to Launch Tokenized Money Market Fund on Ethereum]]></title>
-        <id>https://decrypt.co/?p=367664</id>
-        <link href="https://decrypt.co/367664/jpmorgan-tokenized-money-market-fund-ethereum"/>
-        <updated>2026-05-12T21:31:14.000Z</updated>
-        <summary type="html"><![CDATA[Global banking giant JPMorgan filed for a new tokenized money market fund that will initially run on the Ethereum network.]]></summary>
-        <author>
-            <name>Logan Hitchcock</name>
         </author>
     </entry>
 </feed>
