@@ -6,6 +6,21 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=367779",
+          "author": "Jose Antonio Lanz",
+          "description": "From Cydia to ChatGPT, jailbreaking went from cracking iPhones to liberating LLMs. Here's how it works, who's doing it, and why every AI lab is losing sleep.",
+          "link": "https://decrypt.co/resources/what-is-ai-jailbreaking-explained",
+          "publishedOn": "2026-05-16T13:01:02.000Z",
+          "wordCount": 14181,
+          "title": "What Is AI Jailbreaking? A Beginner's Guide to the Cat-and-Mouse Game Behind Every Chatbot",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/ai-jailbreaking-learn-gID_5-pID_4.png@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/ai-jailbreaking-learn-gID_5-pID_4.png@png"
+        },
+        {
           "id": "https://decrypt.co/?p=368105",
           "author": "Sander Lutz",
           "description": "Rapper Drake released three new albums on Friday, and described himself on one as “a BTC crypto big-timer.”",
@@ -86,7 +101,7 @@
           "description": "OpenAI launched a personal finance tool that connects ChatGPT to your bank accounts, giving spending advice based on your actual habits.",
           "link": "https://decrypt.co/368039/chatgpt-see-bank-account-what-actually-means",
           "publishedOn": "2026-05-15T18:46:24.000Z",
-          "wordCount": 10961,
+          "wordCount": 10955,
           "title": "ChatGPT Can Now See Your Bank Account—Here's What That Actually Means",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/decrypt-style-accountant-ai-gID_7.png@png",
@@ -116,7 +131,7 @@
           "description": "In new research, Emergence AI said autonomous AI agents became more violent, deceptive, and unstable during weeks-long simulations designed to study long-term behavior.",
           "link": "https://decrypt.co/368030/ai-agents-crime-arson-self-deletion-simulation",
           "publishedOn": "2026-05-15T17:34:40.000Z",
-          "wordCount": 10083,
+          "wordCount": 10077,
           "title": "AI Agents Turn to Digital Arson, Crime in Shared Virtual World: Study",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/robot-typing-gID_7.jpg@png",
@@ -131,7 +146,7 @@
           "description": "IREN, a prominent Bitcoin mining firm, completed a $3 billion convertible notes offering to accelerate its AI cloud infrastructure buildout.",
           "link": "https://decrypt.co/368028/bitcoin-miner-iren-3-billion-convertible-notes-offering-ai-ambitions-grow",
           "publishedOn": "2026-05-15T17:28:55.000Z",
-          "wordCount": 9340,
+          "wordCount": 9334,
           "title": "Bitcoin Miner IREN Closes $3 Billion Convertible Notes Offering to Fuel AI Transformation",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/bitcoin-mining-decrypt-style-04-gID_7.png@png",
@@ -281,7 +296,7 @@
           "description": "Security startup Calif says researchers used a preview version of Anthropic's Claude Mythos AI to help build an Apple macOS kernel exploit.",
           "link": "https://decrypt.co/367925/apple-mac-m5-system-exploited-anthropic-claude-mythos-ai",
           "publishedOn": "2026-05-14T21:16:53.000Z",
-          "wordCount": 10153,
+          "wordCount": 10147,
           "title": "Apple Mac M5 System Exploited With Anthropic's Claude Mythos AI, Researchers Claim",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/apple-logo-decrypy-style-01-gID_7.png@png",
@@ -326,7 +341,7 @@
           "description": "Moonshot AI just shipped a browser extension that hands the wheel to AI agents. It clicks, scrolls, fills forms, and navigates your Chrome or Edge—without sessions ever leaving your machine.",
           "link": "https://decrypt.co/367916/kimi-webbridge-ai-agents-browser-local",
           "publishedOn": "2026-05-14T19:49:37.000Z",
-          "wordCount": 11743,
+          "wordCount": 11737,
           "title": "Kimi WebBridge Lets AI Agents Drive Your Browser—And Keep Your Data Local",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/ai-agents-decrypt-style-gID_7.jpg@png",
@@ -341,7 +356,7 @@
           "description": "ChatGPT's web traffic share is falling while its rivals are rising—just as businesses start to look beyond OpenAI.",
           "link": "https://decrypt.co/367884/chatgpt-losing-ground-anthrophic-google-numbers",
           "publishedOn": "2026-05-14T18:44:58.000Z",
-          "wordCount": 10404,
+          "wordCount": 10398,
           "title": "ChatGPT Is Losing Ground to Rivals—Here Are Some Numbers",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-ai-chatgpt-gemini-claude-2-gID_7.png@png",
@@ -386,7 +401,7 @@
           "description": "Researchers found that AI agents designed to automate tasks often pursue them without recognizing when their actions are dangerous.",
           "link": "https://decrypt.co/367869/ai-agents-dangerous-tasks-without-understanding-consequences",
           "publishedOn": "2026-05-14T17:32:31.000Z",
-          "wordCount": 9939,
+          "wordCount": 9933,
           "title": "AI Agents May Complete Dangerous Tasks Without Understanding the Consequences: Study",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-05-gID_7.png@png",
@@ -544,21 +559,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/11/China-USA-gID_7.jpg@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=367822",
-          "author": "Vismaya V",
-          "description": "Inflation fears and Fed uncertainty trigger the biggest U.S. Bitcoin ETF outflows since January, snapping weeks of institutional inflows.",
-          "link": "https://decrypt.co/367822/bitcoin-etfs-shed-630m-in-largest-daily-exit-since-january",
-          "publishedOn": "2026-05-14T10:56:18.000Z",
-          "wordCount": 9717,
-          "title": "Bitcoin ETFs Shed $630M in Largest Daily Exit Since January",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/bitcoin-etf-decrypt-style-01-gID_7.jpg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/bitcoin-etf-decrypt-style-01-gID_7.jpg@png"
         }
       ]
     }

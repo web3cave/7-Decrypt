@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-16T13:01:23.729Z</id>
+    <id>urn:2026-05-16T14:47:33.700Z</id>
     <title>web3::cave</title>
-    <updated>2026-05-16T13:01:23.729Z</updated>
+    <updated>2026-05-16T14:47:33.700Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What Is AI Jailbreaking? A Beginner's Guide to the Cat-and-Mouse Game Behind Every Chatbot]]></title>
+        <id>https://decrypt.co/?p=367779</id>
+        <link href="https://decrypt.co/resources/what-is-ai-jailbreaking-explained"/>
+        <updated>2026-05-16T13:01:02.000Z</updated>
+        <summary type="html"><![CDATA[From Cydia to ChatGPT, jailbreaking went from cracking iPhones to liberating LLMs. Here's how it works, who's doing it, and why every AI lab is losing sleep.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Drake Calls for Sam Bankman-Fried's Release in New, Critically Panned Album]]></title>
         <id>https://decrypt.co/?p=368105</id>
@@ -363,16 +373,6 @@
         <summary type="html"><![CDATA[Trump's in Beijing for the biggest potential market-moving event of the year, while Claude helped one lucky user recover $400,000 in Bitcoin.]]></summary>
         <author>
             <name>Tyler Warner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin ETFs Shed $630M in Largest Daily Exit Since January]]></title>
-        <id>https://decrypt.co/?p=367822</id>
-        <link href="https://decrypt.co/367822/bitcoin-etfs-shed-630m-in-largest-daily-exit-since-january"/>
-        <updated>2026-05-14T10:56:18.000Z</updated>
-        <summary type="html"><![CDATA[Inflation fears and Fed uncertainty trigger the biggest U.S. Bitcoin ETF outflows since January, snapping weeks of institutional inflows.]]></summary>
-        <author>
-            <name>Vismaya V</name>
         </author>
     </entry>
 </feed>
