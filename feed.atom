@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-17T20:01:03.072Z</id>
+    <id>urn:2026-05-17T21:45:12.090Z</id>
     <title>web3::cave</title>
-    <updated>2026-05-17T20:01:03.072Z</updated>
+    <updated>2026-05-17T21:45:12.090Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What Is Arc? The Stablecoin Blockchain From USDC Issuer Circle]]></title>
+        <id>https://decrypt.co/?p=340212</id>
+        <link href="https://decrypt.co/resources/what-is-arc-the-stablecoin-blockchain-from-usdc-issuer-circle"/>
+        <updated>2026-05-17T20:32:07.000Z</updated>
+        <summary type="html"><![CDATA[Arc is a new layer-1 blockchain developed by USDC issuer Circle, designed specifically for stablecoin-native finance.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Justin Sun-Led Liberland Micronation Awards Ethereum Founder Vitalik Buterin Its Top Honor]]></title>
         <id>https://decrypt.co/?p=368116</id>
@@ -363,16 +373,6 @@
         <summary type="html"><![CDATA[Arthur Breitman's comments come as Tezos tests a post-quantum privacy system designed to protect encrypted blockchain data from future attacks.]]></summary>
         <author>
             <name>Jason Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin’s Dip Below $80K Could Be ‘Short-Lived’ as STRC Cycle Looms]]></title>
-        <id>https://decrypt.co/?p=367828</id>
-        <link href="https://decrypt.co/367828/bitcoins-dip-below-80k-could-be-short-lived-as-strc-cycle-looms"/>
-        <updated>2026-05-14T12:49:20.000Z</updated>
-        <summary type="html"><![CDATA[Strategy's STRC stock has fueled mid-month Bitcoin rallies since March, but May demand is plateauing as ETFs posted $630 million outflows.]]></summary>
-        <author>
-            <name>Akash Girimath</name>
         </author>
     </entry>
 </feed>
