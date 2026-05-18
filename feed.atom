@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-18T21:02:22.638Z</id>
+    <id>urn:2026-05-18T22:50:59.001Z</id>
     <title>web3::cave</title>
-    <updated>2026-05-18T21:02:22.638Z</updated>
+    <updated>2026-05-18T22:50:59.001Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Lawyers Apologize After Fake Claude-Generated Quotes Appear in Trump Layoffs Case]]></title>
+        <id>https://decrypt.co/?p=368287</id>
+        <link href="https://decrypt.co/368287/lawyers-apologize-fake-claude-generated-quotes-trump-layoffs-case"/>
+        <updated>2026-05-18T21:46:03.000Z</updated>
+        <summary type="html"><![CDATA[Attorneys representing a former Homeland Security official admitted using Anthropic’s Claude Console to help draft a court filing that included fabricated quotes.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Still Can't Beat the On-Call Engineer: Here's Why]]></title>
+        <id>https://decrypt.co/?p=368265</id>
+        <link href="https://decrypt.co/368265/arfbench-datadog-benchmark-ai-engineers-outages"/>
+        <updated>2026-05-18T21:05:45.000Z</updated>
+        <summary type="html"><![CDATA[The best AI models can't yet beat the engineers they’re supposed to replace at fixing real-world problems, a new benchmark suggests.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoin Faces Greater Quantum Computing Risk Than Ethereum, Citi Warns]]></title>
         <id>https://decrypt.co/?p=368264</id>
@@ -343,26 +363,6 @@
         <summary type="html"><![CDATA[Analysts point to profit-taking, not panic, with ETF outflows at their worst pace since February as 10-year Treasury yield soars.]]></summary>
         <author>
             <name>Akash Girimath</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dune Analytics Slashes 25% of Workforce in AI, Institutional Pivot]]></title>
-        <id>https://decrypt.co/?p=367949</id>
-        <link href="https://decrypt.co/367949/dune-analytics-slashes-25-of-workforce-in-ai-institutional-pivot"/>
-        <updated>2026-05-15T12:24:02.000Z</updated>
-        <summary type="html"><![CDATA[Dune is restructuring around artificial intelligence and enterprise clients, shedding a quarter of its workforce in the process.]]></summary>
-        <author>
-            <name>Vismaya V</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Minute: The Clarity Act Just Passed Its First Major Vote]]></title>
-        <id>https://decrypt.co/?p=367946</id>
-        <link href="https://decrypt.co/367946/morning-minute-the-clarity-act-just-passed-its-first-major-vote"/>
-        <updated>2026-05-15T12:10:09.000Z</updated>
-        <summary type="html"><![CDATA[The Clarity Act passed a bipartisan vote in its 1st checkpoint. Coinbase made a major deal with Hyperliquid and HYPE ripped on the news.]]></summary>
-        <author>
-            <name>Tyler Warner</name>
         </author>
     </entry>
 </feed>
