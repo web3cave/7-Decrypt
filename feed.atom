@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-18T19:25:25.678Z</id>
+    <id>urn:2026-05-18T21:02:22.638Z</id>
     <title>web3::cave</title>
-    <updated>2026-05-18T19:25:25.678Z</updated>
+    <updated>2026-05-18T21:02:22.638Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Faces Greater Quantum Computing Risk Than Ethereum, Citi Warns]]></title>
+        <id>https://decrypt.co/?p=368264</id>
+        <link href="https://decrypt.co/368264/bitcoin-faces-greater-quantum-computing-risk-ethereum-citi-warns"/>
+        <updated>2026-05-18T20:55:33.000Z</updated>
+        <summary type="html"><![CDATA[Both Bitcoin and Ethereum face a quantum computing threat, but Citi says the gap between them comes down to governance, not just technology.]]></summary>
+        <author>
+            <name>Decrypt Agent</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Swan Bitcoin Hit With Nearly $1 Billion Lawsuit Over Prime Trust Collapse]]></title>
+        <id>https://decrypt.co/?p=368244</id>
+        <link href="https://decrypt.co/368244/swan-bitcoin-nearly-1-billion-lawsuit-prime-trust-collapse"/>
+        <updated>2026-05-18T19:48:36.000Z</updated>
+        <summary type="html"><![CDATA[The lawsuit alleges that the Bitcoin-centric financial services firm took advantage of insider information to escape major losses.]]></summary>
+        <author>
+            <name>Logan Hitchcock</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[This Open-Source Phone AI Agent Sees, Hears and Acts—All Without Touching the Cloud]]></title>
         <id>https://decrypt.co/?p=368238</id>
@@ -343,26 +363,6 @@
         <summary type="html"><![CDATA[The Clarity Act passed a bipartisan vote in its 1st checkpoint. Coinbase made a major deal with Hyperliquid and HYPE ripped on the news.]]></summary>
         <author>
             <name>Tyler Warner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[THORChain’s RUNE Token Plunges Double Digits After $10M Exploit, Trading Halt]]></title>
-        <id>https://decrypt.co/?p=367943</id>
-        <link href="https://decrypt.co/367943/thorchains-rune-token-plunges-double-digits-after-10m-exploit-trading-halt"/>
-        <updated>2026-05-15T10:58:24.000Z</updated>
-        <summary type="html"><![CDATA[The liquidity protocol halted operations after blockchain researchers identified a suspected $10 million breach across multiple networks.]]></summary>
-        <author>
-            <name>Decrypt Agent</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI Pushes New ChatGPT Safety Features as Lawsuits Mount]]></title>
-        <id>https://decrypt.co/?p=367937</id>
-        <link href="https://decrypt.co/367937/openai-new-chatgpt-safety-features-lawsuits-investigations"/>
-        <updated>2026-05-14T21:43:50.000Z</updated>
-        <summary type="html"><![CDATA[OpenAI says ChatGPT can better detect signs of self-harm and violence as the company faces lawsuits and investigations over dangerous chatbot interactions.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
         </author>
     </entry>
 </feed>
