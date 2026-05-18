@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-17T23:50:27.334Z</id>
+    <id>urn:2026-05-18T02:33:02.740Z</id>
     <title>web3::cave</title>
-    <updated>2026-05-17T23:50:27.334Z</updated>
+    <updated>2026-05-18T02:33:02.740Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[KuCoin Australia’s ‘Evolution’ Showcases Regulatory Focus, Mastercard Launch]]></title>
+        <id>https://decrypt.co/?p=367114</id>
+        <link href="https://decrypt.co/367114/kucoin-australias-evolution-showcases-regulatory-focus-mastercard-launch"/>
+        <updated>2026-05-18T00:01:03.000Z</updated>
+        <summary type="html"><![CDATA[The exchange’s KuCard rollout enables users to make "seamless payments" to Mastercard merchants using USDC.]]></summary>
+        <author>
+            <name>Decrypt Staff</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What Is Arc? The Stablecoin Blockchain From USDC Issuer Circle]]></title>
         <id>https://decrypt.co/?p=340212</id>
@@ -363,16 +373,6 @@
         <summary type="html"><![CDATA[BoE officials are reportedly reviewing caps and reserve rules as the UK tries to keep stablecoin issuers onshore.]]></summary>
         <author>
             <name>Vince Dioquino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tezos Tests Post-Quantum Privacy as Founder Slams 'Half-Baked' Bitcoin Quantum Theories]]></title>
-        <id>https://decrypt.co/?p=367795</id>
-        <link href="https://decrypt.co/367795/tezos-post-quantum-privacy-founder-slams-half-baked-bitcoin-theories"/>
-        <updated>2026-05-14T13:01:03.000Z</updated>
-        <summary type="html"><![CDATA[Arthur Breitman's comments come as Tezos tests a post-quantum privacy system designed to protect encrypted blockchain data from future attacks.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
         </author>
     </entry>
 </feed>
