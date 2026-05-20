@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-20T06:40:50.663Z</id>
+    <id>urn:2026-05-20T10:19:18.017Z</id>
     <title>web3::cave</title>
-    <updated>2026-05-20T06:40:50.663Z</updated>
+    <updated>2026-05-20T10:19:18.017Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Trump's Truth Social Pulls Bitcoin ETF Application From SEC Review]]></title>
+        <id>https://decrypt.co/?p=368428</id>
+        <link href="https://decrypt.co/368428/trumps-truth-social-pulls-bitcoin-etf-application-from-sec-review"/>
+        <updated>2026-05-20T10:04:26.000Z</updated>
+        <summary type="html"><![CDATA[Trump Media & Technology Group has withdrawn its Form S-1 registrations for Bitcoin and Bitcoin-Ethereum ETFs.]]></summary>
+        <author>
+            <name>Decrypt Agent</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[After Nearly a Decade, Gary Gensler's Poster Child for Crypto Compliance Executes Its First Trade]]></title>
         <id>https://decrypt.co/?p=368409</id>
@@ -353,16 +363,6 @@
         <summary type="html"><![CDATA[The exchange’s KuCard rollout enables users to make "seamless payments" to Mastercard merchants using USDC.]]></summary>
         <author>
             <name>Decrypt Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Is Arc? The Stablecoin Blockchain From USDC Issuer Circle]]></title>
-        <id>https://decrypt.co/?p=340212</id>
-        <link href="https://decrypt.co/resources/what-is-arc-the-stablecoin-blockchain-from-usdc-issuer-circle"/>
-        <updated>2026-05-17T20:32:07.000Z</updated>
-        <summary type="html"><![CDATA[Arc is a new layer-1 blockchain developed by USDC issuer Circle, designed specifically for stablecoin-native finance.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
         </author>
     </entry>
 </feed>
