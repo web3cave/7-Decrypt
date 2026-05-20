@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-20T16:45:26.966Z</id>
+    <id>urn:2026-05-20T19:14:02.684Z</id>
     <title>web3::cave</title>
-    <updated>2026-05-20T16:45:26.966Z</updated>
+    <updated>2026-05-20T19:14:02.684Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Qwen 3.7 Max Preview: What Alibaba's New AI Gets Right and Where It Falls Short]]></title>
+        <id>https://decrypt.co/?p=368499</id>
+        <link href="https://decrypt.co/368499/alibaba-qwen-3-7-max-preview-review"/>
+        <updated>2026-05-20T19:10:44.000Z</updated>
+        <summary type="html"><![CDATA[Alibaba's Qwen 3.7 Max landed on Arena AI five days before the Cloud Summit and earned its spot. We tested it to see if the preview was as good as it seemed.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI Set to File for IPO Within Days, Targeting September Listing: WSJ]]></title>
+        <id>https://decrypt.co/?p=368498</id>
+        <link href="https://decrypt.co/368498/openai-file-ipo-targeting-september-listing-wsj"/>
+        <updated>2026-05-20T18:45:17.000Z</updated>
+        <summary type="html"><![CDATA[ChatGPT maker OpenAI is reportedly targeting a September public debut after the Elon Musk lawsuit dismissal clears legal obstacles.]]></summary>
+        <author>
+            <name>Andrew Hayward</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google's Stock Fell on Its Best I/O in Years. Here's Why BofA Is Still Buying]]></title>
+        <id>https://decrypt.co/?p=368481</id>
+        <link href="https://decrypt.co/368481/google-stock-ai-gemini-why-bofa-bank-america-still-buying"/>
+        <updated>2026-05-20T18:04:50.000Z</updated>
+        <summary type="html"><![CDATA[Bank of America analysts believe Alphabet is still a buy, seeing potential 10% upside in stock price following Google I/O 2026.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub Confirms 3,800 Internal Repos Stolen Through Poisoned VS Code Extension]]></title>
+        <id>https://decrypt.co/?p=368476</id>
+        <link href="https://decrypt.co/368476/github-confirms-3800-internal-repos-stolen-poisoned-vs-code-extension"/>
+        <updated>2026-05-20T16:54:07.000Z</updated>
+        <summary type="html"><![CDATA[TeamPCP gained access to GitHub's private source code after an employee unknowingly installed a malicious coding tool.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tether Tightens Grip on Bitcoin Treasury Firm Twenty One With SoftBank Buyout]]></title>
         <id>https://decrypt.co/?p=368458</id>
@@ -343,46 +383,6 @@
         <summary type="html"><![CDATA[The UK’s central bank and financial regulator have launched a joint Call for Input as tokenization moves from “pilots to production.”]]></summary>
         <author>
             <name>Decrypt Agent</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin, Ethereum ETFs Bleed as Crypto Funds Shed $1.07 Billion, Ending 6-Week Win Streak]]></title>
-        <id>https://decrypt.co/?p=368183</id>
-        <link href="https://decrypt.co/368183/bitcoin-ethereum-etfs-bleed-crypto-funds-shed-1-billion"/>
-        <updated>2026-05-18T16:00:29.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin ETFs bore the brunt of a geopolitically driven sell-off, CoinShares said, though altcoin funds largely held their ground.]]></summary>
-        <author>
-            <name>Andrew Hayward</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['Attractive Opportunity': Tom Lee's BitMine Adds $151 Million in Ethereum Amid Price Dip]]></title>
-        <id>https://decrypt.co/?p=368171</id>
-        <link href="https://decrypt.co/368171/attractive-opportunity-tom-lee-bitmine-151-million-ethereum-price-dip"/>
-        <updated>2026-05-18T15:16:20.000Z</updated>
-        <summary type="html"><![CDATA[BitMine Immersion Technologies added $151 million in Ethereum amid last week's price slide, with Tom Lee citing the "attractive opportunity."]]></summary>
-        <author>
-            <name>Logan Hitchcock</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Strategy Leverages Preferred Stock Issuance for $2 Billion Bitcoin Buy]]></title>
-        <id>https://decrypt.co/?p=368170</id>
-        <link href="https://decrypt.co/368170/strategy-preferred-stock-issuance-2-billion-bitcoin-buy"/>
-        <updated>2026-05-18T14:50:13.000Z</updated>
-        <summary type="html"><![CDATA[Strategy purchased 24,869 Bitcoin last week for $2 billion, channeling billions of dollars that came from its flagship preferred stock.]]></summary>
-        <author>
-            <name>André Beganski</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hyperliquid Defies Market Downturn as SpaceX, Anthropic, OpenAI IPOs Loom]]></title>
-        <id>https://decrypt.co/?p=368172</id>
-        <link href="https://decrypt.co/368172/hyperliquid-defies-market-downturn-as-spacex-anthropic-openai-ipos-loom"/>
-        <updated>2026-05-18T14:46:25.000Z</updated>
-        <summary type="html"><![CDATA[Hyperliquid’s HYPE token has jumped as its HIP-3 pre-IPO perp marketplace heats up ahead of a series of high-profile tech IPOs.]]></summary>
-        <author>
-            <name>Akash Girimath</name>
         </author>
     </entry>
 </feed>
