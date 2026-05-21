@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-20T23:05:19.568Z</id>
+    <id>urn:2026-05-21T02:32:50.830Z</id>
     <title>web3::cave</title>
-    <updated>2026-05-20T23:05:19.568Z</updated>
+    <updated>2026-05-21T02:32:50.830Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Firm Nakamoto Plots 1-for-40 Stock Split Following 99% Price Plunge]]></title>
+        <id>https://decrypt.co/?p=368562</id>
+        <link href="https://decrypt.co/368562/bitcoin-firm-nakamoto-stock-split-99-price-plunge"/>
+        <updated>2026-05-21T01:21:18.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin treasury company Nakamoto aims to massively reduce its share count as it seeks a price of at least $1 to regain Nasdaq compliance.]]></summary>
+        <author>
+            <name>Logan Hitchcock</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Shai-Hulud: What to Know About the Malware Spreading Through Software Pipelines]]></title>
         <id>https://decrypt.co/?p=368477</id>
@@ -363,16 +373,6 @@
         <summary type="html"><![CDATA[The best AI models can't yet beat the engineers they’re supposed to replace at fixing real-world problems, a new benchmark suggests.]]></summary>
         <author>
             <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Faces Greater Quantum Computing Risk Than Ethereum, Citi Warns]]></title>
-        <id>https://decrypt.co/?p=368264</id>
-        <link href="https://decrypt.co/368264/bitcoin-faces-greater-quantum-computing-risk-ethereum-citi-warns"/>
-        <updated>2026-05-18T20:55:33.000Z</updated>
-        <summary type="html"><![CDATA[Both Bitcoin and Ethereum face a quantum computing threat, but Citi says the gap between them comes down to governance, not just technology.]]></summary>
-        <author>
-            <name>Decrypt Agent</name>
         </author>
     </entry>
 </feed>
