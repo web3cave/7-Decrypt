@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-23T16:53:15.280Z</id>
+    <id>urn:2026-05-23T17:55:35.446Z</id>
     <title>web3::cave</title>
-    <updated>2026-05-23T16:53:15.280Z</updated>
+    <updated>2026-05-23T17:55:35.446Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Firefox's Big Redesign Gives You a Button to Kill All the AI]]></title>
+        <id>https://decrypt.co/?p=368867</id>
+        <link href="https://decrypt.co/368867/firefox-redesign-kill-ai-button-project-nova"/>
+        <updated>2026-05-23T17:01:31.000Z</updated>
+        <summary type="html"><![CDATA[Project Nova is coming later this year with a cleaner look, compact mode, and a toggle to make AI features disappear entirely.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoin Dives Below $75K for First Time in a Month as Crypto Liquidations Near $1 Billion]]></title>
         <id>https://decrypt.co/?p=368912</id>
@@ -383,16 +393,6 @@
         <summary type="html"><![CDATA[New allegations claim that Jane Street made use of a private backchannel with Terraform insiders before Terra's collapse.]]></summary>
         <author>
             <name>Vismaya V</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Minute: SpaceX Files for IPO, Shares Surprising BTC Portfolio]]></title>
-        <id>https://decrypt.co/?p=368596</id>
-        <link href="https://decrypt.co/368596/morning-minute-spacex-files-for-ipo-shares-surprising-btc-portfolio"/>
-        <updated>2026-05-21T12:03:40.000Z</updated>
-        <summary type="html"><![CDATA[SpaceX is up over 100% on its BTC holdings. Hyperliquid is decoupling from crypto majors. And Ethereum is leaning hard into privacy.]]></summary>
-        <author>
-            <name>Tyler Warner</name>
         </author>
     </entry>
 </feed>
