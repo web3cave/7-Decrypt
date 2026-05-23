@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-23T15:56:03.255Z</id>
+    <id>urn:2026-05-23T16:53:15.280Z</id>
     <title>web3::cave</title>
-    <updated>2026-05-23T15:56:03.255Z</updated>
+    <updated>2026-05-23T16:53:15.280Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Dives Below $75K for First Time in a Month as Crypto Liquidations Near $1 Billion]]></title>
+        <id>https://decrypt.co/?p=368912</id>
+        <link href="https://decrypt.co/368912/bitcoin-drops-75k-crypto-liquidations-near-1-billion"/>
+        <updated>2026-05-23T16:22:30.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin touched its lowest price in a month overnight following an awful week for ETFs, which shed over $1.25 billion this week.]]></summary>
+        <author>
+            <name>Andrew Hayward</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Argentina Launched an AI to Predict the Future. It Couldn't Predict a Typo]]></title>
         <id>https://decrypt.co/?p=368860</id>
@@ -383,16 +393,6 @@
         <summary type="html"><![CDATA[SpaceX is up over 100% on its BTC holdings. Hyperliquid is decoupling from crypto majors. And Ethereum is leaning hard into privacy.]]></summary>
         <author>
             <name>Tyler Warner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HYPE Jumps Double Digits as Hyperliquid ETFs Add $25.5M]]></title>
-        <id>https://decrypt.co/?p=368593</id>
-        <link href="https://decrypt.co/368593/hype-jumps-double-digits-as-hyperliquid-etfs-add-25-5m"/>
-        <updated>2026-05-21T11:27:44.000Z</updated>
-        <summary type="html"><![CDATA[Hyperliquid’s HYPE logged double-digit gains on the day, as ETF demand outpaced the token's supply reduction mechanism.]]></summary>
-        <author>
-            <name>Akash Girimath</name>
         </author>
     </entry>
 </feed>
