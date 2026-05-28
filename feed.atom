@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-28T20:12:34.772Z</id>
+    <id>urn:2026-05-28T22:26:41.068Z</id>
     <title>web3::cave</title>
-    <updated>2026-05-28T20:12:34.772Z</updated>
+    <updated>2026-05-28T22:26:41.068Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Anthropic Nears $1 Trillion Valuation, Topping OpenAI After Fresh $65 Billion Raise]]></title>
+        <id>https://decrypt.co/?p=369434</id>
+        <link href="https://decrypt.co/369434/anthropic-nears-1-trillion-valuation-topping-openai-65-billion-raise"/>
+        <updated>2026-05-28T20:51:52.000Z</updated>
+        <summary type="html"><![CDATA[Claude maker Anthropic said annualized revenue surpassed $47 billion as it expands cloud and compute partnerships.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Agents Are Learning to Predict What Users Want—Before They Ask for It]]></title>
+        <id>https://decrypt.co/?p=369382</id>
+        <link href="https://decrypt.co/369382/ai-agents-learning-predict-what-users-want-before-ask"/>
+        <updated>2026-05-28T20:24:53.000Z</updated>
+        <summary type="html"><![CDATA[Researchers in China built a model that uses an AI’s downtime to prepare for users’ next question before they ask it.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sui Network Goes Down for Hours, Just Months After the Last Downtime]]></title>
         <id>https://decrypt.co/?p=369414</id>
@@ -353,26 +373,6 @@
         <summary type="html"><![CDATA[Five unknown addresses removed 107 Bitcoin worth $8.2 million from circulation today, sparking intrigue on social media.]]></summary>
         <author>
             <name>André Beganski</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This Half-Gigabyte AI Model Runs Local Agents on Your Phone]]></title>
-        <id>https://decrypt.co/?p=369068</id>
-        <link href="https://decrypt.co/369068/openbmb-minicpm5-half-gigabyte-ai-model-local-agents-phone"/>
-        <updated>2026-05-26T20:59:20.000Z</updated>
-        <summary type="html"><![CDATA[OpenBMB's 1B-parameter model brings MCP support and agentic tool use to on-device AI—but it has trouble with logic traps.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethereum Firm Sharplink, Solana Treasury Forward Industries Joining Russell 2000, 3000 Indexes]]></title>
-        <id>https://decrypt.co/?p=369095</id>
-        <link href="https://decrypt.co/369095/ethereum-sharplink-solana-forward-industries-russell-2000-3000"/>
-        <updated>2026-05-26T20:40:44.000Z</updated>
-        <summary type="html"><![CDATA[Crypto treasury firms Sharplink and Forward Industries will both be included in the Russell 2000 and 3000 indexes at the end of June.]]></summary>
-        <author>
-            <name>Logan Hitchcock</name>
         </author>
     </entry>
 </feed>
