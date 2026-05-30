@@ -6,6 +6,21 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=368830",
+          "author": "Jose Antonio Lanz",
+          "description": "Hackers can hijack ChatGPT, Claude, and Gemini with nothing but a sentence. OpenAI says the problem may never be fully solved. Here is what it is, how it works, and how to stay safe.",
+          "link": "https://decrypt.co/resources/what-is-ai-prompt-injection-attack",
+          "publishedOn": "2026-05-30T13:01:03.000Z",
+          "wordCount": 14859,
+          "title": "What Is an AI Prompt Injection Attack? The Hidden Threat Hijacking Your Chatbots",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/ai-prompt-injection-learn-gID_4-pID_5.png@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/ai-prompt-injection-learn-gID_4-pID_5.png@png"
+        },
+        {
           "id": "https://decrypt.co/?p=369525",
           "author": "Logan Hitchcock",
           "description": "Dimon vowed to fight the passage of the crypto market structure bill until the bitter end.",
@@ -574,21 +589,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/11/China-USA-gID_7.jpg@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=369199",
-          "author": "André Beganski",
-          "description": "Cash App has begun supporting stablecoin transactions on networks including Ethereum and Solana, pushing past its Bitcoin-based roots.",
-          "link": "https://decrypt.co/369199/cash-app-supports-stablecoins-bitcoin-maxi-jack-dorsey-gatekeeper-gripes",
-          "publishedOn": "2026-05-27T18:49:02.000Z",
-          "wordCount": 9653,
-          "title": "Cash App Now Supports Stablecoins, Despite Bitcoin Maxi Jack Dorsey's 'Gatekeeper' Gripes",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/jack-dorsey-twitter-square-bitcoin-decrypt-style-gID_7.jpg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/jack-dorsey-twitter-square-bitcoin-decrypt-style-gID_7.jpg@png"
         }
       ]
     }

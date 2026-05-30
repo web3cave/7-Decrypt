@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-30T11:13:02.534Z</id>
+    <id>urn:2026-05-30T13:05:24.586Z</id>
     <title>web3::cave</title>
-    <updated>2026-05-30T11:13:02.534Z</updated>
+    <updated>2026-05-30T13:05:24.586Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What Is an AI Prompt Injection Attack? The Hidden Threat Hijacking Your Chatbots]]></title>
+        <id>https://decrypt.co/?p=368830</id>
+        <link href="https://decrypt.co/resources/what-is-ai-prompt-injection-attack"/>
+        <updated>2026-05-30T13:01:03.000Z</updated>
+        <summary type="html"><![CDATA[Hackers can hijack ChatGPT, Claude, and Gemini with nothing but a sentence. OpenAI says the problem may never be fully solved. Here is what it is, how it works, and how to stay safe.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA['He’s Full of Shit': JP Morgan's Jamie Dimon Takes Aim at Coinbase CEO Over Clarity Act]]></title>
         <id>https://decrypt.co/?p=369525</id>
@@ -383,16 +393,6 @@
         <summary type="html"><![CDATA[Back-to-back price cuts from China's top AI labs have made their models a fraction of the cost of GPT-5.5 and Claude Opus.]]></summary>
         <author>
             <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cash App Now Supports Stablecoins, Despite Bitcoin Maxi Jack Dorsey's 'Gatekeeper' Gripes]]></title>
-        <id>https://decrypt.co/?p=369199</id>
-        <link href="https://decrypt.co/369199/cash-app-supports-stablecoins-bitcoin-maxi-jack-dorsey-gatekeeper-gripes"/>
-        <updated>2026-05-27T18:49:02.000Z</updated>
-        <summary type="html"><![CDATA[Cash App has begun supporting stablecoin transactions on networks including Ethereum and Solana, pushing past its Bitcoin-based roots.]]></summary>
-        <author>
-            <name>André Beganski</name>
         </author>
     </entry>
 </feed>
