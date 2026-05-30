@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-30T14:58:53.611Z</id>
+    <id>urn:2026-05-30T16:05:00.863Z</id>
     <title>web3::cave</title>
-    <updated>2026-05-30T14:58:53.611Z</updated>
+    <updated>2026-05-30T16:05:00.863Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Florida Candidate Liquidates $800K in Bitcoin to Bankroll Congressional Bid]]></title>
+        <id>https://decrypt.co/?p=369478</id>
+        <link href="https://decrypt.co/369478/florida-candidate-liquidates-800k-bitcoin-bankroll-congressional-bid"/>
+        <updated>2026-05-30T15:44:30.000Z</updated>
+        <summary type="html"><![CDATA[A Republican candidate jockeying to represent Florida’s 22nd Congressional District liquidated Bitcoin to help fuel his political bid.]]></summary>
+        <author>
+            <name>André Beganski</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What Is an AI Prompt Injection Attack? The Hidden Threat Hijacking Your Chatbots]]></title>
         <id>https://decrypt.co/?p=368830</id>
@@ -383,16 +393,6 @@
         <summary type="html"><![CDATA[ElevenLabs has licensed Stan Lee’s voice and likeness, adding the late Marvel comic creator to a growing market for AI celebrity replicas.]]></summary>
         <author>
             <name>Jason Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeepSeek, Xiaomi Just Made Frontier AI 99% Cheaper. American Labs Went the Other Way]]></title>
-        <id>https://decrypt.co/?p=369202</id>
-        <link href="https://decrypt.co/369202/deepseek-xiaomi-frontier-ai-cheaper-american-labs-other-way"/>
-        <updated>2026-05-27T19:31:08.000Z</updated>
-        <summary type="html"><![CDATA[Back-to-back price cuts from China's top AI labs have made their models a fraction of the cost of GPT-5.5 and Claude Opus.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
         </author>
     </entry>
 </feed>
