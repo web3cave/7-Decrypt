@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-06-01T04:04:33.162Z</id>
+    <id>urn:2026-06-01T10:10:49.888Z</id>
     <title>web3::cave</title>
-    <updated>2026-06-01T04:04:33.162Z</updated>
+    <updated>2026-06-01T10:10:49.888Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What Is BChat? The Decentralized Messaging App Built for Privacy]]></title>
+        <id>https://decrypt.co/?p=369317</id>
+        <link href="https://decrypt.co/resources/what-is-bchat-beldex-decentralized-messaging-app-privacy"/>
+        <updated>2026-06-01T10:01:04.000Z</updated>
+        <summary type="html"><![CDATA[Built on the Beldex Network, BChat aims to solve the weaknesses of relying solely on end-to-end encryption (E2EE) for private messaging.]]></summary>
+        <author>
+            <name>Decrypt Staff</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How President Trump’s Immigration Order Will Feed the Stablecoin Economy, Bitcoin ATMs]]></title>
         <id>https://decrypt.co/?p=369479</id>
@@ -383,16 +393,6 @@
         <summary type="html"><![CDATA[Predictors on Myriad are losing faith, believing it's more likely that Ethereum dumps to $1,500 before a prospective move up to $3,000.]]></summary>
         <author>
             <name>Logan Hitchcock</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ElevenLabs, Stability AI Drop New AI Music Models—Can They Catch Suno?]]></title>
-        <id>https://decrypt.co/?p=369237</id>
-        <link href="https://decrypt.co/369237/elevenlabs-stability-ai-new-music-models-suno"/>
-        <updated>2026-05-27T20:33:13.000Z</updated>
-        <summary type="html"><![CDATA[Music v2 brings genre-shifting and section-by-section composition to ElevenLabs. Stable Audio 3.0 ships open weights and six-minute tracks. Is either good enough to dethrone the category leader?]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
         </author>
     </entry>
 </feed>
