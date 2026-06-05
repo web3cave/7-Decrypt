@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-06-05T10:48:52.601Z</id>
+    <id>urn:2026-06-05T13:48:32.209Z</id>
     <title>web3::cave</title>
-    <updated>2026-06-05T10:48:52.601Z</updated>
+    <updated>2026-06-05T13:48:32.209Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Hyperliquid Hit by UK FCA Warning as Crypto Perps Face Scrutiny]]></title>
+        <id>https://decrypt.co/?p=370117</id>
+        <link href="https://decrypt.co/370117/hyperliquid-hit-by-uk-fca-warning-as-crypto-perps-face-scrutiny"/>
+        <updated>2026-06-05T13:10:25.000Z</updated>
+        <summary type="html"><![CDATA[The warning from the UK’s Financial Conduct Authority adds pressure to a perps market already under increasing scrutiny from regulators.]]></summary>
+        <author>
+            <name>Vince Dioquino</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Morning Minute: Massive ZCash Exploit Found by Claude, Extent Unknown]]></title>
+        <id>https://decrypt.co/?p=370112</id>
+        <link href="https://decrypt.co/370112/morning-minute-massive-zcash-exploit-found-by-claude-extent-unknown"/>
+        <updated>2026-06-05T12:49:04.000Z</updated>
+        <summary type="html"><![CDATA[The ZCash team hired a hacker to find an exploit in the ZCash protocol, and he exposed a glitch that has been out there for four years.]]></summary>
+        <author>
+            <name>Tyler Warner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pump.fun's Latest Experiment Is Already Getting Weird]]></title>
+        <id>https://decrypt.co/?p=370108</id>
+        <link href="https://decrypt.co/370108/pump-funs-latest-experiment-is-already-getting-weird"/>
+        <updated>2026-06-05T11:33:50.000Z</updated>
+        <summary type="html"><![CDATA[Pump.fun's GO bounty platform already has hundreds of listings following its pitch to let users “Pay ANYONE to do ANYTHING.”]]></summary>
+        <author>
+            <name>Vismaya V</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ZEC Crashes 38% as Zcash Discloses ‘Critical Counterfeiting Vulnerability’]]></title>
         <id>https://decrypt.co/?p=370105</id>
@@ -313,26 +343,6 @@
         <summary type="html"><![CDATA[A Zcash vulnerability could have allowed double-spending within the network's flagship privacy pool, though no exploitation occurred.]]></summary>
         <author>
             <name>Decrypt Agent</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MoonPay Brings Crypto Transactions to Claude and Codex With MoonAgents Desktop App]]></title>
-        <id>https://decrypt.co/?p=369746</id>
-        <link href="https://decrypt.co/369746/moonpay-brings-crypto-transactions-claude-codex-moonagents"/>
-        <updated>2026-06-03T13:01:03.000Z</updated>
-        <summary type="html"><![CDATA[MoonPay's new desktop app connects AI assistants to crypto wallets and blockchain services through a graphical interface.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Minute: Bitcoin Falls Below $67k as MSTR Plummets]]></title>
-        <id>https://decrypt.co/?p=369839</id>
-        <link href="https://decrypt.co/369839/morning-minute-bitcoin-falls-below-67k-as-mstr-plummets"/>
-        <updated>2026-06-03T12:47:43.000Z</updated>
-        <summary type="html"><![CDATA[The fallout from Saylor’s first Bitcoin sale in years keeps spreading, while Bernie Sanders and Elizabeth Warren want crypto out of your 401(k).]]></summary>
-        <author>
-            <name>Tyler Warner</name>
         </author>
     </entry>
 </feed>
