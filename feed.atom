@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-06-05T06:59:12.761Z</id>
+    <id>urn:2026-06-05T10:48:52.601Z</id>
     <title>web3::cave</title>
-    <updated>2026-06-05T06:59:12.761Z</updated>
+    <updated>2026-06-05T10:48:52.601Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ZEC Crashes 38% as Zcash Discloses ‘Critical Counterfeiting Vulnerability’]]></title>
+        <id>https://decrypt.co/?p=370105</id>
+        <link href="https://decrypt.co/370105/zec-crashes-38-as-zcash-discloses-critical-counterfeiting-vulnerability"/>
+        <updated>2026-06-05T10:41:59.000Z</updated>
+        <summary type="html"><![CDATA[An Orchard vulnerability that allowed undetectable counterfeiting of ZEC in its shielded pool has reignited debate over privacy coins.]]></summary>
+        <author>
+            <name>Akash Girimath</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI Is Already Developing AI, Says Anthropic—And Humans May Be Slowing Things Down]]></title>
         <id>https://decrypt.co/?p=370089</id>
@@ -323,16 +333,6 @@
         <summary type="html"><![CDATA[The fallout from Saylor’s first Bitcoin sale in years keeps spreading, while Bernie Sanders and Elizabeth Warren want crypto out of your 401(k).]]></summary>
         <author>
             <name>Tyler Warner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trezor Reveals Hardware Wallet Vulnerability, But Funds 'Safe']]></title>
-        <id>https://decrypt.co/?p=369857</id>
-        <link href="https://decrypt.co/369857/trezor-reveals-hardware-wallet-vulnerability-but-funds-safe"/>
-        <updated>2026-06-03T12:42:25.000Z</updated>
-        <summary type="html"><![CDATA[The vulnerability in Trezor's TROPIC01 Secure Element chip was uncovered by an audit carried out by the Ledger Donjon team.]]></summary>
-        <author>
-            <name>Ryan Gladwin</name>
         </author>
     </entry>
 </feed>
