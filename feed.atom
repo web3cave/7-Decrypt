@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-06-06T20:54:43.079Z</id>
+    <id>urn:2026-06-06T21:57:29.030Z</id>
     <title>web3::cave</title>
-    <updated>2026-06-06T20:54:43.079Z</updated>
+    <updated>2026-06-06T21:57:29.030Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[AI Is Helping Discover Tech Vulnerabilities—And Zcash Is Just the Latest Example]]></title>
+        <id>https://decrypt.co/?p=370237</id>
+        <link href="https://decrypt.co/370237/ai-discover-tech-vulnerabilities-zcash-latest-example"/>
+        <updated>2026-06-06T20:56:43.000Z</updated>
+        <summary type="html"><![CDATA[Frontier AI models have evolved into bug-finding tools, uncovering vulnerabilities across the tech world—and now in crypto too.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Claude Code Vulnerability Could Let Attackers Steal Credentials From GitHub, Says Microsoft]]></title>
         <id>https://decrypt.co/?p=370238</id>
@@ -333,16 +343,6 @@
         <summary type="html"><![CDATA[A new study finds that leading AI models often encourage emotional attachment, portray themselves as human, and fail to maintain clear boundaries.]]></summary>
         <author>
             <name>Jason Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cardano Slumps to 5-Year Low Price as Charles Hoskinson Warns of 'Wave of Failures']]></title>
-        <id>https://decrypt.co/?p=369974</id>
-        <link href="https://decrypt.co/369974/cardano-slumps-5-year-low-price-charles-hoskinson-warns-failures"/>
-        <updated>2026-06-03T21:20:00.000Z</updated>
-        <summary type="html"><![CDATA[Founder Charles Hoskinson was brutally honest about the troubles the Cardano ecosystem could face as the market continues declining.]]></summary>
-        <author>
-            <name>Logan Hitchcock</name>
         </author>
     </entry>
 </feed>
