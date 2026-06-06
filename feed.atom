@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-06-06T17:00:26.178Z</id>
+    <id>urn:2026-06-06T19:06:25.031Z</id>
     <title>web3::cave</title>
-    <updated>2026-06-06T17:00:26.178Z</updated>
+    <updated>2026-06-06T19:06:25.031Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Claude Code Vulnerability Could Let Attackers Steal Credentials From GitHub, Says Microsoft]]></title>
+        <id>https://decrypt.co/?p=370238</id>
+        <link href="https://decrypt.co/370238/claude-code-vulnerability-attackers-steal-credentials-github-microsoft"/>
+        <updated>2026-06-06T18:08:56.000Z</updated>
+        <summary type="html"><![CDATA[Researchers say prompt injection attacks could manipulate AI coding agents to access sensitive credentials stored in software development pipelines.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoin Has Dumped All of Its Gains Since Trump Was Reelected—And Then Some]]></title>
         <id>https://decrypt.co/?p=370235</id>
@@ -331,16 +341,6 @@
         <link href="https://decrypt.co/369974/cardano-slumps-5-year-low-price-charles-hoskinson-warns-failures"/>
         <updated>2026-06-03T21:20:00.000Z</updated>
         <summary type="html"><![CDATA[Founder Charles Hoskinson was brutally honest about the troubles the Cardano ecosystem could face as the market continues declining.]]></summary>
-        <author>
-            <name>Logan Hitchcock</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tether Debuts Tokenized Gold Stablecoin Visa Card That Pays Out Crypto Rewards]]></title>
-        <id>https://decrypt.co/?p=369972</id>
-        <link href="https://decrypt.co/369972/tether-tokenized-gold-visa-stablecoin-card-pays-crypto-rewards"/>
-        <updated>2026-06-03T21:03:50.000Z</updated>
-        <summary type="html"><![CDATA[Holders will be able to do more with their gold, instantly spending Tether's tokenized version anywhere Visa is accepted.]]></summary>
         <author>
             <name>Logan Hitchcock</name>
         </author>
