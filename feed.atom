@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-06-07T17:58:03.359Z</id>
+    <id>urn:2026-06-07T19:21:01.930Z</id>
     <title>web3::cave</title>
-    <updated>2026-06-07T17:58:03.359Z</updated>
+    <updated>2026-06-07T19:21:01.930Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Frontier AI Models Can Find Crypto's Biggest Bugs. Experts Warn the Industry Isn't Ready]]></title>
+        <id>https://decrypt.co/?p=370232</id>
+        <link href="https://decrypt.co/370232/frontier-ai-models-find-crypto-bugs-industry-isnt-ready"/>
+        <updated>2026-06-07T18:01:03.000Z</updated>
+        <summary type="html"><![CDATA[The Zcash vulnerability uncovered with help from Anthropic's Claude Opus 4.8 signals a shift in who may discover critical flaws first.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Wall Street Is Coming for Hyperliquid's Perps Crown, Arthur Hayes Says]]></title>
         <id>https://decrypt.co/?p=370236</id>
@@ -333,16 +343,6 @@
         <summary type="html"><![CDATA[The Treasury chief told senators the administration is using “best practices” in implementing Trump's Bitcoin reserve order.]]></summary>
         <author>
             <name>Decrypt Agent</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase Launches Pre-IPO Perps, Starting with Elon Musk's SpaceX]]></title>
-        <id>https://decrypt.co/?p=369991</id>
-        <link href="https://decrypt.co/369991/coinbase-launches-pre-ipo-perps-starting-with-elon-musks-spacex"/>
-        <updated>2026-06-04T11:13:12.000Z</updated>
-        <summary type="html"><![CDATA[Elon Musk's aerospace company SpaceX is set to IPO, with current estimations making him the world's first trillionaire on its completion.]]></summary>
-        <author>
-            <name>Ryan Gladwin</name>
         </author>
     </entry>
 </feed>
