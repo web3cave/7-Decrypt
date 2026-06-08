@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-06-08T20:02:17.137Z</id>
+    <id>urn:2026-06-08T22:18:38.449Z</id>
     <title>web3::cave</title>
-    <updated>2026-06-08T20:02:17.137Z</updated>
+    <updated>2026-06-08T22:18:38.449Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[OpenAI Wants to Kill the Chatbot It Invented and Turn It Into a Superapp]]></title>
+        <id>https://decrypt.co/?p=370467</id>
+        <link href="https://decrypt.co/370467/openai-chagpt-chatbot-superapp"/>
+        <updated>2026-06-08T22:00:57.000Z</updated>
+        <summary type="html"><![CDATA[The company that launched ChatGPT in 2022 is now betting its future on something closer to WeChat than a Q&A box]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI Confirms Confidential IPO Filing, Keeps Timing Open]]></title>
+        <id>https://decrypt.co/?p=370468</id>
+        <link href="https://decrypt.co/370468/openai-confidential-ipo-filing-keeps-timing-open"/>
+        <updated>2026-06-08T21:45:58.000Z</updated>
+        <summary type="html"><![CDATA[The ChatGPT maker says it has filed paperwork for a potential public offering but may remain private while it pursues other priorities.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[China's Xiaomi MiMo Is Now 15X Faster Than ChatGPT and Claude]]></title>
+        <id>https://decrypt.co/?p=370449</id>
+        <link href="https://decrypt.co/370449/xiaomi-mimo-ultraspeed-ai-model-faster-chatgpt-claude"/>
+        <updated>2026-06-08T20:57:07.000Z</updated>
+        <summary type="html"><![CDATA[Xiaomi's MiMo-V2.5-Pro-UltraSpeed blows past the speed threshold custom silicon companies spent years building toward—on regular GPUs.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bored Ape Maker Yuga Labs Rescues Dozens of Ethereum NFTs From Exploit]]></title>
+        <id>https://decrypt.co/?p=370445</id>
+        <link href="https://decrypt.co/370445/bored-ape-maker-yuga-labs-rescues-ethereum-nfts-exploit"/>
+        <updated>2026-06-08T20:54:45.000Z</updated>
+        <summary type="html"><![CDATA[The Bored Ape Yacht Club creator now holds more than 60 rescued NFTs in its custody as it works to return them to their rightful owners.]]></summary>
+        <author>
+            <name>Logan Hitchcock</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Unveils Upgraded Siri as Tech Giant's Big AI Push Finally Arrives]]></title>
+        <id>https://decrypt.co/?p=370446</id>
+        <link href="https://decrypt.co/370446/apple-unveils-upgraded-siri-ai-push-finally-arrives"/>
+        <updated>2026-06-08T20:43:03.000Z</updated>
+        <summary type="html"><![CDATA[The revamped Siri adds conversational AI, visual understanding, and personal context awareness as Apple rolls out new features across apps.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoin Is 'Boring' AI-Hungry Retail Investors, But Bernstein Still Sees $150K This Year]]></title>
         <id>https://decrypt.co/?p=370434</id>
@@ -303,46 +353,6 @@
         <summary type="html"><![CDATA[Cypherpunk Technologies shares tumbled to their lowest point since March as jitters tied to a Zcash bug knocked the Winklevoss-backed firm.]]></summary>
         <author>
             <name>André Beganski</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hyperliquid Hit by UK FCA Warning as Crypto Perps Face Scrutiny]]></title>
-        <id>https://decrypt.co/?p=370117</id>
-        <link href="https://decrypt.co/370117/hyperliquid-hit-by-uk-fca-warning-as-crypto-perps-face-scrutiny"/>
-        <updated>2026-06-05T13:10:25.000Z</updated>
-        <summary type="html"><![CDATA[The warning from the UK’s Financial Conduct Authority adds pressure to a perps market already under increasing scrutiny from regulators.]]></summary>
-        <author>
-            <name>Vince Dioquino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Minute: Massive ZCash Exploit Found by Claude, Extent Unknown]]></title>
-        <id>https://decrypt.co/?p=370112</id>
-        <link href="https://decrypt.co/370112/morning-minute-massive-zcash-exploit-found-by-claude-extent-unknown"/>
-        <updated>2026-06-05T12:49:04.000Z</updated>
-        <summary type="html"><![CDATA[The ZCash team hired a hacker to find an exploit in the ZCash protocol, and he exposed a glitch that has been out there for four years.]]></summary>
-        <author>
-            <name>Tyler Warner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pump.fun's Latest Experiment Is Already Getting Weird]]></title>
-        <id>https://decrypt.co/?p=370108</id>
-        <link href="https://decrypt.co/370108/pump-funs-latest-experiment-is-already-getting-weird"/>
-        <updated>2026-06-05T11:33:50.000Z</updated>
-        <summary type="html"><![CDATA[Pump.fun's GO bounty platform already has hundreds of listings following its pitch to let users “Pay ANYONE to do ANYTHING.”]]></summary>
-        <author>
-            <name>Vismaya V</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ZEC Crashes 38% as Zcash Discloses ‘Critical Counterfeiting Vulnerability’]]></title>
-        <id>https://decrypt.co/?p=370105</id>
-        <link href="https://decrypt.co/370105/zec-crashes-38-as-zcash-discloses-critical-counterfeiting-vulnerability"/>
-        <updated>2026-06-05T10:41:59.000Z</updated>
-        <summary type="html"><![CDATA[An Orchard vulnerability that allowed undetectable counterfeiting of ZEC in its shielded pool has reignited debate over privacy coins.]]></summary>
-        <author>
-            <name>Akash Girimath</name>
         </author>
     </entry>
 </feed>
