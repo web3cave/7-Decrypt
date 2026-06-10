@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-06-10T17:51:44.068Z</id>
+    <id>urn:2026-06-10T20:13:17.578Z</id>
     <title>web3::cave</title>
-    <updated>2026-06-10T17:51:44.068Z</updated>
+    <updated>2026-06-10T20:13:17.578Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Tether, Nvidia and Amazon Back Humanoid Robotics Firm NEURA in $1.4 Billion Funding Round]]></title>
+        <id>https://decrypt.co/?p=370691</id>
+        <link href="https://decrypt.co/370691/tether-nvidia-amazon-back-neura-robotics-1-4-billion-funding-round"/>
+        <updated>2026-06-10T19:30:32.000Z</updated>
+        <summary type="html"><![CDATA[Stablecoin giant Tether led a massive Series C round for German robotics firm NEURA, which will embed crypto payment tools and edge AI.]]></summary>
+        <author>
+            <name>Decrypt Agent</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Internet Is Furious at Anthropic After Claude Fable 5 Release]]></title>
+        <id>https://decrypt.co/?p=370688</id>
+        <link href="https://decrypt.co/370688/internet-furious-anthropic-claude-mythos-fable-5"/>
+        <updated>2026-06-10T19:17:27.000Z</updated>
+        <summary type="html"><![CDATA[Token burn, silent censorship, and a mandatory data grab—the biggest Claude release has become Anthropic's messiest.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Helped People Spot Fake News—Then Made Them Worse at It: MIT]]></title>
+        <id>https://decrypt.co/?p=370675</id>
+        <link href="https://decrypt.co/370675/ai-helped-people-spot-fake-news-made-them-worse-mit"/>
+        <updated>2026-06-10T18:40:06.000Z</updated>
+        <summary type="html"><![CDATA[An MIT study found AI assistants improved misinformation detection in the moment, but appeared to weaken users' ability to spot falsehoods on their own.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Botanix Will Shut Down Bitcoin Layer-2 Network in July, Citing Lack of DeFi Demand]]></title>
+        <id>https://decrypt.co/?p=370671</id>
+        <link href="https://decrypt.co/370671/botanix-shut-down-bitcoin-layer-2-network-lack-defi-demand"/>
+        <updated>2026-06-10T18:11:36.000Z</updated>
+        <summary type="html"><![CDATA[Botanix asked users to withdraw funds, disclosing plans to wind down its Bitcoin-based layer-2 network in July.]]></summary>
+        <author>
+            <name>André Beganski</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoin Is Getting Closer to the Bottom, But Demand Is Falling: CryptoQuant]]></title>
         <id>https://decrypt.co/?p=370663</id>
@@ -283,56 +323,6 @@
         <summary type="html"><![CDATA[The company that launched ChatGPT in 2022 is now betting its future on something closer to WeChat than a Q&A box]]></summary>
         <author>
             <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI Confirms Confidential IPO Filing, Keeps Timing Open]]></title>
-        <id>https://decrypt.co/?p=370468</id>
-        <link href="https://decrypt.co/370468/openai-confidential-ipo-filing-keeps-timing-open"/>
-        <updated>2026-06-08T21:45:58.000Z</updated>
-        <summary type="html"><![CDATA[The ChatGPT maker says it has filed paperwork for a potential public offering but may remain private while it pursues other priorities.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[China's Xiaomi MiMo Is Now 15X Faster Than ChatGPT and Claude]]></title>
-        <id>https://decrypt.co/?p=370449</id>
-        <link href="https://decrypt.co/370449/xiaomi-mimo-ultraspeed-ai-model-faster-chatgpt-claude"/>
-        <updated>2026-06-08T20:57:07.000Z</updated>
-        <summary type="html"><![CDATA[Xiaomi's MiMo-V2.5-Pro-UltraSpeed blows past the speed threshold custom silicon companies spent years building toward—on regular GPUs.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bored Ape Maker Yuga Labs Rescues Dozens of Ethereum NFTs From Exploit]]></title>
-        <id>https://decrypt.co/?p=370445</id>
-        <link href="https://decrypt.co/370445/bored-ape-maker-yuga-labs-rescues-ethereum-nfts-exploit"/>
-        <updated>2026-06-08T20:54:45.000Z</updated>
-        <summary type="html"><![CDATA[The Bored Ape Yacht Club creator now holds more than 60 rescued NFTs in its custody as it works to return them to their rightful owners.]]></summary>
-        <author>
-            <name>Logan Hitchcock</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple Unveils Upgraded Siri as Tech Giant's Big AI Push Finally Arrives]]></title>
-        <id>https://decrypt.co/?p=370446</id>
-        <link href="https://decrypt.co/370446/apple-unveils-upgraded-siri-ai-push-finally-arrives"/>
-        <updated>2026-06-08T20:43:03.000Z</updated>
-        <summary type="html"><![CDATA[The revamped Siri adds conversational AI, visual understanding, and personal context awareness as Apple rolls out new features across apps.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Is 'Boring' AI-Hungry Retail Investors, But Bernstein Still Sees $150K This Year]]></title>
-        <id>https://decrypt.co/?p=370434</id>
-        <link href="https://decrypt.co/370434/bitcoin-boring-ai-hungry-retail-investors-bernstein-150k"/>
-        <updated>2026-06-08T19:46:06.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin is down about 50% from its peak, but Wall Street researchers argue the selloff reflects a maturing asset, not a dying one.]]></summary>
-        <author>
-            <name>Decrypt Agent</name>
         </author>
     </entry>
 </feed>
