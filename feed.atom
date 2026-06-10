@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-06-10T20:13:17.578Z</id>
+    <id>urn:2026-06-10T22:47:34.367Z</id>
     <title>web3::cave</title>
-    <updated>2026-06-10T20:13:17.578Z</updated>
+    <updated>2026-06-10T22:47:34.367Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Google's DiffusionGemma AI Hits 1,000 Tokens Per Second—And It's Free]]></title>
+        <id>https://decrypt.co/?p=370706</id>
+        <link href="https://decrypt.co/370706/google-new-open-model-generates-text-diffusiongemma"/>
+        <updated>2026-06-10T22:01:03.000Z</updated>
+        <summary type="html"><![CDATA[DiffusionGemma hits 1,000 tokens per second by ditching word-by-word generation entirely. It just doesn't run on most people's machines yet.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anthropic CEO Warns AI Is Getting Too Powerful—While Releasing Powerful AI]]></title>
+        <id>https://decrypt.co/?p=370704</id>
+        <link href="https://decrypt.co/370704/anthropic-ceo-ai-too-powerful-regulation-cant-wait"/>
+        <updated>2026-06-10T21:31:33.000Z</updated>
+        <summary type="html"><![CDATA[In a new essay, Dario Amodei called for binding safety rules for frontier models as his company heads toward an IPO.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solana Exchange Raydium Hit With $1.34 Million Exploit as DeFi Attacks Grow]]></title>
+        <id>https://decrypt.co/?p=370700</id>
+        <link href="https://decrypt.co/370700/solana-exchange-raydium-exploit-defi-attacks-grow"/>
+        <updated>2026-06-10T20:19:35.000Z</updated>
+        <summary type="html"><![CDATA[Solana-based decentralized exchange Raydium will repay the funds swiped in the $1.34 million exploit using its treasury.]]></summary>
+        <author>
+            <name>Logan Hitchcock</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tether, Nvidia and Amazon Back Humanoid Robotics Firm NEURA in $1.4 Billion Funding Round]]></title>
         <id>https://decrypt.co/?p=370691</id>
@@ -303,26 +333,6 @@
         <summary type="html"><![CDATA[Saylor answers doubts with a $100M purchase. Citrini just called Hyperliquid a buy. And SBF is formally asking Trump for a pardon.]]></summary>
         <author>
             <name>Tyler Warner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Humanity Protocol Loses $36M After Private Keys 'Compromised,' Token Crashes 73%]]></title>
-        <id>https://decrypt.co/?p=370485</id>
-        <link href="https://decrypt.co/370485/humanity-protocol-loses-36m-after-private-keys-compromised-token-crashes-73"/>
-        <updated>2026-06-09T10:54:37.000Z</updated>
-        <summary type="html"><![CDATA[The decentralized identity protocol said a compromised employee's laptop let attackers seize its bridges and mint tokens at will.]]></summary>
-        <author>
-            <name>Vismaya V</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI Wants to Kill the Chatbot It Invented and Turn It Into a Superapp]]></title>
-        <id>https://decrypt.co/?p=370467</id>
-        <link href="https://decrypt.co/370467/openai-chagpt-chatbot-superapp"/>
-        <updated>2026-06-08T22:00:57.000Z</updated>
-        <summary type="html"><![CDATA[The company that launched ChatGPT in 2022 is now betting its future on something closer to WeChat than a Q&A box]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
         </author>
     </entry>
 </feed>
