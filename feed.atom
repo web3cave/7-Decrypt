@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-06-13T19:09:54.220Z</id>
+    <id>urn:2026-06-13T21:03:22.647Z</id>
     <title>web3::cave</title>
-    <updated>2026-06-13T19:09:54.220Z</updated>
+    <updated>2026-06-13T21:03:22.647Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[US Government Orders Anthropic to Pull Claude Fable, Mythos AI Models]]></title>
+        <id>https://decrypt.co/?p=371027</id>
+        <link href="https://decrypt.co/371027/us-government-orders-anthropic-pull-claude-fable-mythos-ai-models"/>
+        <updated>2026-06-13T19:23:34.000Z</updated>
+        <summary type="html"><![CDATA[Anthropic pushed back against what it described as an overreach, saying the vulnerability cited is already widespread across the industry.]]></summary>
+        <author>
+            <name>Decrypt Agent</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google Sues Chinese Crime Group for Allegedly Using Gemini AI for Mass Phishing Scams]]></title>
         <id>https://decrypt.co/?p=371014</id>
@@ -353,16 +363,6 @@
         <summary type="html"><![CDATA[South Korean police have placed Lee Jae-won under investigation for bribery over allegedly hiring a legislator’s relatives.]]></summary>
         <author>
             <name>Decrypt Agent</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google's DiffusionGemma AI Hits 1,000 Tokens Per Second—And It's Free]]></title>
-        <id>https://decrypt.co/?p=370706</id>
-        <link href="https://decrypt.co/370706/google-new-open-model-generates-text-diffusiongemma"/>
-        <updated>2026-06-10T22:01:03.000Z</updated>
-        <summary type="html"><![CDATA[DiffusionGemma hits 1,000 tokens per second by ditching word-by-word generation entirely. It just doesn't run on most people's machines yet.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
         </author>
     </entry>
 </feed>
