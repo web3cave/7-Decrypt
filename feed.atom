@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-06-13T15:25:55.693Z</id>
+    <id>urn:2026-06-13T17:12:36.904Z</id>
     <title>web3::cave</title>
-    <updated>2026-06-13T15:25:55.693Z</updated>
+    <updated>2026-06-13T17:12:36.904Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Google Sues Chinese Crime Group for Allegedly Using Gemini AI for Mass Phishing Scams]]></title>
+        <id>https://decrypt.co/?p=371014</id>
+        <link href="https://decrypt.co/371014/google-sues-chinese-crime-group-gemini-ai-phishing-scams"/>
+        <updated>2026-06-13T16:01:04.000Z</updated>
+        <summary type="html"><![CDATA[Google alleges a Chinese network weaponized its Gemini AI to create phishing sites that stole millions of credit card numbers and targeted crypto investors.]]></summary>
+        <author>
+            <name>Decrypt Agent</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI Agent Rekts Dev on Bogus Scan, Leaves Them Begging for Crypto Donations]]></title>
         <id>https://decrypt.co/?p=370988</id>
@@ -353,16 +363,6 @@
         <summary type="html"><![CDATA[DiffusionGemma hits 1,000 tokens per second by ditching word-by-word generation entirely. It just doesn't run on most people's machines yet.]]></summary>
         <author>
             <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthropic CEO Warns AI Is Getting Too Powerful—While Releasing Powerful AI]]></title>
-        <id>https://decrypt.co/?p=370704</id>
-        <link href="https://decrypt.co/370704/anthropic-ceo-ai-too-powerful-regulation-cant-wait"/>
-        <updated>2026-06-10T21:31:33.000Z</updated>
-        <summary type="html"><![CDATA[In a new essay, Dario Amodei called for binding safety rules for frontier models as his company heads toward an IPO.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
         </author>
     </entry>
 </feed>
