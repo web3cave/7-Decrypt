@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-06-16T20:39:39.218Z</id>
+    <id>urn:2026-06-16T22:48:23.606Z</id>
     <title>web3::cave</title>
-    <updated>2026-06-16T20:39:39.218Z</updated>
+    <updated>2026-06-16T22:48:23.606Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Alibaba Is Building Qwen-Robot: The Operating System for the Robot Economy]]></title>
+        <id>https://decrypt.co/?p=371357</id>
+        <link href="https://decrypt.co/371357/alibaba-qwen-robot-operating-system-robot-economy"/>
+        <updated>2026-06-16T22:32:21.000Z</updated>
+        <summary type="html"><![CDATA[The Chinese company is doubling down on its "embodied AI" bet.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crypto Exchange Binance Will Be Rejected for EU Regulatory License: Reuters]]></title>
         <id>https://decrypt.co/?p=371343</id>
@@ -343,16 +353,6 @@
         <summary type="html"><![CDATA[A new benchmark study found AI agents remain vulnerable to prompt injection attacks as companies increasingly roll out the technology to the public.]]></summary>
         <author>
             <name>Jason Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Moonshot AI's Kimi Work Brings 300 AI Agents to Your Desktop]]></title>
-        <id>https://decrypt.co/?p=370954</id>
-        <link href="https://decrypt.co/370954/moonshot-ai-kimi-work-300-agents-desktop"/>
-        <updated>2026-06-12T18:40:57.000Z</updated>
-        <summary type="html"><![CDATA[Kimi Work lets an AI agent loose on your local files, your browser, and your schedule—without routing everything through the cloud.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
         </author>
     </entry>
 </feed>
