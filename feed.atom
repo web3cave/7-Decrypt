@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-06-18T00:07:51.494Z</id>
+    <id>urn:2026-06-18T05:28:48.857Z</id>
     <title>web3::cave</title>
-    <updated>2026-06-18T00:07:51.494Z</updated>
+    <updated>2026-06-18T05:28:48.857Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[France to Phase Out Non-Quantum Encryption as Bitcoin Security Concerns Grow]]></title>
+        <id>https://decrypt.co/?p=371487</id>
+        <link href="https://decrypt.co/371487/france-phase-out-non-quantum-encryption-bitcoin-security-concerns-grow"/>
+        <updated>2026-06-18T00:31:06.000Z</updated>
+        <summary type="html"><![CDATA[French authorities said that government cybersecurity researchers will stop certifying security products that lack quantum-resistant encryption beginning in 2027.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Psychologists Say Patients Are Bringing AI Into Therapy Sessions: Survey]]></title>
         <id>https://decrypt.co/?p=371451</id>
@@ -373,16 +383,6 @@
         <summary type="html"><![CDATA[Uniswap’s native token UNI is set to surge nearly fortyfold in the coming years as Wall Street migrates on-chain, Standard Chartered said.]]></summary>
         <author>
             <name>André Beganski</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthropic Faces Lawsuit Over Allegedly Misleading Claude AI Pricing]]></title>
-        <id>https://decrypt.co/?p=371201</id>
-        <link href="https://decrypt.co/371201/anthropic-lawsuit-allegedly-misleading-claude-ai-pricing"/>
-        <updated>2026-06-15T17:57:48.000Z</updated>
-        <summary type="html"><![CDATA[A class action lawsuit alleges Anthropic overstated the usage limits of its Claude Max subscription plans and misled customers about savings.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
         </author>
     </entry>
 </feed>
