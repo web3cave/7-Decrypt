@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-06-23T21:24:34.168Z</id>
+    <id>urn:2026-06-23T23:00:20.829Z</id>
     <title>web3::cave</title>
-    <updated>2026-06-23T21:24:34.168Z</updated>
+    <updated>2026-06-23T23:00:20.829Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Meet Qwable: The Free Local Model That Thinks Like Claude Fable]]></title>
+        <id>https://decrypt.co/?p=371914</id>
+        <link href="https://decrypt.co/371914/meet-qwable-free-local-model-thinks-like-claude-fable"/>
+        <updated>2026-06-23T22:01:12.000Z</updated>
+        <summary type="html"><![CDATA[Someone fine-tuned Fable 5's reasoning style into a local Qwen model. Then someone else removed its conscience.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trump's Quantum Push Wins Praise, But Experts Warn Bitcoin Isn't Ready]]></title>
+        <id>https://decrypt.co/?p=371916</id>
+        <link href="https://decrypt.co/371916/trump-quantum-praise-experts-warn-bitcoin-not-ready"/>
+        <updated>2026-06-23T21:31:03.000Z</updated>
+        <summary type="html"><![CDATA[Industry leaders welcomed President Trump's quantum executive orders, while researchers said the accelerated timelines reflect growing urgency around post-quantum security and cryptocurrency infrastructure.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crypto’s Clarity Act Has a New Enemy: Catholic Leaders]]></title>
         <id>https://decrypt.co/?p=371923</id>
@@ -333,26 +353,6 @@
         <summary type="html"><![CDATA[Institutions are gobbling up Solana for their balance sheets. These are the top publicly traded treasuries.]]></summary>
         <author>
             <name>Logan Hitchcock</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Strive Blames Leverage Liquidations After SATA and Bitcoin Giant Strategy's STRC Plunge]]></title>
-        <id>https://decrypt.co/?p=371686</id>
-        <link href="https://decrypt.co/371686/strive-blames-leverage-liqidations-sata-bitcoin-giant-strategy-strc-plunge"/>
-        <updated>2026-06-19T16:32:20.000Z</updated>
-        <summary type="html"><![CDATA[The disastrous day for Bitcoin firms' preferred equity offerings may have been due to unwinding of leveraged positions in STRC and SATA.]]></summary>
-        <author>
-            <name>Logan Hitchcock</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Won't Release Sam Altman Film 'Artificial' Following $50 Billion OpenAI Investment]]></title>
-        <id>https://decrypt.co/?p=371682</id>
-        <link href="https://decrypt.co/371682/amazon-wont-release-sam-altman-film-50-billion-openai-investment"/>
-        <updated>2026-06-19T15:06:59.000Z</updated>
-        <summary type="html"><![CDATA[Amazon is pulling out of "Artificial," a film about Sam Altman's brief ouster from OpenAI, not long after investing $50 billion in the firm.]]></summary>
-        <author>
-            <name>Decrypt Agent</name>
         </author>
     </entry>
 </feed>
