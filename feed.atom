@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-06-24T13:11:40.040Z</id>
+    <id>urn:2026-06-24T16:09:09.940Z</id>
     <title>web3::cave</title>
-    <updated>2026-06-24T13:11:40.040Z</updated>
+    <updated>2026-06-24T16:09:09.940Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[OpenAI Turns Up the Heat With Jalapeño, Its First Custom AI Chip]]></title>
+        <id>https://decrypt.co/?p=371971</id>
+        <link href="https://decrypt.co/371971/openai-broadcom-jalapeno-first-custom-ai-chip"/>
+        <updated>2026-06-24T15:42:31.000Z</updated>
+        <summary type="html"><![CDATA[Built with Broadcom, the LLM-focused accelerator is the first step in OpenAI's effort to design the hardware behind ChatGPT and beyond.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trump Cancels Signing of Bipartisan Housing Bill Containing CBDC Ban: 'Of Minor Importance']]></title>
+        <id>https://decrypt.co/?p=371975</id>
+        <link href="https://decrypt.co/371975/trump-cancels-signing-bipartisan-housing-bill-cbdc-ban"/>
+        <updated>2026-06-24T15:34:50.000Z</updated>
+        <summary type="html"><![CDATA[President Trump said he won’t sign the popular bill until Congress passes a controversial bill restricting voting rights.]]></summary>
+        <author>
+            <name>Sander Lutz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Strategy Shares Crash Below $100 as Bitcoin Sinks Towards $60K]]></title>
+        <id>https://decrypt.co/?p=371965</id>
+        <link href="https://decrypt.co/371965/strategy-shares-crash-below-100-bitcoin-sinks-toward-60k"/>
+        <updated>2026-06-24T14:31:29.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin fell to a two-week low price Wednesday as Strategy shares dove below the $100 mark for the first time since March 2024.]]></summary>
+        <author>
+            <name>Andrew Hayward</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Morning Minute: Meta Is Building a Prediction Market]]></title>
         <id>https://decrypt.co/?p=371953</id>
@@ -323,36 +353,6 @@
         <summary type="html"><![CDATA[New research outlines how chatbot behaviors, including personalization, mirroring, and excessive agreement, reinforce delusions.]]></summary>
         <author>
             <name>Jason Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenRouter's Fusion Promises Claude Fable-Level AI for Cheap—Right as Fable 5 Goes Dark]]></title>
-        <id>https://decrypt.co/?p=371711</id>
-        <link href="https://decrypt.co/371711/openrouter-fusion-claude-fable-level-ai-cheap"/>
-        <updated>2026-06-20T18:01:04.000Z</updated>
-        <summary type="html"><![CDATA[OpenRouter's compound-model API stacks budget AI models—and beat GPT-5.5 and Claude Opus 4.8 outright in benchmark testing.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Network Activity Is Rising as BTC Falls Nearly 50% Below Peak Price: CryptoQuant]]></title>
-        <id>https://decrypt.co/?p=371702</id>
-        <link href="https://decrypt.co/371702/bitcoin-network-activity-rising-btc-falls-50-percent-below-peak-price"/>
-        <updated>2026-06-20T14:59:51.000Z</updated>
-        <summary type="html"><![CDATA[Activity on the Bitcoin network is surging, CryptoQuant said, but it's not correlating with price movement for its native asset.]]></summary>
-        <author>
-            <name>Logan Hitchcock</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Charles Schwab Planning to Roll Out S&#038;P 500 Prediction Markets With Cboe: WSJ]]></title>
-        <id>https://decrypt.co/?p=371708</id>
-        <link href="https://decrypt.co/371708/charles-schwab-planning-sp-500-prediction-markets-cboe"/>
-        <updated>2026-06-19T20:02:32.000Z</updated>
-        <summary type="html"><![CDATA[Global financial institution Charles Schwab is the latest firm hoping to steal a piece of the growing prediction market pie.]]></summary>
-        <author>
-            <name>Logan Hitchcock</name>
         </author>
     </entry>
 </feed>
