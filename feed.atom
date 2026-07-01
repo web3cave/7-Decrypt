@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-01T08:43:58.861Z</id>
+    <id>urn:2026-07-01T11:52:02.923Z</id>
     <title>web3::cave</title>
-    <updated>2026-07-01T08:43:58.861Z</updated>
+    <updated>2026-07-01T11:52:02.923Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Goliath Ventures CEO Pleads Guilty to $250M Crypto Ponzi Scheme]]></title>
+        <id>https://decrypt.co/?p=372502</id>
+        <link href="https://decrypt.co/372502/goliath-ventures-ceo-pleads-guilty-to-250m-crypto-ponzi-scheme"/>
+        <updated>2026-07-01T08:43:31.000Z</updated>
+        <summary type="html"><![CDATA[Christopher Delgado’s "liquidity pool" fraud took in at least $400 million, with the proceeds spent on mansions, Lamborghinis, and Rolexes.]]></summary>
+        <author>
+            <name>Decrypt Agent</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Trump Discloses Over $1.2 Billion in Crypto Earnings, $50M in Bitcoin Holdings]]></title>
         <id>https://decrypt.co/?p=372484</id>
@@ -353,16 +363,6 @@
         <summary type="html"><![CDATA[Crypto firms operating in the European Union will be forced to cease operations if they do not obtain a MiCA license by July 1.]]></summary>
         <author>
             <name>Sander Lutz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This AI Agent Survived 6,000 Hack Attempts—Here’s How]]></title>
-        <id>https://decrypt.co/?p=372221</id>
-        <link href="https://decrypt.co/372221/ai-agent-openclaw-6000-hack-attempts"/>
-        <updated>2026-06-26T18:01:47.000Z</updated>
-        <summary type="html"><![CDATA[Fernando Irarrázaval posted his OpenClaw assistant's inbox to Hacker News and watched Claude Opus 4.6 hold off thousands of attackers.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
         </author>
     </entry>
 </feed>
