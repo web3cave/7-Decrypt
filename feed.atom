@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-01T19:40:12.560Z</id>
+    <id>urn:2026-07-01T21:18:44.643Z</id>
     <title>web3::cave</title>
-    <updated>2026-07-01T19:40:12.560Z</updated>
+    <updated>2026-07-01T21:18:44.643Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Robinhood Launches 'AI-Native' Ethereum Layer-2 Network, Tokenized Stock Trading]]></title>
+        <id>https://decrypt.co/?p=372614</id>
+        <link href="https://decrypt.co/372614/robinhood-ai-native-ethereum-layer-2-network-tokenized-stock-trading"/>
+        <updated>2026-07-01T20:56:38.000Z</updated>
+        <summary type="html"><![CDATA[Brokerage and crypto exchange Robinhood opened the public mainnet for its Arbitrum-powered Ethereum layer-2 network on Wednesday.]]></summary>
+        <author>
+            <name>Logan Hitchcock</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Venice AI Valued at $1 Billion as Erik Voorhees Makes the Case for Private ChatGPT Rivals]]></title>
+        <id>https://decrypt.co/?p=372613</id>
+        <link href="https://decrypt.co/372613/venice-ai-valued-1-billion-erik-voorhees-makes-case-private-chatgpt"/>
+        <updated>2026-07-01T20:38:40.000Z</updated>
+        <summary type="html"><![CDATA[Venice reached a $1 billion valuation as founder Erik Voorhees argued AI companies should protect users' conversations.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LongCat-2.0: The Stealth AI Model That Was Quietly Topping OpenRouter All Along]]></title>
+        <id>https://decrypt.co/?p=372579</id>
+        <link href="https://decrypt.co/372579/longcat-2-0-meituan-ai-stealth-model-openrouter"/>
+        <updated>2026-07-01T20:18:55.000Z</updated>
+        <summary type="html"><![CDATA[The 1.6 trillion-parameter mixture-of-experts model spent two months disguised as "Owl Alpha" before Meituan claimed it—and it undercuts GPT-5.5 and Claude Sonnet 5 on price by a wide margin.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[UN's First AI Safety Panel Says Scientists Can't Rule Out 'Catastrophic Harm']]></title>
         <id>https://decrypt.co/?p=372543</id>
@@ -323,26 +353,6 @@
         <summary type="html"><![CDATA[Ripple outlined how the XRP Ledger Lending Protocol would provide institutions with a novel way to structure loans directly on-chain.]]></summary>
         <author>
             <name>André Beganski</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[California Strikes Deal With Anthropic to Bring Claude AI to State Agencies]]></title>
-        <id>https://decrypt.co/?p=372301</id>
-        <link href="https://decrypt.co/372301/california-strikes-deal-anthropic-bring-claude-ai-state-agencies"/>
-        <updated>2026-06-29T16:54:09.000Z</updated>
-        <summary type="html"><![CDATA[Anthropic’s agreement makes Claude the first AI tool available to all state agencies and local governments, at half price.]]></summary>
-        <author>
-            <name>Decrypt Agent</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Is Strategy (MSTR)? The Bitcoin Treasury Company]]></title>
-        <id>https://decrypt.co/?p=300034</id>
-        <link href="https://decrypt.co/resources/what-is-strategy-microstrategy-mstr-the-bitcoin-treasury-company"/>
-        <updated>2026-06-29T15:54:02.000Z</updated>
-        <summary type="html"><![CDATA[Software firm Strategy (formerly MicroStrategy) and its co-founder Michael Saylor have become synonymous with Bitcoin. Here’s what you need to know.]]></summary>
-        <author>
-            <name>Logan Hitchcock</name>
         </author>
     </entry>
 </feed>
