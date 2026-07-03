@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-03T15:01:46.396Z</id>
+    <id>urn:2026-07-03T17:14:13.044Z</id>
     <title>web3::cave</title>
-    <updated>2026-07-03T15:01:46.396Z</updated>
+    <updated>2026-07-03T17:14:13.044Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What Is Q-Day? The Quantum Threat to Bitcoin Explained]]></title>
+        <id>https://decrypt.co/?p=348754</id>
+        <link href="https://decrypt.co/resources/what-q-day-quantum-threat-bitcoin-explained"/>
+        <updated>2026-07-03T15:40:16.000Z</updated>
+        <summary type="html"><![CDATA[Experts warn quantum computers could someday forge Bitcoin’s digital signatures, allowing unauthorized transactions.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[American Charged in Israel With Spying for Iran in Exchange for Crypto]]></title>
         <id>https://decrypt.co/?p=372729</id>
@@ -353,16 +363,6 @@
         <summary type="html"><![CDATA[The forthcoming Open USD has more than 100 major supporters onboard, including Coinbase—a key backer of Circle’s USDC.]]></summary>
         <author>
             <name>Decrypt Agent</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sharplink Buys Ethereum for First Time in 2026—With ETH Down 68% From Peak]]></title>
-        <id>https://decrypt.co/?p=372432</id>
-        <link href="https://decrypt.co/372432/harplink-buys-ethereum-first-time-2026-eth-down"/>
-        <updated>2026-06-30T15:54:01.000Z</updated>
-        <summary type="html"><![CDATA[Ethereum treasury firm Sharplink purchased around $16 million worth of ETH last week, marking its first crypto buy since last year.]]></summary>
-        <author>
-            <name>Logan Hitchcock</name>
         </author>
     </entry>
 </feed>
