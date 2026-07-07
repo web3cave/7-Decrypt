@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-07T16:19:11.203Z</id>
+    <id>urn:2026-07-07T18:54:54.572Z</id>
     <title>web3::cave</title>
-    <updated>2026-07-07T16:19:11.203Z</updated>
+    <updated>2026-07-07T18:54:54.572Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Radar Chat Wants to Make Sending Bitcoin as Easy as Firing Off a Text]]></title>
+        <id>https://decrypt.co/?p=372941</id>
+        <link href="https://decrypt.co/372941/radar-chat-make-sending-bitcoin-easy-text"/>
+        <updated>2026-07-07T18:38:26.000Z</updated>
+        <summary type="html"><![CDATA[Built on Signal’s open-source technology, Radar Chat combines encrypted messaging with self-custodial Bitcoin payments via Lightning Network.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kenya's Markets Regulator Seeks Blockchain Tool to Track Crypto Crime]]></title>
+        <id>https://decrypt.co/?p=372932</id>
+        <link href="https://decrypt.co/372932/kenyas-markets-regulator-seeks-blockchain-tool-to-track-crypto-crime"/>
+        <updated>2026-07-07T17:29:39.000Z</updated>
+        <summary type="html"><![CDATA[The Capital Markets Authority wants to monitor over 20 blockchains for fraud, laundering, and sanctions evasion under Kenya's new crypto law.]]></summary>
+        <author>
+            <name>Decrypt Agent</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wintermute Cautions 'Relief Rally' Likely as Bitcoin Touches Highest Price in Weeks]]></title>
+        <id>https://decrypt.co/?p=372929</id>
+        <link href="https://decrypt.co/372929/wintermute-cautions-relief-rally-bitcoin-touches-highest-price-weeks"/>
+        <updated>2026-07-07T17:16:27.000Z</updated>
+        <summary type="html"><![CDATA[Market maker Wintermute remains cautious, suggesting that recent Bitcoin action is a relief rally rather than a fundamental market change.]]></summary>
+        <author>
+            <name>Logan Hitchcock</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Coinbase Wins UK License to Offer Stocks and Derivatives Alongside Crypto]]></title>
         <id>https://decrypt.co/?p=372912</id>
@@ -343,36 +373,6 @@
         <summary type="html"><![CDATA[Researchers say a new jailbreak technique tricked AI models into treating attacker-written text as their own reasoning, bypassing safety guardrails and exposing a deeper security flaw.]]></summary>
         <author>
             <name>Jason Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Securitize Begins Trading on NYSE as Tokenized Shares Land on Solana, Avalanche]]></title>
-        <id>https://decrypt.co/?p=372689</id>
-        <link href="https://decrypt.co/372689/securitize-trading-nyse-tokenized-shares-solana-avalanche"/>
-        <updated>2026-07-02T18:43:50.000Z</updated>
-        <summary type="html"><![CDATA[BlackRock-backed tokenization firm Securitize now has shares trading on the New York Stock Exchange—or via Solana and Avalanche.]]></summary>
-        <author>
-            <name>Logan Hitchcock</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Japanese Financial Giant SBI to Shut Down Bitcoin Mining Pool]]></title>
-        <id>https://decrypt.co/?p=372686</id>
-        <link href="https://decrypt.co/372686/japanese-financial-giant-sbi-shut-down-bitcoin-mining-pool"/>
-        <updated>2026-07-02T18:28:47.000Z</updated>
-        <summary type="html"><![CDATA[SBI Crypto, the subsidiary of the Japanese financial giant, is the latest firm to shutter its Bitcoin mining endeavor.]]></summary>
-        <author>
-            <name>Logan Hitchcock</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Shorts Get Rekt as Bitcoin, Ethereum and XRP Rise to Weekly High Prices]]></title>
-        <id>https://decrypt.co/?p=372676</id>
-        <link href="https://decrypt.co/372676/crypto-shorts-rekt-bitcoin-ethereum-xrp-rise-weekly-highs"/>
-        <updated>2026-07-02T17:29:19.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin continued rising after hitting a 21-month-low earlier this week, topping $62,000 and leading a broader crypto market rebound.]]></summary>
-        <author>
-            <name>Andrew Hayward</name>
         </author>
     </entry>
 </feed>
