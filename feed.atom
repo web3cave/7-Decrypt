@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-09T21:13:10.392Z</id>
+    <id>urn:2026-07-09T23:03:06.980Z</id>
     <title>web3::cave</title>
-    <updated>2026-07-09T21:13:10.392Z</updated>
+    <updated>2026-07-09T23:03:06.980Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[AI Agents Could Be Turned Into Botnets Through Hallucinations, Researchers Warn]]></title>
+        <id>https://decrypt.co/?p=373196</id>
+        <link href="https://decrypt.co/373196/ai-agents-botnets-hallucinations-researchers-warn"/>
+        <updated>2026-07-09T21:45:01.000Z</updated>
+        <summary type="html"><![CDATA[Researchers warn AI agents could be tricked into downloading malicious code by exploiting the same hallucinations that cause chatbots to make mistakes.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Avalanche Treasury Firm AVAX One Reclaims Nasdaq Compliance After Reverse Stock Split]]></title>
         <id>https://decrypt.co/?p=373193</id>
@@ -363,16 +373,6 @@
         <summary type="html"><![CDATA[The plaintiffs say Polymarket added a rule after the fact, turning their winning "Yes" bet on Strategy's Bitcoin sale into a loss.]]></summary>
         <author>
             <name>Decrypt Agent</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ByteDance and Alibaba to Pull Agent Features as China Cracks Down on Humanlike AI]]></title>
-        <id>https://decrypt.co/?p=372873</id>
-        <link href="https://decrypt.co/372873/bytedance-alibaba-agent-features-china-cracks-down-humanlike-ai"/>
-        <updated>2026-07-06T21:37:54.000Z</updated>
-        <summary type="html"><![CDATA[Beijing's first rules targeting emotional AI are forcing the country's biggest apps to shut down custom agents.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
         </author>
     </entry>
 </feed>
