@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-10T20:14:58.048Z</id>
+    <id>urn:2026-07-10T21:52:11.132Z</id>
     <title>web3::cave</title>
-    <updated>2026-07-10T20:14:58.048Z</updated>
+    <updated>2026-07-10T21:52:11.132Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Apple Sues OpenAI, Claims Former Employees Stole Trade Secrets]]></title>
+        <id>https://decrypt.co/?p=373339</id>
+        <link href="https://decrypt.co/373339/apple-sues-openai-claims-former-employees-stole-trade-secrets"/>
+        <updated>2026-07-10T21:50:30.000Z</updated>
+        <summary type="html"><![CDATA[Apple alleges former employees took confidential designs, supplier information, and engineering files before joining OpenAI.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Democrats Call for Senate Hearings on Trump's Massive Crypto Profits]]></title>
+        <id>https://decrypt.co/?p=373289</id>
+        <link href="https://decrypt.co/373289/democrats-senate-hearings-trump-massive-crypto-profits"/>
+        <updated>2026-07-10T20:35:44.000Z</updated>
+        <summary type="html"><![CDATA[Top Democrats on key Senate committees demanded inquiries into the more than $1.2 billion that President Trump made on crypto last year.]]></summary>
+        <author>
+            <name>Sander Lutz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoin Treasury Firm Empery Digital Dumps Nearly Half of BTC Holdings for $87 Million]]></title>
         <id>https://decrypt.co/?p=373278</id>
@@ -333,26 +353,6 @@
         <summary type="html"><![CDATA[The report, filed in May 2024, invited the National Crime Agency to determine whether there were grounds for further investigation.]]></summary>
         <author>
             <name>Decrypt Agent</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthropic Removes Hidden Claude Code Tracker After Researchers Raise Privacy Concerns]]></title>
-        <id>https://decrypt.co/?p=372977</id>
-        <link href="https://decrypt.co/372977/anthropic-removes-hidden-claude-code-tracker-privacy"/>
-        <updated>2026-07-07T22:31:03.000Z</updated>
-        <summary type="html"><![CDATA[The company says the tool was designed to stop abuse and AI model extraction, but critics questioned the use of undisclosed monitoring.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SEC's Long-Promised Crypto Safe Harbor to Be Introduced as Soon as This Month]]></title>
-        <id>https://decrypt.co/?p=372980</id>
-        <link href="https://decrypt.co/372980/sec-crypto-safe-harbor-introduced-soon-this-month"/>
-        <updated>2026-07-07T22:01:32.000Z</updated>
-        <summary type="html"><![CDATA[The SEC updated its agenda to indicate that a key crypto rulemaking is slated to be released for public comment in July.]]></summary>
-        <author>
-            <name>Sander Lutz</name>
         </author>
     </entry>
 </feed>
