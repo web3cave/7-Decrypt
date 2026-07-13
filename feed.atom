@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-13T21:46:19.006Z</id>
+    <id>urn:2026-07-13T22:46:01.030Z</id>
     <title>web3::cave</title>
-    <updated>2026-07-13T21:46:19.006Z</updated>
+    <updated>2026-07-13T22:46:01.030Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Protesters March on OpenAI, Anthropic, and Google DeepMind Demanding AI Development Pause]]></title>
+        <id>https://decrypt.co/?p=373433</id>
+        <link href="https://decrypt.co/373433/stop-ai-protest-openai-anthropic-google-deepmind"/>
+        <updated>2026-07-13T22:11:05.000Z</updated>
+        <summary type="html"><![CDATA[About 200 protesters marched through San Francisco on Saturday, calling on leading AI companies to halt development of more powerful models over concerns about AI safety, jobs, and the environment.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Hampshire Follows Bitcoin Reserve With 'Blockchain Basic Laws' Signing]]></title>
         <id>https://decrypt.co/?p=373424</id>
@@ -343,16 +353,6 @@
         <summary type="html"><![CDATA[The lawmakers have tabled amendments to make the current moratorium permanent, as the fallout over Reform UK's funding widens.]]></summary>
         <author>
             <name>Decrypt Agent</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MoonPay Brings Its AI Crypto Agents to Telegram]]></title>
-        <id>https://decrypt.co/?p=373059</id>
-        <link href="https://decrypt.co/373059/moonpay-ai-crypto-agents-telegram"/>
-        <updated>2026-07-09T13:01:05.000Z</updated>
-        <summary type="html"><![CDATA[MoonAgents lets users analyze markets and prepare crypto transactions through Telegram while keeping keys on their own devices.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
         </author>
     </entry>
 </feed>
