@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-14T19:04:01.700Z</id>
+    <id>urn:2026-07-14T20:50:38.193Z</id>
     <title>web3::cave</title>
-    <updated>2026-07-14T19:04:01.700Z</updated>
+    <updated>2026-07-14T20:50:38.193Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[DeepMind CEO Says AGI Will Be Bigger Than Electricity or Fire]]></title>
+        <id>https://decrypt.co/?p=373511</id>
+        <link href="https://decrypt.co/373511/deepmind-ceo-agi-bigger-than-electricity-fire"/>
+        <updated>2026-07-14T19:57:49.000Z</updated>
+        <summary type="html"><![CDATA[Demis Hassabis says artificial general intelligence is only a few years away and proposes a new U.S. standards body to test frontier AI models before release.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoin Ticks Up to $64K Following Largest Inflation Slowdown in Six Years]]></title>
         <id>https://decrypt.co/?p=373488</id>
@@ -343,16 +353,6 @@
         <summary type="html"><![CDATA[The company's post-trained GLM 5.2 preview pairs a cheaper open-source base with a frontier advisor—and it's already live in production.]]></summary>
         <author>
             <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthropic AI Oversight Board Adds Ben Bernanke, Who Oversaw 2008 Financial Crisis at Fed]]></title>
-        <id>https://decrypt.co/?p=373181</id>
-        <link href="https://decrypt.co/373181/anthropic-ai-oversight-board-ben-bernanke-2008-federal-crisis-fed"/>
-        <updated>2026-07-09T20:22:29.000Z</updated>
-        <summary type="html"><![CDATA[Former Fed Chair Ben Bernanke will have the power to appoint Anthropic board members as part of company's Long-Term Benefit Trust.]]></summary>
-        <author>
-            <name>Sander Lutz</name>
         </author>
     </entry>
 </feed>
