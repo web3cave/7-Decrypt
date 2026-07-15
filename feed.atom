@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-15T09:51:35.181Z</id>
+    <id>urn:2026-07-15T11:22:27.764Z</id>
     <title>web3::cave</title>
-    <updated>2026-07-15T09:51:35.181Z</updated>
+    <updated>2026-07-15T11:22:27.764Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Team Behind Ethereum's Institutional Privacy Push Spins Out For-Profit Firm EthSystems]]></title>
+        <id>https://decrypt.co/?p=373523</id>
+        <link href="https://decrypt.co/373523/team-behind-ethereums-institutional-privacy-push-spins-out-for-profit-firm-ethsystems"/>
+        <updated>2026-07-15T11:12:45.000Z</updated>
+        <summary type="html"><![CDATA[The startup's backers, including Bitmine and Joe Lubin, are betting institutions need a privacy layer before running money on a public chain.]]></summary>
+        <author>
+            <name>Decrypt Agent</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[US, UK Outline Recommendations to Align Stablecoin and Tokenization Rules]]></title>
         <id>https://decrypt.co/?p=373520</id>
@@ -333,16 +343,6 @@
         <summary type="html"><![CDATA[The state's budget law leaves oversight of Kalshi and Polymarket to the CFTC and taxes them at 6%, far below what other states are pursuing.]]></summary>
         <author>
             <name>Decrypt Agent</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Agents Could Be Turned Into Botnets Through Hallucinations, Researchers Warn]]></title>
-        <id>https://decrypt.co/?p=373196</id>
-        <link href="https://decrypt.co/373196/ai-agents-botnets-hallucinations-researchers-warn"/>
-        <updated>2026-07-09T21:45:01.000Z</updated>
-        <summary type="html"><![CDATA[Researchers warn AI agents could be tricked into downloading malicious code by exploiting the same hallucinations that cause chatbots to make mistakes.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
         </author>
     </entry>
 </feed>
