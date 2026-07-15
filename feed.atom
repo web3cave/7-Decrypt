@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-15T20:03:40.150Z</id>
+    <id>urn:2026-07-15T21:50:02.720Z</id>
     <title>web3::cave</title>
-    <updated>2026-07-15T20:03:40.150Z</updated>
+    <updated>2026-07-15T21:50:02.720Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Why Analysts Aren’t Worried About Coinbase’s 30% Drop]]></title>
+        <id>https://decrypt.co/?p=373615</id>
+        <link href="https://decrypt.co/373615/analysts-arent-worried-coinbase-drop"/>
+        <updated>2026-07-15T21:38:43.000Z</updated>
+        <summary type="html"><![CDATA[William Blair slashed earnings estimates by 34% and held its Outperform call. But analysts think Bitcoin's chart may already be answering the bigger question.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI Uses AI Red Team to Strengthen GPT-5.6 Against Prompt Injection Attacks]]></title>
+        <id>https://decrypt.co/?p=373613</id>
+        <link href="https://decrypt.co/373613/openai-ai-red-team-strengthen-gpt-5-6-prompt-injection-attacks"/>
+        <updated>2026-07-15T20:50:11.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI said its new automated red-teaming model, GPT-Red, uncovered vulnerabilities that were used to make GPT-5.6 more resistant to prompt injection attacks.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Meet Bonsai: The First 27B AI Model That Fits on Your Phone]]></title>
         <id>https://decrypt.co/?p=373578</id>
@@ -343,26 +363,6 @@
         <summary type="html"><![CDATA[Google's cheapest, fastest image model is a genuinely capable tool—until you need it to be great.]]></summary>
         <author>
             <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple Sues OpenAI, Claims Former Employees Stole Trade Secrets]]></title>
-        <id>https://decrypt.co/?p=373339</id>
-        <link href="https://decrypt.co/373339/apple-sues-openai-claims-former-employees-stole-trade-secrets"/>
-        <updated>2026-07-10T21:50:30.000Z</updated>
-        <summary type="html"><![CDATA[Apple alleges former employees took confidential designs, supplier information, and engineering files before joining OpenAI.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Democrats Call for Senate Hearings on Trump's Massive Crypto Profits]]></title>
-        <id>https://decrypt.co/?p=373289</id>
-        <link href="https://decrypt.co/373289/democrats-senate-hearings-trump-massive-crypto-profits"/>
-        <updated>2026-07-10T20:35:44.000Z</updated>
-        <summary type="html"><![CDATA[Top Democrats on key Senate committees demanded inquiries into the more than $1.2 billion that President Trump made on crypto last year.]]></summary>
-        <author>
-            <name>Sander Lutz</name>
         </author>
     </entry>
 </feed>
