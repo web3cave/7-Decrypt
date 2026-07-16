@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-16T09:58:11.647Z</id>
+    <id>urn:2026-07-16T11:37:49.223Z</id>
     <title>web3::cave</title>
-    <updated>2026-07-16T09:58:11.647Z</updated>
+    <updated>2026-07-16T11:37:49.223Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Feds Arrest Florida Man Over Video Game Malware That Stole $220K in Crypto]]></title>
+        <id>https://decrypt.co/?p=373631</id>
+        <link href="https://decrypt.co/373631/feds-arrest-florida-man-over-video-game-malware-that-stole-220k-in-crypto"/>
+        <updated>2026-07-16T10:54:08.000Z</updated>
+        <summary type="html"><![CDATA[Zyaire Wilkins allegedly procured malware hidden in video games that infected 8,000 devices and broke into 80 crypto wallets, the FBI says.]]></summary>
+        <author>
+            <name>Decrypt Agent</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[US Senate Unanimously Opposes Sam Bankman-Fried Pardon]]></title>
         <id>https://decrypt.co/?p=373629</id>
@@ -353,16 +363,6 @@
         <summary type="html"><![CDATA[One product photo, three AI tools, and about 20 minutes: Here's the full workflow for generating a sales video without a camera, a model, or a studio.]]></summary>
         <author>
             <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Is Robinhood Chain? The Ethereum Layer-2 Network for Tokenized Stocks]]></title>
-        <id>https://decrypt.co/?p=373351</id>
-        <link href="https://decrypt.co/resources/what-robinhood-chain-ethereum-layer-2-network-tokenized-stocks"/>
-        <updated>2026-07-11T16:21:34.000Z</updated>
-        <summary type="html"><![CDATA[Robinhood Chain is an Ethereum layer-2 network built with Arbitrum technology for tokenized assets, crypto apps, and on-chain financial products.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
         </author>
     </entry>
 </feed>
