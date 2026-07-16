@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-16T18:57:15.104Z</id>
+    <id>urn:2026-07-16T20:00:09.034Z</id>
     <title>web3::cave</title>
-    <updated>2026-07-16T18:57:15.104Z</updated>
+    <updated>2026-07-16T20:00:09.034Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Q-Day Recovery Proposal Aims to Let Users Prove Ownership After Quantum Attack]]></title>
+        <id>https://decrypt.co/?p=373666</id>
+        <link href="https://decrypt.co/373666/bitcoin-q-day-recovery-proposal-prove-ownership-quantum-attack"/>
+        <updated>2026-07-16T19:00:32.000Z</updated>
+        <summary type="html"><![CDATA[Project Eleven says a new post-quantum cryptographic proof could help Bitcoin users recover wallets after Q-Day by verifying ownership.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mira Murati Drops Her First AI Model After Leaving OpenAI—And It's Fully Open Source]]></title>
         <id>https://decrypt.co/?p=373671</id>
@@ -353,16 +363,6 @@
         <summary type="html"><![CDATA[Romantic AI companion apps have brought in nearly half a billion dollars as users pay for virtual partners, flirting, and digital intimacy.]]></summary>
         <author>
             <name>Jason Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BitMine Buys $49 Million in Ethereum as Tom Lee Hails Early Robinhood Chain Demand]]></title>
-        <id>https://decrypt.co/?p=373392</id>
-        <link href="https://decrypt.co/373392/bitmine-buys-49-million-ethereum-tom-lee-hails-robinhood-chain-demand"/>
-        <updated>2026-07-13T15:22:10.000Z</updated>
-        <summary type="html"><![CDATA[According to BitMine Chairman Tom Lee, Ethereum is benefiting from the early success of the Robinhood Chain layer-2 network.]]></summary>
-        <author>
-            <name>Logan Hitchcock</name>
         </author>
     </entry>
 </feed>
