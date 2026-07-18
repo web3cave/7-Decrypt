@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-18T14:16:13.974Z</id>
+    <id>urn:2026-07-18T15:46:05.228Z</id>
     <title>web3::cave</title>
-    <updated>2026-07-18T14:16:13.974Z</updated>
+    <updated>2026-07-18T15:46:05.228Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[GPT-5.6 vs Fable 5 Review: Which One You Pick Depends on These Factors]]></title>
+        <id>https://decrypt.co/?p=373770</id>
+        <link href="https://decrypt.co/373770/openai-gpt-5-6-vs-anthropic-fable-5-review"/>
+        <updated>2026-07-18T15:21:03.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI's GPT-5.6 Sol or Anthropic's Claude Fable 5: Which one is right for you? The answer depends on your needs. Here's our review.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ECB Warns Stablecoins May Drain Bank Deposits—Here's What That Means]]></title>
         <id>https://decrypt.co/?p=373767</id>
@@ -333,16 +343,6 @@
         <summary type="html"><![CDATA[The joint recommendations back cross-border stablecoins and tokenized markets, setting a shared direction while avoiding binding rules.]]></summary>
         <author>
             <name>Decrypt Agent</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeepMind CEO Says AGI Will Be Bigger Than Electricity or Fire]]></title>
-        <id>https://decrypt.co/?p=373511</id>
-        <link href="https://decrypt.co/373511/deepmind-ceo-agi-bigger-than-electricity-fire"/>
-        <updated>2026-07-14T19:57:49.000Z</updated>
-        <summary type="html"><![CDATA[Demis Hassabis says artificial general intelligence is only a few years away and proposes a new U.S. standards body to test frontier AI models before release.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
         </author>
     </entry>
 </feed>
