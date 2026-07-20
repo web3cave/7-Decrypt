@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-20T21:01:41.895Z</id>
+    <id>urn:2026-07-20T22:48:29.132Z</id>
     <title>web3::cave</title>
-    <updated>2026-07-20T21:01:41.895Z</updated>
+    <updated>2026-07-20T22:48:29.132Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bank of Korea Scales Up CBDC Pilot With Half a Million Users]]></title>
+        <id>https://decrypt.co/?p=373905</id>
+        <link href="https://decrypt.co/373905/bank-korea-scales-up-cbdc-pilot-half-million-users"/>
+        <updated>2026-07-20T21:12:03.000Z</updated>
+        <summary type="html"><![CDATA[Phase 1 of Project Hangang opened 81,000 wallets with 42% of them using the CBDC. Phase 2 is bigger, and this time it moves real government money.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Russia's First Comprehensive Crypto Law Is Two Votes Away From Passing]]></title>
         <id>https://decrypt.co/?p=373880</id>
@@ -341,16 +351,6 @@
         <link href="https://decrypt.co/373571/blackrock-goldman-sachs-jp-morgan-dtcc-tokenized-stocks"/>
         <updated>2026-07-15T18:02:06.000Z</updated>
         <summary type="html"><![CDATA[The Depository Trust & Clearing Corporation is working with nearly 40 financial firms in a pilot to test tokenized stocks and U.S. treasuries.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Another DeFi Exploit: Perp DEX Ostium Loses $18 Million in Oracle Attack]]></title>
-        <id>https://decrypt.co/?p=373566</id>
-        <link href="https://decrypt.co/373566/defi-exploit-ostium-oracle-hack"/>
-        <updated>2026-07-15T17:01:25.000Z</updated>
-        <summary type="html"><![CDATA[Hackers manipulated Ostium's price feed by compromising an oracle signer key, allowing them to drain roughly $18 million from the Arbitrum-based perpetuals exchange.]]></summary>
         <author>
             <name>Jason Nelson</name>
         </author>
