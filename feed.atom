@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-20T19:26:22.589Z</id>
+    <id>urn:2026-07-20T21:01:41.895Z</id>
     <title>web3::cave</title>
-    <updated>2026-07-20T19:26:22.589Z</updated>
+    <updated>2026-07-20T21:01:41.895Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Russia's First Comprehensive Crypto Law Is Two Votes Away From Passing]]></title>
+        <id>https://decrypt.co/?p=373880</id>
+        <link href="https://decrypt.co/373880/russia-first-comprehensive-crypto-law"/>
+        <updated>2026-07-20T20:02:33.000Z</updated>
+        <summary type="html"><![CDATA[The bill licenses exchanges, caps retail investors at about $3,800 a year, and creates a legal pathway for Russian companies to pay foreign partners in crypto—bypassing Western sanctions.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cardano Triggers Hard Fork With First Community-Voted Upgrade]]></title>
         <id>https://decrypt.co/?p=373858</id>
@@ -343,16 +353,6 @@
         <summary type="html"><![CDATA[Hackers manipulated Ostium's price feed by compromising an oracle signer key, allowing them to drain roughly $18 million from the Arbitrum-based perpetuals exchange.]]></summary>
         <author>
             <name>Jason Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[US Treasury Freezes $131 Million in Iran-Linked Crypto Wallets]]></title>
-        <id>https://decrypt.co/?p=373565</id>
-        <link href="https://decrypt.co/373565/us-treasury-freezes-131-million-iran-crypto"/>
-        <updated>2026-07-15T16:54:14.000Z</updated>
-        <summary type="html"><![CDATA[OFAC sanctioned addresses tied to Iran's central bank and armed forces, with Tether locking four Tron wallets as Washington's financial campaign against Tehran accelerates.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
         </author>
     </entry>
 </feed>
