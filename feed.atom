@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-21T20:14:08.376Z</id>
+    <id>urn:2026-07-21T21:56:17.092Z</id>
     <title>web3::cave</title>
-    <updated>2026-07-21T20:14:08.376Z</updated>
+    <updated>2026-07-21T21:56:17.092Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[OpenAI Models Escaped Locked Test Environment, Hacked Hugging Face to Cheat on Benchmark]]></title>
+        <id>https://decrypt.co/?p=374015</id>
+        <link href="https://decrypt.co/374015/openai-models-escaped-test-environment-hacked-hugging-face-cheat-benchmark"/>
+        <updated>2026-07-21T21:29:03.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI's own models just broke out of a sandboxed environment, hacked Hugging Face, just to cheat on a cybersecurity evaluation.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pavel Durov Wants to Give a Billion Telegram Users a Crypto Wallet]]></title>
+        <id>https://decrypt.co/?p=374001</id>
+        <link href="https://decrypt.co/374001/pavel-durov-telegram-crypto-wallet-billion-users"/>
+        <updated>2026-07-21T20:20:49.000Z</updated>
+        <summary type="html"><![CDATA[The promise of instant, zero-fee crypto transactions for over a billion Telegram users sent its native Gram token up 7%.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google Ships New Gemini Flash Models, But Pro Is Still Missing]]></title>
         <id>https://decrypt.co/?p=373975</id>
@@ -313,26 +333,6 @@
         <summary type="html"><![CDATA[Eligible customers can now buy, sell, and hold Bitcoin, Ethereum, and Solana with Morgan Stanley via Zero Hash.]]></summary>
         <author>
             <name>Jason Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Q-Day Recovery Proposal Aims to Let Users Prove Ownership After Quantum Attack]]></title>
-        <id>https://decrypt.co/?p=373666</id>
-        <link href="https://decrypt.co/373666/bitcoin-q-day-recovery-proposal-prove-ownership-quantum-attack"/>
-        <updated>2026-07-16T19:00:32.000Z</updated>
-        <summary type="html"><![CDATA[Project Eleven says a new post-quantum cryptographic proof could help Bitcoin users recover wallets after Q-Day by verifying ownership.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mira Murati Drops Her First AI Model After Leaving OpenAI—And It's Fully Open Source]]></title>
-        <id>https://decrypt.co/?p=373671</id>
-        <link href="https://decrypt.co/373671/mira-murati-inkling-ai-model-openai-open-source"/>
-        <updated>2026-07-16T18:27:11.000Z</updated>
-        <summary type="html"><![CDATA[Mira Murati's Inkling won't dethrone the best Chinese open-weights models, but it gives Western developers something they haven't yet had.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
         </author>
     </entry>
 </feed>
