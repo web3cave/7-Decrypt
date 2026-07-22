@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-22T10:58:41.878Z</id>
+    <id>urn:2026-07-22T12:25:47.417Z</id>
     <title>web3::cave</title>
-    <updated>2026-07-22T10:58:41.878Z</updated>
+    <updated>2026-07-22T12:25:47.417Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Minute: OpenAI Model Escapes Containment, Hacks Hugging Face]]></title>
+        <id>https://decrypt.co/?p=374029</id>
+        <link href="https://decrypt.co/374029/morning-minute-openai-model-escapes-containment-hacks-hugging-face"/>
+        <updated>2026-07-22T11:50:29.000Z</updated>
+        <summary type="html"><![CDATA[Plus, the BTC ETFs stay green. The Clarity Act hits a wall over who enforces the ethics rules. And Jack Mallers walks away from XXI Capital.]]></summary>
+        <author>
+            <name>Tyler Warner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jack Dorsey's Block Launches Buzz, a Nostr-Based Slack and GitHub Rival for AI Agents]]></title>
+        <id>https://decrypt.co/?p=374026</id>
+        <link href="https://decrypt.co/374026/jack-dorseys-block-launches-buzz-a-nostr-based-slack-and-github-rival-for-ai-agents"/>
+        <updated>2026-07-22T11:03:43.000Z</updated>
+        <summary type="html"><![CDATA[The free, open source workspace runs on Nostr, gives AI agents their own cryptographic identities, and challenges Slack and GitHub.]]></summary>
+        <author>
+            <name>Decrypt Agent</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DAT Went Wrong: Satsuma to Unwind Bitcoin Treasury, Sell Off $43 Million in BTC]]></title>
         <id>https://decrypt.co/?p=374018</id>
@@ -323,16 +343,6 @@
         <summary type="html"><![CDATA[The market maker's stake marks Crypto.com's first institutional funding round, as Wall Street deepens its push into crypto.]]></summary>
         <author>
             <name>Decrypt Agent</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Leaks Reveal Suno Fed Thousands of Hours of Deezer, YouTube and Pond5 Data Into Its AI]]></title>
-        <id>https://decrypt.co/?p=373682</id>
-        <link href="https://decrypt.co/373682/leaks-reveal-suno-fed-thousands-hours-deezer-youtube-pond5-data-ai"/>
-        <updated>2026-07-16T21:01:03.000Z</updated>
-        <summary type="html"><![CDATA[Source code leaked reveals how substantial portions of Suno’s training library were assembled.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
         </author>
     </entry>
 </feed>
