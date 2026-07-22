@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-21T23:49:03.891Z</id>
+    <id>urn:2026-07-22T01:50:12.441Z</id>
     <title>web3::cave</title>
-    <updated>2026-07-21T23:49:03.891Z</updated>
+    <updated>2026-07-22T01:50:12.441Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[DAT Went Wrong: Satsuma to Unwind Bitcoin Treasury, Sell Off $43 Million in BTC]]></title>
+        <id>https://decrypt.co/?p=374018</id>
+        <link href="https://decrypt.co/374018/dat-satsuma-unwind-bitcoin-treasury-sell-off-btc"/>
+        <updated>2026-07-22T00:32:58.000Z</updated>
+        <summary type="html"><![CDATA[The UK Bitcoin treasury company raised $218 million less than a year ago. Now it's returning whatever is left.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OpenAI Models Escaped Locked Test Environment, Hacked Hugging Face to Cheat on Benchmark]]></title>
         <id>https://decrypt.co/?p=374015</id>
@@ -323,16 +333,6 @@
         <summary type="html"><![CDATA[Source code leaked reveals how substantial portions of Suno’s training library were assembled.]]></summary>
         <author>
             <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morgan Stanley Launches Bitcoin, Ethereum, and Solana Trading on E*Trade]]></title>
-        <id>https://decrypt.co/?p=373681</id>
-        <link href="https://decrypt.co/373681/morgan-stanley-launches-bitcoin-ethereum-solana-trading-etrade"/>
-        <updated>2026-07-16T20:01:03.000Z</updated>
-        <summary type="html"><![CDATA[Eligible customers can now buy, sell, and hold Bitcoin, Ethereum, and Solana with Morgan Stanley via Zero Hash.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
         </author>
     </entry>
 </feed>
