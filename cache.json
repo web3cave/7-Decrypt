@@ -6,12 +6,42 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=374133",
+          "author": "Decrypt Agent",
+          "description": "The exploit hit a custody bridge AFX operates rather than the Arbitrum network itself, with the stolen funds quickly moved to Ethereum.",
+          "link": "https://decrypt.co/374133/arbitrum-perp-dex-afx-trade-drained-of-24m-offers-hacker-30-to-return-it",
+          "publishedOn": "2026-07-23T10:24:09.000Z",
+          "wordCount": 9642,
+          "title": "Arbitrum Perp DEX AFX Trade Drained of $24M, Offers Hacker 30% to Return It",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Hacker-hack-decrypt-style-04-gID_7.jpg@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Hacker-hack-decrypt-style-04-gID_7.jpg@png"
+        },
+        {
+          "id": "https://decrypt.co/?p=374125",
+          "author": "Decrypt Agent",
+          "description": "The crypto derivatives pioneer told users to close positions and withdraw funds before it goes dark on September 23.",
+          "link": "https://decrypt.co/374125/bitmex-to-close-on-september-23-halts-new-sign-ups",
+          "publishedOn": "2026-07-23T08:46:51.000Z",
+          "wordCount": 9192,
+          "title": "BitMEX to Close on September 23, Halts New Sign-Ups",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/07/bitmex-decrypt-style-1-gID_7.jpg@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/07/bitmex-decrypt-style-1-gID_7.jpg@png"
+        },
+        {
           "id": "https://decrypt.co/?p=374110",
           "author": "Jose Antonio Lanz",
           "description": "The company's \"Everything Exchange\" is heading north. No launch date set yet, but the Coinbase Canada CEO says phase two for the company is in motion.",
           "link": "https://decrypt.co/374110/coinbase-canada-stocks-crypto-prediction-markets",
           "publishedOn": "2026-07-22T21:13:04.000Z",
-          "wordCount": 9527,
+          "wordCount": 9486,
           "title": "Coinbase Wants to Be Canada's One-Stop Shop for Stocks, Crypto and Prediction Markets",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Coinbase_logo-nft-nyc-decrypt-style-scaled-gID_7.jpg@png",
@@ -26,7 +56,7 @@
           "description": "Payward and fintech GTN are teaming up to bring xStocks—blockchain-based copies of real company shares—to Hong Kong, the UK, Europe, and South Korea.",
           "link": "https://decrypt.co/374106/kraken-parent-xstocks-beyond-us-equities",
           "publishedOn": "2026-07-22T20:07:34.000Z",
-          "wordCount": 9721,
+          "wordCount": 9680,
           "title": "Kraken Parent Company Makes Moves to Offer xStocks From Global Markets",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/stocks-gID_7.jpg@png",
@@ -41,7 +71,7 @@
           "description": "Qwen Image 3.0 generates dense newspapers and infographic grids in one shot and renders text down to 10 pixels. The catch: no benchmarks, no open weights.",
           "link": "https://decrypt.co/374084/alibaba-qwen-image-3-ai-useful-not-just-pretty",
           "publishedOn": "2026-07-22T19:46:59.000Z",
-          "wordCount": 10378,
+          "wordCount": 10337,
           "title": "Alibaba's New Qwen Image 3 AI Wants to Be Useful, Not Just Pretty",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/decrypt-style-alibaba-qwen-gID_7.png@png",
@@ -56,7 +86,7 @@
           "description": "The asset manager argues that AI software capable of paying for things autonomously will need blockchain rails to work—and that most investors aren't positioned for it.",
           "link": "https://decrypt.co/374055/franklin-templeton-agentic-ai-crypto-killer-use-case",
           "publishedOn": "2026-07-22T19:04:05.000Z",
-          "wordCount": 10258,
+          "wordCount": 10217,
           "title": "Franklin Templeton Says Agentic AI Is Crypto's 'Killer Use Case'",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-13-gID_7.png@png",
@@ -71,7 +101,7 @@
           "description": "The good news: Bitcoin is holding onto key support, and rising. The bad news: a \"death cross\" is still active, and prediction markets are still overwhelmingly bearish.",
           "link": "https://decrypt.co/374059/bitcoin-price-bounce-bull-bear-case",
           "publishedOn": "2026-07-22T18:48:45.000Z",
-          "wordCount": 11703,
+          "wordCount": 11662,
           "title": "Bitcoin Is Bouncing: Here’s the Bull and Bear Case for Its Next Move",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-glasses-decrypt-style-gID_7.png@png",
@@ -86,7 +116,7 @@
           "description": "The long-awaited market-structure bill would block officials and their spouses from issuing digital assets and shield non-custodial developers, but the ethics ban expires in 2029 and enforcement rests solely with the DOJ.",
           "link": "https://decrypt.co/374056/clarity-act-draft-trump-crypto-ventures",
           "publishedOn": "2026-07-22T17:51:54.000Z",
-          "wordCount": 10453,
+          "wordCount": 10412,
           "title": "Clarity Act Latest Draft Bars Trump From Crypto Ventures—But Only Until 2029",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Trump-decrypt-style-03-gID_7.png@png",
@@ -101,7 +131,7 @@
           "description": "When American commercial AI refused to help investigate the breach, Hugging Face ran Chinese model GLM 5.2 locally. Its CEO now says there's an important lesson in this.",
           "link": "https://decrypt.co/374052/hugging-face-ceo-thanks-chinese-ai-saving-day-after-openai-hack",
           "publishedOn": "2026-07-22T16:23:16.000Z",
-          "wordCount": 10011,
+          "wordCount": 9970,
           "title": "Hugging Face CEO Thanks Chinese AI for Saving the Day After OpenAI Hack",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-gID_7.png@png",
@@ -116,7 +146,7 @@
           "description": "Prosecutors filed five forfeiture cases as Secret Service agents traced funds from thousands of victims to launderers in Southeast Asia.",
           "link": "https://decrypt.co/374049/us-seizes-more-than-25m-in-crypto-tied-to-investment-and-romance-scams",
           "publishedOn": "2026-07-22T15:10:46.000Z",
-          "wordCount": 9597,
+          "wordCount": 9556,
           "title": "US Seizes More Than $25M in Crypto Tied to Investment and Romance Scams",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/department-of-justice-doj-decrypt-style-scaled-gID_7.jpg@png",
@@ -131,7 +161,7 @@
           "description": "Nearly every country has yet to apply the rules, the watchdog said, warning of outright bans for platforms that don’t comply.",
           "link": "https://decrypt.co/374041/centralized-elements-frequently-persist-in-defi-and-should-be-regulated-fatf",
           "publishedOn": "2026-07-22T14:41:56.000Z",
-          "wordCount": 11001,
+          "wordCount": 10960,
           "title": "Centralized Elements 'Frequently Persist' in DeFi and Should Be Regulated: FATF",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/07/fatf-decrypt-style-1-gID_7.jpg@png",
@@ -146,7 +176,7 @@
           "description": "TRM Labs says the UK-sanctioned exchange has rotated hot wallets across blockchains, leaving address-list screening struggling to keep pace.",
           "link": "https://decrypt.co/374030/justin-suns-htx-rotating-on-chain-wallets-amid-uk-sanctions-trm-labs",
           "publishedOn": "2026-07-22T12:44:48.000Z",
-          "wordCount": 10363,
+          "wordCount": 10322,
           "title": "Justin Sun's HTX 'Rotating' On-Chain Wallets Amid UK Sanctions: TRM Labs",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/htx-decrypt-style-gID_7.jpg@png",
@@ -161,7 +191,7 @@
           "description": "Plus, the BTC ETFs stay green. The Clarity Act hits a wall over who enforces the ethics rules. And Jack Mallers walks away from XXI Capital.",
           "link": "https://decrypt.co/374029/morning-minute-openai-model-escapes-containment-hacks-hugging-face",
           "publishedOn": "2026-07-22T11:50:29.000Z",
-          "wordCount": 11692,
+          "wordCount": 11651,
           "title": "Morning Minute: OpenAI Model Escapes Containment, Hacks Hugging Face",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/crime_hacker-gID_7.png@png",
@@ -176,7 +206,7 @@
           "description": "The free, open source workspace runs on Nostr, gives AI agents their own cryptographic identities, and challenges Slack and GitHub.",
           "link": "https://decrypt.co/374026/jack-dorseys-block-launches-buzz-a-nostr-based-slack-and-github-rival-for-ai-agents",
           "publishedOn": "2026-07-22T11:03:43.000Z",
-          "wordCount": 11435,
+          "wordCount": 11394,
           "title": "Jack Dorsey's Block Launches Buzz, a Nostr-Based Slack and GitHub Rival for AI Agents",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/jack-dorsey-decrypt-style-02-gID_7.jpg@png",
@@ -191,7 +221,7 @@
           "description": "The UK Bitcoin treasury company raised $218 million less than a year ago. Now it's returning whatever is left.",
           "link": "https://decrypt.co/374018/dat-satsuma-unwind-bitcoin-treasury-sell-off-btc",
           "publishedOn": "2026-07-22T00:32:58.000Z",
-          "wordCount": 10174,
+          "wordCount": 10133,
           "title": "DAT Went Wrong: Satsuma to Unwind Bitcoin Treasury, Sell Off $43 Million in BTC",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-05-gID_7.png@png",
@@ -206,7 +236,7 @@
           "description": "OpenAI's own models just broke out of a sandboxed environment, hacked Hugging Face, just to cheat on a cybersecurity evaluation.",
           "link": "https://decrypt.co/374015/openai-models-escaped-test-environment-hacked-hugging-face-cheat-benchmark",
           "publishedOn": "2026-07-21T21:29:03.000Z",
-          "wordCount": 11576,
+          "wordCount": 11535,
           "title": "OpenAI Models Escaped Locked Test Environment, Hacked Hugging Face to Cheat on Benchmark",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-sam-altman-2-gID_7.png@png",
@@ -221,7 +251,7 @@
           "description": "The promise of instant, zero-fee crypto transactions for over a billion Telegram users sent its native Gram token up 7%.",
           "link": "https://decrypt.co/374001/pavel-durov-telegram-crypto-wallet-billion-users",
           "publishedOn": "2026-07-21T20:20:49.000Z",
-          "wordCount": 11134,
+          "wordCount": 11093,
           "title": "Pavel Durov Wants to Give a Billion Telegram Users a Crypto Wallet",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/telegram-decrypt-style-02-gID_7.png@png",
@@ -236,7 +266,7 @@
           "description": "As Gemini 3.5 Pro stalls in testing limbo, Google ships 3.6 Flash, 3.5 Flash-Lite, and a restricted cybersecurity model—and quietly teases Gemini 4.",
           "link": "https://decrypt.co/373975/google-new-gemini-flash-models-pro-still-missing",
           "publishedOn": "2026-07-21T18:55:45.000Z",
-          "wordCount": 11204,
+          "wordCount": 11163,
           "title": "Google Ships New Gemini Flash Models, But Pro Is Still Missing",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/decrypt-style-google-3-gID_7.png@png",
@@ -251,7 +281,7 @@
           "description": "The Tiger Global-led round values the startup at $1 billion as it wires stablecoin rails directly into a federally chartered bank, aiming to modernize the correspondent-banking plumbing behind cross-border payments.",
           "link": "https://decrypt.co/373996/augustus-raises-180-million-stablecoin-global-dollar-bank",
           "publishedOn": "2026-07-21T18:13:48.000Z",
-          "wordCount": 9594,
+          "wordCount": 9553,
           "title": "Augustus Raises $180 Million to Build a Stablecoin-Ready 'Global Dollar Bank'",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/money-printer-decrypt-style-scaled-gID_7.jpg@png",
@@ -266,7 +296,7 @@
           "description": "Codenamed Frozen v2, Google's new server chip would bake part of Gemini's architecture directly into hardware for a projected 6–10x efficiency gain.",
           "link": "https://decrypt.co/373967/google-ai-chip-gemini-frozenv2",
           "publishedOn": "2026-07-21T17:24:37.000Z",
-          "wordCount": 10245,
+          "wordCount": 10204,
           "title": "Google Is Building an AI Chip Just for Gemini—And Investors Already Moved On It",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/google-decrypt-style-2-gID_7.png@png",
@@ -281,7 +311,7 @@
           "description": "The Ripple-linked token just had its best day in weeks, as Washington may finally be delivering what the XRP Army has been waiting for.",
           "link": "https://decrypt.co/373951/xrp-price-clarity-act-hopes-charts-cautious",
           "publishedOn": "2026-07-21T16:20:29.000Z",
-          "wordCount": 10738,
+          "wordCount": 10697,
           "title": "XRP Breaks Out on Clarity Act Hopes. The Charts Are Still Cautious",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/xrp-decrypt-style-04-gID_7.jpg@png",
@@ -296,7 +326,7 @@
           "description": "XXI stock dropped nearly 18% after the company's co-founder stepped down and Tether's plan to combine three Bitcoin firms officially fell apart.",
           "link": "https://decrypt.co/373940/jack-mallers-quits-twenty-one-capital-as-tethers-bitcoin-merger-collapses",
           "publishedOn": "2026-07-21T16:06:20.000Z",
-          "wordCount": 10244,
+          "wordCount": 10203,
           "title": "Jack Mallers Quits Twenty One Capital as Tether's Bitcoin Merger Collapses",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-20-gID_7.png@png",
@@ -311,7 +341,7 @@
           "description": "The crypto firm's initiative arrives as researchers, exchanges, and the U.S. government warn that \"Q-Day\" may land as soon as 2030.",
           "link": "https://decrypt.co/373908/galaxy-commits-5-million-prepare-bitcoin-quantum-threat",
           "publishedOn": "2026-07-21T12:01:03.000Z",
-          "wordCount": 9856,
+          "wordCount": 9815,
           "title": "Galaxy Commits Up to $5 Million to Prepare Bitcoin for Quantum Threat",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-decrypt-style-pixel-gID_7.png@png",
@@ -326,7 +356,7 @@
           "description": "Odds of the Clarity Act passing in 2026 jumped to 42% after a surprising new development from the White House.",
           "link": "https://decrypt.co/373924/morning-minute-the-clarity-act-has-new-life",
           "publishedOn": "2026-07-21T11:57:23.000Z",
-          "wordCount": 11320,
+          "wordCount": 11279,
           "title": "Morning Minute: The Clarity Act Has New Life",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/White-House-decrypt-style-02-gID_7.png@png",
@@ -341,7 +371,7 @@
           "description": "Islamabad is building the enforcement side of its crypto push, standing up a unit to police money laundering even as it licenses exchanges.",
           "link": "https://decrypt.co/373922/pakistan-launches-crypto-investigation-unit-to-fight-money-laundering",
           "publishedOn": "2026-07-21T11:40:48.000Z",
-          "wordCount": 9506,
+          "wordCount": 9465,
           "title": "Pakistan Launches Crypto Investigation Unit to Fight Money Laundering",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-pakistan-flag-gID_7.png@png",
@@ -356,7 +386,7 @@
           "description": "The asset manager's S-1 for a spot WLD fund would be the first U.S. ETF tied to Sam Altman's biometric crypto project.",
           "link": "https://decrypt.co/373913/worldcoins-wld-jumps-8-on-grayscale-etf-filing",
           "publishedOn": "2026-07-21T10:16:58.000Z",
-          "wordCount": 9607,
+          "wordCount": 9566,
           "title": "Worldcoin’s WLD Jumps 8% on Grayscale ETF Filing",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-world-worldcoin-orb-gID_7.png@png",
@@ -371,7 +401,7 @@
           "description": "A cross-party group is examining why UK banks block accounts and payments for crypto firms—and whether it's holding the sector back.",
           "link": "https://decrypt.co/373910/uk-lawmakers-launch-inquiry-into-crypto-banking-access",
           "publishedOn": "2026-07-21T09:05:35.000Z",
-          "wordCount": 10209,
+          "wordCount": 10168,
           "title": "UK Lawmakers Launch Inquiry Into Crypto Banking Access",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/07/uk-houses-of-parliament-big-ben-decrypt-style-02-gID_7.jpg@png",
@@ -386,7 +416,7 @@
           "description": "Phase 1 of Project Hangang opened 81,000 wallets with 42% of them using the CBDC. Phase 2 is bigger, and this time it moves real government money.",
           "link": "https://decrypt.co/373905/bank-korea-scales-up-cbdc-pilot-half-million-users",
           "publishedOn": "2026-07-20T21:12:03.000Z",
-          "wordCount": 10730,
+          "wordCount": 10689,
           "title": "Bank of Korea Scales Up CBDC Pilot With Half a Million Users",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/bitcoin-south-korea-won-decrypt-style-gID_7.jpg@png",
@@ -401,7 +431,7 @@
           "description": "The bill licenses exchanges, caps retail investors at about $3,800 a year, and creates a legal pathway for Russian companies to pay foreign partners in crypto—bypassing Western sanctions.",
           "link": "https://decrypt.co/373880/russia-first-comprehensive-crypto-law",
           "publishedOn": "2026-07-20T20:02:33.000Z",
-          "wordCount": 10166,
+          "wordCount": 10125,
           "title": "Russia's First Comprehensive Crypto Law Is Two Votes Away From Passing",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/ukraine-russia-bitcoin-decrypt-style-gID_7.jpg@png",
@@ -416,7 +446,7 @@
           "description": "For the first time in Cardano's history, no company flipped the switch on a major protocol update.",
           "link": "https://decrypt.co/373858/cardano-van-rossem-hard-fork-live-community-upgrade",
           "publishedOn": "2026-07-20T18:50:48.000Z",
-          "wordCount": 10803,
+          "wordCount": 10762,
           "title": "Cardano Triggers Hard Fork With First Community-Voted Upgrade",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/07/cardano-decrypt-style-02-gID_7.png@png",
@@ -431,7 +461,7 @@
           "description": "Two consecutive weeks of inflows ended the worst sustained outflow streak in Bitcoin ETF history. Here's why patience may be required from investors.",
           "link": "https://decrypt.co/373850/bitcoin-etfs-green-inflows-why-investors-should-zoom-out",
           "publishedOn": "2026-07-20T17:59:51.000Z",
-          "wordCount": 10717,
+          "wordCount": 10676,
           "title": "Bitcoin ETFs Are Green Again—Here’s Why Investors Should Zoom Out",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/bitcoin-etf-decrypt-style-01-gID_7.jpg@png",
@@ -446,7 +476,7 @@
           "description": "\"The reduced pace of buys reflects that Bitmine repurchased 5.5 million common shares,\" Bitmine Chairman Tom Lee said in a statement.",
           "link": "https://decrypt.co/373847/tom-lee-bitmine-taps-brakes-eth-buys-86m-stock-buyback",
           "publishedOn": "2026-07-20T16:12:36.000Z",
-          "wordCount": 8805,
+          "wordCount": 8764,
           "title": "Tom Lee's Bitmine Taps the Brakes on ETH Buys, Pivots $86M Into Stock Buyback",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/tom-lee-decrypt-style-gID_7.jpg@png",
@@ -461,7 +491,7 @@
           "description": "For the second consecutive week, Saylor's company sold MSTR stock instead of BTC to pad its reserves to $3.2 billion.",
           "link": "https://decrypt.co/373834/strategy-raises-225m-for-cash-reserve-mstr-sale-bitcoin",
           "publishedOn": "2026-07-20T15:57:29.000Z",
-          "wordCount": 10894,
+          "wordCount": 10853,
           "title": "Strategy Pads Cash Reserve By $225M With MSTR Sale, Bitcoin Stash Remains Untouched",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Strategy-B-logo-decrypt-style-01-gID_7.png@png",
@@ -476,7 +506,7 @@
           "description": "An attacker used a flash loan to distort the bridge's Solana stablecoin pools before moving the proceeds to Ethereum, security firms said.",
           "link": "https://decrypt.co/373831/allbridge-pauses-cross-chain-protocol-after-1-65m-flash-loan-attack",
           "publishedOn": "2026-07-20T13:47:06.000Z",
-          "wordCount": 10326,
+          "wordCount": 10285,
           "title": "Allbridge Pauses Cross-Chain Protocol After $1.65M Flash Loan Attack",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Hacker-decrypt-style-02-gID_7.png@png",
@@ -484,21 +514,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Hacker-decrypt-style-02-gID_7.png@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=373828",
-          "author": "Tyler Warner",
-          "description": "Plus, a selloff in Oil has markets looking green into the Monday open. And PUMP is leading all alt movers on the week at a surprising time.",
-          "link": "https://decrypt.co/373828/morning-minute-hyperliquid-opens-prediction-markets-to-anyone-in-hip-4-upgrade",
-          "publishedOn": "2026-07-20T12:00:02.000Z",
-          "wordCount": 10840,
-          "title": "Morning Minute: Hyperliquid Opens Prediction Markets to Anyone in HIP-4 Upgrade",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/hyperliquid-decrypt-style-gID_7.jpg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/hyperliquid-decrypt-style-gID_7.jpg@png"
         }
       ]
     }

@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-23T08:13:21.943Z</id>
+    <id>urn:2026-07-23T11:00:55.047Z</id>
     <title>web3::cave</title>
-    <updated>2026-07-23T08:13:21.943Z</updated>
+    <updated>2026-07-23T11:00:55.047Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Arbitrum Perp DEX AFX Trade Drained of $24M, Offers Hacker 30% to Return It]]></title>
+        <id>https://decrypt.co/?p=374133</id>
+        <link href="https://decrypt.co/374133/arbitrum-perp-dex-afx-trade-drained-of-24m-offers-hacker-30-to-return-it"/>
+        <updated>2026-07-23T10:24:09.000Z</updated>
+        <summary type="html"><![CDATA[The exploit hit a custody bridge AFX operates rather than the Arbitrum network itself, with the stolen funds quickly moved to Ethereum.]]></summary>
+        <author>
+            <name>Decrypt Agent</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BitMEX to Close on September 23, Halts New Sign-Ups]]></title>
+        <id>https://decrypt.co/?p=374125</id>
+        <link href="https://decrypt.co/374125/bitmex-to-close-on-september-23-halts-new-sign-ups"/>
+        <updated>2026-07-23T08:46:51.000Z</updated>
+        <summary type="html"><![CDATA[The crypto derivatives pioneer told users to close positions and withdraw funds before it goes dark on September 23.]]></summary>
+        <author>
+            <name>Decrypt Agent</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Coinbase Wants to Be Canada's One-Stop Shop for Stocks, Crypto and Prediction Markets]]></title>
         <id>https://decrypt.co/?p=374110</id>
@@ -323,16 +343,6 @@
         <summary type="html"><![CDATA[An attacker used a flash loan to distort the bridge's Solana stablecoin pools before moving the proceeds to Ethereum, security firms said.]]></summary>
         <author>
             <name>Decrypt Agent</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Minute: Hyperliquid Opens Prediction Markets to Anyone in HIP-4 Upgrade]]></title>
-        <id>https://decrypt.co/?p=373828</id>
-        <link href="https://decrypt.co/373828/morning-minute-hyperliquid-opens-prediction-markets-to-anyone-in-hip-4-upgrade"/>
-        <updated>2026-07-20T12:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Plus, a selloff in Oil has markets looking green into the Monday open. And PUMP is leading all alt movers on the week at a surprising time.]]></summary>
-        <author>
-            <name>Tyler Warner</name>
         </author>
     </entry>
 </feed>
