@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-29T18:58:59.359Z</id>
+    <id>urn:2026-07-29T20:12:27.623Z</id>
     <title>web3::cave</title>
-    <updated>2026-07-29T18:58:59.359Z</updated>
+    <updated>2026-07-29T20:12:27.623Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[There's a New Way to Protect Bitcoin From Future Quantum Attacks, Researchers Say]]></title>
+        <id>https://decrypt.co/?p=374651</id>
+        <link href="https://decrypt.co/374651/new-research-bitcoin-wallet-quantum-attacks-safe"/>
+        <updated>2026-07-29T20:01:03.000Z</updated>
+        <summary type="html"><![CDATA[New research outlines a cryptographic approach that could allow Bitcoin and other blockchain wallets to remain compatible with existing addresses in a post-quantum future.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MoonPay's PayBox Puts a Crypto Wallet Inside Claude and ChatGPT—And Lets It Pay for Things]]></title>
+        <id>https://decrypt.co/?p=374687</id>
+        <link href="https://decrypt.co/374687/moonpays-paybox-crypto-wallet-claude-chatgpt"/>
+        <updated>2026-07-29T19:31:03.000Z</updated>
+        <summary type="html"><![CDATA[The company wants your AI to move money autonomously while you stay in control. Here's how it actually works.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoin, Ethereum Wobble as Fed Holds Rates Steady]]></title>
         <id>https://decrypt.co/?p=374672</id>
@@ -363,16 +383,6 @@
         <summary type="html"><![CDATA[More than 40 technology companies and organizations have allied to develop open-source AI security tools and standards for cyber defense.]]></summary>
         <author>
             <name>Jason Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Man Gave Border Agents His Phone Passcode. It Wiped Everything. Now He's Facing Federal Charges]]></title>
-        <id>https://decrypt.co/?p=374394</id>
-        <link href="https://decrypt.co/374394/border-agents-phone-duress-passcode-grapheneos"/>
-        <updated>2026-07-27T17:40:36.000Z</updated>
-        <summary type="html"><![CDATA[Samuel Tunick allegedly triggered a GrapheneOS duress password during a warrantless airport search. Federal prosecutors call it destruction of property. His lawyers call it a digital right.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
         </author>
     </entry>
 </feed>
