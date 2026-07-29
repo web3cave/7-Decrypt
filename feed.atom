@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-29T15:43:56.620Z</id>
+    <id>urn:2026-07-29T17:04:54.039Z</id>
     <title>web3::cave</title>
-    <updated>2026-07-29T15:43:56.620Z</updated>
+    <updated>2026-07-29T17:04:54.039Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What is Zcash (ZEC)? The Privacy Coin Using Zero-Knowledge Proofs]]></title>
+        <id>https://decrypt.co/?p=5719</id>
+        <link href="https://decrypt.co/resources/zcash"/>
+        <updated>2026-07-29T16:43:52.000Z</updated>
+        <summary type="html"><![CDATA[Zcash is a privacy-focused cryptocurrency that enables users to hide key details of transactions by leveraging zk-SNARKs.]]></summary>
+        <author>
+            <name>Jason Nelson,Matt Hussey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Book Burning? Companies Are Destroying Millions of Books to Feed Chatbots]]></title>
+        <id>https://decrypt.co/?p=374646</id>
+        <link href="https://decrypt.co/374646/ai-book-burning-companies-destroying-millions-books-chatbots"/>
+        <updated>2026-07-29T16:38:25.000Z</updated>
+        <summary type="html"><![CDATA[AI developers are quietly buying physical books by the millions, slicing them apart, scanning every page into AI training datasets, and discarding the originals.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI's Rogue AI Hacked Four More Platforms Besides Hugging Face]]></title>
+        <id>https://decrypt.co/?p=374645</id>
+        <link href="https://decrypt.co/374645/openais-rogue-ai-hacked-four-more-platforms-besides-hugging-face"/>
+        <updated>2026-07-29T16:16:43.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI quietly updated its breach disclosure to confirm its agent accessed four external services beyond Hugging Face. Only one has been named so far.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SEC Ready to Provide Crypto Rules if Clarity Act Flounders: Chair Atkins]]></title>
+        <id>https://decrypt.co/?p=374643</id>
+        <link href="https://decrypt.co/374643/sec-ready-to-provide-crypto-rules-if-clarity-act-flounders-chair-atkins"/>
+        <updated>2026-07-29T16:09:34.000Z</updated>
+        <summary type="html"><![CDATA[Passed by the House a year ago, the bill cleared Senate Banking in May and still awaits a floor vote.]]></summary>
+        <author>
+            <name>Decrypt Agent</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Morning Minute: Claude Mythos Breaks Post-Quantum Cryptography]]></title>
         <id>https://decrypt.co/?p=374637</id>
@@ -333,26 +373,6 @@
         <summary type="html"><![CDATA[The USDC issuer acquired nearly 1,000 patents from IBM in a single deal, but IBM is still backing USDC's most dangerous rival.]]></summary>
         <author>
             <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Strategy Adds $525M to Cash Reserve, Skips Bitcoin Buy for Fifth Week]]></title>
-        <id>https://decrypt.co/?p=374369</id>
-        <link href="https://decrypt.co/374369/strategy-adds-525m-to-cash-reserve-skips-bitcoin-buy-for-fifth-week"/>
-        <updated>2026-07-27T13:00:29.000Z</updated>
-        <summary type="html"><![CDATA[The Bitcoin treasury firm also tapped its $1 billion preferred buyback for the first time, spending $25 million on STRC.]]></summary>
-        <author>
-            <name>Decrypt Agent</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Firms Pivoting to AI Is 'Zero-Sum' Thinking: Coinbase CEO]]></title>
-        <id>https://decrypt.co/?p=374366</id>
-        <link href="https://decrypt.co/374366/crypto-firms-pivoting-to-ai-is-zero-sum-thinking-coinbase-ceo"/>
-        <updated>2026-07-27T12:27:47.000Z</updated>
-        <summary type="html"><![CDATA[Brian Armstrong says crypto is infrastructure that underpins AI, and that AI agents will need it to transact on their own.]]></summary>
-        <author>
-            <name>Decrypt Agent</name>
         </author>
     </entry>
 </feed>
