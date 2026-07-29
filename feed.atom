@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-29T20:12:27.623Z</id>
+    <id>urn:2026-07-29T21:51:17.493Z</id>
     <title>web3::cave</title>
-    <updated>2026-07-29T20:12:27.623Z</updated>
+    <updated>2026-07-29T21:51:17.493Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Flock Cameras Face Growing Backlash as Privacy Concerns Reach Capitol Hill]]></title>
+        <id>https://decrypt.co/?p=374603</id>
+        <link href="https://decrypt.co/374603/flock-cameras-backlash-privacy-concerns-capitol-hill"/>
+        <updated>2026-07-29T20:46:03.000Z</updated>
+        <summary type="html"><![CDATA[Growing opposition across America to Flock cameras has reached Capitol Hill, where Rep. Thomas Massie plans legislation to block federal funding for the technology.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[There's a New Way to Protect Bitcoin From Future Quantum Attacks, Researchers Say]]></title>
         <id>https://decrypt.co/?p=374651</id>
@@ -373,16 +383,6 @@
         <summary type="html"><![CDATA[A missing line of code meant "share with a link" and "searchable by anyone" were the same thing—and someone already saved 11,241 of those messages to GitHub.]]></summary>
         <author>
             <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nvidia, Microsoft and IBM Launch Open Secure AI Alliance to Strengthen AI Cybersecurity]]></title>
-        <id>https://decrypt.co/?p=374401</id>
-        <link href="https://decrypt.co/374401/nvidia-microsoft-ibm-open-secure-ai-alliance-cybersecurity"/>
-        <updated>2026-07-27T17:58:46.000Z</updated>
-        <summary type="html"><![CDATA[More than 40 technology companies and organizations have allied to develop open-source AI security tools and standards for cyber defense.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
         </author>
     </entry>
 </feed>
