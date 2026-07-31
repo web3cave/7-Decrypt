@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-31T11:21:38.254Z</id>
+    <id>urn:2026-07-31T13:42:45.905Z</id>
     <title>web3::cave</title>
-    <updated>2026-07-31T11:21:38.254Z</updated>
+    <updated>2026-07-31T13:42:45.905Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Morning Minute: Coinbase Posts Surprise Loss as Crypto Trading Dries Up]]></title>
+        <id>https://decrypt.co/?p=374781</id>
+        <link href="https://decrypt.co/374781/morning-minute-coinbase-posts-surprise-loss-as-crypto-trading-dries-up"/>
+        <updated>2026-07-31T12:11:17.000Z</updated>
+        <summary type="html"><![CDATA[Plus, BTC is red this morning despite $233M in ETF inflows yesterday; and NY State is trying to shut down Kalshi and seeking $36B in damages]]></summary>
+        <author>
+            <name>Tyler Warner</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crypto Kiosk Scams Cost Texans $57M as Lawmakers Weigh a Ban]]></title>
         <id>https://decrypt.co/?p=374778</id>
@@ -373,16 +383,6 @@
         <summary type="html"><![CDATA[The Senate kicked the can, the Fed has traders on edge, and XRP's charts are running out of support zones to fall back on.]]></summary>
         <author>
             <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zcash Activates Ironwood Upgrade After Counterfeiting Scare]]></title>
-        <id>https://decrypt.co/?p=374577</id>
-        <link href="https://decrypt.co/374577/zcash-ironwood-upgrade-counterfeiting-scare"/>
-        <updated>2026-07-28T18:24:19.000Z</updated>
-        <summary type="html"><![CDATA[The long-awaited network upgrade retires Zcash's vulnerable Orchard shielded pool and introduces new safeguards to protect the cryptocurrency's supply.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
         </author>
     </entry>
 </feed>
