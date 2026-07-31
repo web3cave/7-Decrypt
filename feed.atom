@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-31T08:35:45.402Z</id>
+    <id>urn:2026-07-31T11:21:38.254Z</id>
     <title>web3::cave</title>
-    <updated>2026-07-31T08:35:45.402Z</updated>
+    <updated>2026-07-31T11:21:38.254Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto Kiosk Scams Cost Texans $57M as Lawmakers Weigh a Ban]]></title>
+        <id>https://decrypt.co/?p=374778</id>
+        <link href="https://decrypt.co/374778/crypto-kiosk-scams-cost-texans-57m-as-lawmakers-weigh-a-ban"/>
+        <updated>2026-07-31T11:13:58.000Z</updated>
+        <summary type="html"><![CDATA[Three states have already outlawed Bitcoin ATMs, and a committee chair says Texas will go further than regulating them.]]></summary>
+        <author>
+            <name>Decrypt Agent</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New York AG Seeks $36B From Kalshi Over 'Illegal Gambling']]></title>
+        <id>https://decrypt.co/?p=374775</id>
+        <link href="https://decrypt.co/374775/new-york-ag-seeks-36b-from-kalshi-over-illegal-gambling"/>
+        <updated>2026-07-31T10:12:16.000Z</updated>
+        <summary type="html"><![CDATA[The CFTC asked a court to stop New York enforcing against the prediction market the day before the state filed.]]></summary>
+        <author>
+            <name>Decrypt Agent</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[$38M in Bitcoin Drained by Coldcard Key Flaw Its Maker Thinks AI Found]]></title>
+        <id>https://decrypt.co/?p=374766</id>
+        <link href="https://decrypt.co/374766/38m-in-bitcoin-drained-by-coldcard-key-flaw-its-maker-thinks-ai-found"/>
+        <updated>2026-07-31T09:02:01.000Z</updated>
+        <summary type="html"><![CDATA[Coinkite said it’s likely that an attacker used AI to review previous versions of its open source firmware to uncover a vulnerability.]]></summary>
+        <author>
+            <name>Decrypt Agent</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Coinbase Misses on Q2 Earnings as Crypto Trading Activity Slows]]></title>
         <id>https://decrypt.co/?p=374761</id>
@@ -353,36 +383,6 @@
         <summary type="html"><![CDATA[The long-awaited network upgrade retires Zcash's vulnerable Orchard shielded pool and introduces new safeguards to protect the cryptocurrency's supply.]]></summary>
         <author>
             <name>Jason Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Dumbest-Looking AI Prompt Just Beat Months of Careful Game-Design Prompt Engineering]]></title>
-        <id>https://decrypt.co/?p=374560</id>
-        <link href="https://decrypt.co/374560/dumbest-ai-prompt-claude-beat-careful-game-design"/>
-        <updated>2026-07-28T18:04:00.000Z</updated>
-        <summary type="html"><![CDATA[The dev told Claude Opus 5 to be "utterly perfect" and left the rest up to the model—the results turned out to be utterly perfect, for an AI model.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[First ChatGPT, Now Claude: Frontier AI Models Are Escaping Their Sandboxes]]></title>
-        <id>https://decrypt.co/?p=374557</id>
-        <link href="https://decrypt.co/374557/chatgpt-claude-ai-models-escaping-sandboxes-cowork"/>
-        <updated>2026-07-28T16:54:11.000Z</updated>
-        <summary type="html"><![CDATA[A week after OpenAI disclosed a frontier AI sandbox escape, researchers found Anthropic's Claude Cowork could break out of its own virtual machine.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why the Bitcoin Rally Seems More Like a Bull Trap]]></title>
-        <id>https://decrypt.co/?p=374539</id>
-        <link href="https://decrypt.co/374539/bitcoin-price-rally-bull-trap"/>
-        <updated>2026-07-28T16:22:18.000Z</updated>
-        <summary type="html"><![CDATA[The Bitcoin bounce looked promising. The charts now say it wasn't.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
         </author>
     </entry>
 </feed>
