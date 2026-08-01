@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-01T15:53:31.588Z</id>
+    <id>urn:2026-08-01T16:50:54.346Z</id>
     <title>web3::cave</title>
-    <updated>2026-08-01T15:53:31.588Z</updated>
+    <updated>2026-08-01T16:50:54.346Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[CZ Warns Bitcoin Holders After $70 Million Wallet Exploit: 'Nothing Is 100%']]></title>
+        <id>https://decrypt.co/?p=374810</id>
+        <link href="https://decrypt.co/374810/cz-warns-bitcoin-holders-70-million-coldcard-wallet-exploit"/>
+        <updated>2026-08-01T16:01:17.000Z</updated>
+        <summary type="html"><![CDATA[The Binance founder urged holders to spread funds across multiple wallets as Galaxy Research put the toll from the Coldcard exploit at roughly $70 million—nearly double the initial estimate.]]></summary>
+        <author>
+            <name>Decrypt Staff</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The More Americans Know About AI, the Less They Like It: Gallup]]></title>
         <id>https://decrypt.co/?p=374794</id>
@@ -373,16 +383,6 @@
         <summary type="html"><![CDATA[Passed by the House a year ago, the bill cleared Senate Banking in May and still awaits a floor vote.]]></summary>
         <author>
             <name>Decrypt Agent</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Minute: Claude Mythos Breaks Post-Quantum Cryptography]]></title>
-        <id>https://decrypt.co/?p=374637</id>
-        <link href="https://decrypt.co/374637/morning-minute-claude-mythos-breaks-post-quantum-cryptography"/>
-        <updated>2026-07-29T12:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Plus markets are mixed ahead of FOMC; new Wall St. giants are backing the Clarity Act; and Zcash officially launched its Ironwood upgrade]]></summary>
-        <author>
-            <name>Tyler Warner</name>
         </author>
     </entry>
 </feed>
