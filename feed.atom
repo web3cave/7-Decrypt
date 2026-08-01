@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-01T14:52:10.558Z</id>
+    <id>urn:2026-08-01T15:53:31.588Z</id>
     <title>web3::cave</title>
-    <updated>2026-08-01T14:52:10.558Z</updated>
+    <updated>2026-08-01T15:53:31.588Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The More Americans Know About AI, the Less They Like It: Gallup]]></title>
+        <id>https://decrypt.co/?p=374794</id>
+        <link href="https://decrypt.co/374794/more-americans-know-about-ai-less-they-like-gallup"/>
+        <updated>2026-08-01T15:01:09.000Z</updated>
+        <summary type="html"><![CDATA[Gallup says Americans are growing more skeptical of artificial intelligence, with rising concerns about job losses, businesses' use of the technology, and the technology’s growing impact.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google Yanks Google Earth AI Image Tool a Day After Launch Over Deepfake Fears]]></title>
         <id>https://decrypt.co/?p=374805</id>
@@ -373,16 +383,6 @@
         <summary type="html"><![CDATA[Plus markets are mixed ahead of FOMC; new Wall St. giants are backing the Clarity Act; and Zcash officially launched its Ironwood upgrade]]></summary>
         <author>
             <name>Tyler Warner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Scams Cost Americans an Estimated $80.7B in 2025: Report]]></title>
-        <id>https://decrypt.co/?p=374638</id>
-        <link href="https://decrypt.co/374638/crypto-scams-cost-americans-an-estimated-80-7b-in-2025-report"/>
-        <updated>2026-07-29T12:10:26.000Z</updated>
-        <summary type="html"><![CDATA[The figure is seven times that of the $11.4 billion in reported losses, a rate drawn from a 2017 survey on how rarely fraud is reported.]]></summary>
-        <author>
-            <name>Decrypt Agent</name>
         </author>
     </entry>
 </feed>
