@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-02T14:53:53.999Z</id>
+    <id>urn:2026-08-02T15:53:47.392Z</id>
     <title>web3::cave</title>
-    <updated>2026-08-02T14:53:53.999Z</updated>
+    <updated>2026-08-02T15:53:47.392Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What’s the Deal With Meta’s ‘Pervert Glasses’?]]></title>
+        <id>https://decrypt.co/?p=374808</id>
+        <link href="https://decrypt.co/374808/whats-the-deal-with-meta-pervert-glasses"/>
+        <updated>2026-08-02T15:01:03.000Z</updated>
+        <summary type="html"><![CDATA[Lawsuits, privacy complaints, secret recordings, and government investigations have put Meta’s AI glasses under scrutiny.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CZ Warns Bitcoin Holders After $70 Million Wallet Exploit: 'Nothing Is 100%']]></title>
         <id>https://decrypt.co/?p=374810</id>
@@ -373,16 +383,6 @@
         <summary type="html"><![CDATA[OpenAI quietly updated its breach disclosure to confirm its agent accessed four external services beyond Hugging Face. Only one has been named so far.]]></summary>
         <author>
             <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SEC Ready to Provide Crypto Rules if Clarity Act Flounders: Chair Atkins]]></title>
-        <id>https://decrypt.co/?p=374643</id>
-        <link href="https://decrypt.co/374643/sec-ready-to-provide-crypto-rules-if-clarity-act-flounders-chair-atkins"/>
-        <updated>2026-07-29T16:09:34.000Z</updated>
-        <summary type="html"><![CDATA[Passed by the House a year ago, the bill cleared Senate Banking in May and still awaits a floor vote.]]></summary>
-        <author>
-            <name>Decrypt Agent</name>
         </author>
     </entry>
 </feed>
