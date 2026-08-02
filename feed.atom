@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-02T16:49:17.708Z</id>
+    <id>urn:2026-08-02T17:54:29.522Z</id>
     <title>web3::cave</title>
-    <updated>2026-08-02T16:49:17.708Z</updated>
+    <updated>2026-08-02T17:54:29.522Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Coldcard Bitcoin Exploit Balloons to $88 Million as Attackers Keep Draining Wallets]]></title>
+        <id>https://decrypt.co/?p=374817</id>
+        <link href="https://decrypt.co/374817/coldcard-bitcoin-exploit-88-million-attackers-draining-wallets"/>
+        <updated>2026-08-02T17:18:51.000Z</updated>
+        <summary type="html"><![CDATA[Galaxy Research says a third wave of thefts from Coldcard Bitcoin wallets has pushed observed losses to roughly 1,367 BTC across 4,585 addresses.]]></summary>
+        <author>
+            <name>Decrypt Staff</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What’s the Deal With Meta’s ‘Pervert Glasses’?]]></title>
         <id>https://decrypt.co/?p=374808</id>
@@ -373,16 +383,6 @@
         <summary type="html"><![CDATA[AI developers are quietly buying physical books by the millions, slicing them apart, scanning every page into AI training datasets, and discarding the originals.]]></summary>
         <author>
             <name>Jason Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI's Rogue AI Hacked Four More Platforms Besides Hugging Face]]></title>
-        <id>https://decrypt.co/?p=374645</id>
-        <link href="https://decrypt.co/374645/openais-rogue-ai-hacked-four-more-platforms-besides-hugging-face"/>
-        <updated>2026-07-29T16:16:43.000Z</updated>
-        <summary type="html"><![CDATA[OpenAI quietly updated its breach disclosure to confirm its agent accessed four external services beyond Hugging Face. Only one has been named so far.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
         </author>
     </entry>
 </feed>
