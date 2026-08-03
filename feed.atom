@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-03T17:43:06.765Z</id>
+    <id>urn:2026-08-03T19:20:03.615Z</id>
     <title>web3::cave</title>
-    <updated>2026-08-03T17:43:06.765Z</updated>
+    <updated>2026-08-03T19:20:03.615Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[BlackRock Launches Tokenized Money Market Funds on Solana, Ethereum]]></title>
+        <id>https://decrypt.co/?p=374865</id>
+        <link href="https://decrypt.co/374865/blackrock-tokenized-money-market-funds-solana-ethereum"/>
+        <updated>2026-08-03T19:17:37.000Z</updated>
+        <summary type="html"><![CDATA[BlackRock launched a tokenized money market fund for stablecoin reserves that uses Solana alongside Ethereum.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XRP Holders Can Now Borrow Ripple's RLUSD on Ethereum Without Selling Their Crypto]]></title>
+        <id>https://decrypt.co/?p=374862</id>
+        <link href="https://decrypt.co/374862/xrp-holders-borrow-ripple-rlusd-ethereum-without-selling"/>
+        <updated>2026-08-03T17:51:03.000Z</updated>
+        <summary type="html"><![CDATA[Flare's FXRP has been approved as collateral in a $280 million RLUSD lending vault, allowing XRP holders to tap Ethereum's lending markets.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crypto Privacy Tools Serve ‘Essential Protective Functions’: Report by ChangeNOW, CoinRabbit]]></title>
         <id>https://decrypt.co/?p=374838</id>
@@ -363,26 +383,6 @@
         <summary type="html"><![CDATA[CEO James Lanigan cited automation reshaping the business, as the exchange shifts from retail trading toward institutional infrastructure.]]></summary>
         <author>
             <name>Decrypt Agent</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fake Flare Network Staking Site Drained $8.5M in XRP: Seoul Police]]></title>
-        <id>https://decrypt.co/?p=374696</id>
-        <link href="https://decrypt.co/374696/fake-flare-network-staking-site-drained-8-5m-in-xrp-seoul-police"/>
-        <updated>2026-07-30T09:50:02.000Z</updated>
-        <summary type="html"><![CDATA[The ring copied Flare Network and its FXRP token, and planted Wikipedia entries, blog posts and YouTube videos to look legitimate.]]></summary>
-        <author>
-            <name>Decrypt Agent</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Quietly Adds New Windows App That Wants to Scan Your Face]]></title>
-        <id>https://decrypt.co/?p=374688</id>
-        <link href="https://decrypt.co/374688/microsoft-quietly-adds-windows-app-wants-scan-face-onedrive"/>
-        <updated>2026-07-29T22:31:03.000Z</updated>
-        <summary type="html"><![CDATA[A new OneDrive Photos app is appearing on some Windows 11 PCs through OneDrive and Windows updates, adding AI-powered search and an optional facial grouping feature.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
         </author>
     </entry>
 </feed>
