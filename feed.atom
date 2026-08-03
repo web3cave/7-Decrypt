@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-03T19:20:03.615Z</id>
+    <id>urn:2026-08-03T20:55:29.455Z</id>
     <title>web3::cave</title>
-    <updated>2026-08-03T19:20:03.615Z</updated>
+    <updated>2026-08-03T20:55:29.455Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What Is an Air-Gapped Bitcoin Wallet? Why the Coldcard Exploit Changes the Conversation About Offline Security]]></title>
+        <id>https://decrypt.co/?p=374868</id>
+        <link href="https://decrypt.co/374868/what-is-air-gapped-bitcoin-wallet-coldcard-exploit-security"/>
+        <updated>2026-08-03T20:39:33.000Z</updated>
+        <summary type="html"><![CDATA[Air-gapped wallets keep private keys completely offline, reducing exposure to hackers—but they're not immune from threats.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BlackRock Launches Tokenized Money Market Funds on Solana, Ethereum]]></title>
         <id>https://decrypt.co/?p=374865</id>
@@ -373,16 +383,6 @@
         <summary type="html"><![CDATA[Plus markets are rebounding after a slightly hawkish FOMC, BTC ETFs flip to inflows and MoonPay launches a new AI product + airdrop]]></summary>
         <author>
             <name>Tyler Warner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Exchange Luno Cuts Global Staff By a Fifth, Citing Automation]]></title>
-        <id>https://decrypt.co/?p=374699</id>
-        <link href="https://decrypt.co/374699/crypto-exchange-luno-cuts-global-staff-by-a-fifth-citing-automation"/>
-        <updated>2026-07-30T11:42:03.000Z</updated>
-        <summary type="html"><![CDATA[CEO James Lanigan cited automation reshaping the business, as the exchange shifts from retail trading toward institutional infrastructure.]]></summary>
-        <author>
-            <name>Decrypt Agent</name>
         </author>
     </entry>
 </feed>
