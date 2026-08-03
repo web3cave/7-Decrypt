@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-03T12:50:14.259Z</id>
+    <id>urn:2026-08-03T15:37:55.903Z</id>
     <title>web3::cave</title>
-    <updated>2026-08-03T12:50:14.259Z</updated>
+    <updated>2026-08-03T15:37:55.903Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Tom Lee’s Bitmine Buys More Ethereum, Adds to Stock Buyback]]></title>
+        <id>https://decrypt.co/?p=374836</id>
+        <link href="https://decrypt.co/374836/tom-lee-bitmine-buys-more-ethereum-adds-stock-buyback"/>
+        <updated>2026-08-03T15:31:43.000Z</updated>
+        <summary type="html"><![CDATA[The crypto treasury company says it added another 10,399 ETH last week, bringing its holdings to nearly 5.8 million ETH as it pushes toward its goal of owning 5% of Ethereum's circulating supply.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Morning Minute: The Coldcard Bitcoin Hack Nears $114 Million in Potential Losses]]></title>
+        <id>https://decrypt.co/?p=374830</id>
+        <link href="https://decrypt.co/374830/morning-minute-the-coldcard-bitcoin-hack-nears-114-million-in-potential-losses"/>
+        <updated>2026-08-03T13:11:19.000Z</updated>
+        <summary type="html"><![CDATA[Self-custody is under attack, and it's becoming increasingly clear that AI is one of crypto's leading threats.]]></summary>
+        <author>
+            <name>Tyler Warner</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Strategy Sells $105M in Bitcoin as Dollar Reserve Hits $4B]]></title>
         <id>https://decrypt.co/?p=374831</id>
@@ -363,26 +383,6 @@
         <summary type="html"><![CDATA[New research outlines a cryptographic approach that could allow Bitcoin and other blockchain wallets to remain compatible with existing addresses in a post-quantum future.]]></summary>
         <author>
             <name>Jason Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MoonPay's PayBox Puts a Crypto Wallet Inside Claude and ChatGPT—And Lets It Pay for Things]]></title>
-        <id>https://decrypt.co/?p=374687</id>
-        <link href="https://decrypt.co/374687/moonpays-paybox-crypto-wallet-claude-chatgpt"/>
-        <updated>2026-07-29T19:31:03.000Z</updated>
-        <summary type="html"><![CDATA[The company wants your AI to move money autonomously while you stay in control. Here's how it actually works.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin, Ethereum Wobble as Fed Holds Rates Steady]]></title>
-        <id>https://decrypt.co/?p=374672</id>
-        <link href="https://decrypt.co/374672/bitcoin-ethereum-price-fed-holds-rates-steady"/>
-        <updated>2026-07-29T18:43:45.000Z</updated>
-        <summary type="html"><![CDATA[Chair Kevin Warsh kept the federal funds rate at 3.5%–3.75% and offered no new signals on when cuts—or hikes—might come.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
         </author>
     </entry>
 </feed>
