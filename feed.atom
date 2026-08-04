@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-04T17:29:29.974Z</id>
+    <id>urn:2026-08-04T19:19:06.964Z</id>
     <title>web3::cave</title>
-    <updated>2026-08-04T17:29:29.974Z</updated>
+    <updated>2026-08-04T19:19:06.964Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Coldcard Bitcoin Exploit Explained: Entropy, How Keys Are Generated, and Why Bits Matter]]></title>
+        <id>https://decrypt.co/?p=374916</id>
+        <link href="https://decrypt.co/374916/coldcard-bitcoin-exploit-explained-entropy-keys-bits"/>
+        <updated>2026-08-04T19:11:36.000Z</updated>
+        <summary type="html"><![CDATA[A flaw in Coldcard wallets cost Bitcoin holders more than $100 million—and reopened an old fight about whether you can trust dice.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solana Proposal Would Increase Daily SOL Burns More Than 10-Fold]]></title>
+        <id>https://decrypt.co/?p=374915</id>
+        <link href="https://decrypt.co/374915/solana-proposal-increase-daily-sol-burns-10-fold"/>
+        <updated>2026-08-04T18:46:11.000Z</updated>
+        <summary type="html"><![CDATA[Validators are considering changes that would increase the amount of SOL permanently removed from circulation while reducing the rate of new token issuance.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Alibaba Just Gave Away Its Best AI Model For Free, Almost Matching Claude and ChatGPT]]></title>
         <id>https://decrypt.co/?p=374906</id>
@@ -373,26 +393,6 @@
         <summary type="html"><![CDATA[Coinkite said it’s likely that an attacker used AI to review previous versions of its open source firmware to uncover a vulnerability.]]></summary>
         <author>
             <name>Decrypt Agent</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase Misses on Q2 Earnings as Crypto Trading Activity Slows]]></title>
-        <id>https://decrypt.co/?p=374761</id>
-        <link href="https://decrypt.co/374761/coinbase-misses-q2-earnings-crypto-trading-activity-slows"/>
-        <updated>2026-07-30T21:19:12.000Z</updated>
-        <summary type="html"><![CDATA[The exchange reported lower quarterly revenue and a net loss as crypto trading activity declined, while subscription, stablecoin, and lending businesses continued to grow.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Treasury Secretary Invokes Bitcoin Creator Satoshi Nakamoto in Plea for Clarity Act]]></title>
-        <id>https://decrypt.co/?p=374758</id>
-        <link href="https://decrypt.co/374758/treasury-secretary-bitcoin-satoshi-nakamoto-clarity-act"/>
-        <updated>2026-07-30T19:32:19.000Z</updated>
-        <summary type="html"><![CDATA[Scott Bessent urged the Senate to immediately vote on the crypto market structure bill, accusing Democrats of delaying the legislation for political reasons.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
         </author>
     </entry>
 </feed>
