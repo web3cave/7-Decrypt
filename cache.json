@@ -6,12 +6,42 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=374923",
+          "author": "Jose Antonio Lanz",
+          "description": "The CNBC host announced the decision on air after interviewing IBM CEO Arvind Krishna, asking him whether quantum computers could eventually crack the cryptography protecting his coins.",
+          "link": "https://decrypt.co/374923/jim-cramer-selling-bitcoin-quantum-computing-threat",
+          "publishedOn": "2026-08-04T20:45:18.000Z",
+          "wordCount": 11002,
+          "title": "Jim Cramer Is Selling His Bitcoin Over Quantum Threat—Crypto Twitter Is Thrilled",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/01/shutterstock_102011242-gID_1.jpg@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/01/shutterstock_102011242-gID_1.jpg@png"
+        },
+        {
+          "id": "https://decrypt.co/?p=374921",
+          "author": "Jason Nelson",
+          "description": "Dozens of arrests tied to opposition against AI data centers underscore how local disputes over massive computing projects are growing into a national political movement.",
+          "link": "https://decrypt.co/374921/ai-data-center-protest-arrests",
+          "publishedOn": "2026-08-04T20:30:52.000Z",
+          "wordCount": 9510,
+          "title": "Police Have Arrested 37 Americans Over AI Data Center Protests This Year",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/crime_jail-handcuffs-gID_7.png@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/crime_jail-handcuffs-gID_7.png@png"
+        },
+        {
           "id": "https://decrypt.co/?p=374916",
           "author": "Jose Antonio Lanz",
           "description": "A flaw in Coldcard wallets cost Bitcoin holders more than $100 million—and reopened an old fight about whether you can trust dice.",
           "link": "https://decrypt.co/374916/coldcard-bitcoin-exploit-explained-entropy-keys-bits",
           "publishedOn": "2026-08-04T19:11:36.000Z",
-          "wordCount": 13657,
+          "wordCount": 13659,
           "title": "Coldcard Bitcoin Exploit Explained: Entropy, How Keys Are Generated, and Why Bits Matter",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-04-gID_7.png@png",
@@ -26,7 +56,7 @@
           "description": "Validators are considering changes that would increase the amount of SOL permanently removed from circulation while reducing the rate of new token issuance.",
           "link": "https://decrypt.co/374915/solana-proposal-increase-daily-sol-burns-10-fold",
           "publishedOn": "2026-08-04T18:46:11.000Z",
-          "wordCount": 9591,
+          "wordCount": 9593,
           "title": "Solana Proposal Would Increase Daily SOL Burns More Than 10-Fold",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/solana-decrypt-style-03-gID_7.png@png",
@@ -41,7 +71,7 @@
           "description": "The first Qwen Max model with public weights is free to download next week. Alibaba's own scorecard says the Americans still win on code.",
           "link": "https://decrypt.co/374906/alibaba-best-ai-model-qwen-free-claude-chatgpt",
           "publishedOn": "2026-08-04T17:16:49.000Z",
-          "wordCount": 10141,
+          "wordCount": 10140,
           "title": "Alibaba Just Gave Away Its Best AI Model For Free, Almost Matching Claude and ChatGPT",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/decrypt-style-qwen-gID_7.png@png",
@@ -56,7 +86,7 @@
           "description": "The Brazil-based crypto asset manager will liquidate its U.S. spot Bitcoin ETF later this month, ending a fund that entered the market in 2024.",
           "link": "https://decrypt.co/374903/hashdex-shut-down-bitcoin-etf",
           "publishedOn": "2026-08-04T16:43:46.000Z",
-          "wordCount": 9242,
+          "wordCount": 9244,
           "title": "Hashdex to Shut Down Bitcoin ETF After Struggling to Gain Assets",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/06/decrypt-style-bitcoin-winter-gID_7.png@png",
@@ -71,7 +101,7 @@
           "description": "A Milan start-up says it found a full-takeover flaw in macOS using ChatGPT, then hit Apple's new submission cap before it could file it.",
           "link": "https://decrypt.co/374900/apples-ai-slop-problem-left-a-200k-macos-exploit-unreported",
           "publishedOn": "2026-08-04T13:36:06.000Z",
-          "wordCount": 10767,
+          "wordCount": 10769,
           "title": "Apple's AI Slop Problem Left a $200K macOS Exploit Unreported",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/apple-logo-decrypy-style-01-gID_7.png@png",
@@ -86,7 +116,7 @@
           "description": "Strategy sold $104M in Bitcoin last week to help prop up STRC, a financial product they created to… help them buy more Bitcoin.",
           "link": "https://decrypt.co/374897/morning-minute-saylor-sells-bitcoin-again",
           "publishedOn": "2026-08-04T12:33:21.000Z",
-          "wordCount": 11661,
+          "wordCount": 11663,
           "title": "Morning Minute: Saylor Sells Bitcoin Again",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/michael-saylor-decrypt-style-bitcoin-gID_7.png@png",
@@ -101,7 +131,7 @@
           "description": "Europe's largest cash management platform is now issuing tokens on Ethereum, in a launch restricted to professional investors.",
           "link": "https://decrypt.co/374894/blackrock-tokenizes-311b-of-european-money-market-funds-with-jp-morgans-kinexys",
           "publishedOn": "2026-08-04T11:40:44.000Z",
-          "wordCount": 9545,
+          "wordCount": 9547,
           "title": "BlackRock Tokenizes $311B of European Money Market Funds With JP Morgan's Kinexys",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/BlackRock-decrypt-style-03-gID_7.png@png",
@@ -116,7 +146,7 @@
           "description": "Fake \"coordinated hardware audit\" emails are steering holders to a cloned Coldcard site that installs remote-access software.",
           "link": "https://decrypt.co/374891/hardware-wallet-firms-warn-of-phishing-surge-as-coldcard-losses-near-130m",
           "publishedOn": "2026-08-04T10:52:57.000Z",
-          "wordCount": 9988,
+          "wordCount": 9990,
           "title": "Hardware Wallet Firms Warn of Phishing Surge as Coldcard Losses Near $130M",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/hacker3-gID_7.png@png",
@@ -131,7 +161,7 @@
           "description": "Two of the five were also convicted of conspiracy to blackmail, in a case police won without either victim testifying.",
           "link": "https://decrypt.co/374889/five-convicted-of-imprisoning-crypto-millionaires-in-london-torture-ordeal",
           "publishedOn": "2026-08-04T09:46:24.000Z",
-          "wordCount": 10036,
+          "wordCount": 10038,
           "title": "Five Convicted of Imprisoning Crypto Millionaires in London 'Torture' Ordeal",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Judge-gID_7.png@png",
@@ -146,7 +176,7 @@
           "description": "Scientists are using OnlyFans to help fund decades of marmot research, while unofficial memecoins inspired by the project have emerged on Solana.",
           "link": "https://decrypt.co/374874/marmot-researchers-onlyfans-memecoins-solana-onlymarms",
           "publishedOn": "2026-08-03T22:29:02.000Z",
-          "wordCount": 9418,
+          "wordCount": 9420,
           "title": "Marmot Researchers Turn to OnlyFans for Funding—And There Are Meme Coins Too",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/08/yellow-bellied-marmot-decrypt-style-gID_7.jpg@png",
@@ -161,7 +191,7 @@
           "description": "Prosecutors say the former counterintelligence supervisor stole cryptocurrency from wallets tied to FBI investigations before asking ChatGPT how to invest the money and relocate to Europe.",
           "link": "https://decrypt.co/374871/former-fbi-agent-charged-stealing-crypto-using-chatgpt-advice",
           "publishedOn": "2026-08-03T21:17:06.000Z",
-          "wordCount": 9859,
+          "wordCount": 9858,
           "title": "Former FBI Agent Charged With Stealing Nearly $1 Million in Crypto and Using ChatGPT for Investment Advice",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/fbi-decrypt-style-gID_7.jpg@png",
@@ -176,7 +206,7 @@
           "description": "Air-gapped wallets keep private keys completely offline, reducing exposure to hackers—but they're not immune from threats.",
           "link": "https://decrypt.co/374868/what-is-air-gapped-bitcoin-wallet-coldcard-exploit-security",
           "publishedOn": "2026-08-03T20:39:33.000Z",
-          "wordCount": 11961,
+          "wordCount": 11963,
           "title": "What Is an Air-Gapped Bitcoin Wallet? Why the Coldcard Exploit Changes the Conversation About Offline Security",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/07/coldcard-mk3-decrypt-style-1-2-gID_7.jpg@png",
@@ -191,7 +221,7 @@
           "description": "BlackRock launched a tokenized money market fund for stablecoin reserves that uses Solana alongside Ethereum.",
           "link": "https://decrypt.co/374865/blackrock-tokenized-money-market-funds-solana-ethereum",
           "publishedOn": "2026-08-03T19:17:37.000Z",
-          "wordCount": 9299,
+          "wordCount": 9301,
           "title": "BlackRock Launches Tokenized Money Market Funds on Solana, Ethereum",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/BlackRock-decrypt-style-02-gID_7.png@png",
@@ -206,7 +236,7 @@
           "description": "Flare's FXRP has been approved as collateral in a $280 million RLUSD lending vault, allowing XRP holders to tap Ethereum's lending markets.",
           "link": "https://decrypt.co/374862/xrp-holders-borrow-ripple-rlusd-ethereum-without-selling",
           "publishedOn": "2026-08-03T17:51:03.000Z",
-          "wordCount": 9256,
+          "wordCount": 9258,
           "title": "XRP Holders Can Now Borrow Ripple's RLUSD on Ethereum Without Selling Their Crypto",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/xrp-decrypt-style-whatever-number-it-is-1-gID_7.jpg@png",
@@ -221,7 +251,7 @@
           "description": "Authoritarian oppression, corporate treasuries and “wrench attacks” make up the privacy case in a new report from ChangeNOW and CoinRabbit.",
           "link": "https://decrypt.co/374838/crypto-privacy-tools-serve-essential-protective-functions-report-by-changenow-coinrabbit",
           "publishedOn": "2026-08-03T17:31:03.000Z",
-          "wordCount": 10853,
+          "wordCount": 10855,
           "title": "Crypto Privacy Tools Serve ‘Essential Protective Functions’: Report by ChangeNOW, CoinRabbit",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/08/privacy-gID_7.jpg@png",
@@ -236,7 +266,7 @@
           "description": "CKPool's developer put the winner's hashrate at a “wildly variable” peak of 100 PH, noting that it was probably rented.",
           "link": "https://decrypt.co/374859/solo-bitcoin-miner-hits-jackpot-scoring-200k-btc-reward",
           "publishedOn": "2026-08-03T17:12:08.000Z",
-          "wordCount": 9729,
+          "wordCount": 9731,
           "title": "Solo Bitcoin Miner Hits Jackpot, Scoring $200K BTC Reward",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/bitcoin-miners-decrypt-style-01-gID_7.jpg@png",
@@ -251,7 +281,7 @@
           "description": "The Hut 8 subsidiary increased its Bitcoin holdings by 14% in the second quarter even as Bitcoin’s price fell.",
           "link": "https://decrypt.co/374850/trump-american-bitcoin-8000-btc-record-mining-quarter",
           "publishedOn": "2026-08-03T16:29:15.000Z",
-          "wordCount": 10334,
+          "wordCount": 10336,
           "title": "Trump Family’s American Bitcoin Tops 8,000 BTC After Record Mining Quarter",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/eric-trump-decrypt-style-01-gID_7.jpg@png",
@@ -266,7 +296,7 @@
           "description": "The crypto treasury company says it added another 10,399 ETH last week, bringing its holdings to nearly 5.8 million ETH as it pushes toward its goal of owning 5% of Ethereum's circulating supply.",
           "link": "https://decrypt.co/374836/tom-lee-bitmine-buys-more-ethereum-adds-stock-buyback",
           "publishedOn": "2026-08-03T15:31:43.000Z",
-          "wordCount": 10012,
+          "wordCount": 10014,
           "title": "Tom Lee’s Bitmine Buys More Ethereum, Adds to Stock Buyback",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/11/tom-lee-decrypt-style-03-1-gID_7.jpg@png",
@@ -281,7 +311,7 @@
           "description": "Self-custody is under attack, and it's becoming increasingly clear that AI is one of crypto's leading threats.",
           "link": "https://decrypt.co/374830/morning-minute-the-coldcard-bitcoin-hack-nears-114-million-in-potential-losses",
           "publishedOn": "2026-08-03T13:11:19.000Z",
-          "wordCount": 11380,
+          "wordCount": 11382,
           "title": "Morning Minute: The Coldcard Bitcoin Hack Nears $114 Million in Potential Losses",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-decrypt-style-27-gID_7.jpg@png",
@@ -296,7 +326,7 @@
           "description": "Half the proceeds funded preferred dividends and half went into an $81 million STRC buyback, its second in as many weeks.",
           "link": "https://decrypt.co/374831/strategy-sells-105m-in-bitcoin-as-dollar-reserve-hits-4b",
           "publishedOn": "2026-08-03T12:44:29.000Z",
-          "wordCount": 10182,
+          "wordCount": 10184,
           "title": "Strategy Sells $105M in Bitcoin as Dollar Reserve Hits $4B",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/michael-saylor-bitcoin-nashville-decrypt-style-gID_7.jpg@png",
@@ -311,7 +341,7 @@
           "description": "The exchange plans to file for preliminary listing review in 2027, after switching to international accounting standards this year.",
           "link": "https://decrypt.co/374823/south-korean-exchange-bithumb-targets-2028-ipo",
           "publishedOn": "2026-08-03T11:07:59.000Z",
-          "wordCount": 9183,
+          "wordCount": 9185,
           "title": "South Korean Exchange Bithumb Targets 2028 IPO",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/08/bithumb-decrypt-style-gID_7.jpg@png",
@@ -326,7 +356,7 @@
           "description": "Transfers of less than 1 BTC hit levels last seen days after the FTX collapse, while Galaxy Research flagged a likely fourth wave of thefts.",
           "link": "https://decrypt.co/374820/coldcard-losses-near-114m-as-small-bitcoin-transfers-spike",
           "publishedOn": "2026-08-03T10:15:37.000Z",
-          "wordCount": 10492,
+          "wordCount": 10494,
           "title": "Coldcard Losses Near $114M as Small Bitcoin Transfers Spike",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-B2-decrypt-style-gID_7.png@png",
@@ -341,7 +371,7 @@
           "description": "Galaxy Research says a third wave of thefts from Coldcard Bitcoin wallets has pushed observed losses to roughly 1,367 BTC across 4,585 addresses.",
           "link": "https://decrypt.co/374817/coldcard-bitcoin-exploit-88-million-attackers-draining-wallets",
           "publishedOn": "2026-08-02T17:18:51.000Z",
-          "wordCount": 10116,
+          "wordCount": 10118,
           "title": "Coldcard Bitcoin Exploit Balloons to $88 Million as Attackers Keep Draining Wallets",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Hacker1-gID_7.png@png",
@@ -356,7 +386,7 @@
           "description": "Lawsuits, privacy complaints, secret recordings, and government investigations have put Meta’s AI glasses under scrutiny.",
           "link": "https://decrypt.co/374808/whats-the-deal-with-meta-pervert-glasses",
           "publishedOn": "2026-08-02T15:01:03.000Z",
-          "wordCount": 10534,
+          "wordCount": 10533,
           "title": "What’s the Deal With Meta’s ‘Pervert Glasses’?",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/Ray-Ban-Meta-Smart-Glasses1-gID_7.jpg@png",
@@ -371,7 +401,7 @@
           "description": "The Binance founder urged holders to spread funds across multiple wallets as Galaxy Research put the toll from the Coldcard exploit at roughly $70 million—nearly double the initial estimate.",
           "link": "https://decrypt.co/374810/cz-warns-bitcoin-holders-70-million-coldcard-wallet-exploit",
           "publishedOn": "2026-08-01T16:01:17.000Z",
-          "wordCount": 9760,
+          "wordCount": 9762,
           "title": "CZ Warns Bitcoin Holders After $70 Million Wallet Exploit: 'Nothing Is 100%'",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/changpeng-zhao-cz-decrypt-style-02-gID_7.jpg@png",
@@ -386,7 +416,7 @@
           "description": "Gallup says Americans are growing more skeptical of artificial intelligence, with rising concerns about job losses, businesses' use of the technology, and the technology’s growing impact.",
           "link": "https://decrypt.co/374794/more-americans-know-about-ai-less-they-like-gallup",
           "publishedOn": "2026-08-01T15:01:09.000Z",
-          "wordCount": 9678,
+          "wordCount": 9677,
           "title": "The More Americans Know About AI, the Less They Like It: Gallup",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-ai-jobs-gID_7.jpg@png",
@@ -401,7 +431,7 @@
           "description": "The Nano Banana tool let users generate fake satellite scenes from a text prompt, alarming investigators who rely on Google Earth to verify breaking news and atrocities.",
           "link": "https://decrypt.co/374805/google-yanks-google-earth-ai-image-tool-deepfake-fears",
           "publishedOn": "2026-07-31T20:32:50.000Z",
-          "wordCount": 9901,
+          "wordCount": 9903,
           "title": "Google Yanks Google Earth AI Image Tool a Day After Launch Over Deepfake Fears",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/google-decrypt-style-1-gID_7.png@png",
@@ -416,7 +446,7 @@
           "description": "The decision requires AI companies to license copyrighted music used to train models and generate songs, marking another legal win for music rights holders in Europe.",
           "link": "https://decrypt.co/374802/suno-ai-music-copyright-case-germany",
           "publishedOn": "2026-07-31T20:03:22.000Z",
-          "wordCount": 9215,
+          "wordCount": 9214,
           "title": "AI Music Company Suno Loses Copyright Case in Germany",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Ai_music2-gID_7.png@png",
@@ -431,7 +461,7 @@
           "description": "New restrictions block future models of foreign-made robots and connected power inverters from receiving FCC approval after U.S. national security agencies warned they could pose cybersecurity and supply chain risks.",
           "link": "https://decrypt.co/374799/fcc-bans-foreign-humanoid-robots-china-roombas",
           "publishedOn": "2026-07-31T19:43:24.000Z",
-          "wordCount": 9957,
+          "wordCount": 9956,
           "title": "US Is Banning Foreign Robots—Even Roombas",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/test-2-gID_7.png@png",
@@ -446,7 +476,7 @@
           "description": "The latest attestation offers a snapshot of the assets backing the world's largest stablecoin, including U.S. Treasuries, repo agreements, and more than 146 metric tons of gold.",
           "link": "https://decrypt.co/374796/tether-reports-1-5b-q2-profit-usdt-supply-grows",
           "publishedOn": "2026-07-31T17:10:49.000Z",
-          "wordCount": 9139,
+          "wordCount": 9141,
           "title": "Tether Reports $1.5B Q2 Profit as USDT Supply Grows, Gold Holdings Rise",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-conf-paolo-ardonio-tether-decrypt-style-gID_7.png@png",
@@ -461,7 +491,7 @@
           "description": "The approval comes weeks after Circle won federal approval to establish a national trust bank, adding another license as the USDC issuer expands.",
           "link": "https://decrypt.co/374791/circle-new-york-trust-charter-stablecoin-issuer",
           "publishedOn": "2026-07-31T15:32:02.000Z",
-          "wordCount": 9110,
+          "wordCount": 9112,
           "title": "Circle Lands New York Trust Charter as Stablecoin Issuer Expands Regulatory Footprint",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/circle-logo-decrypt-style-01-gID_7.png@png",
@@ -476,7 +506,7 @@
           "description": "OFAC sanctioned two Iranian firms including Hormuz Safe, which “accepts payment in Bitcoin and other digital assets.”",
           "link": "https://decrypt.co/374789/us-treasury-sanctions-iranian-firms-taking-bitcoin-for-hormuz-passage",
           "publishedOn": "2026-07-31T15:05:43.000Z",
-          "wordCount": 9647,
+          "wordCount": 9649,
           "title": "US Treasury Sanctions Iranian Firms Taking Bitcoin for Hormuz Passage",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/iran-bitcoin-decrypt-style-02-gID_7.jpg@png",
@@ -491,7 +521,7 @@
           "description": "As AI agents move from giving advice to making transactions, a new layer of payment infrastructure is racing to catch up.",
           "link": "https://decrypt.co/374741/xdc-ai-and-the-rise-of-agentic-finance-when-ai-agents-learn-to-pay",
           "publishedOn": "2026-07-31T15:01:04.000Z",
-          "wordCount": 11417,
+          "wordCount": 11419,
           "title": "XDC AI and the Rise of Agentic Finance: When AI Agents Learn to Pay",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/07/ai-agentic-payments-1-gID_7.jpg@png",
@@ -506,7 +536,7 @@
           "description": "A proposed $4.8 billion AI data center near Mammoth Cave National Park has sparked a legal battle that could test how far local governments can go to slow the industry's rapid expansion.",
           "link": "https://decrypt.co/374764/ai-company-sues-town-data-center-national-park",
           "publishedOn": "2026-07-31T14:01:03.000Z",
-          "wordCount": 9968,
+          "wordCount": 9967,
           "title": "AI Company Sues Town for Trying to Block Data Center Near National Park",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-11-gID_7.png@png",
@@ -521,7 +551,7 @@
           "description": "Anthropic says three Claude models compromised the companies after a testing misconfiguration exposed the AI to the public internet.",
           "link": "https://decrypt.co/374784/claude-hacked-three-companies-in-internal-testing-anthropic",
           "publishedOn": "2026-07-31T13:47:54.000Z",
-          "wordCount": 10326,
+          "wordCount": 10325,
           "title": "Claude Hacked Three Companies in Internal Testing: Anthropic",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/anthropic-claude-ai-decrypt-style-gID_7.png@png",
@@ -536,7 +566,7 @@
           "description": "Plus, BTC is red this morning despite $233M in ETF inflows yesterday; and NY State is trying to shut down Kalshi and seeking $36B in damages",
           "link": "https://decrypt.co/374781/morning-minute-coinbase-posts-surprise-loss-as-crypto-trading-dries-up",
           "publishedOn": "2026-07-31T12:11:17.000Z",
-          "wordCount": 11542,
+          "wordCount": 11544,
           "title": "Morning Minute: Coinbase Posts Surprise Loss as Crypto Trading Dries Up",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Coinbase-phone-decrypt-style-01-gID_7.png@png",
@@ -551,7 +581,7 @@
           "description": "Three states have already outlawed Bitcoin ATMs, and a committee chair says Texas will go further than regulating them.",
           "link": "https://decrypt.co/374778/crypto-kiosk-scams-cost-texans-57m-as-lawmakers-weigh-a-ban",
           "publishedOn": "2026-07-31T11:13:58.000Z",
-          "wordCount": 9660,
+          "wordCount": 9662,
           "title": "Crypto Kiosk Scams Cost Texans $57M as Lawmakers Weigh a Ban",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-atm-decrypt-style-1-scaled-gID_7.jpg@png",
@@ -559,36 +589,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/bitcoin-atm-decrypt-style-1-scaled-gID_7.jpg@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=374775",
-          "author": "Decrypt Agent",
-          "description": "The CFTC asked a court to stop New York enforcing against the prediction market the day before the state filed.",
-          "link": "https://decrypt.co/374775/new-york-ag-seeks-36b-from-kalshi-over-illegal-gambling",
-          "publishedOn": "2026-07-31T10:12:16.000Z",
-          "wordCount": 10080,
-          "title": "New York AG Seeks $36B From Kalshi Over 'Illegal Gambling'",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/prediction-market-decrypt-style-gID_7.jpg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/prediction-market-decrypt-style-gID_7.jpg@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=374766",
-          "author": "Decrypt Agent",
-          "description": "Coinkite said it’s likely that an attacker used AI to review previous versions of its open source firmware to uncover a vulnerability.",
-          "link": "https://decrypt.co/374766/38m-in-bitcoin-drained-by-coldcard-key-flaw-its-maker-thinks-ai-found",
-          "publishedOn": "2026-07-31T09:02:01.000Z",
-          "wordCount": 10405,
-          "title": "$38M in Bitcoin Drained by Coldcard Key Flaw Its Maker Thinks AI Found",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/07/coldcard-mk3-decrypt-style-1-2-gID_7.jpg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/07/coldcard-mk3-decrypt-style-1-2-gID_7.jpg@png"
         }
       ]
     }

@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-04T19:19:06.964Z</id>
+    <id>urn:2026-08-04T21:01:56.471Z</id>
     <title>web3::cave</title>
-    <updated>2026-08-04T19:19:06.964Z</updated>
+    <updated>2026-08-04T21:01:56.471Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Jim Cramer Is Selling His Bitcoin Over Quantum Threat—Crypto Twitter Is Thrilled]]></title>
+        <id>https://decrypt.co/?p=374923</id>
+        <link href="https://decrypt.co/374923/jim-cramer-selling-bitcoin-quantum-computing-threat"/>
+        <updated>2026-08-04T20:45:18.000Z</updated>
+        <summary type="html"><![CDATA[The CNBC host announced the decision on air after interviewing IBM CEO Arvind Krishna, asking him whether quantum computers could eventually crack the cryptography protecting his coins.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Police Have Arrested 37 Americans Over AI Data Center Protests This Year]]></title>
+        <id>https://decrypt.co/?p=374921</id>
+        <link href="https://decrypt.co/374921/ai-data-center-protest-arrests"/>
+        <updated>2026-08-04T20:30:52.000Z</updated>
+        <summary type="html"><![CDATA[Dozens of arrests tied to opposition against AI data centers underscore how local disputes over massive computing projects are growing into a national political movement.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Coldcard Bitcoin Exploit Explained: Entropy, How Keys Are Generated, and Why Bits Matter]]></title>
         <id>https://decrypt.co/?p=374916</id>
@@ -371,26 +391,6 @@
         <link href="https://decrypt.co/374778/crypto-kiosk-scams-cost-texans-57m-as-lawmakers-weigh-a-ban"/>
         <updated>2026-07-31T11:13:58.000Z</updated>
         <summary type="html"><![CDATA[Three states have already outlawed Bitcoin ATMs, and a committee chair says Texas will go further than regulating them.]]></summary>
-        <author>
-            <name>Decrypt Agent</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New York AG Seeks $36B From Kalshi Over 'Illegal Gambling']]></title>
-        <id>https://decrypt.co/?p=374775</id>
-        <link href="https://decrypt.co/374775/new-york-ag-seeks-36b-from-kalshi-over-illegal-gambling"/>
-        <updated>2026-07-31T10:12:16.000Z</updated>
-        <summary type="html"><![CDATA[The CFTC asked a court to stop New York enforcing against the prediction market the day before the state filed.]]></summary>
-        <author>
-            <name>Decrypt Agent</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[$38M in Bitcoin Drained by Coldcard Key Flaw Its Maker Thinks AI Found]]></title>
-        <id>https://decrypt.co/?p=374766</id>
-        <link href="https://decrypt.co/374766/38m-in-bitcoin-drained-by-coldcard-key-flaw-its-maker-thinks-ai-found"/>
-        <updated>2026-07-31T09:02:01.000Z</updated>
-        <summary type="html"><![CDATA[Coinkite said it’s likely that an attacker used AI to review previous versions of its open source firmware to uncover a vulnerability.]]></summary>
         <author>
             <name>Decrypt Agent</name>
         </author>
