@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-04T21:01:56.471Z</id>
+    <id>urn:2026-08-04T22:53:03.253Z</id>
     <title>web3::cave</title>
-    <updated>2026-08-04T21:01:56.471Z</updated>
+    <updated>2026-08-04T22:53:03.253Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[This Bitcoin Bridge Shut Itself Down Because AI Was Finding Bugs Too Fast]]></title>
+        <id>https://decrypt.co/?p=374933</id>
+        <link href="https://decrypt.co/374933/bitcoin-bridge-shuts-down-ai-finding-bugs-too-fast"/>
+        <updated>2026-08-04T22:46:03.000Z</updated>
+        <summary type="html"><![CDATA[Non-custodial Bitcoin swap provider Boltz says attackers are finding vulnerabilities faster than its team can fix them, forcing it to suspend swaps indefinitely.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Enthusiast Bugs His Toddler's Sleepover and Feeds It to Claude—The Internet Bugs Back]]></title>
+        <id>https://decrypt.co/?p=374930</id>
+        <link href="https://decrypt.co/374930/ai-enthusiast-bugged-toddler-sleepover-claude"/>
+        <updated>2026-08-04T22:16:03.000Z</updated>
+        <summary type="html"><![CDATA[Nicholas Charriere turned an hour of nonsense into a family website with named tracks. One reply calling him creepy got more likes than his post.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI Dumps Apple Employees' Text Messages to Fight Trade Secret Suit]]></title>
+        <id>https://decrypt.co/?p=374928</id>
+        <link href="https://decrypt.co/374928/openai-emails-text-messages-apple-trade-secrets-lawsuit"/>
+        <updated>2026-08-04T21:46:03.000Z</updated>
+        <summary type="html"><![CDATA[The ChatGPT maker released emails and text messages it says expose factual errors in Apple's lawsuit and undercut claims that former Apple employees brought confidential information to the company.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ledger Says Coldcard Exploit Shows Bitcoin Wallet Security Must Adapt to AI]]></title>
+        <id>https://decrypt.co/?p=374914</id>
+        <link href="https://decrypt.co/374914/ledger-coldcard-exploit-bitcoin-wallet-security-ai"/>
+        <updated>2026-08-04T21:16:03.000Z</updated>
+        <summary type="html"><![CDATA[Ledger CTO Charles Guillemet says the Coldcard exploit underscores why certified hardware randomness matters—and why AI is reshaping wallet security.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Jim Cramer Is Selling His Bitcoin Over Quantum Threat—Crypto Twitter Is Thrilled]]></title>
         <id>https://decrypt.co/?p=374923</id>
@@ -353,46 +393,6 @@
         <summary type="html"><![CDATA[As AI agents move from giving advice to making transactions, a new layer of payment infrastructure is racing to catch up.]]></summary>
         <author>
             <name>Decrypt Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Company Sues Town for Trying to Block Data Center Near National Park]]></title>
-        <id>https://decrypt.co/?p=374764</id>
-        <link href="https://decrypt.co/374764/ai-company-sues-town-data-center-national-park"/>
-        <updated>2026-07-31T14:01:03.000Z</updated>
-        <summary type="html"><![CDATA[A proposed $4.8 billion AI data center near Mammoth Cave National Park has sparked a legal battle that could test how far local governments can go to slow the industry's rapid expansion.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Claude Hacked Three Companies in Internal Testing: Anthropic]]></title>
-        <id>https://decrypt.co/?p=374784</id>
-        <link href="https://decrypt.co/374784/claude-hacked-three-companies-in-internal-testing-anthropic"/>
-        <updated>2026-07-31T13:47:54.000Z</updated>
-        <summary type="html"><![CDATA[Anthropic says three Claude models compromised the companies after a testing misconfiguration exposed the AI to the public internet.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Minute: Coinbase Posts Surprise Loss as Crypto Trading Dries Up]]></title>
-        <id>https://decrypt.co/?p=374781</id>
-        <link href="https://decrypt.co/374781/morning-minute-coinbase-posts-surprise-loss-as-crypto-trading-dries-up"/>
-        <updated>2026-07-31T12:11:17.000Z</updated>
-        <summary type="html"><![CDATA[Plus, BTC is red this morning despite $233M in ETF inflows yesterday; and NY State is trying to shut down Kalshi and seeking $36B in damages]]></summary>
-        <author>
-            <name>Tyler Warner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Kiosk Scams Cost Texans $57M as Lawmakers Weigh a Ban]]></title>
-        <id>https://decrypt.co/?p=374778</id>
-        <link href="https://decrypt.co/374778/crypto-kiosk-scams-cost-texans-57m-as-lawmakers-weigh-a-ban"/>
-        <updated>2026-07-31T11:13:58.000Z</updated>
-        <summary type="html"><![CDATA[Three states have already outlawed Bitcoin ATMs, and a committee chair says Texas will go further than regulating them.]]></summary>
-        <author>
-            <name>Decrypt Agent</name>
         </author>
     </entry>
 </feed>
