@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-04T12:52:49.663Z</id>
+    <id>urn:2026-08-04T15:16:12.667Z</id>
     <title>web3::cave</title>
-    <updated>2026-08-04T12:52:49.663Z</updated>
+    <updated>2026-08-04T15:16:12.667Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Apple's AI Slop Problem Left a $200K macOS Exploit Unreported]]></title>
+        <id>https://decrypt.co/?p=374900</id>
+        <link href="https://decrypt.co/374900/apples-ai-slop-problem-left-a-200k-macos-exploit-unreported"/>
+        <updated>2026-08-04T13:36:06.000Z</updated>
+        <summary type="html"><![CDATA[A Milan start-up says it found a full-takeover flaw in macOS using ChatGPT, then hit Apple's new submission cap before it could file it.]]></summary>
+        <author>
+            <name>Decrypt Agent</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Morning Minute: Saylor Sells Bitcoin Again]]></title>
         <id>https://decrypt.co/?p=374897</id>
@@ -381,16 +391,6 @@
         <link href="https://decrypt.co/374753/bitcoin-quantum-threat-ibm-claims-trusted-quantum-advantage"/>
         <updated>2026-07-30T17:36:03.000Z</updated>
         <summary type="html"><![CDATA[The advance reflects IBM’s continued progress toward machines powerful enough to challenge today's cryptography.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your 'Sexual Wellness' Pills Order Info From Hims Got Shared With Meta, Says FTC]]></title>
-        <id>https://decrypt.co/?p=374736</id>
-        <link href="https://decrypt.co/374736/ftc-sues-hims-hers-sexual-wellness-health-data-sharing-meta"/>
-        <updated>2026-07-30T16:44:11.000Z</updated>
-        <summary type="html"><![CDATA[Regulators accuse the telehealth company of sharing sensitive health information with advertising platforms including Meta and Snap despite promising users privacy.]]></summary>
         <author>
             <name>Jason Nelson</name>
         </author>
