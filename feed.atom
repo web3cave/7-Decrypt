@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-05T19:16:05.598Z</id>
+    <id>urn:2026-08-05T20:58:11.885Z</id>
     <title>web3::cave</title>
-    <updated>2026-08-05T19:16:05.598Z</updated>
+    <updated>2026-08-05T20:58:11.885Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Cloudflare OS: Here’s What’s Inside the Open-Source AI Agent Platform]]></title>
+        <id>https://decrypt.co/?p=374997</id>
+        <link href="https://decrypt.co/374997/cloudflare-os-inside-open-source-ai-agent-platform"/>
+        <updated>2026-08-05T20:46:03.000Z</updated>
+        <summary type="html"><![CDATA[The release targets developers building autonomous apps and workflows on Cloudflare's edge—a clear bet on agent infrastructure.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Perplexity Wins Appeal Against Amazon in AI Agent Shopping Lawsuit]]></title>
+        <id>https://decrypt.co/?p=374996</id>
+        <link href="https://decrypt.co/374996/perplexity-amazon-ai-agent-lawsuit"/>
+        <updated>2026-08-05T20:16:03.000Z</updated>
+        <summary type="html"><![CDATA[A U.S. appeals court ruled Amazon is unlikely to prove Perplexity violated federal hacking law, marking the first appellate decision on whether AI agents can legally act on users' behalf online.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Visa Widens Stablecoin Payouts via Zerohash Rails]]></title>
+        <id>https://decrypt.co/?p=374994</id>
+        <link href="https://decrypt.co/374994/visa-stablecoin-payouts-zerohash"/>
+        <updated>2026-08-05T19:42:48.000Z</updated>
+        <summary type="html"><![CDATA[Eligible Visa Direct clients can now prefund accounts and send payouts in stablecoins, expanding Visa's latest push to bring blockchain-based payments into its global network.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OpenAI and Anthropic's Rogue Models Hacked Real Companies. The Law Has No Answer]]></title>
         <id>https://decrypt.co/?p=374991</id>
@@ -353,36 +383,6 @@
         <summary type="html"><![CDATA[Half the proceeds funded preferred dividends and half went into an $81 million STRC buyback, its second in as many weeks.]]></summary>
         <author>
             <name>Decrypt Agent</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[South Korean Exchange Bithumb Targets 2028 IPO]]></title>
-        <id>https://decrypt.co/?p=374823</id>
-        <link href="https://decrypt.co/374823/south-korean-exchange-bithumb-targets-2028-ipo"/>
-        <updated>2026-08-03T11:07:59.000Z</updated>
-        <summary type="html"><![CDATA[The exchange plans to file for preliminary listing review in 2027, after switching to international accounting standards this year.]]></summary>
-        <author>
-            <name>Decrypt Agent</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coldcard Losses Near $114M as Small Bitcoin Transfers Spike]]></title>
-        <id>https://decrypt.co/?p=374820</id>
-        <link href="https://decrypt.co/374820/coldcard-losses-near-114m-as-small-bitcoin-transfers-spike"/>
-        <updated>2026-08-03T10:15:37.000Z</updated>
-        <summary type="html"><![CDATA[Transfers of less than 1 BTC hit levels last seen days after the FTX collapse, while Galaxy Research flagged a likely fourth wave of thefts.]]></summary>
-        <author>
-            <name>Decrypt Agent</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coldcard Bitcoin Exploit Balloons to $88 Million as Attackers Keep Draining Wallets]]></title>
-        <id>https://decrypt.co/?p=374817</id>
-        <link href="https://decrypt.co/374817/coldcard-bitcoin-exploit-88-million-attackers-draining-wallets"/>
-        <updated>2026-08-02T17:18:51.000Z</updated>
-        <summary type="html"><![CDATA[Galaxy Research says a third wave of thefts from Coldcard Bitcoin wallets has pushed observed losses to roughly 1,367 BTC across 4,585 addresses.]]></summary>
-        <author>
-            <name>Decrypt Staff</name>
         </author>
     </entry>
 </feed>
