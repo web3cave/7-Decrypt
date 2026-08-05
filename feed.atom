@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-05T20:58:11.885Z</id>
+    <id>urn:2026-08-05T22:11:05.041Z</id>
     <title>web3::cave</title>
-    <updated>2026-08-05T20:58:11.885Z</updated>
+    <updated>2026-08-05T22:11:05.041Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Meta Debuts AI Coding Agent Muse: Here’s How It Compares to Claude Code and Codex]]></title>
+        <id>https://decrypt.co/?p=375001</id>
+        <link href="https://decrypt.co/375001/muse-code-meta-ai-coding-agent-claude-codex"/>
+        <updated>2026-08-05T21:24:06.000Z</updated>
+        <summary type="html"><![CDATA[Meta's new agent runs in your terminal, coordinates subagents, and survives crashes—but on the benchmarks that matter, it lags behind.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cloudflare OS: Here’s What’s Inside the Open-Source AI Agent Platform]]></title>
         <id>https://decrypt.co/?p=374997</id>
@@ -373,16 +383,6 @@
         <summary type="html"><![CDATA[Self-custody is under attack, and it's becoming increasingly clear that AI is one of crypto's leading threats.]]></summary>
         <author>
             <name>Tyler Warner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Strategy Sells $105M in Bitcoin as Dollar Reserve Hits $4B]]></title>
-        <id>https://decrypt.co/?p=374831</id>
-        <link href="https://decrypt.co/374831/strategy-sells-105m-in-bitcoin-as-dollar-reserve-hits-4b"/>
-        <updated>2026-08-03T12:44:29.000Z</updated>
-        <summary type="html"><![CDATA[Half the proceeds funded preferred dividends and half went into an $81 million STRC buyback, its second in as many weeks.]]></summary>
-        <author>
-            <name>Decrypt Agent</name>
         </author>
     </entry>
 </feed>
