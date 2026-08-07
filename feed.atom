@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-07T14:05:15.484Z</id>
+    <id>urn:2026-08-07T15:44:27.924Z</id>
     <title>web3::cave</title>
-    <updated>2026-08-07T14:05:15.484Z</updated>
+    <updated>2026-08-07T15:44:27.924Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Wallet Dormant Since 2011 Moves Millions in BTC]]></title>
+        <id>https://decrypt.co/?p=375114</id>
+        <link href="https://decrypt.co/375114/bitcoin-wallet-dormant-since-2011-moves-millions-btc"/>
+        <updated>2026-08-07T15:27:35.000Z</updated>
+        <summary type="html"><![CDATA[A Bitcoin address that had stayed silent for 15 years just sent its coins out for the first time.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tokenized Asset Deposits Tripled to $7.4B as DeFi Shrank: CoinShares]]></title>
         <id>https://decrypt.co/?p=375099</id>
@@ -353,26 +363,6 @@
         <summary type="html"><![CDATA[Nicholas Charriere turned an hour of nonsense into a family website with named tracks. One reply calling him creepy got more likes than his post.]]></summary>
         <author>
             <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI Dumps Apple Employees' Text Messages to Fight Trade Secret Suit]]></title>
-        <id>https://decrypt.co/?p=374928</id>
-        <link href="https://decrypt.co/374928/openai-emails-text-messages-apple-trade-secrets-lawsuit"/>
-        <updated>2026-08-04T21:46:03.000Z</updated>
-        <summary type="html"><![CDATA[The ChatGPT maker released emails and text messages it says expose factual errors in Apple's lawsuit and undercut claims that former Apple employees brought confidential information to the company.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ledger Says Coldcard Exploit Shows Bitcoin Wallet Security Must Adapt to AI]]></title>
-        <id>https://decrypt.co/?p=374914</id>
-        <link href="https://decrypt.co/374914/ledger-coldcard-exploit-bitcoin-wallet-security-ai"/>
-        <updated>2026-08-04T21:16:03.000Z</updated>
-        <summary type="html"><![CDATA[Ledger CTO Charles Guillemet says the Coldcard exploit underscores why certified hardware randomness matters—and why AI is reshaping wallet security.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
         </author>
     </entry>
 </feed>
