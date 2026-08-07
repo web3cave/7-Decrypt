@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-07T16:42:14.143Z</id>
+    <id>urn:2026-08-07T17:40:33.104Z</id>
     <title>web3::cave</title>
-    <updated>2026-08-07T16:42:14.143Z</updated>
+    <updated>2026-08-07T17:40:33.104Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[XRP at a Crossroads as Senate Punts on Clarity Act]]></title>
+        <id>https://decrypt.co/?p=375136</id>
+        <link href="https://decrypt.co/375136/xrp-price-crossroads-senate-punts-clarity-act"/>
+        <updated>2026-08-07T17:36:41.000Z</updated>
+        <summary type="html"><![CDATA[XRP is taking the Clarity Act news harder than the rest of the crypto market. Here's why.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hackers Use BNB Chain to Spread Malware Through Fake CAPTCHAs]]></title>
         <id>https://decrypt.co/?p=375133</id>
@@ -353,16 +363,6 @@
         <summary type="html"><![CDATA[The last time he sold was in December 2022 with Bitcoin at $16,800. Will Jim's sales mark the bottom again?]]></summary>
         <author>
             <name>Tyler Warner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethereum Proposal Would Burn Staking Rewards to Zero if Half of ETH Is Staked]]></title>
-        <id>https://decrypt.co/?p=374944</id>
-        <link href="https://decrypt.co/374944/ethereum-proposal-would-burn-staking-rewards-to-zero-if-half-of-eth-is-staked"/>
-        <updated>2026-08-05T11:29:23.000Z</updated>
-        <summary type="html"><![CDATA[The incentive to stake beyond half the supply would disappear at activation, with the yield cut phasing in over 18 months.]]></summary>
-        <author>
-            <name>Decrypt Agent</name>
         </author>
     </entry>
 </feed>
