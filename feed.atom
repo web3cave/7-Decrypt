@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-07T19:44:19.487Z</id>
+    <id>urn:2026-08-07T20:30:30.385Z</id>
     <title>web3::cave</title>
-    <updated>2026-08-07T19:44:19.487Z</updated>
+    <updated>2026-08-07T20:30:30.385Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Treasury Sanctions Crypto Exchanges It Says Laundered Millions for Iran]]></title>
+        <id>https://decrypt.co/?p=375163</id>
+        <link href="https://decrypt.co/375163/treasury-sanctions-crypto-exchanges-laundered-millions-iran"/>
+        <updated>2026-08-07T20:28:33.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. Treasury sanctioned two crypto exchanges it says laundered millions of dollars for Iran's Revolutionary Guard, naming a Georgia- and UAE-based operator and an Iran-based platform.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Payment Service BTCPay Warns Critical Flaw Is Under Active Attack]]></title>
+        <id>https://decrypt.co/?p=375159</id>
+        <link href="https://decrypt.co/375159/bitcoin-payment-service-btcpay-critical-flaw-active-attack"/>
+        <updated>2026-08-07T20:00:34.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin company BTCPay Server told users to install the latest version of the server and replace credentials that may have been exposed.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Flock Wanted to Turn 350,000 Uber Drivers Into a Nationwide Plate-Scanning Fleet]]></title>
         <id>https://decrypt.co/?p=375149</id>
@@ -333,26 +353,6 @@
         <summary type="html"><![CDATA[Will Bitcoin breakout of its death cross? Can Zcash continue to make holders forget about that mid-June crash? Here’s what the charts say.]]></summary>
         <author>
             <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Circle Taps Visa, Mastercard and BlackRock as Validators for September Arc Launch]]></title>
-        <id>https://decrypt.co/?p=374961</id>
-        <link href="https://decrypt.co/374961/circle-taps-visa-mastercard-and-blackrock-as-validators-for-september-arc-launch"/>
-        <updated>2026-08-05T15:38:09.000Z</updated>
-        <summary type="html"><![CDATA[Circle's USDC distribution deal with Coinbase has been renewed on existing terms, and Arc's testnet has processed half a billion transactions.]]></summary>
-        <author>
-            <name>Decrypt Agent</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eliza Founder Declares AI Token 'Dead,' Shuts Down Foundation After Lawsuit Settlement]]></title>
-        <id>https://decrypt.co/?p=374958</id>
-        <link href="https://decrypt.co/374958/eliza-ai-token-dead-shuts-down-foundation-lawsuit"/>
-        <updated>2026-08-05T15:24:38.000Z</updated>
-        <summary type="html"><![CDATA[Shaw Walters says Eliza's token is no more after a class-action settlement drained the project's remaining funds.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
         </author>
     </entry>
 </feed>
