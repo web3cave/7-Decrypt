@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-08T17:20:59.758Z</id>
+    <id>urn:2026-08-08T18:23:38.408Z</id>
     <title>web3::cave</title>
-    <updated>2026-08-08T17:20:59.758Z</updated>
+    <updated>2026-08-08T18:23:38.408Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Red Team Says AI Is Finding Critical Exploits Across Core Projects]]></title>
+        <id>https://decrypt.co/?p=375169</id>
+        <link href="https://decrypt.co/375169/bitcoin-red-team-ai-finding-critical-vulnerabilities"/>
+        <updated>2026-08-08T17:31:03.000Z</updated>
+        <summary type="html"><![CDATA[A volunteer security effort says it has scanned 150 Bitcoin repositories, disclosed more than a dozen vulnerabilities, and is building an open-source AI platform to automate software security reviews.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Senate Keeps Clarity Act Alive With Crypto Bill Vote Set for September]]></title>
         <id>https://decrypt.co/?p=375174</id>
@@ -353,16 +363,6 @@
         <summary type="html"><![CDATA[Eligible Visa Direct clients can now prefund accounts and send payouts in stablecoins, expanding Visa's latest push to bring blockchain-based payments into its global network.]]></summary>
         <author>
             <name>Jason Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI and Anthropic's Rogue Models Hacked Real Companies. The Law Has No Answer]]></title>
-        <id>https://decrypt.co/?p=374991</id>
-        <link href="https://decrypt.co/374991/openai-anthropic-rogue-ai-models-hacked-law"/>
-        <updated>2026-08-05T19:11:23.000Z</updated>
-        <summary type="html"><![CDATA[Two AI labs say unreleased models broke into live systems to game benchmarks. Prosecuting a line of code is harder than it looks.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
         </author>
     </entry>
 </feed>
