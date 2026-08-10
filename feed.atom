@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-10T07:13:09.879Z</id>
+    <id>urn:2026-08-10T09:07:54.591Z</id>
     <title>web3::cave</title>
-    <updated>2026-08-10T07:13:09.879Z</updated>
+    <updated>2026-08-10T09:07:54.591Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bybit Sues North Korea Over $1.5B Hack, Wins Order Freezing Assets]]></title>
+        <id>https://decrypt.co/?p=375180</id>
+        <link href="https://decrypt.co/375180/bybit-sues-north-korea-over-1-5b-hack-wins-order-freezing-assets"/>
+        <updated>2026-08-10T09:04:00.000Z</updated>
+        <summary type="html"><![CDATA[The exchange says it has recovered $48.4 million and frozen $30.5 million more, a fraction of what the Lazarus Group took in February 2025.]]></summary>
+        <author>
+            <name>Decrypt Agent</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoin 'Anti-Spam' Fork Sputters to a Halt After Mining Just Two Blocks]]></title>
         <id>https://decrypt.co/?p=375177</id>
@@ -343,26 +353,6 @@
         <summary type="html"><![CDATA[Meta's new agent runs in your terminal, coordinates subagents, and survives crashes—but on the benchmarks that matter, it lags behind.]]></summary>
         <author>
             <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cloudflare OS: Here’s What’s Inside the Open-Source AI Agent Platform]]></title>
-        <id>https://decrypt.co/?p=374997</id>
-        <link href="https://decrypt.co/374997/cloudflare-os-inside-open-source-ai-agent-platform"/>
-        <updated>2026-08-05T20:46:03.000Z</updated>
-        <summary type="html"><![CDATA[The release targets developers building autonomous apps and workflows on Cloudflare's edge—a clear bet on agent infrastructure.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Perplexity Wins Appeal Against Amazon in AI Agent Shopping Lawsuit]]></title>
-        <id>https://decrypt.co/?p=374996</id>
-        <link href="https://decrypt.co/374996/perplexity-amazon-ai-agent-lawsuit"/>
-        <updated>2026-08-05T20:16:03.000Z</updated>
-        <summary type="html"><![CDATA[A U.S. appeals court ruled Amazon is unlikely to prove Perplexity violated federal hacking law, marking the first appellate decision on whether AI agents can legally act on users' behalf online.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
         </author>
     </entry>
 </feed>
