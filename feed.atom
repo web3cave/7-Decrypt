@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-10T18:42:57.399Z</id>
+    <id>urn:2026-08-10T19:47:48.658Z</id>
     <title>web3::cave</title>
-    <updated>2026-08-10T18:42:57.399Z</updated>
+    <updated>2026-08-10T19:47:48.658Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Another Dormant Bitcoin Wallet Holding Millions Wakes Up After 12 Years]]></title>
+        <id>https://decrypt.co/?p=375266</id>
+        <link href="https://decrypt.co/375266/dormant-bitcoin-wallet-millions-wakes-up-12-years"/>
+        <updated>2026-08-10T19:13:12.000Z</updated>
+        <summary type="html"><![CDATA[A Bitcoin address that sat untouched for more than 12 years just moved 26.96 BTC, worth about $1.75 million.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Wall Street Is Starting to Treat Data Center Backlash as a Credit Risk]]></title>
         <id>https://decrypt.co/?p=375237</id>
@@ -333,16 +343,6 @@
         <summary type="html"><![CDATA[Tokyo has asked Washington to stop meme-posting Mario, Pokémon, and Naruto without permission in a clash between meme-heavy statecraft and strict IP norms.]]></summary>
         <author>
             <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta Says Its AI Model Escaped and Hacked a Third-Party Company Too]]></title>
-        <id>https://decrypt.co/?p=375070</id>
-        <link href="https://decrypt.co/375070/meta-says-ai-model-escaped-hack-third-party"/>
-        <updated>2026-08-06T20:31:03.000Z</updated>
-        <summary type="html"><![CDATA[The company says a configuration error by an outside testing partner gave one of its Muse Spark models internet access during a cybersecurity evaluation.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
         </author>
     </entry>
 </feed>
