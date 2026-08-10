@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-10T09:07:54.591Z</id>
+    <id>urn:2026-08-10T10:58:41.327Z</id>
     <title>web3::cave</title>
-    <updated>2026-08-10T09:07:54.591Z</updated>
+    <updated>2026-08-10T10:58:41.327Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Standard Chartered Sees $4T Tokenization Driving Chainlink to $200 by 2030]]></title>
+        <id>https://decrypt.co/?p=375189</id>
+        <link href="https://decrypt.co/375189/standard-chartered-sees-4t-tokenization-driving-chainlink-to-200-by-2030"/>
+        <updated>2026-08-10T10:19:06.000Z</updated>
+        <summary type="html"><![CDATA[The bank has now set 2030 targets for Uniswap, Aave, Morpho and Chainlink, all resting on one 37x forecast for DeFi growth.]]></summary>
+        <author>
+            <name>Decrypt Agent</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bybit Sues North Korea Over $1.5B Hack, Wins Order Freezing Assets]]></title>
         <id>https://decrypt.co/?p=375180</id>
@@ -343,16 +353,6 @@
         <summary type="html"><![CDATA[A volunteer group is pointing AI agents at Bitcoin project codebases and says 720 of the issues it has filed are high severity or critical.]]></summary>
         <author>
             <name>Decrypt Agent</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta Debuts AI Coding Agent Muse: Here’s How It Compares to Claude Code and Codex]]></title>
-        <id>https://decrypt.co/?p=375001</id>
-        <link href="https://decrypt.co/375001/muse-code-meta-ai-coding-agent-claude-codex"/>
-        <updated>2026-08-05T21:24:06.000Z</updated>
-        <summary type="html"><![CDATA[Meta's new agent runs in your terminal, coordinates subagents, and survives crashes—but on the benchmarks that matter, it lags behind.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
         </author>
     </entry>
 </feed>
