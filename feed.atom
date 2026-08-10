@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-10T20:31:52.395Z</id>
+    <id>urn:2026-08-10T21:32:22.558Z</id>
     <title>web3::cave</title>
-    <updated>2026-08-10T20:31:52.395Z</updated>
+    <updated>2026-08-10T21:32:22.558Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin ATMs Pulled in Australia as Regulators Signal Wider Crackdown]]></title>
+        <id>https://decrypt.co/?p=375282</id>
+        <link href="https://decrypt.co/375282/bitcoin-atms-pulled-australia-regulators-crackdown"/>
+        <updated>2026-08-10T21:02:43.000Z</updated>
+        <summary type="html"><![CDATA[AUSTRAC has suspended the registration of the operator running 96 of Australia's roughly 1,800 crypto ATMs, effective August 9.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hidden Text in PDFs Is Hijacking This AI Assistant]]></title>
         <id>https://decrypt.co/?p=375269</id>
@@ -333,16 +343,6 @@
         <summary type="html"><![CDATA[Senate Majority Leader Thune says the bill will be queued up when lawmakers return, leaving weeks to find 60 votes before midterms take over.]]></summary>
         <author>
             <name>Decrypt Agent</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SEC Bought a Billion Airline Records to Track Travelers—Likely Without a Warrant]]></title>
-        <id>https://decrypt.co/?p=375078</id>
-        <link href="https://decrypt.co/375078/sec-billion-airline-records-track-travelers"/>
-        <updated>2026-08-06T21:36:03.000Z</updated>
-        <summary type="html"><![CDATA[The financial regulator subscribed to a global flight database covering more than a billion tickets to monitor activity.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
         </author>
     </entry>
 </feed>
