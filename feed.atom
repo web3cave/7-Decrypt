@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-10T12:47:23.705Z</id>
+    <id>urn:2026-08-10T14:13:48.308Z</id>
     <title>web3::cave</title>
-    <updated>2026-08-10T12:47:23.705Z</updated>
+    <updated>2026-08-10T14:13:48.308Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Tom Lee's Bitmine Buys $14M in Ethereum as Cash Falls to $104M]]></title>
+        <id>https://decrypt.co/?p=375201</id>
+        <link href="https://decrypt.co/375201/tom-lees-bitmine-buys-14m-in-ethereum-as-cash-falls-to-104m"/>
+        <updated>2026-08-10T14:12:12.000Z</updated>
+        <summary type="html"><![CDATA[Bitmine has reported 4.8% of the supply for five straight weeks, leaving its 'Alchemy of 5%' target roughly 230,000 tokens away.]]></summary>
+        <author>
+            <name>Decrypt Agent</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Morning Minute: Bitcoin ETFs See Biggest Inflows Since May]]></title>
         <id>https://decrypt.co/?p=375194</id>
@@ -343,26 +353,6 @@
         <summary type="html"><![CDATA[Arc is a new layer-1 blockchain developed by USDC issuer Circle, designed specifically for stablecoin-native finance.]]></summary>
         <author>
             <name>Jason Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scammers Pose as EU Regulators to Prey on MiCA Deadline Fallout]]></title>
-        <id>https://decrypt.co/?p=375034</id>
-        <link href="https://decrypt.co/375034/scammers-pose-as-eu-regulators-to-prey-on-mica-deadline-fallout"/>
-        <updated>2026-08-06T12:46:19.000Z</updated>
-        <summary type="html"><![CDATA[France's watchdog says fraudsters are impersonating its own staff to talk stranded customers into moving assets to fake websites.]]></summary>
-        <author>
-            <name>Decrypt Agent</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Minute: Uniswap Enters the Launchpad Wars on Robinhood Chain]]></title>
-        <id>https://decrypt.co/?p=375031</id>
-        <link href="https://decrypt.co/375031/morning-minute-uniswap-enters-the-launchpad-wars-on-robinhood-chain"/>
-        <updated>2026-08-06T12:28:46.000Z</updated>
-        <summary type="html"><![CDATA[It looks like Uniswap is playing to win with their zero-fee model, and the early data shows them already taking the top spot.]]></summary>
-        <author>
-            <name>Tyler Warner</name>
         </author>
     </entry>
 </feed>
