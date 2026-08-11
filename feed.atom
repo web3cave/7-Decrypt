@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-11T21:35:41.566Z</id>
+    <id>urn:2026-08-11T22:32:21.875Z</id>
     <title>web3::cave</title>
-    <updated>2026-08-11T21:35:41.566Z</updated>
+    <updated>2026-08-11T22:32:21.875Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Another OpenAI Exec Quits in Leadership Shake-Up as AI Giant Eyes IPO]]></title>
+        <id>https://decrypt.co/?p=375381</id>
+        <link href="https://decrypt.co/375381/openai-exec-brad-lightcap-quits-leadership-shake-up-ipo"/>
+        <updated>2026-08-11T22:04:06.000Z</updated>
+        <summary type="html"><![CDATA[The former operating chief is starting a new venture following several departures across the ChatGPT developer’s leadership and safety teams.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BTCPay Backers Offer Bitcoin Bounty After Wallet Exploit]]></title>
         <id>https://decrypt.co/?p=375376</id>
@@ -343,16 +353,6 @@
         <summary type="html"><![CDATA[A volunteer security effort says it has scanned 150 Bitcoin repositories, disclosed more than a dozen vulnerabilities, and is building an open-source AI platform to automate software security reviews.]]></summary>
         <author>
             <name>Jason Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Senate Keeps Clarity Act Alive With Crypto Bill Vote Set for September]]></title>
-        <id>https://decrypt.co/?p=375174</id>
-        <link href="https://decrypt.co/375174/senate-keeps-clarity-act-alive-with-crypto-bill-vote-set-for-september"/>
-        <updated>2026-08-08T16:33:02.000Z</updated>
-        <summary type="html"><![CDATA[Senate Majority Leader John Thune filed the motion to proceed early Saturday, setting up a mid-September showdown.]]></summary>
-        <author>
-            <name>Decrypt Staff</name>
         </author>
     </entry>
 </feed>
