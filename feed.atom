@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-11T08:03:39.260Z</id>
+    <id>urn:2026-08-11T09:51:39.245Z</id>
     <title>web3::cave</title>
-    <updated>2026-08-11T08:03:39.260Z</updated>
+    <updated>2026-08-11T09:51:39.245Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[UK Lawmakers Write to Bank CEOs Over Crypto Account Refusals]]></title>
+        <id>https://decrypt.co/?p=375294</id>
+        <link href="https://decrypt.co/375294/uk-lawmakers-write-to-bank-ceos-over-crypto-account-refusals"/>
+        <updated>2026-08-11T08:41:17.000Z</updated>
+        <summary type="html"><![CDATA[The APPG has asked banks to explain their crypto policies, warning that access could be one of the single biggest barriers to growth.]]></summary>
+        <author>
+            <name>Decrypt Agent</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vitalik Buterin Says Ethereum Is Betting Its Future on Quantum Security and AI]]></title>
         <id>https://decrypt.co/?p=375285</id>
@@ -323,16 +333,6 @@
         <summary type="html"><![CDATA[Unlike the recent breakouts at OpenAI and Anthropic, this involved a model anyone can download, running its default safeguards.]]></summary>
         <author>
             <name>Decrypt Agent</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Minute: MetaMask Hands AI Agents a Wallet]]></title>
-        <id>https://decrypt.co/?p=375093</id>
-        <link href="https://decrypt.co/375093/morning-minute-metamask-hands-ai-agents-a-wallet"/>
-        <updated>2026-08-07T12:00:35.000Z</updated>
-        <summary type="html"><![CDATA[MetaMask's Agent Wallet lets AI agents trade crypto on their own. Plus, Bitcoin reclaims $65k despite the Clarity Act facing a new delay.]]></summary>
-        <author>
-            <name>Tyler Warner</name>
         </author>
     </entry>
 </feed>
