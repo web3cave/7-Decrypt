@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-11T17:50:24.725Z</id>
+    <id>urn:2026-08-11T18:48:57.085Z</id>
     <title>web3::cave</title>
-    <updated>2026-08-11T17:50:24.725Z</updated>
+    <updated>2026-08-11T18:48:57.085Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Trump Media’s Crypto Bet Fuels Massive $238M Quarterly Loss]]></title>
+        <id>https://decrypt.co/?p=375359</id>
+        <link href="https://decrypt.co/375359/trump-media-crypto-bet-238m-quarterly-loss"/>
+        <updated>2026-08-11T18:25:14.000Z</updated>
+        <summary type="html"><![CDATA[Falling digital asset values battered the Truth Social parent’s balance sheet, contributing to about $361 million in crypto-related losses during the first half of 2026.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Russia Approves Trading of Bitcoin, Ethereum and USDT—But No XRP]]></title>
         <id>https://decrypt.co/?p=375345</id>
@@ -343,16 +353,6 @@
         <summary type="html"><![CDATA[Bitcoin company BTCPay Server told users to install the latest version of the server and replace credentials that may have been exposed.]]></summary>
         <author>
             <name>Jason Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flock Wanted to Turn 350,000 Uber Drivers Into a Nationwide Plate-Scanning Fleet]]></title>
-        <id>https://decrypt.co/?p=375149</id>
-        <link href="https://decrypt.co/375149/flock-cameras-uber-drivers-nationwide-plate-scanning-fleet"/>
-        <updated>2026-08-07T19:18:41.000Z</updated>
-        <summary type="html"><![CDATA[A leaked Flock presentation shows the surveillance firm pitching a plan to pull license-plate data from rideshare and delivery drivers.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
         </author>
     </entry>
 </feed>
