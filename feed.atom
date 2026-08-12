@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-12T17:51:08.217Z</id>
+    <id>urn:2026-08-12T18:49:56.490Z</id>
     <title>web3::cave</title>
-    <updated>2026-08-12T17:51:08.217Z</updated>
+    <updated>2026-08-12T18:49:56.490Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[After Coldcard Was Hacked, $15 Billion in Bitcoin Moved to Safety]]></title>
+        <id>https://decrypt.co/?p=375450</id>
+        <link href="https://decrypt.co/375450/coldcard-hack-15-billion-bitcoin-moved-safety"/>
+        <updated>2026-08-12T18:16:04.000Z</updated>
+        <summary type="html"><![CDATA[Casa CEO Nick Neuman says the mass Bitcoin migration after the $130M Coldcard exploit proves distributed self-custody is Bitcoin's immune system—not its vulnerability.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Zoomsday: AI Used to Build Critical Zoom Exploit in One Day]]></title>
         <id>https://decrypt.co/?p=375458</id>
@@ -363,16 +373,6 @@
         <summary type="html"><![CDATA[XRP is trading just above $1.00, still pinned under a death cross, as the legislative tailwind that lifted it in July loses steam.]]></summary>
         <author>
             <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hackers Drain $8 Million From Crypto Exchange Across Two Blockchains]]></title>
-        <id>https://decrypt.co/?p=375213</id>
-        <link href="https://decrypt.co/375213/hackers-drain-8-million-from-crypto-platform-coinsbuy"/>
-        <updated>2026-08-10T15:56:30.000Z</updated>
-        <summary type="html"><![CDATA[The attacker moved funds across Tron and Ethereum before routing millions through crypto exchanges, while later wallet activity offers clues about how the breach occurred.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
         </author>
     </entry>
 </feed>
