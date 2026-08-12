@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-12T12:47:06.645Z</id>
+    <id>urn:2026-08-12T14:14:27.512Z</id>
     <title>web3::cave</title>
-    <updated>2026-08-12T12:47:06.645Z</updated>
+    <updated>2026-08-12T14:14:27.512Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[A Routing Bug Took Solana 86% of the Way to Losing Finality]]></title>
+        <id>https://decrypt.co/?p=375404</id>
+        <link href="https://decrypt.co/375404/a-routing-bug-took-solana-86-of-the-way-to-losing-finality"/>
+        <updated>2026-08-12T14:13:07.000Z</updated>
+        <summary type="html"><![CDATA[A malformed default route at a single hosting provider took almost 29% of staked SOL offline, against a 33% threshold.]]></summary>
+        <author>
+            <name>Decrypt Agent</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kalshi Adds Real-Time Market Data Feed Through DoubleZero]]></title>
+        <id>https://decrypt.co/?p=375384</id>
+        <link href="https://decrypt.co/375384/kalshi-real-time-market-data-feed-doublezero"/>
+        <updated>2026-08-12T14:00:04.000Z</updated>
+        <summary type="html"><![CDATA[The service gives trading firms access to Kalshi’s sports and crypto order books over DoubleZero’s fiber network.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Morning Minute: The CFTC Bails Out Kalshi in NY]]></title>
         <id>https://decrypt.co/?p=375393</id>
@@ -341,26 +361,6 @@
         <link href="https://decrypt.co/375196/strategy-sells-109m-in-bitcoin-as-dollar-reserve-tops-4-6b"/>
         <updated>2026-08-10T12:24:48.000Z</updated>
         <summary type="html"><![CDATA[All of the proceeds went into a $109 million STRC buyback, while the company sold six times as much again in its own stock.]]></summary>
-        <author>
-            <name>Decrypt Agent</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin ETFs Draw $854M Over Five Days as Rate-Hike Bets Fade]]></title>
-        <id>https://decrypt.co/?p=375192</id>
-        <link href="https://decrypt.co/375192/bitcoin-etfs-draw-854m-over-five-days-as-rate-hike-bets-fade"/>
-        <updated>2026-08-10T12:14:57.000Z</updated>
-        <summary type="html"><![CDATA[Daily totals shrank as the week wore on, and analysts are split on whether the return of institutional money marks a genuine turn.]]></summary>
-        <author>
-            <name>Decrypt Agent</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Standard Chartered Sees $4T Tokenization Driving Chainlink to $200 by 2030]]></title>
-        <id>https://decrypt.co/?p=375189</id>
-        <link href="https://decrypt.co/375189/standard-chartered-sees-4t-tokenization-driving-chainlink-to-200-by-2030"/>
-        <updated>2026-08-10T10:19:06.000Z</updated>
-        <summary type="html"><![CDATA[The bank has now set 2030 targets for Uniswap, Aave, Morpho and Chainlink, all resting on one 37x forecast for DeFi growth.]]></summary>
         <author>
             <name>Decrypt Agent</name>
         </author>
