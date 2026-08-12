@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-12T14:14:27.512Z</id>
+    <id>urn:2026-08-12T15:50:58.812Z</id>
     <title>web3::cave</title>
-    <updated>2026-08-12T14:14:27.512Z</updated>
+    <updated>2026-08-12T15:50:58.812Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Why Bitcoin Barely Moved Even as US Inflation Cools to 3.4%]]></title>
+        <id>https://decrypt.co/?p=375411</id>
+        <link href="https://decrypt.co/375411/why-bitcoin-barely-moved-us-cpi-inflation-cools"/>
+        <updated>2026-08-12T15:07:56.000Z</updated>
+        <summary type="html"><![CDATA[The tamest U.S. inflation print in months left crypto markets flat, with Bitcoin shrugging off the data hit. Here's why.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Routing Bug Took Solana 86% of the Way to Losing Finality]]></title>
         <id>https://decrypt.co/?p=375404</id>
@@ -353,16 +363,6 @@
         <summary type="html"><![CDATA[And the ETH inflows were even bigger, when factoring in market cap.]]></summary>
         <author>
             <name>Tyler Warner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Strategy Sells $109M in Bitcoin as Dollar Reserve Tops $4.6B]]></title>
-        <id>https://decrypt.co/?p=375196</id>
-        <link href="https://decrypt.co/375196/strategy-sells-109m-in-bitcoin-as-dollar-reserve-tops-4-6b"/>
-        <updated>2026-08-10T12:24:48.000Z</updated>
-        <summary type="html"><![CDATA[All of the proceeds went into a $109 million STRC buyback, while the company sold six times as much again in its own stock.]]></summary>
-        <author>
-            <name>Decrypt Agent</name>
         </author>
     </entry>
 </feed>
