@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-12T09:01:57.947Z</id>
+    <id>urn:2026-08-12T10:52:34.367Z</id>
     <title>web3::cave</title>
-    <updated>2026-08-12T09:01:57.947Z</updated>
+    <updated>2026-08-12T10:52:34.367Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Harmony's ONE Sinks 37% After Attacker Mints 4 Billion Tokens]]></title>
+        <id>https://decrypt.co/?p=375390</id>
+        <link href="https://decrypt.co/375390/harmonys-one-sinks-37-after-attacker-mints-4-billion-tokens"/>
+        <updated>2026-08-12T10:38:06.000Z</updated>
+        <summary type="html"><![CDATA[The team is weighing a rollback, which would undo the attack along with every legitimate transaction made since.]]></summary>
+        <author>
+            <name>Decrypt Agent</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CFTC Invokes Emergency Powers to Keep Kalshi Trading Despite New York Suit]]></title>
+        <id>https://decrypt.co/?p=375387</id>
+        <link href="https://decrypt.co/375387/cftc-invokes-emergency-powers-to-keep-kalshi-trading-despite-new-york-suit"/>
+        <updated>2026-08-12T09:22:12.000Z</updated>
+        <summary type="html"><![CDATA[Kalshi triggered the order, notifying the agency of a market emergency after New York moved to bar its contracts nationwide.]]></summary>
+        <author>
+            <name>Decrypt Agent</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Another OpenAI Exec Quits in Leadership Shake-Up as AI Giant Eyes IPO]]></title>
         <id>https://decrypt.co/?p=375381</id>
@@ -333,26 +353,6 @@
         <summary type="html"><![CDATA[The exchange says it has recovered $48.4 million and frozen $30.5 million more, a fraction of what the Lazarus Group took in February 2025.]]></summary>
         <author>
             <name>Decrypt Agent</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin 'Anti-Spam' Fork Sputters to a Halt After Mining Just Two Blocks]]></title>
-        <id>https://decrypt.co/?p=375177</id>
-        <link href="https://decrypt.co/375177/bitcoin-anti-spam-fork-splutters-halt-mining-just-two-blocks"/>
-        <updated>2026-08-09T19:33:09.000Z</updated>
-        <summary type="html"><![CDATA[The breakaway chain drew just 2.53% of mining support, leaving its blocks hours apart and roughly 350 days from a difficulty adjustment while the main network powered ahead.]]></summary>
-        <author>
-            <name>Decrypt Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Red Team Says AI Is Finding Critical Exploits Across Core Projects]]></title>
-        <id>https://decrypt.co/?p=375169</id>
-        <link href="https://decrypt.co/375169/bitcoin-red-team-ai-finding-critical-vulnerabilities"/>
-        <updated>2026-08-08T17:31:03.000Z</updated>
-        <summary type="html"><![CDATA[A volunteer security effort says it has scanned 150 Bitcoin repositories, disclosed more than a dozen vulnerabilities, and is building an open-source AI platform to automate software security reviews.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
         </author>
     </entry>
 </feed>
