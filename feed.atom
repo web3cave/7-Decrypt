@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-13T12:48:59.940Z</id>
+    <id>urn:2026-08-13T14:16:13.038Z</id>
     <title>web3::cave</title>
-    <updated>2026-08-13T12:48:59.940Z</updated>
+    <updated>2026-08-13T14:16:13.039Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ethereum DeFi Platform Ether.fi Adds Tokenized Stocks and Portfolio-Backed Loans]]></title>
+        <id>https://decrypt.co/?p=375529</id>
+        <link href="https://decrypt.co/375529/ethereum-defi-etherfi-tokenized-stocks"/>
+        <updated>2026-08-13T14:01:03.000Z</updated>
+        <summary type="html"><![CDATA[The Ethereum staking platform is adding asset trading, fiat accounts, and borrowing through Aave as it pushes into crypto banking.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trezor Customer Data Exposed in Shipping Partner Breach]]></title>
+        <id>https://decrypt.co/?p=375556</id>
+        <link href="https://decrypt.co/375556/trezor-customer-data-exposed-in-shipping-partner-breach"/>
+        <updated>2026-08-13T13:10:43.000Z</updated>
+        <summary type="html"><![CDATA[The hardware wallet manufacturer says its devices and backups are untouched, but the leak hands attackers valuable customer data.]]></summary>
+        <author>
+            <name>Decrypt Agent</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XRP Holders Can Now Trade Options Using Flare’s FXRP as Collateral]]></title>
+        <id>https://decrypt.co/?p=375526</id>
+        <link href="https://decrypt.co/375526/xrp-holders-trade-options-flare-fxrp-collateral"/>
+        <updated>2026-08-13T13:01:05.000Z</updated>
+        <summary type="html"><![CDATA[The Derive integration gives XRP holders a way to hedge or speculate without depositing their tokens with a centralized exchange.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Morning Minute: The SEC Plans Rules for Tokenized Stocks]]></title>
         <id>https://decrypt.co/?p=375547</id>
@@ -363,26 +393,6 @@
         <summary type="html"><![CDATA[The APPG has asked banks to explain their crypto policies, warning that access could be one of the single biggest barriers to growth.]]></summary>
         <author>
             <name>Decrypt Agent</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vitalik Buterin Says Ethereum Is Betting Its Future on Quantum Security and AI]]></title>
-        <id>https://decrypt.co/?p=375285</id>
-        <link href="https://decrypt.co/375285/vitalik-buterin-ethereum-betting-future-quantum-ai"/>
-        <updated>2026-08-10T21:48:22.000Z</updated>
-        <summary type="html"><![CDATA[Ethereum’s updated roadmap puts quantum resistance, privacy and AI-assisted formal verification at the center of the network’s technical ambitions.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin ATMs Pulled in Australia as Regulators Signal Wider Crackdown]]></title>
-        <id>https://decrypt.co/?p=375282</id>
-        <link href="https://decrypt.co/375282/bitcoin-atms-pulled-australia-regulators-crackdown"/>
-        <updated>2026-08-10T21:02:43.000Z</updated>
-        <summary type="html"><![CDATA[AUSTRAC has suspended the registration of the operator running 96 of Australia's roughly 1,800 crypto ATMs, effective August 9.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
         </author>
     </entry>
 </feed>
