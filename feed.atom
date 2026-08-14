@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-14T14:08:57.124Z</id>
+    <id>urn:2026-08-14T15:41:53.571Z</id>
     <title>web3::cave</title>
-    <updated>2026-08-14T14:08:57.124Z</updated>
+    <updated>2026-08-14T15:41:53.571Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Fake LinkedIn Crypto Job Scams Have Cost $11.8M: Singapore]]></title>
+        <id>https://decrypt.co/?p=375653</id>
+        <link href="https://decrypt.co/375653/fake-linkedin-crypto-job-scams-have-cost-11-8m-singapore"/>
+        <updated>2026-08-14T14:55:29.000Z</updated>
+        <summary type="html"><![CDATA[Malware planted during a bogus coding assessment harvested a session token, bypassing multi-factor authentication to reach a code repository.]]></summary>
+        <author>
+            <name>Decrypt Agent</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ireland’s New AML Strategy Brings ‘Enhanced Checks’ on Private Crypto Wallets]]></title>
         <id>https://decrypt.co/?p=375628</id>
@@ -363,16 +373,6 @@
         <summary type="html"><![CDATA[The CFTC keeps going to bat for Kalshi while the ultimate prediction market court battle looms, with the fate of the sector in the balance.]]></summary>
         <author>
             <name>Tyler Warner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitwise Cuts 14% of Staff as Crypto Slump Reaches ETF Issuers]]></title>
-        <id>https://decrypt.co/?p=375394</id>
-        <link href="https://decrypt.co/375394/bitwise-cuts-14-of-staff-as-crypto-slump-reaches-etf-issuers"/>
-        <updated>2026-08-12T12:06:36.000Z</updated>
-        <summary type="html"><![CDATA[The reduction matches the percentage shed by Coinbase in May, and follows shutdowns at BitMEX and BitMart.]]></summary>
-        <author>
-            <name>Decrypt Agent</name>
         </author>
     </entry>
 </feed>
