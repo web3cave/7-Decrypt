@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-14T20:22:04.366Z</id>
+    <id>urn:2026-08-14T21:16:39.600Z</id>
     <title>web3::cave</title>
-    <updated>2026-08-14T20:22:04.366Z</updated>
+    <updated>2026-08-14T21:16:39.600Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[France Tax Data Leak Could Fuel Scams, Attacks Targeting Bitcoin Holders]]></title>
+        <id>https://decrypt.co/?p=375715</id>
+        <link href="https://decrypt.co/375715/france-tax-data-leak-wrench-attacks-bitcoin"/>
+        <updated>2026-08-14T21:03:35.000Z</updated>
+        <summary type="html"><![CDATA[A hacker is reportedly selling personal and financial records tied to more than 678,000 taxpayers and businesses in France.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[China's Z.AI Ships GLM-5.3, Calling It the Top Open-Weight Coding Model]]></title>
         <id>https://decrypt.co/?p=375684</id>
@@ -353,16 +363,6 @@
         <summary type="html"><![CDATA[Casa CEO Nick Neuman says the mass Bitcoin migration after the $130M Coldcard exploit proves distributed self-custody is Bitcoin's immune system—not its vulnerability.]]></summary>
         <author>
             <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zoomsday: AI Used to Build Critical Zoom Exploit in One Day]]></title>
-        <id>https://decrypt.co/?p=375458</id>
-        <link href="https://decrypt.co/375458/zoomsday-ai-zoom-exploit-one-day"/>
-        <updated>2026-08-12T17:46:04.000Z</updated>
-        <summary type="html"><![CDATA[The flaws could let someone in a meeting take control of another participant’s device without the victim clicking anything.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
         </author>
     </entry>
 </feed>
