@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-14T18:41:12.383Z</id>
+    <id>urn:2026-08-14T19:41:47.009Z</id>
     <title>web3::cave</title>
-    <updated>2026-08-14T18:41:12.383Z</updated>
+    <updated>2026-08-14T19:41:47.009Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[SharpLink Will Stake $200M of Ethereum Through Lido's wstETH]]></title>
+        <id>https://decrypt.co/?p=375672</id>
+        <link href="https://decrypt.co/375672/sharplink-stake-200m-ethereum-lido-wsteth"/>
+        <updated>2026-08-14T19:01:05.000Z</updated>
+        <summary type="html"><![CDATA[Sharplink plans to stake roughly 12% of its total Ethereum holdings through Lido, earning yield while staying active in DeFi.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OpenAI Staff Blame Rush to Ship for Rogue Agent Hack]]></title>
         <id>https://decrypt.co/?p=375670</id>
@@ -353,26 +363,6 @@
         <summary type="html"><![CDATA[The Boston asset manager's FETH would stake up to 100% of its ETH and distribute the rewards to holders as quarterly cash, pending SEC approval.]]></summary>
         <author>
             <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XRP Bridge Drained After Software Treats Fake Deposits as Real]]></title>
-        <id>https://decrypt.co/?p=375441</id>
-        <link href="https://decrypt.co/375441/xrp-drained-tx-bridge"/>
-        <updated>2026-08-12T16:00:52.000Z</updated>
-        <summary type="html"><![CDATA[A flaw that went undetected during multiple audits allowed an attacker to create unbacked balances and withdraw XRP from the bridge’s reserves.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto-Backed Loans, Explained: How to Unlock Cash Without Selling Your Bitcoin]]></title>
-        <id>https://decrypt.co/?p=375428</id>
-        <link href="https://decrypt.co/375428/crypto-backed-loans-explained-how-to-unlock-cash-without-selling-your-bitcoin"/>
-        <updated>2026-08-12T15:54:16.000Z</updated>
-        <summary type="html"><![CDATA[A fixed-rate crypto-backed loan lets you borrow against BTC, ETH, or SOL while keeping your coins. Here's how they work.]]></summary>
-        <author>
-            <name>Sam Mei</name>
         </author>
     </entry>
 </feed>
