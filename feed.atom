@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-14T16:40:54.828Z</id>
+    <id>urn:2026-08-14T17:44:00.794Z</id>
     <title>web3::cave</title>
-    <updated>2026-08-14T16:40:54.828Z</updated>
+    <updated>2026-08-14T17:44:00.794Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Israel’s Largest Bank Will Give Bitcoin Trading Another Try]]></title>
+        <id>https://decrypt.co/?p=375665</id>
+        <link href="https://decrypt.co/375665/israel-largest-bank-leumi-bitcoin-trading"/>
+        <updated>2026-08-14T17:14:02.000Z</updated>
+        <summary type="html"><![CDATA[Bank Leumi's 2022 attempt died at the Bank of Israel. A softer regulatory line and Galaxy's custody stack now give it another shot in early 2027.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Another Bitcoin Miner Sells Off BTC to Fund AI Data Center Pivot]]></title>
         <id>https://decrypt.co/?p=375655</id>
@@ -363,16 +373,6 @@
         <summary type="html"><![CDATA[A malformed default route at a single hosting provider took almost 29% of staked SOL offline, against a 33% threshold.]]></summary>
         <author>
             <name>Decrypt Agent</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kalshi Adds Real-Time Market Data Feed Through DoubleZero]]></title>
-        <id>https://decrypt.co/?p=375384</id>
-        <link href="https://decrypt.co/375384/kalshi-real-time-market-data-feed-doublezero"/>
-        <updated>2026-08-12T14:00:04.000Z</updated>
-        <summary type="html"><![CDATA[The service gives trading firms access to Kalshi’s sports and crypto order books over DoubleZero’s fiber network.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
         </author>
     </entry>
 </feed>
