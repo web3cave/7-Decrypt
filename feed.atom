@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-14T19:41:47.009Z</id>
+    <id>urn:2026-08-14T20:22:04.366Z</id>
     <title>web3::cave</title>
-    <updated>2026-08-14T19:41:47.009Z</updated>
+    <updated>2026-08-14T20:22:04.366Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[China's Z.AI Ships GLM-5.3, Calling It the Top Open-Weight Coding Model]]></title>
+        <id>https://decrypt.co/?p=375684</id>
+        <link href="https://decrypt.co/375684/china-z-ai-glm-5-3-top-open-weight-coding-model"/>
+        <updated>2026-08-14T20:01:13.000Z</updated>
+        <summary type="html"><![CDATA[The Chinese lab says the release beats comparably sized open models on code benchmarks. The blog's own numbers show it trails the closed frontier and at least one open rival.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SharpLink Will Stake $200M of Ethereum Through Lido's wstETH]]></title>
         <id>https://decrypt.co/?p=375672</id>
@@ -353,16 +363,6 @@
         <summary type="html"><![CDATA[The flaws could let someone in a meeting take control of another participant’s device without the victim clicking anything.]]></summary>
         <author>
             <name>Jason Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fidelity Files to Let Its Ethereum ETF Stake and Pay Investors]]></title>
-        <id>https://decrypt.co/?p=375457</id>
-        <link href="https://decrypt.co/375457/fidelity-files-ethereum-etf-stake-pay-investors"/>
-        <updated>2026-08-12T17:13:43.000Z</updated>
-        <summary type="html"><![CDATA[The Boston asset manager's FETH would stake up to 100% of its ETH and distribute the rewards to holders as quarterly cash, pending SEC approval.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
         </author>
     </entry>
 </feed>
