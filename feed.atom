@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-14T17:44:00.794Z</id>
+    <id>urn:2026-08-14T18:41:12.383Z</id>
     <title>web3::cave</title>
-    <updated>2026-08-14T17:44:00.794Z</updated>
+    <updated>2026-08-14T18:41:12.383Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[OpenAI Staff Blame Rush to Ship for Rogue Agent Hack]]></title>
+        <id>https://decrypt.co/?p=375670</id>
+        <link href="https://decrypt.co/375670/openai-staff-blame-rush-ship-rogue-agent-hack"/>
+        <updated>2026-08-14T18:31:03.000Z</updated>
+        <summary type="html"><![CDATA[Current and former OpenAI employees reportedly say pressure to release new AI products made it harder to prioritize safety.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coldcard Bitcoin Thefts Slow, But Losses Could Top $150 Million: Galaxy]]></title>
+        <id>https://decrypt.co/?p=375656</id>
+        <link href="https://decrypt.co/375656/coldcard-bitcoin-thefts-slow-losses-top-150-million"/>
+        <updated>2026-08-14T17:46:06.000Z</updated>
+        <summary type="html"><![CDATA[Galaxy Research says the lull likely means vulnerable holders migrated, or were already emptied.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Israel’s Largest Bank Will Give Bitcoin Trading Another Try]]></title>
         <id>https://decrypt.co/?p=375665</id>
@@ -353,26 +373,6 @@
         <summary type="html"><![CDATA[A fixed-rate crypto-backed loan lets you borrow against BTC, ETH, or SOL while keeping your coins. Here's how they work.]]></summary>
         <author>
             <name>Sam Mei</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Bitcoin Barely Moved Even as US Inflation Cools to 3.4%]]></title>
-        <id>https://decrypt.co/?p=375411</id>
-        <link href="https://decrypt.co/375411/why-bitcoin-barely-moved-us-cpi-inflation-cools"/>
-        <updated>2026-08-12T15:07:56.000Z</updated>
-        <summary type="html"><![CDATA[The tamest U.S. inflation print in months left crypto markets flat, with Bitcoin shrugging off the data hit. Here's why.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Routing Bug Took Solana 86% of the Way to Losing Finality]]></title>
-        <id>https://decrypt.co/?p=375404</id>
-        <link href="https://decrypt.co/375404/a-routing-bug-took-solana-86-of-the-way-to-losing-finality"/>
-        <updated>2026-08-12T14:13:07.000Z</updated>
-        <summary type="html"><![CDATA[A malformed default route at a single hosting provider took almost 29% of staked SOL offline, against a 33% threshold.]]></summary>
-        <author>
-            <name>Decrypt Agent</name>
         </author>
     </entry>
 </feed>
