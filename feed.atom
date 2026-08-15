@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-15T16:13:27.053Z</id>
+    <id>urn:2026-08-15T17:12:36.577Z</id>
     <title>web3::cave</title>
-    <updated>2026-08-15T16:13:27.053Z</updated>
+    <updated>2026-08-15T17:12:36.577Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Apple Turns to Alibaba to Help Build AI Model for China]]></title>
+        <id>https://decrypt.co/?p=375724</id>
+        <link href="https://decrypt.co/375724/apple-alibaba-build-ai-model-china"/>
+        <updated>2026-08-15T17:01:03.000Z</updated>
+        <summary type="html"><![CDATA[Apple is pairing its in-house model with Alibaba’s Qwen as it prepares to bring Apple Intelligence to Chinese iPhones.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Meta Patents Cameras That Recognize Faces and Log Your Actions]]></title>
         <id>https://decrypt.co/?p=375698</id>
@@ -341,16 +351,6 @@
         <link href="https://decrypt.co/375501/inner-thoughts-every-major-ai-model-exposed-exploit"/>
         <updated>2026-08-12T20:31:04.000Z</updated>
         <summary type="html"><![CDATA[Researchers found every major AI provider encrypts reasoning tokens with a single global key—and exploited it to decode 315,320 hidden thinking blocks from public logs, recovering passwords and live API keys along the way.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[China’s DeepSeek Upgrades V4 Pro: Claude Fable Is Only 5% Better at 4,500% the Price]]></title>
-        <id>https://decrypt.co/?p=375507</id>
-        <link href="https://decrypt.co/375507/china-deepseek-upgrades-v4-pro-claude-fable"/>
-        <updated>2026-08-12T20:01:05.000Z</updated>
-        <summary type="html"><![CDATA[The April preview got benchmarked to death and landed 18 points behind Anthropic’s flagship. DeepSeek’s own numbers for the finished model tell a very different story.]]></summary>
         <author>
             <name>Jose Antonio Lanz</name>
         </author>
