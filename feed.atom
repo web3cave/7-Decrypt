@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-16T11:11:51.370Z</id>
+    <id>urn:2026-08-16T12:20:12.640Z</id>
     <title>web3::cave</title>
-    <updated>2026-08-16T11:11:51.370Z</updated>
+    <updated>2026-08-16T12:20:12.640Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -341,16 +341,6 @@
         <link href="https://decrypt.co/375479/ai-generated-pattern-hides-you-surveillance-cameras-flock"/>
         <updated>2026-08-12T21:31:15.000Z</updated>
         <summary type="html"><![CDATA[A Kansas City security researcher ran 31 million tests to teach a model how to paint camouflage for the algorithm age.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['Inner Thoughts' of Every Major AI Model Exposed in Massive Exploit]]></title>
-        <id>https://decrypt.co/?p=375501</id>
-        <link href="https://decrypt.co/375501/inner-thoughts-every-major-ai-model-exposed-exploit"/>
-        <updated>2026-08-12T20:31:04.000Z</updated>
-        <summary type="html"><![CDATA[Researchers found every major AI provider encrypts reasoning tokens with a single global key—and exploited it to decode 315,320 hidden thinking blocks from public logs, recovering passwords and live API keys along the way.]]></summary>
         <author>
             <name>Jose Antonio Lanz</name>
         </author>
