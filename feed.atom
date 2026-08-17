@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-17T19:20:49.732Z</id>
+    <id>urn:2026-08-17T20:15:44.272Z</id>
     <title>web3::cave</title>
-    <updated>2026-08-17T19:20:49.732Z</updated>
+    <updated>2026-08-17T20:15:44.272Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[OpenAI’s Answer to Rogue Agents and Hacks Is More AI, Not Less]]></title>
+        <id>https://decrypt.co/?p=375816</id>
+        <link href="https://decrypt.co/375816/openai-answer-rogue-agents-hacks-more-ai"/>
+        <updated>2026-08-17T19:59:18.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI President Greg Brockman's new essay cites his company's own hack of Hugging Face to push urgent AI-powered defense.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[XRP Price Holds to Near Two-Year Streak, But Charts Flash a Warning Sign]]></title>
         <id>https://decrypt.co/?p=375794</id>
@@ -333,16 +343,6 @@
         <summary type="html"><![CDATA[6th Man Ventures co-founder Mike Dudas says Solana’s infrastructure could carry crypto’s next wave.]]></summary>
         <author>
             <name>Jason Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthropic Is Quietly Watermarking Every Claude AI Output. Builders Are Already Trying to Break It]]></title>
-        <id>https://decrypt.co/?p=375594</id>
-        <link href="https://decrypt.co/375594/anthropic-quietly-watermarking-ai-claude-output-builders-break"/>
-        <updated>2026-08-13T20:30:24.000Z</updated>
-        <summary type="html"><![CDATA[Anthropic is weaving an invisible, machine-readable watermark into every word its newest Claude models write—and it hasn't said how.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
         </author>
     </entry>
 </feed>
