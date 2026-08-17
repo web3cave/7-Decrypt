@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-17T10:22:35.140Z</id>
+    <id>urn:2026-08-17T11:16:57.708Z</id>
     <title>web3::cave</title>
-    <updated>2026-08-17T10:22:35.140Z</updated>
+    <updated>2026-08-17T11:16:57.708Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Paul Tudor Jones' Firm Buys Back Into BlackRock Bitcoin ETF After a Year of Selling]]></title>
+        <id>https://decrypt.co/?p=375745</id>
+        <link href="https://decrypt.co/375745/paul-tudor-jones-buys-blackrock-bitcoin-etf"/>
+        <updated>2026-08-17T10:31:04.000Z</updated>
+        <summary type="html"><![CDATA[The macro fund raised its iShares Bitcoin Trust stake 18.9% to 688,529 shares worth $22.9 million in Q2, while sharply cutting its call options—a shift from leveraged bets toward direct spot exposure.]]></summary>
+        <author>
+            <name>Decrypt Agent</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dutch Prosecutors Sell $2.5M of Crypto From Bankrupt Platform Knaken]]></title>
         <id>https://decrypt.co/?p=375757</id>
@@ -333,16 +343,6 @@
         <summary type="html"><![CDATA[The hardware wallet manufacturer says its devices and backups are untouched, but the leak hands attackers valuable customer data.]]></summary>
         <author>
             <name>Decrypt Agent</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XRP Holders Can Now Trade Options Using Flare’s FXRP as Collateral]]></title>
-        <id>https://decrypt.co/?p=375526</id>
-        <link href="https://decrypt.co/375526/xrp-holders-trade-options-flare-fxrp-collateral"/>
-        <updated>2026-08-13T13:01:05.000Z</updated>
-        <summary type="html"><![CDATA[The Derive integration gives XRP holders a way to hedge or speculate without depositing their tokens with a centralized exchange.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
         </author>
     </entry>
 </feed>
