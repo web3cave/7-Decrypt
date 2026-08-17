@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-17T16:16:59.990Z</id>
+    <id>urn:2026-08-17T17:18:32.417Z</id>
     <title>web3::cave</title>
-    <updated>2026-08-17T16:16:59.990Z</updated>
+    <updated>2026-08-17T17:18:32.417Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Wall Street Pushback Halts SEC's Crypto Fundraising Framework, Sources Say]]></title>
+        <id>https://decrypt.co/?p=375779</id>
+        <link href="https://decrypt.co/375779/wall-street-pushback-halts-sec-crypto-fundraising-framework"/>
+        <updated>2026-08-17T16:27:26.000Z</updated>
+        <summary type="html"><![CDATA[The securities regulator cited an "unforeseen scheduling issue," but sources point to a legal threat from Wall Street trade group SIFMA and an administration waiting to see whether the Clarity Act passes in September.]]></summary>
+        <author>
+            <name>EleanorTerrett</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What Stripe's $7 Billion OpenRouter Deal Actually Means for AI]]></title>
         <id>https://decrypt.co/?p=375769</id>
@@ -333,16 +343,6 @@
         <summary type="html"><![CDATA[President Donald Trump signed a memorandum Tuesday that lets vetted U.S. companies carry out offensive cyber operations against foreign criminal networks. Here's what the program actually authorizes.]]></summary>
         <author>
             <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Group Warns Fed Could Use Banking Access to Squeeze Digital Asset Firms]]></title>
-        <id>https://decrypt.co/?p=375567</id>
-        <link href="https://decrypt.co/375567/crypto-group-fed-banking-access-squeeze-firms"/>
-        <updated>2026-08-13T17:47:12.000Z</updated>
-        <summary type="html"><![CDATA[The Blockchain Association is urging the Supreme Court to take up Custodia’s case, saying that broad Fed power over “master accounts” could be used to push crypto firms out of the banking system.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
         </author>
     </entry>
 </feed>
