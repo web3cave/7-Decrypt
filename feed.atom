@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-18T15:21:41.466Z</id>
+    <id>urn:2026-08-18T16:20:05.264Z</id>
     <title>web3::cave</title>
-    <updated>2026-08-18T15:21:41.466Z</updated>
+    <updated>2026-08-18T16:20:05.264Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Citi to Launch Bitcoin Custody as Wall Street Pushes Deeper Into Crypto]]></title>
+        <id>https://decrypt.co/?p=375880</id>
+        <link href="https://decrypt.co/375880/citi-bitcoin-custody-wall-street-crypto"/>
+        <updated>2026-08-18T15:56:05.000Z</updated>
+        <summary type="html"><![CDATA[The banking giant plans to let institutional clients hold Bitcoin and traditional assets through the same custody framework.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Japan's Metaplanet Plants Its Flag in the US With $132M Bitcoin Treasury Deal]]></title>
         <id>https://decrypt.co/?p=375878</id>
@@ -323,16 +333,6 @@
         <summary type="html"><![CDATA[Current and former OpenAI employees reportedly say pressure to release new AI products made it harder to prioritize safety.]]></summary>
         <author>
             <name>Jason Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coldcard Bitcoin Thefts Slow, But Losses Could Top $150 Million: Galaxy]]></title>
-        <id>https://decrypt.co/?p=375656</id>
-        <link href="https://decrypt.co/375656/coldcard-bitcoin-thefts-slow-losses-top-150-million"/>
-        <updated>2026-08-14T17:46:06.000Z</updated>
-        <summary type="html"><![CDATA[Galaxy Research says the lull likely means vulnerable holders migrated, or were already emptied.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
         </author>
     </entry>
 </feed>
