@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-18T19:20:44.828Z</id>
+    <id>urn:2026-08-18T20:13:02.880Z</id>
     <title>web3::cave</title>
-    <updated>2026-08-18T19:20:44.828Z</updated>
+    <updated>2026-08-18T20:13:02.880Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[SEC Proposes Crypto Fundraising Exemptions in Abrupt About-Face]]></title>
+        <id>https://decrypt.co/?p=375902</id>
+        <link href="https://decrypt.co/375902/sec-regulation-crypto-fundraising-exemptions"/>
+        <updated>2026-08-18T20:00:25.000Z</updated>
+        <summary type="html"><![CDATA[The proposed rules would let crypto projects raise capital through token sales without full securities registration and create a path for tokens to separate from investment contracts.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Markets Confident OpenAI Releases Its Next AI Model in Weeks]]></title>
         <id>https://decrypt.co/?p=375892</id>
@@ -333,16 +343,6 @@
         <summary type="html"><![CDATA[The proposed World Liberty Trust Company would take over issuance of the USD1 stablecoin from BitGo.]]></summary>
         <author>
             <name>Decrypt Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[France Tax Data Leak Could Fuel Scams, Attacks Targeting Bitcoin Holders]]></title>
-        <id>https://decrypt.co/?p=375715</id>
-        <link href="https://decrypt.co/375715/france-tax-data-leak-wrench-attacks-bitcoin"/>
-        <updated>2026-08-14T21:03:35.000Z</updated>
-        <summary type="html"><![CDATA[A hacker is reportedly selling personal and financial records tied to more than 678,000 taxpayers and businesses in France.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
         </author>
     </entry>
 </feed>
