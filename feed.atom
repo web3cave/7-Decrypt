@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-18T18:23:28.119Z</id>
+    <id>urn:2026-08-18T19:20:44.828Z</id>
     <title>web3::cave</title>
-    <updated>2026-08-18T18:23:28.119Z</updated>
+    <updated>2026-08-18T19:20:44.828Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Markets Confident OpenAI Releases Its Next AI Model in Weeks]]></title>
+        <id>https://decrypt.co/?p=375892</id>
+        <link href="https://decrypt.co/375892/openai-next-ai-model-gpt6-astra-prediction"/>
+        <updated>2026-08-18T19:15:26.000Z</updated>
+        <summary type="html"><![CDATA[Traders are betting OpenAI's next frontier model lands within weeks—even after the company pumped the brakes.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trump Family Crypto Firm Tied to Chinese AI Models US Government Called a Security Risk]]></title>
+        <id>https://decrypt.co/?p=375887</id>
+        <link href="https://decrypt.co/375887/trump-crypto-firm-chinese-ai-government-called-security-risk"/>
+        <updated>2026-08-18T18:36:04.000Z</updated>
+        <summary type="html"><![CDATA[WorldClaw accepts World Liberty’s USD1 stablecoin while offering AI models from Chinese companies facing U.S. national security restrictions.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoin Wallet Maker BitBox Says AI Found Severe Flaws in Firmware]]></title>
         <id>https://decrypt.co/?p=375886</id>
@@ -323,16 +343,6 @@
         <summary type="html"><![CDATA[A hacker is reportedly selling personal and financial records tied to more than 678,000 taxpayers and businesses in France.]]></summary>
         <author>
             <name>Jason Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[China's Z.AI Ships GLM-5.3, Calling It the Top Open-Weight Coding Model]]></title>
-        <id>https://decrypt.co/?p=375684</id>
-        <link href="https://decrypt.co/375684/china-z-ai-glm-5-3-top-open-weight-coding-model"/>
-        <updated>2026-08-14T20:01:13.000Z</updated>
-        <summary type="html"><![CDATA[The Chinese lab says the release beats comparably sized open models on code benchmarks. The blog's own numbers show it trails the closed frontier and at least one open rival.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
         </author>
     </entry>
 </feed>
