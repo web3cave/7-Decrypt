@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-18T22:12:45.053Z</id>
+    <id>urn:2026-08-18T23:13:10.688Z</id>
     <title>web3::cave</title>
-    <updated>2026-08-18T22:12:45.053Z</updated>
+    <updated>2026-08-18T23:13:10.688Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Pennsylvania Cracks Down on AI Data Centers as Backlash Grows]]></title>
+        <id>https://decrypt.co/?p=375923</id>
+        <link href="https://decrypt.co/375923/pennsylvania-ai-data-centers-backlash"/>
+        <updated>2026-08-18T22:56:04.000Z</updated>
+        <summary type="html"><![CDATA[Gov. Josh Shapiro ordered new restrictions on large data centers aimed at shielding residents from higher electricity costs and giving communities more control over proposed projects.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mozilla Tests an AI 'Smart Window' in Firefox—But Only If You Opt In]]></title>
+        <id>https://decrypt.co/?p=375903</id>
+        <link href="https://decrypt.co/375903/mozilla-ai-smart-firefox-opt-in"/>
+        <updated>2026-08-18T22:31:04.000Z</updated>
+        <summary type="html"><![CDATA[The optional window puts an assistant of your choice next to your tabs, with a switch to disable it.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rare Books Traced to Amazon AI Training Facility to Be Scanned and Destroyed]]></title>
         <id>https://decrypt.co/?p=375912</id>
@@ -333,26 +353,6 @@
         <summary type="html"><![CDATA[A California bill is awaiting an Assembly vote to "place guardrails" around AI chatbots and prevent them from acting as therapists.]]></summary>
         <author>
             <name>Jason Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple Turns to Alibaba to Help Build AI Model for China]]></title>
-        <id>https://decrypt.co/?p=375724</id>
-        <link href="https://decrypt.co/375724/apple-alibaba-build-ai-model-china"/>
-        <updated>2026-08-15T17:01:03.000Z</updated>
-        <summary type="html"><![CDATA[Apple is pairing its in-house model with Alibaba’s Qwen as it prepares to bring Apple Intelligence to Chinese iPhones.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta Patents Cameras That Recognize Faces and Log Your Actions]]></title>
-        <id>https://decrypt.co/?p=375698</id>
-        <link href="https://decrypt.co/375698/meta-patents-cameras-recognize-faces-log-actions"/>
-        <updated>2026-08-15T15:01:05.000Z</updated>
-        <summary type="html"><![CDATA[The filing would turn raw footage into labeled clips of who did what, without anyone opting in.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
         </author>
     </entry>
 </feed>
