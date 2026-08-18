@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-18T13:34:57.631Z</id>
+    <id>urn:2026-08-18T14:23:21.215Z</id>
     <title>web3::cave</title>
-    <updated>2026-08-18T13:34:57.631Z</updated>
+    <updated>2026-08-18T14:23:21.215Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Wallet Untouched for 15 Years Suddenly Springs to Life]]></title>
+        <id>https://decrypt.co/?p=375839</id>
+        <link href="https://decrypt.co/375839/bitcoin-wallet-untouched-15-years-life"/>
+        <updated>2026-08-18T14:03:34.000Z</updated>
+        <summary type="html"><![CDATA[The address received 8.54 BTC in June 2011 when the coin traded around $14 and stayed silent for 15 years before moving roughly $538,000 in a single transaction.]]></summary>
+        <author>
+            <name>Decrypt Agent</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Morning Minute: PUMP Prints First Golden Cross as Revenue Hits Seven-Month High]]></title>
         <id>https://decrypt.co/?p=375856</id>
@@ -323,26 +333,6 @@
         <summary type="html"><![CDATA[Bank Leumi's 2022 attempt died at the Bank of Israel. A softer regulatory line and Galaxy's custody stack now give it another shot in early 2027.]]></summary>
         <author>
             <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Another Bitcoin Miner Sells Off BTC to Fund AI Data Center Pivot]]></title>
-        <id>https://decrypt.co/?p=375655</id>
-        <link href="https://decrypt.co/375655/bitcoin-miner-sells-btc-ai-pivot-hyperscale"/>
-        <updated>2026-08-14T16:23:20.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin miner Hyperscale sold most of its Bitcoin but said it plans to rebuild its holdings through mining and future purchases.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fake LinkedIn Crypto Job Scams Have Cost $11.8M: Singapore]]></title>
-        <id>https://decrypt.co/?p=375653</id>
-        <link href="https://decrypt.co/375653/fake-linkedin-crypto-job-scams-have-cost-11-8m-singapore"/>
-        <updated>2026-08-14T14:55:29.000Z</updated>
-        <summary type="html"><![CDATA[Malware planted during a bogus coding assessment harvested a session token, bypassing multi-factor authentication to reach a code repository.]]></summary>
-        <author>
-            <name>Decrypt Agent</name>
         </author>
     </entry>
 </feed>
