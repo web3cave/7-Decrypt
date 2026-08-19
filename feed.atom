@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-19T09:23:41.948Z</id>
+    <id>urn:2026-08-19T10:19:11.854Z</id>
     <title>web3::cave</title>
-    <updated>2026-08-19T09:23:41.948Z</updated>
+    <updated>2026-08-19T10:19:11.854Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Winklevoss-Backed Cypherpunk Launches 'World's Largest' Zcash Mining Fleet]]></title>
+        <id>https://decrypt.co/?p=375926</id>
+        <link href="https://decrypt.co/375926/winklevoss-cypherpunk-zcash-mining-fleet"/>
+        <updated>2026-08-19T09:31:03.000Z</updated>
+        <summary type="html"><![CDATA[The Nasdaq-listed privacy firm launched Cypherpunk Mining through a $33.33 million equity deal with Winklevoss Capital, adding roughly 18% of the Zcash network's hashrate to accelerate its treasury ambitions.]]></summary>
+        <author>
+            <name>Decrypt Staff</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pennsylvania Cracks Down on AI Data Centers as Backlash Grows]]></title>
         <id>https://decrypt.co/?p=375923</id>
@@ -343,16 +353,6 @@
         <summary type="html"><![CDATA[Three weeks after a Flash release that couldn't produce a working file, Google's budget tier zero-shots a playable game. It still can't reason, and a free 27B model still writes better.]]></summary>
         <author>
             <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[People Are Turning to AI for Mental Health, California Wants It Banned]]></title>
-        <id>https://decrypt.co/?p=375725</id>
-        <link href="https://decrypt.co/375725/california-bill-ban-ai-chatbots-therapy-mental-health"/>
-        <updated>2026-08-16T14:01:03.000Z</updated>
-        <summary type="html"><![CDATA[A California bill is awaiting an Assembly vote to "place guardrails" around AI chatbots and prevent them from acting as therapists.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
         </author>
     </entry>
 </feed>
