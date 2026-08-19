@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-19T18:20:16.982Z</id>
+    <id>urn:2026-08-19T19:17:57.810Z</id>
     <title>web3::cave</title>
-    <updated>2026-08-19T18:20:16.982Z</updated>
+    <updated>2026-08-19T19:17:57.810Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Kalshi Pushes Beyond Prediction Markets With Copper Perpetual Futures]]></title>
+        <id>https://decrypt.co/?p=375987</id>
+        <link href="https://decrypt.co/375987/kalshi-copper-perpetual-futures"/>
+        <updated>2026-08-19T19:16:04.000Z</updated>
+        <summary type="html"><![CDATA[The prediction market operator is seeking CFTC approval for a copper perpetual as it moves further into traditional derivatives markets.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Six-Bug Exploit Halts Maya Protocol After $1.4 Million in Bitcoin Stolen]]></title>
+        <id>https://decrypt.co/?p=375976</id>
+        <link href="https://decrypt.co/375976/maya-protocol-halts-network-bitcoin-exploit"/>
+        <updated>2026-08-19T18:20:35.000Z</updated>
+        <summary type="html"><![CDATA[The cross-chain protocol said an attacker exploited six software flaws to drain Bitcoin and other assets, sending its CACAO token plunging.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Moderna Stock Doubles on Cancer Breakthrough: Here’s What It Means]]></title>
         <id>https://decrypt.co/?p=375968</id>
@@ -333,26 +353,6 @@
         <summary type="html"><![CDATA[Stripe just bought the layer that decides which AI model answers your prompt—and it was already collecting the money for it.]]></summary>
         <author>
             <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tom Lee’s Bitmine Buys Another $19 Million in Ethereum as Stash Nears 5% of Total Supply]]></title>
-        <id>https://decrypt.co/?p=375768</id>
-        <link href="https://decrypt.co/375768/tom-lee-bitcoin-buys-19-million-ethereum"/>
-        <updated>2026-08-17T15:47:59.000Z</updated>
-        <summary type="html"><![CDATA[The firm says it's 96% of the way to owning 5% of Ethereum's total supply, according to Chairman Tom Lee.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hackers Are Abusing a macOS Screen Sharing Flaw to Secretly Mine Monero]]></title>
-        <id>https://decrypt.co/?p=375749</id>
-        <link href="https://decrypt.co/375749/hackers-macos-screen-sharing-secretly-mine-monero"/>
-        <updated>2026-08-17T13:31:04.000Z</updated>
-        <summary type="html"><![CDATA[The Dutch cyber agency says attackers exploited an authentication flaw in macOS Screen Sharing to gain root access and plant Monero miners, with public proof-of-concept code now circulating.]]></summary>
-        <author>
-            <name>Decrypt Staff</name>
         </author>
     </entry>
 </feed>
