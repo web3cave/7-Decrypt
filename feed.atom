@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-19T11:16:27.053Z</id>
+    <id>urn:2026-08-19T12:26:25.780Z</id>
     <title>web3::cave</title>
-    <updated>2026-08-19T11:16:27.053Z</updated>
+    <updated>2026-08-19T12:26:25.780Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Alleged $165M Crypto Ponzi Mastermind Deported From Fiji to US]]></title>
+        <id>https://decrypt.co/?p=375933</id>
+        <link href="https://decrypt.co/375933/crypto-ponzi-mastermind-deported-fiji-us"/>
+        <updated>2026-08-19T11:31:04.000Z</updated>
+        <summary type="html"><![CDATA[Edward Zimbardi allegedly lured thousands of investors into "The Crypto Program" with promises of 25% monthly returns before fleeing to Fiji.]]></summary>
+        <author>
+            <name>Decrypt Agent</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Winklevoss-Backed Cypherpunk Launches 'World's Largest' Zcash Mining Fleet]]></title>
         <id>https://decrypt.co/?p=375926</id>
@@ -343,16 +353,6 @@
         <summary type="html"><![CDATA[A flaw in an order-tracking plug-in of bitcoin wallet provider SafePal exposed names, addresses and phone numbers of nearly 40,000 customers.]]></summary>
         <author>
             <name>Decrypt Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gemini 3.7 Flash Review: Google's Cheap Model Isn’t Dumb Anymore]]></title>
-        <id>https://decrypt.co/?p=375730</id>
-        <link href="https://decrypt.co/375730/gemini-3-7-flash-review-google-cheap-model"/>
-        <updated>2026-08-16T16:00:05.000Z</updated>
-        <summary type="html"><![CDATA[Three weeks after a Flash release that couldn't produce a working file, Google's budget tier zero-shots a playable game. It still can't reason, and a free 27B model still writes better.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
         </author>
     </entry>
 </feed>
