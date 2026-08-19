@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-19T12:26:25.780Z</id>
+    <id>urn:2026-08-19T13:36:36.246Z</id>
     <title>web3::cave</title>
-    <updated>2026-08-19T12:26:25.780Z</updated>
+    <updated>2026-08-19T13:36:36.246Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Chinese InsurTech Firm Zhibao Adds 2,380 Bitcoin in $154.7M Treasury Pivot]]></title>
+        <id>https://decrypt.co/?p=375935</id>
+        <link href="https://decrypt.co/375935/china-zhibao-bitcoin-treasury-pivot"/>
+        <updated>2026-08-19T13:31:04.000Z</updated>
+        <summary type="html"><![CDATA[The Shanghai-based InsurTech firm closed a $154.7 million private placement funded entirely in crypto, with investors contributing Bitcoin directly rather than cash.]]></summary>
+        <author>
+            <name>Decrypt Staff</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Alleged $165M Crypto Ponzi Mastermind Deported From Fiji to US]]></title>
         <id>https://decrypt.co/?p=375933</id>
@@ -343,16 +353,6 @@
         <summary type="html"><![CDATA[The trustee says Knaken bought the coins in its own name, leaving customers with a euro claim against a company that has collapsed.]]></summary>
         <author>
             <name>Decrypt Agent</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SafePal Bitcoin Wallet Data Breach Stokes Fears of Physical Attacks]]></title>
-        <id>https://decrypt.co/?p=375743</id>
-        <link href="https://decrypt.co/375743/safepal-bitcoin-wallet-data-breach"/>
-        <updated>2026-08-17T09:31:04.000Z</updated>
-        <summary type="html"><![CDATA[A flaw in an order-tracking plug-in of bitcoin wallet provider SafePal exposed names, addresses and phone numbers of nearly 40,000 customers.]]></summary>
-        <author>
-            <name>Decrypt Staff</name>
         </author>
     </entry>
 </feed>
