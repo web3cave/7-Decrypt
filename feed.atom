@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-20T09:23:54.943Z</id>
+    <id>urn:2026-08-20T10:19:59.384Z</id>
     <title>web3::cave</title>
-    <updated>2026-08-20T09:23:54.943Z</updated>
+    <updated>2026-08-20T10:19:59.384Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Banking Regulator Races to Finalize GENIUS Act Stablecoin Rules]]></title>
+        <id>https://decrypt.co/?p=376048</id>
+        <link href="https://decrypt.co/376048/banking-regulator-occ-genius-act-stablecoin-rules-november"/>
+        <updated>2026-08-20T09:31:03.000Z</updated>
+        <summary type="html"><![CDATA[OCC Comptroller Jonathan Gould told the Wyoming Blockchain Symposium the agency is moving at a rapid pace to beat a January statutory deadline, after already missing an earlier July target.]]></summary>
+        <author>
+            <name>Decrypt Agent</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoin's Sharpest Rally in Five Months Flips Markets From Bearish to Coin Flip]]></title>
         <id>https://decrypt.co/?p=376030</id>
@@ -333,16 +343,6 @@
         <summary type="html"><![CDATA[Exchanges and other crypto platforms would face new restrictions on selling stablecoins to US customers beginning in 2027.]]></summary>
         <author>
             <name>Jason Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI’s Answer to Rogue Agents and Hacks Is More AI, Not Less]]></title>
-        <id>https://decrypt.co/?p=375816</id>
-        <link href="https://decrypt.co/375816/openai-answer-rogue-agents-hacks-more-ai"/>
-        <updated>2026-08-17T19:59:18.000Z</updated>
-        <summary type="html"><![CDATA[OpenAI President Greg Brockman's new essay cites his company's own hack of Hugging Face to push urgent AI-powered defense.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
         </author>
     </entry>
 </feed>
