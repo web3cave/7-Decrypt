@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-21T21:14:35.741Z</id>
+    <id>urn:2026-08-21T22:14:09.757Z</id>
     <title>web3::cave</title>
-    <updated>2026-08-21T21:14:35.741Z</updated>
+    <updated>2026-08-21T22:14:09.757Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Coldcard Adds New Security Measures After $130 Million Bitcoin Exploit]]></title>
+        <id>https://decrypt.co/?p=376270</id>
+        <link href="https://decrypt.co/376270/coldcard-new-security-after-bitcoin-exploit"/>
+        <updated>2026-08-21T21:31:05.000Z</updated>
+        <summary type="html"><![CDATA[Coinkite's latest firmware requires users to add their own randomness when generating wallet seeds and fixes additional security issues uncovered during a three-week review.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Wall Street and Washington Fuel Bitcoin Rally: Here's What's Going On]]></title>
         <id>https://decrypt.co/?p=376244</id>
@@ -353,16 +363,6 @@
         <summary type="html"><![CDATA[The Shanghai-based InsurTech firm closed a $154.7 million private placement funded entirely in crypto, with investors contributing Bitcoin directly rather than cash.]]></summary>
         <author>
             <name>Decrypt Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alleged $165M Crypto Ponzi Mastermind Deported From Fiji to US]]></title>
-        <id>https://decrypt.co/?p=375933</id>
-        <link href="https://decrypt.co/375933/crypto-ponzi-mastermind-deported-fiji-us"/>
-        <updated>2026-08-19T11:31:04.000Z</updated>
-        <summary type="html"><![CDATA[Edward Zimbardi allegedly lured thousands of investors into "The Crypto Program" with promises of 25% monthly returns before fleeing to Fiji.]]></summary>
-        <author>
-            <name>Decrypt Agent</name>
         </author>
     </entry>
 </feed>
