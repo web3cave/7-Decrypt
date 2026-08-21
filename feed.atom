@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-21T11:17:17.311Z</id>
+    <id>urn:2026-08-21T12:28:10.551Z</id>
     <title>web3::cave</title>
-    <updated>2026-08-21T11:17:17.311Z</updated>
+    <updated>2026-08-21T12:28:10.551Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Most Americans Say Trump's Crypto Profits Cross the Line: Poll]]></title>
+        <id>https://decrypt.co/?p=376167</id>
+        <link href="https://decrypt.co/376167/americans-say-trump-crypto-profits-cross-line"/>
+        <updated>2026-08-21T11:31:04.000Z</updated>
+        <summary type="html"><![CDATA[A Reuters/Ipsos survey found 63% of Americans view the Trump family's crypto profits as inappropriate, with even half of the president's fellow Republicans saying his business interests sway his decisions.]]></summary>
+        <author>
+            <name>Decrypt Staff</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Binance Opens the Door to AI Agents That Can Trade Crypto for You]]></title>
         <id>https://decrypt.co/?p=376161</id>
@@ -353,16 +363,6 @@
         <summary type="html"><![CDATA[WorldClaw accepts World Liberty’s USD1 stablecoin while offering AI models from Chinese companies facing U.S. national security restrictions.]]></summary>
         <author>
             <name>Jason Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Wallet Maker BitBox Says AI Found Severe Flaws in Firmware]]></title>
-        <id>https://decrypt.co/?p=375886</id>
-        <link href="https://decrypt.co/375886/bitcoin-wallet-bitbox-ai-severe-flaws-firmware"/>
-        <updated>2026-08-18T18:06:42.000Z</updated>
-        <summary type="html"><![CDATA[The Swiss hardware-wallet maker found two severe bugs with the help of frontier AI models, and warns that older firmware leaves you exposed.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
         </author>
     </entry>
 </feed>
