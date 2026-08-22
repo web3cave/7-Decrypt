@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-22T13:24:18.989Z</id>
+    <id>urn:2026-08-22T14:12:17.214Z</id>
     <title>web3::cave</title>
-    <updated>2026-08-22T13:24:18.989Z</updated>
+    <updated>2026-08-22T14:12:17.214Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[A Third of the Post-ChatGPT Web Is AI-Written, Pew Finds]]></title>
+        <id>https://decrypt.co/?p=376271</id>
+        <link href="https://decrypt.co/376271/chatgpt-web-ai-written-pew"/>
+        <updated>2026-08-22T13:31:03.000Z</updated>
+        <summary type="html"><![CDATA[Pew Research scanned nearly half a million webpages with an AI detector and found the fingerprints concentrated on .com domains—and multiplying fast.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Coldcard Adds New Security Measures After $130 Million Bitcoin Exploit]]></title>
         <id>https://decrypt.co/?p=376270</id>
@@ -353,16 +363,6 @@
         <summary type="html"><![CDATA[If the proposed rules are formalized, it could lead to an ICO boom in the U.S.]]></summary>
         <author>
             <name>Tyler Warner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chinese InsurTech Firm Zhibao Adds 2,380 Bitcoin in $154.7M Treasury Pivot]]></title>
-        <id>https://decrypt.co/?p=375935</id>
-        <link href="https://decrypt.co/375935/china-zhibao-bitcoin-treasury-pivot"/>
-        <updated>2026-08-19T13:31:04.000Z</updated>
-        <summary type="html"><![CDATA[The Shanghai-based InsurTech firm closed a $154.7 million private placement funded entirely in crypto, with investors contributing Bitcoin directly rather than cash.]]></summary>
-        <author>
-            <name>Decrypt Staff</name>
         </author>
     </entry>
 </feed>
