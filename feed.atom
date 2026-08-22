@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-22T15:11:52.765Z</id>
+    <id>urn:2026-08-22T16:12:44.011Z</id>
     <title>web3::cave</title>
-    <updated>2026-08-22T15:11:52.765Z</updated>
+    <updated>2026-08-22T16:12:44.011Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[AI Has Made Bitcoin Software a Target—This Group Is Fighting Back]]></title>
+        <id>https://decrypt.co/?p=376296</id>
+        <link href="https://decrypt.co/376296/bitcoin-target-ai-red-team-group-fighting-back"/>
+        <updated>2026-08-22T15:31:04.000Z</updated>
+        <summary type="html"><![CDATA[A group of 20-odd developers is scanning the Bitcoin ecosystem for AI-discoverable flaws, warning that cheap, powerful models have handed attackers unprecedented reach.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Third of the Post-ChatGPT Web Is AI-Written, Pew Finds]]></title>
         <id>https://decrypt.co/?p=376271</id>
@@ -353,16 +363,6 @@
         <summary type="html"><![CDATA[The Hyperliquid integration gives eligible Base App users access to more than 290 perpetual futures markets.]]></summary>
         <author>
             <name>Jason Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Minute: SEC Brings Clarity to Crypto]]></title>
-        <id>https://decrypt.co/?p=375949</id>
-        <link href="https://decrypt.co/375949/morning-minute-sec-clarity-crypto-token-fundraising"/>
-        <updated>2026-08-19T14:30:24.000Z</updated>
-        <summary type="html"><![CDATA[If the proposed rules are formalized, it could lead to an ICO boom in the U.S.]]></summary>
-        <author>
-            <name>Tyler Warner</name>
         </author>
     </entry>
 </feed>
