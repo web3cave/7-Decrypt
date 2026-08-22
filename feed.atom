@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-22T17:12:28.540Z</id>
+    <id>urn:2026-08-22T18:16:11.827Z</id>
     <title>web3::cave</title>
-    <updated>2026-08-22T17:12:28.540Z</updated>
+    <updated>2026-08-22T18:16:11.827Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Fixes 'Perfect 10' Exploit That Could Have Let Hackers Run Code Remotely]]></title>
+        <id>https://decrypt.co/?p=376287</id>
+        <link href="https://decrypt.co/376287/microsoft-perfect-10-exploit-hackers-run-code"/>
+        <updated>2026-08-22T17:31:03.000Z</updated>
+        <summary type="html"><![CDATA[The Entra ID flaw earned the highest possible severity score, but Microsoft says it patched the bug before publishing the CVE and found no evidence it was ever exploited.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI Has Made Bitcoin Software a Target—This Group Is Fighting Back]]></title>
         <id>https://decrypt.co/?p=376296</id>
@@ -353,16 +363,6 @@
         <summary type="html"><![CDATA[A White House sitdown with crypto's biggest names and softer Fed signals lit the fuse. But the charts show why the pain for bears might not be over yet.]]></summary>
         <author>
             <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase Adds 50x Crypto Perps to Base App Through Hyperliquid]]></title>
-        <id>https://decrypt.co/?p=375921</id>
-        <link href="https://decrypt.co/375921/coinbase-50x-crypto-perps-base-app-hyperliquid"/>
-        <updated>2026-08-19T16:00:06.000Z</updated>
-        <summary type="html"><![CDATA[The Hyperliquid integration gives eligible Base App users access to more than 290 perpetual futures markets.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
         </author>
     </entry>
 </feed>
