@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-24T19:21:39.293Z</id>
+    <id>urn:2026-08-24T20:19:15.273Z</id>
     <title>web3::cave</title>
-    <updated>2026-08-24T19:21:39.293Z</updated>
+    <updated>2026-08-24T20:19:15.273Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Why the Bitcoin Rally Looks Like a Vote Against the Dollar]]></title>
+        <id>https://decrypt.co/?p=376394</id>
+        <link href="https://decrypt.co/376394/bitcoins-price-rally-trade-against-dollar"/>
+        <updated>2026-08-24T20:16:03.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin and gold rose as the dollar weakened following expanded Treasury bond buybacks, reflecting concerns about U.S. fiscal policy, analysts say.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coinbase Brings Tokenized Stocks to Ethereum L2 Base]]></title>
+        <id>https://decrypt.co/?p=376393</id>
+        <link href="https://decrypt.co/376393/coinbase-tokenized-stocks-base-ethereum"/>
+        <updated>2026-08-24T19:43:43.000Z</updated>
+        <summary type="html"><![CDATA[The tokens represent shares held by regulated custodian Alpaca and can be traded or used in decentralized finance applications on Base.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hyperliquid Hits Record High as $1.2 Billion Token Unlock Looms]]></title>
         <id>https://decrypt.co/?p=376375</id>
@@ -353,16 +373,6 @@
         <summary type="html"><![CDATA[Scammers are impersonating crypto compliance services to trick users into approving transactions that could put their assets at risk.]]></summary>
         <author>
             <name>Jason Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flock's New AI Police Tool Can Track Drivers Without a Name or License Plate]]></title>
-        <id>https://decrypt.co/?p=375978</id>
-        <link href="https://decrypt.co/375978/flock-ai-police-tool-track-drivers"/>
-        <updated>2026-08-20T11:31:04.000Z</updated>
-        <summary type="html"><![CDATA[The underlying code for "OS Investigate" has 69 preloaded AI prompts that turn Flock cameras into a super-charged surveillance system that identifies people by how they move.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
         </author>
     </entry>
 </feed>
