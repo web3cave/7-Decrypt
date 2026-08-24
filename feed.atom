@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-24T20:19:15.273Z</id>
+    <id>urn:2026-08-24T21:19:50.953Z</id>
     <title>web3::cave</title>
-    <updated>2026-08-24T20:19:15.273Z</updated>
+    <updated>2026-08-24T21:19:50.953Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[AI Model Ox Alpha Is Free, Beats Claude Fable, and Nobody Knows Who Built It]]></title>
+        <id>https://decrypt.co/?p=376396</id>
+        <link href="https://decrypt.co/376396/mysterious-ai-model-ox-alpha"/>
+        <updated>2026-08-24T20:46:03.000Z</updated>
+        <summary type="html"><![CDATA[Ox Alpha is topping benchmark scores, reads a million tokens, takes video as input, and has developers guessing who's behind it.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why the Bitcoin Rally Looks Like a Vote Against the Dollar]]></title>
         <id>https://decrypt.co/?p=376394</id>
@@ -363,16 +373,6 @@
         <summary type="html"><![CDATA[At least, if Trump and the CFTC have their way. And the market really, really liked the news.]]></summary>
         <author>
             <name>Tyler Warner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fake Crypto AML Checkers Are Trying to Drain Users' Wallets]]></title>
-        <id>https://decrypt.co/?p=376029</id>
-        <link href="https://decrypt.co/376029/fake-crypto-aml-drain-users-wallets"/>
-        <updated>2026-08-20T13:31:05.000Z</updated>
-        <summary type="html"><![CDATA[Scammers are impersonating crypto compliance services to trick users into approving transactions that could put their assets at risk.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
         </author>
     </entry>
 </feed>
