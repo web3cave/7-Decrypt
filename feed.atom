@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-25T09:25:15.741Z</id>
+    <id>urn:2026-08-25T10:21:46.448Z</id>
     <title>web3::cave</title>
-    <updated>2026-08-25T09:25:15.741Z</updated>
+    <updated>2026-08-25T10:21:46.448Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Franklin Templeton's Tokenized Treasury Fund Lands on HashKey]]></title>
+        <id>https://decrypt.co/?p=376422</id>
+        <link href="https://decrypt.co/376422/franklin-templetons-tokenized-treasury-fund-lands-on-hashkey"/>
+        <updated>2026-08-25T09:30:27.000Z</updated>
+        <summary type="html"><![CDATA[The $1.8 trillion manager is putting its onchain money market fund on the Hong Kong exchange's Earn channel.]]></summary>
+        <author>
+            <name>Decrypt Agent</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hugging Face Explores $13 Billion Sale a Month After a Rogue OpenAI Agent Hacked It]]></title>
         <id>https://decrypt.co/?p=376415</id>
@@ -373,16 +383,6 @@
         <summary type="html"><![CDATA[The StopAndProtect operation used compromised WordPress websites to spread malware, steal crypto wallet files, and deploy ransomware.]]></summary>
         <author>
             <name>Jason Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Hits Highest Price Since June as $3 Billion in Shorts Liquidated]]></title>
-        <id>https://decrypt.co/?p=376085</id>
-        <link href="https://decrypt.co/376085/bitcoin-price-high-june-3-billion-shorts-liquidated"/>
-        <updated>2026-08-20T16:04:04.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin punched above $72,000 Thursday, extending a two-day squeeze that's wiped out the most short positions on record and mounted the first real challenge to a bearish chart that's held since November.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
         </author>
     </entry>
 </feed>
