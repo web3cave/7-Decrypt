@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-25T10:21:46.448Z</id>
+    <id>urn:2026-08-25T11:18:19.752Z</id>
     <title>web3::cave</title>
-    <updated>2026-08-25T10:21:46.448Z</updated>
+    <updated>2026-08-25T11:18:19.752Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Jury Convicts Las Vegas Man of $24M AI Crypto Mining Ponzi Scheme]]></title>
+        <id>https://decrypt.co/?p=376427</id>
+        <link href="https://decrypt.co/376427/jury-convicts-las-vegas-man-of-24m-ai-crypto-mining-ponzi-scheme"/>
+        <updated>2026-08-25T10:50:23.000Z</updated>
+        <summary type="html"><![CDATA[Brent Kovar told at least 400 investors a supercomputer was mining crypto for them, and that their money was insured by the FDIC.]]></summary>
+        <author>
+            <name>Decrypt Agent</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[US Can Now Sanction Anyone Operating in Iran's Crypto Sector]]></title>
+        <id>https://decrypt.co/?p=376424</id>
+        <link href="https://decrypt.co/376424/us-can-now-sanction-anyone-operating-in-irans-crypto-sector"/>
+        <updated>2026-08-25T10:21:41.000Z</updated>
+        <summary type="html"><![CDATA[Digital assets are among five sectors in a campaign Treasury called an “Economic D-Day,” alongside technology, gold, aviation and shipping.]]></summary>
+        <author>
+            <name>Decrypt Agent</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Franklin Templeton's Tokenized Treasury Fund Lands on HashKey]]></title>
         <id>https://decrypt.co/?p=376422</id>
@@ -363,26 +383,6 @@
         <summary type="html"><![CDATA[The token's steepest daily and weekly gains in months rode Bitcoin's record liquidation wave—though ETF flows and futures data hint the move is running on borrowed momentum.]]></summary>
         <author>
             <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Iranian Hackers Tied to $6 Million Bitcoin Extortion Charged in Massive Cyber Campaign]]></title>
-        <id>https://decrypt.co/?p=376117</id>
-        <link href="https://decrypt.co/376117/iranian-hackers-bitcoin-extortion-charged"/>
-        <updated>2026-08-20T17:12:43.000Z</updated>
-        <summary type="html"><![CDATA[Seventeen alleged members of Iran-based Mabna Institute were charged over hacks targeting hundreds of universities, companies, and government agencies.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nearly 2,000 Hacked WordPress Sites Turned Into Criminal Infrastructure]]></title>
-        <id>https://decrypt.co/?p=376109</id>
-        <link href="https://decrypt.co/376109/hacked-wordpress-sites-criminal-infrastructure"/>
-        <updated>2026-08-20T16:33:38.000Z</updated>
-        <summary type="html"><![CDATA[The StopAndProtect operation used compromised WordPress websites to spread malware, steal crypto wallet files, and deploy ransomware.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
         </author>
     </entry>
 </feed>
