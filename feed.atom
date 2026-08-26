@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-26T12:32:10.819Z</id>
+    <id>urn:2026-08-26T13:45:43.417Z</id>
     <title>web3::cave</title>
-    <updated>2026-08-26T12:32:10.819Z</updated>
+    <updated>2026-08-26T13:45:43.417Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Digital Euro Will Offer 'Maximum Level of Privacy,' ECB Board Member Says]]></title>
+        <id>https://decrypt.co/?p=376590</id>
+        <link href="https://decrypt.co/376590/digital-euro-will-offer-maximum-level-of-privacy-ecb-board-member-says"/>
+        <updated>2026-08-26T12:51:03.000Z</updated>
+        <summary type="html"><![CDATA[Piero Cipollone said the Eurosystem would not be able to link individuals to transactions, though the banks handling them still could.]]></summary>
+        <author>
+            <name>Decrypt Agent</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Revolut Launches Euro-Pegged EURR Stablecoin]]></title>
         <id>https://decrypt.co/?p=376575</id>
@@ -371,16 +381,6 @@
         <link href="https://decrypt.co/376287/microsoft-perfect-10-exploit-hackers-run-code"/>
         <updated>2026-08-22T17:31:03.000Z</updated>
         <summary type="html"><![CDATA[The Entra ID flaw earned the highest possible severity score, but Microsoft says it patched the bug before publishing the CVE and found no evidence it was ever exploited.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Has Made Bitcoin Software a Target—This Group Is Fighting Back]]></title>
-        <id>https://decrypt.co/?p=376296</id>
-        <link href="https://decrypt.co/376296/bitcoin-target-ai-red-team-group-fighting-back"/>
-        <updated>2026-08-22T15:31:04.000Z</updated>
-        <summary type="html"><![CDATA[A group of 20-odd developers is scanning the Bitcoin ecosystem for AI-discoverable flaws, warning that cheap, powerful models have handed attackers unprecedented reach.]]></summary>
         <author>
             <name>Jason Nelson</name>
         </author>
