@@ -1,10 +1,130 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-27T13:23:25.515Z</id>
+    <id>urn:2026-08-27T23:23:29.013Z</id>
     <title>web3::cave</title>
-    <updated>2026-08-27T13:23:25.515Z</updated>
+    <updated>2026-08-27T23:23:29.013Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Completes First Experimental Quantum-Safe Transaction, Starkware Says]]></title>
+        <id>https://decrypt.co/?p=376767</id>
+        <link href="https://decrypt.co/376767/bitcoin-quantum-safe-transaction-starkware"/>
+        <updated>2026-08-27T22:36:04.000Z</updated>
+        <summary type="html"><![CDATA[The transaction used Bitcoin’s existing rules to protect funds from a future quantum attack without requiring a network upgrade.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google’s Android 17 Turns On New Privacy Feature—But Your Browsing Isn’t Fully Hidden]]></title>
+        <id>https://decrypt.co/?p=376760</id>
+        <link href="https://decrypt.co/376760/google-android-17-privacy-encrypted-client-hello"/>
+        <updated>2026-08-27T22:06:05.000Z</updated>
+        <summary type="html"><![CDATA[Google's new privacy standard scrambles the one field of a web request that still travels in the clear: the name of the site being opened.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Privacy Wallet Sparrow Issues Update After AI Flags Fixes]]></title>
+        <id>https://decrypt.co/?p=376755</id>
+        <link href="https://decrypt.co/376755/bitcoin-sparrow-wallet-update-ai-fixes"/>
+        <updated>2026-08-27T21:36:05.000Z</updated>
+        <summary type="html"><![CDATA[Developer Craig Raw said an AI-assisted review produced most of the fixes in version 2.5.4, though none appeared likely to put users’ funds at risk.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Red Flag? OpenAI's Agentic ChatGPT Work Signs Into Your Accounts Without You]]></title>
+        <id>https://decrypt.co/?p=376757</id>
+        <link href="https://decrypt.co/376757/openai-agentic-chatgpt-work-signs-in-without-you"/>
+        <updated>2026-08-27T21:00:57.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI says the model never sees your password—but a signed-in session can persist across tasks, and you can step away while it works.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[$6.4 Billion in Bitcoin Options Expire Tomorrow—Here's What It Means]]></title>
+        <id>https://decrypt.co/?p=376752</id>
+        <link href="https://decrypt.co/376752/billion-bitcoin-options-expire-what-it-means"/>
+        <updated>2026-08-27T19:47:21.000Z</updated>
+        <summary type="html"><![CDATA[Deribit's Friday settlement covers nearly a fifth of the exchange's Bitcoin open interest, and max pain sits well below where BTC is trading right now.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[No, Ledger Wasn’t Hacked: Vulnerable Ethereum App Was Patched Before Exploit, Company Says]]></title>
+        <id>https://decrypt.co/?p=376750</id>
+        <link href="https://decrypt.co/376750/no-ledger-wasnt-hacked-ethereum-app-exploit"/>
+        <updated>2026-08-27T18:16:03.000Z</updated>
+        <summary type="html"><![CDATA[OneKey demonstrated how an outdated Ethereum app could sign a transaction different from the one shown on a Ledger device, but the wallet maker says the vulnerability had already been fixed.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Eyes Major Resistance as Jackson Hole Kicks Off With Unusual Fed Agenda]]></title>
+        <id>https://decrypt.co/?p=376737</id>
+        <link href="https://decrypt.co/376737/bitcoin-resistance-jackson-hole-fed-agenda"/>
+        <updated>2026-08-27T17:36:04.000Z</updated>
+        <summary type="html"><![CDATA[BTC is holding above $80,000 into a Fed symposium that, for the first time in 40 years, is built around crypto's own turf—payments and financial infrastructure.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Nvidia’s Acquisition of Hugging Face Would Reshape Open-Source AI]]></title>
+        <id>https://decrypt.co/?p=376725</id>
+        <link href="https://decrypt.co/376725/nvidia-acquisition-hugging-reshape-open-source-ai"/>
+        <updated>2026-08-27T17:09:32.000Z</updated>
+        <summary type="html"><![CDATA[The chipmaker's reported acquisition would concentrate the open-source AI pipeline inside one company, from silicon to distribution — with consequences for builders and users alike.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Could Overtake Gold in the Next Bull Run: Binance Founder CZ]]></title>
+        <id>https://decrypt.co/?p=376717</id>
+        <link href="https://decrypt.co/376717/bitcoin-could-overtake-gold-in-the-next-bull-run-binance-founder-cz"/>
+        <updated>2026-08-27T16:17:28.000Z</updated>
+        <summary type="html"><![CDATA[Gold is worth around ten times more than BTC, Changpeng Zhao said, noting that countries face a years-long process to "shift into Bitcoin."]]></summary>
+        <author>
+            <name>Decrypt Agent</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Finds Critical Flaw in Bitcoin Lightning, Devs Issue Emergency Warning]]></title>
+        <id>https://decrypt.co/?p=376714</id>
+        <link href="https://decrypt.co/376714/ai-critical-flaw-bitcoin-lightning-warning"/>
+        <updated>2026-08-27T15:45:28.000Z</updated>
+        <summary type="html"><![CDATA[The Lightning software project said it is preparing fixes after confirming that several AI-generated vulnerability reports were accurate.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solana Is Having Its Best Month Since 2024—With a Historic Governance Vote on Deck]]></title>
+        <id>https://decrypt.co/?p=376706</id>
+        <link href="https://decrypt.co/376706/solana-best-month-since-2024-historic-governance-vote"/>
+        <updated>2026-08-27T15:12:18.000Z</updated>
+        <summary type="html"><![CDATA[Solana is up more than 8% in 24 hours and 44% on the month. Coming changes to the network could add a supply squeeze to the mix.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flock CEO Asks Americans to 'Compromise' on Privacy as Camera Backlash Grows]]></title>
+        <id>https://decrypt.co/?p=376690</id>
+        <link href="https://decrypt.co/376690/flock-ceo-asks-americans-to-compromise-on-privacy-as-camera-backlash-grows"/>
+        <updated>2026-08-27T14:33:10.000Z</updated>
+        <summary type="html"><![CDATA[Garrett Langley says 99.9% of police are good actors, days after a report identified at least 69 officials accused of misusing plate readers.]]></summary>
+        <author>
+            <name>Decrypt Agent</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Morning Minute: Robinhood Chain Levels Up as Memes and RWAs Soar]]></title>
         <id>https://decrypt.co/?p=376689</id>
@@ -253,126 +373,6 @@
         <summary type="html"><![CDATA[A smaller, cheaper AI usually means a dumber one. A new technique flipped that—and your phone might be the winner.]]></summary>
         <author>
             <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Open Interest Collapses to 12%. Is the Short Squeeze Over?]]></title>
-        <id>https://decrypt.co/?p=376473</id>
-        <link href="https://decrypt.co/376473/bitcoin-open-interest-price-short-squeeze"/>
-        <updated>2026-08-25T20:16:04.000Z</updated>
-        <summary type="html"><![CDATA[Crypto-margined Bitcoin futures have collapsed from near-total dominance to about 12%. But leveraged traders are still placing big bets.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What's the Deal With Nancy Pelosi and the Bloom Energy Stock Surge?]]></title>
-        <id>https://decrypt.co/?p=376516</id>
-        <link href="https://decrypt.co/376516/nancy-pelosi-bloom-energy-stock-trade"/>
-        <updated>2026-08-25T19:46:03.000Z</updated>
-        <summary type="html"><![CDATA[Pelosi disclosed millions of dollars in Bloom Energy investments weeks after shares and options were purchased through her husband's accounts, including a purchase just before the company reported record earnings.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Market Flips From Fear to 'Extreme Greed' for First Time Since 2024]]></title>
-        <id>https://decrypt.co/?p=376503</id>
-        <link href="https://decrypt.co/376503/crypto-fear-greed-index-extreme-greed"/>
-        <updated>2026-08-25T19:11:04.000Z</updated>
-        <summary type="html"><![CDATA[The Crypto Fear and Greed Index was at 36, firmly in the fear zone, just a month ago.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mistral and HUMAIN Are Building 'Sovereign AI' in Saudi Arabia]]></title>
-        <id>https://decrypt.co/?p=376514</id>
-        <link href="https://decrypt.co/376514/mistral-humain-sovereign-ai-saudi-arabia"/>
-        <updated>2026-08-25T18:39:26.000Z</updated>
-        <summary type="html"><![CDATA[Mistral and HUMAIN announced plans to build sovereign AI infrastructure in Saudi Arabia and across the region—a tie-up valued in the hundreds of millions of euros that deepens Gulf money flowing into European AI.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gold Hits Three-Month High as Bitcoin Tests $80,000]]></title>
-        <id>https://decrypt.co/?p=376489</id>
-        <link href="https://decrypt.co/376489/gold-price-three-month-high-bitcoin"/>
-        <updated>2026-08-25T17:24:54.000Z</updated>
-        <summary type="html"><![CDATA[Gold extended its August rally as a weaker dollar and falling yields boosted demand, while Bitcoin briefly climbed above $80,000 for the first time since May.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Rally Is Outrunning the Rest of the Market: Here’s Why]]></title>
-        <id>https://decrypt.co/?p=376446</id>
-        <link href="https://decrypt.co/376446/bitcoins-price-rally-outrunning-market"/>
-        <updated>2026-08-25T16:45:59.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin gained roughly 24% this week while the broader crypto market grew by less, a mismatch that shows up clearly in Bitcoin's rising share of the total crypto market.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Group Warns Regulators Against Expanding Stablecoin KYC]]></title>
-        <id>https://decrypt.co/?p=376445</id>
-        <link href="https://decrypt.co/376445/crypto-group-regulators-stablecoin-identity-checks"/>
-        <updated>2026-08-25T16:28:59.000Z</updated>
-        <summary type="html"><![CDATA[The crypto trade group warned that forcing issuers to verify identities for peer-to-peer wallet transfers would “cripple the industry” as regulators implement the GENIUS Act.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Fund Founder Convicted of Fraud Over Fake Trading Bot]]></title>
-        <id>https://decrypt.co/?p=376441</id>
-        <link href="https://decrypt.co/376441/crypto-fund-founder-convicted-of-fraud-over-fake-trading-bot"/>
-        <updated>2026-08-25T14:56:10.000Z</updated>
-        <summary type="html"><![CDATA[Japheth Dillman told investors that Block Bits Capital's "Autotrader" software was finished and running, and took nearly $1 million.]]></summary>
-        <author>
-            <name>Decrypt Agent</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dozens of Fake Firefox Wallet Extensions Linked to Crypto-Stealing Malware]]></title>
-        <id>https://decrypt.co/?p=376432</id>
-        <link href="https://decrypt.co/376432/dozens-of-fake-firefox-wallet-extensions-linked-to-crypto-stealing-malware"/>
-        <updated>2026-08-25T14:10:05.000Z</updated>
-        <summary type="html"><![CDATA[Forty are confirmed malicious, impersonating OKX, Rabby and TronLink to harvest recovery phrases from anyone who types one in.]]></summary>
-        <author>
-            <name>Decrypt Agent</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Grayscale Launches Zcash ETF Following Critical Privacy Flaw That Rocked the Cryptocurrency]]></title>
-        <id>https://decrypt.co/?p=376420</id>
-        <link href="https://decrypt.co/376420/grayscale-launches-zcash-etf-following-critical-privacy-flaw-that-rocked-the-cryptocurrency"/>
-        <updated>2026-08-25T12:01:03.000Z</updated>
-        <summary type="html"><![CDATA[The fund gives brokerage investors exposure to ZEC as Grayscale bets on demand for crypto assets beyond Bitcoin and Ethereum.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Minute: Coinbase Puts Tokenized Stocks on Base]]></title>
-        <id>https://decrypt.co/?p=376429</id>
-        <link href="https://decrypt.co/376429/morning-minute-coinbase-puts-tokenized-stocks-on-base"/>
-        <updated>2026-08-25T11:58:22.000Z</updated>
-        <summary type="html"><![CDATA[These aren’t derivatives tracking stock prices; each token has a direct claim on a share including its rights.]]></summary>
-        <author>
-            <name>Tyler Warner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jury Convicts Las Vegas Man of $24M AI Crypto Mining Ponzi Scheme]]></title>
-        <id>https://decrypt.co/?p=376427</id>
-        <link href="https://decrypt.co/376427/jury-convicts-las-vegas-man-of-24m-ai-crypto-mining-ponzi-scheme"/>
-        <updated>2026-08-25T10:50:23.000Z</updated>
-        <summary type="html"><![CDATA[Brent Kovar told at least 400 investors a supercomputer was mining crypto for them, and that their money was insured by the FDIC.]]></summary>
-        <author>
-            <name>Decrypt Agent</name>
         </author>
     </entry>
 </feed>
