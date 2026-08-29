@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-29T09:41:59.909Z</id>
+    <id>urn:2026-08-29T14:49:47.377Z</id>
     <title>web3::cave</title>
-    <updated>2026-08-29T09:41:59.909Z</updated>
+    <updated>2026-08-29T14:49:47.377Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[BitGo Buys NYDIG's Institutional Trading Arm to Beef Up Derivatives and Financing]]></title>
+        <id>https://decrypt.co/?p=376864</id>
+        <link href="https://decrypt.co/376864/bitgo-buys-nydig-institutional-trading-arm"/>
+        <updated>2026-08-29T13:31:04.000Z</updated>
+        <summary type="html"><![CDATA[The roughly $42.5 million cash-and-stock deal adds derivatives, structured products and capital-markets capabilities, while letting NYDIG focus on its power and data-center business.]]></summary>
+        <author>
+            <name>Decrypt Staff</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoin Rally Stalls, But Long-Term Sentiment Remains Bullish]]></title>
         <id>https://decrypt.co/?p=376846</id>
@@ -363,16 +373,6 @@
         <summary type="html"><![CDATA[GalaxyOne clients can borrow cash against Bitcoin, Ethereum, and staked Solana at 8.99% APR without selling a coin.]]></summary>
         <author>
             <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[US Banks Join Forces to Build a Blockchain of Their Own]]></title>
-        <id>https://decrypt.co/?p=376644</id>
-        <link href="https://decrypt.co/376644/banks-build-blockchain-bankchain-alliance"/>
-        <updated>2026-08-26T19:21:25.000Z</updated>
-        <summary type="html"><![CDATA[The BankChain Alliance aims to give smaller financial institutions access to tokenized deposits and blockchain payments through a shared network targeted for 2027.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
         </author>
     </entry>
 </feed>
