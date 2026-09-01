@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-31T20:30:46.941Z</id>
+    <id>urn:2026-09-01T00:14:00.643Z</id>
     <title>web3::cave</title>
-    <updated>2026-08-31T20:30:46.941Z</updated>
+    <updated>2026-09-01T00:14:00.643Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[As Public Fury Mounts, Texas Pulls the Plug on Flock Surveillance Funding]]></title>
+        <id>https://decrypt.co/?p=376999</id>
+        <link href="https://decrypt.co/376999/texas-bans-flock-surveillance-funding"/>
+        <updated>2026-08-31T21:46:04.000Z</updated>
+        <summary type="html"><![CDATA[Gov. Greg Abbott ordered state agencies to stop paying for the AI-powered license-plate readers as privacy concerns and officer-misuse scandals mount across Texas.]]></summary>
+        <author>
+            <name>Guillermo Jimenez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Strive Adds $143 Million in Bitcoin as Treasury Firms Pile Back In]]></title>
+        <id>https://decrypt.co/?p=376992</id>
+        <link href="https://decrypt.co/376992/strive-adds-143-million-bitcoin"/>
+        <updated>2026-08-31T21:01:05.000Z</updated>
+        <summary type="html"><![CDATA[The Nasdaq-listed asset manager paid an average of $79,431 per coin, lifting its total stash to 23,156 BTC amid a wave of renewed treasury buying.]]></summary>
+        <author>
+            <name>Decrypt Staff</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[George Santos Bet on Whether He'd Show Up to the State of the Union—Kalshi Just Banned Him for Life]]></title>
         <id>https://decrypt.co/?p=376985</id>
@@ -363,26 +383,6 @@
         <summary type="html"><![CDATA[Rita Lin vacated the supply chain designation and issued a permanent injunction, refusing the government even a seven-day stay.]]></summary>
         <author>
             <name>Decrypt Agent</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Completes First Experimental Quantum-Safe Transaction, Starkware Says]]></title>
-        <id>https://decrypt.co/?p=376767</id>
-        <link href="https://decrypt.co/376767/bitcoin-quantum-safe-transaction-starkware"/>
-        <updated>2026-08-27T22:36:04.000Z</updated>
-        <summary type="html"><![CDATA[The transaction used Bitcoin’s existing rules to protect funds from a future quantum attack without requiring a network upgrade.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google’s Android 17 Turns On New Privacy Feature—But Your Browsing Isn’t Fully Hidden]]></title>
-        <id>https://decrypt.co/?p=376760</id>
-        <link href="https://decrypt.co/376760/google-android-17-privacy-encrypted-client-hello"/>
-        <updated>2026-08-27T22:06:05.000Z</updated>
-        <summary type="html"><![CDATA[Google's new privacy standard scrambles the one field of a web request that still travels in the clear: the name of the site being opened.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
         </author>
     </entry>
 </feed>
