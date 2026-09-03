@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-09-02T23:42:33.385Z</id>
+    <id>urn:2026-09-03T02:13:34.488Z</id>
     <title>web3::cave</title>
-    <updated>2026-09-02T23:42:33.385Z</updated>
+    <updated>2026-09-03T02:13:34.488Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Anthropic Admits Security Failures Behind Claude Hacking Incidents]]></title>
+        <id>https://decrypt.co/?p=377232</id>
+        <link href="https://decrypt.co/377232/anthropic-security-claude-ai-hacks"/>
+        <updated>2026-09-02T23:46:04.000Z</updated>
+        <summary type="html"><![CDATA[After Claude models accessed real systems during cyber tests, Anthropic tightened its safeguards and warned that flawed training can encourage dangerous behavior.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[An AI Training Data Startup Just Became Y Combinator's Fastest-Ever Unicorn]]></title>
         <id>https://decrypt.co/?p=377231</id>
@@ -373,16 +383,6 @@
         <summary type="html"><![CDATA[A deal would route the decentralized exchange's perpetual futures through Payward's US-regulated Bitnomial, marking Hyperliquid's first US entry—weeks after Trump said his administration was working to bring it onshore.]]></summary>
         <author>
             <name>Decrypt Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Former SEC, CFTC Officials Urge Lighter Touch to Bring Crypto Perps Trading Onshore]]></title>
-        <id>https://decrypt.co/?p=376936</id>
-        <link href="https://decrypt.co/376936/sec-cftc-crypto-perps-trading-onshore"/>
-        <updated>2026-08-31T17:06:04.000Z</updated>
-        <summary type="html"><![CDATA[With the Clarity Act stuck in recess limbo, the agencies are pressing ahead on crypto derivatives and custody, as former officials warn that overly burdensome rules will keep a $90 trillion perps market offshore.]]></summary>
-        <author>
-            <name>EleanorTerrett</name>
         </author>
     </entry>
 </feed>
