@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-09-05T13:07:32.099Z</id>
+    <id>urn:2026-09-05T16:24:15.536Z</id>
     <title>web3::cave</title>
-    <updated>2026-09-05T13:07:32.099Z</updated>
+    <updated>2026-09-05T16:24:15.536Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What Is Robinhood Chain? The Ethereum Layer-2 Network for Tokenized Stocks and Meme Coins]]></title>
+        <id>https://decrypt.co/?p=373351</id>
+        <link href="https://decrypt.co/resources/what-robinhood-chain-ethereum-layer-2-network-tokenized-stocks"/>
+        <updated>2026-09-05T16:06:41.000Z</updated>
+        <summary type="html"><![CDATA[Robinhood Chain is an Ethereum layer-2 network built with Arbitrum technology for tokenized assets, crypto apps, and on-chain financial products.]]></summary>
+        <author>
+            <name>Jason Nelson,Stephen Graves</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Update Your Browser: Google Patches Chrome Flaw Hackers Were Already Using]]></title>
+        <id>https://decrypt.co/?p=377501</id>
+        <link href="https://decrypt.co/377501/google-chrome-zero-day-exploited"/>
+        <updated>2026-09-05T15:01:04.000Z</updated>
+        <summary type="html"><![CDATA[The update fixes a high-severity flaw in Chrome’s V8 engine, but Google has not revealed who is using it or whom they targeted.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI Just Solved a 350-Year-Old Math Problem By Writing the Longest Proof Ever]]></title>
         <id>https://decrypt.co/?p=377491</id>
@@ -353,26 +373,6 @@
         <summary type="html"><![CDATA[The Japanese company booked a ¥117.8 million profit after selling its ETH, SOL, XRP and DOGE, leaving roughly 1,506 BTC as its only cryptocurrency holding.]]></summary>
         <author>
             <name>Jason Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top Pentagon AI Official Sold Millions in Perplexity Stock, Disclosures Show]]></title>
-        <id>https://decrypt.co/?p=377225</id>
-        <link href="https://decrypt.co/377225/pentagon-ai-official-sold-millions-perplexity-stock"/>
-        <updated>2026-09-02T20:46:04.000Z</updated>
-        <summary type="html"><![CDATA[Emil Michael's latest financial filings show a summer exit from Perplexity, months after a January sale of xAI stock that reportedly netted him up to $24 million.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Goldman Sachs, BofA Among 21 Banks Planning Joint Dollar Stablecoin Launch]]></title>
-        <id>https://decrypt.co/?p=377216</id>
-        <link href="https://decrypt.co/377216/goldman-sachs-bofa-banks-stablecoin"/>
-        <updated>2026-09-02T20:01:04.000Z</updated>
-        <summary type="html"><![CDATA[The bank-led consortium wants a U.S. dollar token live by the first half of 2027, with a euro version queued up next.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
         </author>
     </entry>
 </feed>
