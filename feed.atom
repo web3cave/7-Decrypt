@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-09-06T09:57:20.403Z</id>
+    <id>urn:2026-09-06T13:23:01.243Z</id>
     <title>web3::cave</title>
-    <updated>2026-09-06T09:57:20.403Z</updated>
+    <updated>2026-09-06T13:23:01.243Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[This Crypto Project Just Funded 1,000 Student Loans Entirely On-Chain]]></title>
+        <id>https://decrypt.co/?p=377494</id>
+        <link href="https://decrypt.co/377494/pencil-finance-1-million-student-loan"/>
+        <updated>2026-09-06T13:01:04.000Z</updated>
+        <summary type="html"><![CDATA[The team behind Pencil Finance says the financing supported thousands of Southeast Asian students, but it did not disclose borrower costs, defaults, or investor returns.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ancient Bitcoin Wallet That Turned $120 Into $3 Million Wakes Up]]></title>
         <id>https://decrypt.co/?p=377510</id>
@@ -363,16 +373,6 @@
         <summary type="html"><![CDATA[Afterquery's valuation jumped more than tenfold in five months, making it Y Combinator's fastest unicorn ever.]]></summary>
         <author>
             <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FBI Seizes $560K in Crypto Bound for Hamas, Takes Over Fundraising Sites]]></title>
-        <id>https://decrypt.co/?p=377230</id>
-        <link href="https://decrypt.co/377230/fbi-seizes-560k-crypto-hamas"/>
-        <updated>2026-09-02T22:47:06.000Z</updated>
-        <summary type="html"><![CDATA[Agents seized digital assets, domains, and servers allegedly used by Hamas’ military wing to collect donations and recruit supporters.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
         </author>
     </entry>
 </feed>
