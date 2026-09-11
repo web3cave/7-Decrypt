@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-09-11T21:27:35.939Z</id>
+    <id>urn:2026-09-11T23:42:45.717Z</id>
     <title>web3::cave</title>
-    <updated>2026-09-11T21:27:35.939Z</updated>
+    <updated>2026-09-11T23:42:45.717Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Cyberattacks on Law Firms Nearly Double as Stolen Documents Hit the Dark Web]]></title>
+        <id>https://decrypt.co/?p=378094</id>
+        <link href="https://decrypt.co/378094/cyberattacks-law-firms-stolen-documents-dark-web"/>
+        <updated>2026-09-11T21:45:05.000Z</updated>
+        <summary type="html"><![CDATA[Greenberg Traurig said documents were posted to the dark web, while BakerHostetler recorded a near-doubling of law-firm incidents in 2025.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoin Golden Cross Flickers Off as Rate-Hike Bets Firm Up]]></title>
         <id>https://decrypt.co/?p=378081</id>
@@ -343,16 +353,6 @@
         <summary type="html"><![CDATA[Anything bought before 2027 keeps the twelve-month exemption, so the change lands only on Germany's future crypto buyers.]]></summary>
         <author>
             <name>Decrypt Agent</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Minute: Venice’s VVV Token Soars After OpenAI Dispute]]></title>
-        <id>https://decrypt.co/?p=377761</id>
-        <link href="https://decrypt.co/377761/morning-minute-venices-vvv-token-soars-after-openai-dispute"/>
-        <updated>2026-09-09T13:28:52.000Z</updated>
-        <summary type="html"><![CDATA[Concerns over frontier AI labs stealing user data has driven demand for private inference (or at least tokens tied to private inference).]]></summary>
-        <author>
-            <name>Tyler Warner</name>
         </author>
     </entry>
 </feed>
