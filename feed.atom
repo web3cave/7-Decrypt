@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-09-16T17:52:31.292Z</id>
+    <id>urn:2026-09-16T20:40:53.436Z</id>
     <title>web3::cave</title>
-    <updated>2026-09-16T17:52:31.292Z</updated>
+    <updated>2026-09-16T20:40:53.436Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[OpenAI's Rogue AI Agents Were Probing Hugging Face Two Months Before Hack]]></title>
+        <id>https://decrypt.co/?p=378446</id>
+        <link href="https://decrypt.co/378446/openai-rogue-agents-hugging-face-two-months-before-hack"/>
+        <updated>2026-09-16T20:31:03.000Z</updated>
+        <summary type="html"><![CDATA[An independent researcher found the agents hijacked Hugging Face accounts and mapped the platform's defenses as early as May 13—activity OpenAI's own incident report never fully described.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fed Chair Implies Trump Is Only Half Right on the Economy Following Rate Hike]]></title>
+        <id>https://decrypt.co/?p=378433</id>
+        <link href="https://decrypt.co/378433/fed-hikes-rates-warsh-implies-trump-only-half-right"/>
+        <updated>2026-09-16T19:43:24.000Z</updated>
+        <summary type="html"><![CDATA[Chair Kevin Warsh credited Trump's economy, then ignored his rate-cut wishes entirely.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Core Software Update Aims for Speed and Security Patches]]></title>
+        <id>https://decrypt.co/?p=378430</id>
+        <link href="https://decrypt.co/378430/bitcoin-core-software-october-update"/>
+        <updated>2026-09-16T18:53:48.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin Core 32.0 has entered final testing, bringing faster block checks and changes to how wallets prepare payments.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fed Hikes Rates for the First Time Since 2023, Bitcoin Spikes]]></title>
+        <id>https://decrypt.co/?p=378417</id>
+        <link href="https://decrypt.co/378417/fed-hikes-rates-first-time-since-2023-bitcoin"/>
+        <updated>2026-09-16T18:15:38.000Z</updated>
+        <summary type="html"><![CDATA[The Federal Reserve delivered the hike Wall Street had almost unanimously priced in.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CFTC and SEC Double Down on Crypto After Clarity Act Defeat]]></title>
         <id>https://decrypt.co/?p=378408</id>
@@ -313,46 +353,6 @@
         <summary type="html"><![CDATA[Mustafa Suleyman's AI unit wants feedback for six weeks before the document guides model training in 2027.]]></summary>
         <author>
             <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trump Says He’s the Only ‘Guardrails’ AI Needs, Attacks Anthropic and Defends Data Centers]]></title>
-        <id>https://decrypt.co/?p=378166</id>
-        <link href="https://decrypt.co/378166/trump-ai-guardrails-attacks-anthropic"/>
-        <updated>2026-09-14T18:26:04.000Z</updated>
-        <summary type="html"><![CDATA[The president dismissed calls for tighter AI controls as industry leaders push to slow development and address safety failures.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Climbs as AI Slowdown Calls Sink Nvidia, Intel and Other Chip Stocks]]></title>
-        <id>https://decrypt.co/?p=378157</id>
-        <link href="https://decrypt.co/378157/bitcoin-climbs-ai-slowdown-nvidia-chip-stocks"/>
-        <updated>2026-09-14T17:40:04.000Z</updated>
-        <summary type="html"><![CDATA[AI CEOs want the industry to pump the brakes on capability gains. Nvidia, Intel, and AMD didn't like the sound of that. Bitcoin didn't seem to mind.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Market Has 'Definitely Not Priced In' Clarity Act Surprise, Says Bernstein]]></title>
-        <id>https://decrypt.co/?p=378155</id>
-        <link href="https://decrypt.co/378155/crypto-not-priced-in-clarity-act-surprise-bernstein"/>
-        <updated>2026-09-14T17:25:06.000Z</updated>
-        <summary type="html"><![CDATA[Ethics and banking concessions have improved the crypto bill’s prospects, analysts say, but Democratic support remains uncertain.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitmine Adds $68 Million in Ethereum as Holdings Near 6 Million ETH]]></title>
-        <id>https://decrypt.co/?p=378132</id>
-        <link href="https://decrypt.co/378132/bitmine-adds-68-million-ethereum"/>
-        <updated>2026-09-14T16:02:25.000Z</updated>
-        <summary type="html"><![CDATA[The purchase brings the company closer to its goal of owning 5% of Ethereum’s supply, with most of its tokens earning staking rewards.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
         </author>
     </entry>
 </feed>
