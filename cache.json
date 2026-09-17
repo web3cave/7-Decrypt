@@ -6,12 +6,72 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=378472",
+          "author": "Decrypt Agent",
+          "description": "The group says it chose whom to target by scanning the blockchain for Revolut accounts holding significant crypto.",
+          "link": "https://decrypt.co/378472/revolut-hackers-demand-3m-monero-ransom-threaten-to-sell-customer-data-report",
+          "publishedOn": "2026-09-17T12:53:01.000Z",
+          "wordCount": 9708,
+          "title": "Revolut Hackers Demand $3M Monero Ransom, Threaten to Sell Customer Data: Report",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/revolut-decrypt-style-01-gID_7.jpg@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/revolut-decrypt-style-01-gID_7.jpg@png"
+        },
+        {
+          "id": "https://decrypt.co/?p=378462",
+          "author": "Tyler Warner",
+          "description": "The Clarity Act failed to pass and FOMC hiked rates, and yet, crypto majors are green and alt leaders are flying. What does it mean?",
+          "link": "https://decrypt.co/378462/morning-minute-crypto-rebounds-after-the-feds-first-hike-since-2023",
+          "publishedOn": "2026-09-17T12:13:20.000Z",
+          "wordCount": 15139,
+          "title": "Morning Minute: Crypto Rebounds After The Fed’s First Hike Since 2023",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/bitcoin-ethereum-decrypt-style-new-01-1-gID_7.jpg@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/bitcoin-ethereum-decrypt-style-new-01-1-gID_7.jpg@png"
+        },
+        {
+          "id": "https://decrypt.co/?p=378460",
+          "author": "Decrypt Agent",
+          "description": "The privacy coin rose double digits Thursday and 168% over the past month in the wake of the NU7 upgrade vote.",
+          "link": "https://decrypt.co/378460/zcash-closes-on-1400-after-coinholders-vote-to-keep-bitcoin-style-halvings",
+          "publishedOn": "2026-09-17T12:05:13.000Z",
+          "wordCount": 10183,
+          "title": "Zcash Closes On $1,400 After Coinholders Vote to Keep Bitcoin-Style Halvings",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/zcash-shutterstock-gID_7.png@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/zcash-shutterstock-gID_7.png@png"
+        },
+        {
+          "id": "https://decrypt.co/?p=378457",
+          "author": "Decrypt Agent",
+          "description": "A substitute text adopted before the vote strips out the Federal Reserve funding routes and thins the transparency rules.",
+          "link": "https://decrypt.co/378457/house-committee-advances-us-bitcoin-reserve-bill-on-party-line-split",
+          "publishedOn": "2026-09-17T10:24:21.000Z",
+          "wordCount": 13495,
+          "title": "House Committee Advances US Bitcoin Reserve Bill on Party-Line Split",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/US-Capitol-decrypt-style-02-gID_7.png@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/US-Capitol-decrypt-style-02-gID_7.png@png"
+        },
+        {
           "id": "https://decrypt.co/?p=378449",
           "author": "Jason Nelson",
           "description": "The bill would exempt qualifying crypto fees from gain-or-loss calculations and restrict tax-loss deductions on tokens sold and quickly repurchased.",
           "link": "https://decrypt.co/378449/crypto-tax-bill-clears-house-committee",
           "publishedOn": "2026-09-16T21:46:03.000Z",
-          "wordCount": 9287,
+          "wordCount": 9319,
           "title": "Crypto Tax Bill Clears House Committee After Clarity Act Setback",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/us-capitol-decrypt-style-02-gID_7.jpg@png",
@@ -26,7 +86,7 @@
           "description": "Meta is reportedly developing a version of its smart glasses without a camera, potentially addressing one of the biggest privacy objections to AI wearables.",
           "link": "https://decrypt.co/378448/meta-fix-pervert-glasses",
           "publishedOn": "2026-09-16T21:16:03.000Z",
-          "wordCount": 9326,
+          "wordCount": 9358,
           "title": "Meta May Have Found a Fix for Its 'Pervert Glasses'",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/meta-logo-decrypt-style-1-gID_7.png@png",
@@ -41,7 +101,7 @@
           "description": "An independent researcher found the agents hijacked Hugging Face accounts and mapped the platform's defenses as early as May 13—activity OpenAI's own incident report never fully described.",
           "link": "https://decrypt.co/378446/openai-rogue-agents-hugging-face-two-months-before-hack",
           "publishedOn": "2026-09-16T20:31:03.000Z",
-          "wordCount": 9382,
+          "wordCount": 9414,
           "title": "OpenAI's Rogue AI Agents Were Probing Hugging Face Two Months Before Hack",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/Open-AI-decrypt-style-01-gID_7.png@png",
@@ -56,7 +116,7 @@
           "description": "Chair Kevin Warsh credited Trump's economy, then ignored his rate-cut wishes entirely.",
           "link": "https://decrypt.co/378433/fed-hikes-rates-warsh-implies-trump-only-half-right",
           "publishedOn": "2026-09-16T19:43:24.000Z",
-          "wordCount": 9635,
+          "wordCount": 9667,
           "title": "Fed Chair Implies Trump Is Only Half Right on the Economy Following Rate Hike",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Trump-decrypt-style-06-gID_7.png@png",
@@ -71,7 +131,7 @@
           "description": "Bitcoin Core 32.0 has entered final testing, bringing faster block checks and changes to how wallets prepare payments.",
           "link": "https://decrypt.co/378430/bitcoin-core-software-october-update",
           "publishedOn": "2026-09-16T18:53:48.000Z",
-          "wordCount": 12875,
+          "wordCount": 12907,
           "title": "Bitcoin Core Software Update Aims for Speed and Security Patches",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/Bitcoin-decrypt-style-24-gID_7.png@png",
@@ -86,7 +146,7 @@
           "description": "The Federal Reserve delivered the hike Wall Street had almost unanimously priced in.",
           "link": "https://decrypt.co/378417/fed-hikes-rates-first-time-since-2023-bitcoin",
           "publishedOn": "2026-09-16T18:15:38.000Z",
-          "wordCount": 11247,
+          "wordCount": 11279,
           "title": "Fed Hikes Rates for the First Time Since 2023, Bitcoin Spikes",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/federal-reserve-decrypt-style-02-gID_7.jpg@png",
@@ -101,7 +161,7 @@
           "description": "Michael Selig and Paul Atkins pledged to use their agencies’ existing powers to provide crypto regulatory certainty after the Senate failed to advance the bill.",
           "link": "https://decrypt.co/378408/cftc-sec-double-down-crypto-clarity-act",
           "publishedOn": "2026-09-16T17:17:03.000Z",
-          "wordCount": 9969,
+          "wordCount": 10001,
           "title": "CFTC and SEC Double Down on Crypto After Clarity Act Defeat",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/michael-selig-cftc-decrypt-style-gID_7.jpg@png",
@@ -116,7 +176,7 @@
           "description": "Attackers ran 108 malicious ads through the streaming service’s verified account, directing users to fake software downloads.",
           "link": "https://decrypt.co/378401/hackers-hbo-max-reddit-account-crypto-malware",
           "publishedOn": "2026-09-16T17:06:02.000Z",
-          "wordCount": 9610,
+          "wordCount": 9642,
           "title": "Hackers Hijack HBO Max’s Reddit Account to Spread Crypto-Stealing Malware",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/reddit-decrypt-style-01-gID_7.jpg@png",
@@ -131,7 +191,7 @@
           "description": "Meta’s CEO says competition and potential liability give AI developers reasons to prioritize safety, citing the company’s decision to delay Muse.",
           "link": "https://decrypt.co/378381/zuckerberg-pushes-back-ai-slowdown",
           "publishedOn": "2026-09-16T16:31:03.000Z",
-          "wordCount": 9620,
+          "wordCount": 9652,
           "title": "Zuckerberg Pushes Back on Coordinated AI Slowdown, Says Labs Can Act Alone",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/10/Mark-Zuckerberg-shutterstock_1098814631-gID_7.jpg@png",
@@ -146,7 +206,7 @@
           "description": "Bitcoin, Ethereum, and XRP ETFs shed roughly $593 million combined Tuesday, their heaviest single-day drawdown since June.",
           "link": "https://decrypt.co/378382/bitcoin-etfs-clarity-act-vote",
           "publishedOn": "2026-09-16T15:50:07.000Z",
-          "wordCount": 10278,
+          "wordCount": 10310,
           "title": "Bitcoin ETFs Had Their Worst Day Since June Following Failed Clarity Act Vote",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/ETF2-gID_7.png@png",
@@ -161,7 +221,7 @@
           "description": "The Layer 1 network’s validator set is permissioned, and Circle has minted 10 billion ARC tokens without committing to publicly launch them.",
           "link": "https://decrypt.co/378374/circle-launches-arc-mainnet-with-blackrock-dtcc-and-visa-as-validators",
           "publishedOn": "2026-09-16T14:56:02.000Z",
-          "wordCount": 9284,
+          "wordCount": 9316,
           "title": "Circle Launches Arc Mainnet With BlackRock, DTCC and Visa as Validators",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/circle-logo-decrypt-style-01-gID_7.png@png",
@@ -176,7 +236,7 @@
           "description": "Cato favors voluntary safeguards, while Block Chairman Jack Dorsey backs independent testing and narrowly justified restrictions.",
           "link": "https://decrypt.co/378323/ai-pause-protect-giants-not-safety-cato-jack-dorsey",
           "publishedOn": "2026-09-16T14:36:29.000Z",
-          "wordCount": 9934,
+          "wordCount": 9966,
           "title": "AI Pause Would Help Dominant Firms, Not Safety, Think Tank Warns",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-09-gID_7.png@png",
@@ -191,7 +251,7 @@
           "description": "Overseas firms serving UK retail customers need authorization too, and nobody trades under the new rules before October 2027.",
           "link": "https://decrypt.co/378363/fca-guidance-lands-two-weeks-before-uk-crypto-authorization-window-opens",
           "publishedOn": "2026-09-16T13:12:33.000Z",
-          "wordCount": 10882,
+          "wordCount": 10914,
           "title": "FCA Guidance Lands Two Weeks Before UK Crypto Authorization Window Opens",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/uk-fca-financial-conduct-authority-decrypt-style-gID_7.jpg@png",
@@ -206,7 +266,7 @@
           "description": "It should not have come as a surprise given the odds, but crypto majors, alts and memes all sold off anyway in the wake.",
           "link": "https://decrypt.co/378352/morning-minute-clarity-act-vote-falls-short-as-democrats-all-vote-no",
           "publishedOn": "2026-09-16T12:17:50.000Z",
-          "wordCount": 15643,
+          "wordCount": 15678,
           "title": "Morning Minute: Clarity Act Vote Falls Short as Democrats All Vote ‘No’",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/us-capitol-decrypt-style-01-gID_7.jpg@png",
@@ -221,7 +281,7 @@
           "description": "With Bitcoin sitting around $76,000, the argument from analysts is that dollar liquidity, not Congress, sets the floor from here.",
           "link": "https://decrypt.co/378351/bitcoin-hovers-at-76k-as-analysts-argue-the-fed-matters-more-than-clarity-act",
           "publishedOn": "2026-09-16T12:12:21.000Z",
-          "wordCount": 14272,
+          "wordCount": 14304,
           "title": "Bitcoin Hovers at $76K as Analysts Argue the Fed Matters More Than Clarity Act",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin-decrypt-style-23-gID_7.jpg@png",
@@ -236,7 +296,7 @@
           "description": "The Home Office names crypto alongside fintech and AI as drivers of a threat the NCA puts at £100 billion a year in the UK.",
           "link": "https://decrypt.co/378337/uk-backs-money-laundering-crackdown-with-676m-and-500-new-officers",
           "publishedOn": "2026-09-16T09:41:53.000Z",
-          "wordCount": 9574,
+          "wordCount": 9606,
           "title": "UK Backs Money Laundering Crackdown With $676M and 500 New Officers",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/UK-Parliament-gID_7.jpg@png",
@@ -251,7 +311,7 @@
           "description": "The self-custodial wallet is expanding beyond The Open Network, with support for seven blockchains and more financial products planned.",
           "link": "https://decrypt.co/378265/tonkeeper-keeper-adds-bitcoin-ethereum-tron",
           "publishedOn": "2026-09-16T09:01:03.000Z",
-          "wordCount": 13501,
+          "wordCount": 13533,
           "title": "Tonkeeper Becomes Keeper as Wallet Adds Bitcoin, Ethereum, and Tron",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/toncoin-ton-decrypt-style-1-gID_7.jpg@png",
@@ -266,7 +326,7 @@
           "description": "The Hong Kong-founded exchange blamed a prolonged crypto winter and rising compliance costs, closing the books on a run that began in December 2017.",
           "link": "https://decrypt.co/378324/coinex-shutting-down",
           "publishedOn": "2026-09-16T08:01:03.000Z",
-          "wordCount": 9459,
+          "wordCount": 9491,
           "title": "Crypto Exchange CoinEx Is Shutting Down After Nine Years, Giving Users Until December to Cash Out",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/closed-sign-decrypt-style-gID_7.jpg@png",
@@ -281,7 +341,7 @@
           "description": "Nearly every major bank now expects the Fed to raise rates for the first time in three years. Markets have mostly priced it in, but the political fallout could run deeper than one hike.",
           "link": "https://decrypt.co/378306/wall-street-fed-rate-hike-bitcoin-bonds-trump",
           "publishedOn": "2026-09-15T21:46:03.000Z",
-          "wordCount": 14945,
+          "wordCount": 14977,
           "title": "Wall Street Bets on Fed Rate Hike: Here's What It Means for Bitcoin, Bonds and Trump",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/Federal-Reserve-Bank-gID_7.jpg@png",
@@ -296,7 +356,7 @@
           "description": "The Coinbase-backed Stand With Crypto will add senators’ votes to its scorecards as it rallies crypto voters ahead of November’s elections.",
           "link": "https://decrypt.co/378303/coinbase-crypto-group-midterms-vote-clarity-act",
           "publishedOn": "2026-09-15T21:10:06.000Z",
-          "wordCount": 13193,
+          "wordCount": 13225,
           "title": "Coinbase-Backed Crypto Group Warns of Midterms Payback After Clarity Act Fails",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/US-Capitol-decrypt-style-03-gID_7.png@png",
@@ -311,7 +371,7 @@
           "description": "Greg Brockman says OpenAI delayed launches and reworked its processes after a pre-release model broke out of a sandbox and hacked into Hugging Face.",
           "link": "https://decrypt.co/378300/openai-safety-concerns-slowed-most-advanced-ai-work",
           "publishedOn": "2026-09-15T20:09:19.000Z",
-          "wordCount": 9634,
+          "wordCount": 9666,
           "title": "OpenAI's Brockman Says Safety Concerns Have Already Slowed Its Most Advanced AI Work",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-2-gID_7.png@png",
@@ -326,7 +386,7 @@
           "description": "The Senate fell short of the 60 votes needed to advance the crypto industry's marquee bill Tuesday. Bitcoin dropped as the no tally mounted, but the move stopped well short of panic.",
           "link": "https://decrypt.co/378286/crypto-clarity-act-fails-clear-senate-bitcoin-slides",
           "publishedOn": "2026-09-15T19:18:29.000Z",
-          "wordCount": 11114,
+          "wordCount": 11146,
           "title": "Crypto Reacts: Bitcoin Slides as Clarity Act Fails to Clear Senate Vote",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/stocks-gID_7.jpg@png",
@@ -341,7 +401,7 @@
           "description": "The crypto market structure bill failed to receive enough votes to advance in the Senate.",
           "link": "https://decrypt.co/378283/clarity-act-fails-senate-hurdle",
           "publishedOn": "2026-09-15T18:54:10.000Z",
-          "wordCount": 14583,
+          "wordCount": 14615,
           "title": "Clarity Act Stalls in Senate as Crypto Bill Fails to Clear Key Vote",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/us-capitol-decrypt-style-01-gID_7.jpg@png",
@@ -356,7 +416,7 @@
           "description": "Two employees allegedly earned more than $50,000 each by trading Hyperliquid perpetual futures before Robinhood announced new token listings.",
           "link": "https://decrypt.co/378267/robinhood-engineers-charged-fraud-over-crypto-listing-trades",
           "publishedOn": "2026-09-15T17:49:23.000Z",
-          "wordCount": 9244,
+          "wordCount": 9276,
           "title": "Robinhood Engineers Charged With Fraud Over Alleged Crypto Listing Trades",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/robinhood-decrypt-style-01-gID_7.png@png",
@@ -371,7 +431,7 @@
           "description": "The Wyoming Republican says the final text hands Democrats more than 120 of their own demands, including sweeping new ethics rules, as the Senate holds a make-or-break cloture vote Tuesday afternoon.",
           "link": "https://decrypt.co/378268/now-or-never-clarity-act-bitcoin-cynthia-lummis",
           "publishedOn": "2026-09-15T17:43:01.000Z",
-          "wordCount": 10969,
+          "wordCount": 11001,
           "title": "'It's Now or Never' for Clarity Act, Says 'Bitcoin Senator' Lummis",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/cynthia-lummis-decrypt-style-scaled-gID_7.jpg@png",
@@ -386,7 +446,7 @@
           "description": "Prosecutors allege two Chinese companies used Binance accounts to launder oil proceeds benefiting Iran’s government and military.",
           "link": "https://decrypt.co/378261/us-forfeiture-61-million-crypto-iranian-oil-scheme",
           "publishedOn": "2026-09-15T17:06:03.000Z",
-          "wordCount": 12750,
+          "wordCount": 12782,
           "title": "US Seeks Forfeiture of $61 Million in Crypto Linked to Alleged Iranian Oil Scheme",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/Iran-Bitcoin-1-gID_7.jpg@png",
@@ -401,7 +461,7 @@
           "description": "The proposal would overhaul federal tax treatment of digital assets but still requires approval from Congress.",
           "link": "https://decrypt.co/378260/house-crypto-tax-bill-de-minimis-captail-gains",
           "publishedOn": "2026-09-15T16:34:35.000Z",
-          "wordCount": 9012,
+          "wordCount": 9044,
           "title": "Crypto's Long-Sought 'De Minimis' Tax Break Gets a House Markup This Week",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/us-capitol-decrypt-style-02-gID_7.jpg@png",
@@ -416,7 +476,7 @@
           "description": "Democrats are pushing for further concessions as Republicans insist their latest text is their final offer ahead of today’s 60-vote test.",
           "link": "https://decrypt.co/378246/democrats-goalposts-clarity-act-key-senate-vote",
           "publishedOn": "2026-09-15T15:08:07.000Z",
-          "wordCount": 12153,
+          "wordCount": 12185,
           "title": "Democrats 'Move the Goalposts' on Clarity Act Hours Before Key Senate Vote",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/US-Capitol-decrypt-style-01-gID_7.png@png",
@@ -431,7 +491,7 @@
           "description": "Bitcoin just gave back its entire post-golden-cross rally in one red candle, with a make-or-break Senate vote landing this afternoon and the Fed staring down a rate hike.",
           "link": "https://decrypt.co/378233/bitcoin-sinks-senate-clarity-act-showdown",
           "publishedOn": "2026-09-15T14:58:57.000Z",
-          "wordCount": 10530,
+          "wordCount": 10562,
           "title": "Bitcoin Sinks as the Senate's Clarity Act Showdown Looms",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-decrypt-style-27-gID_7.jpg@png",
@@ -446,7 +506,7 @@
           "description": "The odds of the Clarity Act passing have fully reversed their recent move, and crypto majors have reversed alongside. Is there any hope left for the bill to pass?",
           "link": "https://decrypt.co/378230/morning-minute-clarity-act-odds-slump-after-democrat-pushback",
           "publishedOn": "2026-09-15T14:05:47.000Z",
-          "wordCount": 11515,
+          "wordCount": 11550,
           "title": "Morning Minute: Clarity Act Odds Slump After Democrat Pushback",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/US-Capitol-decrypt-style-02-gID_7.png@png",
@@ -461,7 +521,7 @@
           "description": "Atlantic Council experts argue corporate pledges need enforceable safety standards, while U.S.–China distrust limits prospects for an international agreement.",
           "link": "https://decrypt.co/378203/ai-slowdown-us-china-pressure",
           "publishedOn": "2026-09-15T13:00:05.000Z",
-          "wordCount": 13397,
+          "wordCount": 13429,
           "title": "Why an AI Slowdown Could Collapse Under Commercial and US-China Pressure",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/11/China-USA-gID_7.jpg@png",
@@ -469,66 +529,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/11/China-USA-gID_7.jpg@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=378183",
-          "author": "Jose Antonio Lanz",
-          "description": "DeFi Development Corp added another 55,491 SOL and opened a CHAD at-the-market program for its preferred stock, extending a fast-moving three-week run of capital markets activity.",
-          "link": "https://decrypt.co/378183/solana-defi-development-corp-chad",
-          "publishedOn": "2026-09-15T11:01:04.000Z",
-          "wordCount": 13382,
-          "title": "Solana Treasury Firm DeFi Dev Corp Rolls Out $300M CHAD to Buy More SOL",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/solana-decrypt-style-03-gID_7.png@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/solana-decrypt-style-03-gID_7.png@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=378190",
-          "author": "Jose Antonio Lanz",
-          "description": "The asset manager funded the entire purchase through preferred stock, pushing SATA's notional value past $1 billion for the first time.",
-          "link": "https://decrypt.co/378190/strive-bitcoin-25000-btc-after-buy",
-          "publishedOn": "2026-09-15T09:01:05.000Z",
-          "wordCount": 10010,
-          "title": "Strive's Bitcoin Stash Hits an Even 25,000 BTC After $36.6 Million Buy",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-decrypt-style-26-gID_7.png@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-decrypt-style-26-gID_7.png@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=378181",
-          "author": "Jason Nelson",
-          "description": "Eight trade associations say exceptions for interest-like rewards could pull deposits from banks and reduce lending.",
-          "link": "https://decrypt.co/378181/banks-senate-clarity-act-stablecoin-rules-key-vote",
-          "publishedOn": "2026-09-14T21:46:04.000Z",
-          "wordCount": 9766,
-          "title": "Banks Want More: Trade Groups Demand Stricter Stablecoin Limits in Clarity Act",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/us-capitol-decrypt-style-02-gID_7.jpg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/us-capitol-decrypt-style-02-gID_7.jpg@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=378179",
-          "author": "Jason Nelson",
-          "description": "The OpenAI chief called for safeguards during training and shared industry standards, saying developers can act before legislation arrives.",
-          "link": "https://decrypt.co/378179/openai-sam-altman-humans-lose-control-ai",
-          "publishedOn": "2026-09-14T21:16:04.000Z",
-          "wordCount": 10201,
-          "title": "OpenAI’s Sam Altman Warns Humans Could Lose Control of AI",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-sam-altman-2-gID_7.png@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-sam-altman-2-gID_7.png@png"
         }
       ]
     }
