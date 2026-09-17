@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-09-17T20:53:31.050Z</id>
+    <id>urn:2026-09-17T23:17:07.913Z</id>
     <title>web3::cave</title>
-    <updated>2026-09-17T20:53:31.050Z</updated>
+    <updated>2026-09-17T23:17:07.913Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[OpenAI Models Are Writing Their Own Jailbreak Instructions—And Sometimes Obeying Them]]></title>
+        <id>https://decrypt.co/?p=378582</id>
+        <link href="https://decrypt.co/378582/openai-models-ai-jailbreak-instructions-obeying"/>
+        <updated>2026-09-17T22:31:03.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI's new transparency framework reveals AI models that invented fake "breach alerts," coached themselves to hide mistakes, and smuggled a file onto the public internet to talk to each other.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Security Experts Want the US and China to Promise Never to Let AI Control Nukes]]></title>
+        <id>https://decrypt.co/?p=378575</id>
+        <link href="https://decrypt.co/378575/us-china-never-let-ai-control-nukes"/>
+        <updated>2026-09-17T21:46:03.000Z</updated>
+        <summary type="html"><![CDATA[Brookings researchers in the US and China are urging Washington and Beijing to agree to keep humans in control of nuclear weapons.]]></summary>
+        <author>
+            <name>Jason Nelson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your Data Could Outlive the Startup You Gave It To. Elon Musk Wants to Buy What's Left]]></title>
+        <id>https://decrypt.co/?p=378573</id>
+        <link href="https://decrypt.co/378573/elon-musk-spacex-buy-startup-data-train-ai"/>
+        <updated>2026-09-17T21:16:03.000Z</updated>
+        <summary type="html"><![CDATA[SpaceX's AI division has held internal talks about buying customer records from dead startups—cheap fuel for Grok, no questions asked, because there's nobody left to ask them.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why Is Chipotle Now Working With the CIA-Funded Palantir?]]></title>
         <id>https://decrypt.co/?p=378553</id>
@@ -333,26 +363,6 @@
         <summary type="html"><![CDATA[The Hong Kong-founded exchange blamed a prolonged crypto winter and rising compliance costs, closing the books on a run that began in December 2017.]]></summary>
         <author>
             <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wall Street Bets on Fed Rate Hike: Here's What It Means for Bitcoin, Bonds and Trump]]></title>
-        <id>https://decrypt.co/?p=378306</id>
-        <link href="https://decrypt.co/378306/wall-street-fed-rate-hike-bitcoin-bonds-trump"/>
-        <updated>2026-09-15T21:46:03.000Z</updated>
-        <summary type="html"><![CDATA[Nearly every major bank now expects the Fed to raise rates for the first time in three years. Markets have mostly priced it in, but the political fallout could run deeper than one hike.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase-Backed Crypto Group Warns of Midterms Payback After Clarity Act Fails]]></title>
-        <id>https://decrypt.co/?p=378303</id>
-        <link href="https://decrypt.co/378303/coinbase-crypto-group-midterms-vote-clarity-act"/>
-        <updated>2026-09-15T21:10:06.000Z</updated>
-        <summary type="html"><![CDATA[The Coinbase-backed Stand With Crypto will add senators’ votes to its scorecards as it rallies crypto voters ahead of November’s elections.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
         </author>
     </entry>
 </feed>
