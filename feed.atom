@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-09-18T16:50:02.207Z</id>
+    <id>urn:2026-09-18T19:20:09.479Z</id>
     <title>web3::cave</title>
-    <updated>2026-09-18T16:50:02.207Z</updated>
+    <updated>2026-09-18T19:20:09.479Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Zcash Is Running—Devs Want to Make It Faster]]></title>
+        <id>https://decrypt.co/?p=378667</id>
+        <link href="https://decrypt.co/378667/zcash-upgrade-make-private-payments-3x-faster"/>
+        <updated>2026-09-18T19:16:03.000Z</updated>
+        <summary type="html"><![CDATA[A new upgrade would cut Zcash block time from 75 seconds to 25, while quietly rewriting how the network pays for its own security after 2031.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Will Hit $1 Million, Says Kevin O’Leary—But There’s a Quantum Catch]]></title>
+        <id>https://decrypt.co/?p=378664</id>
+        <link href="https://decrypt.co/378664/kevin-oleary-bitcoin-1-million-quantum-catch"/>
+        <updated>2026-09-18T18:35:54.000Z</updated>
+        <summary type="html"><![CDATA[Kevin O'Leary believes Bitcoin could hit $1 million if crypto beats its quantum computing problem, and explained why he's ditching Ethereum.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[XRP Surges 6.9% as Bitcoin Rebound Reopens Door to Golden Cross]]></title>
         <id>https://decrypt.co/?p=378641</id>
@@ -353,26 +373,6 @@
         <summary type="html"><![CDATA[Bitcoin, Ethereum, and XRP ETFs shed roughly $593 million combined Tuesday, their heaviest single-day drawdown since June.]]></summary>
         <author>
             <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Circle Launches Arc Mainnet With BlackRock, DTCC and Visa as Validators]]></title>
-        <id>https://decrypt.co/?p=378374</id>
-        <link href="https://decrypt.co/378374/circle-launches-arc-mainnet-with-blackrock-dtcc-and-visa-as-validators"/>
-        <updated>2026-09-16T14:56:02.000Z</updated>
-        <summary type="html"><![CDATA[The Layer 1 network’s validator set is permissioned, and Circle has minted 10 billion ARC tokens without committing to publicly launch them.]]></summary>
-        <author>
-            <name>Decrypt Agent</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Pause Would Help Dominant Firms, Not Safety, Think Tank Warns]]></title>
-        <id>https://decrypt.co/?p=378323</id>
-        <link href="https://decrypt.co/378323/ai-pause-protect-giants-not-safety-cato-jack-dorsey"/>
-        <updated>2026-09-16T14:36:29.000Z</updated>
-        <summary type="html"><![CDATA[Cato favors voluntary safeguards, while Block Chairman Jack Dorsey backs independent testing and narrowly justified restrictions.]]></summary>
-        <author>
-            <name>Jason Nelson</name>
         </author>
     </entry>
 </feed>
