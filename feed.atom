@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-09-18T19:20:09.479Z</id>
+    <id>urn:2026-09-18T22:05:37.087Z</id>
     <title>web3::cave</title>
-    <updated>2026-09-18T19:20:09.479Z</updated>
+    <updated>2026-09-18T22:05:37.087Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Coinbase Files to List Single-Stock Perps on Apple, Tesla and Nvidia]]></title>
+        <id>https://decrypt.co/?p=378681</id>
+        <link href="https://decrypt.co/378681/coinbase-single-stock-perps-apple-tesla-nvidia"/>
+        <updated>2026-09-18T21:01:30.000Z</updated>
+        <summary type="html"><![CDATA[The filing seeks CFTC approval for contracts giving US traders 24/5 leveraged exposure to individual stocks without ownership.]]></summary>
+        <author>
+            <name>Decrypt Staff</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Zcash Is Running—Devs Want to Make It Faster]]></title>
         <id>https://decrypt.co/?p=378667</id>
@@ -363,16 +373,6 @@
         <summary type="html"><![CDATA[Meta’s CEO says competition and potential liability give AI developers reasons to prioritize safety, citing the company’s decision to delay Muse.]]></summary>
         <author>
             <name>Jason Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin ETFs Had Their Worst Day Since June Following Failed Clarity Act Vote]]></title>
-        <id>https://decrypt.co/?p=378382</id>
-        <link href="https://decrypt.co/378382/bitcoin-etfs-clarity-act-vote"/>
-        <updated>2026-09-16T15:50:07.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin, Ethereum, and XRP ETFs shed roughly $593 million combined Tuesday, their heaviest single-day drawdown since June.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
         </author>
     </entry>
 </feed>
