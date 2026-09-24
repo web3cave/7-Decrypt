@@ -1,10 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-09-24T15:36:22.907Z</id>
+    <id>urn:2026-09-24T19:38:06.932Z</id>
     <title>web3::cave</title>
-    <updated>2026-09-24T15:36:22.907Z</updated>
+    <updated>2026-09-24T19:38:06.932Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Meta's New AI Toy Is a Keychain That Watches, Listens, and Never Blinks]]></title>
+        <id>https://decrypt.co/?p=379253</id>
+        <link href="https://decrypt.co/379253/meta-ai-toy-muse-charm-keychain-watches-listens"/>
+        <updated>2026-09-24T19:16:03.000Z</updated>
+        <summary type="html"><![CDATA[Muse Charm is Meta's palm-sized gadget for talking to its Muse AI agent on the go. It has cameras, a fingerprint sensor, and its own cell connection.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Can Now Doxx Your Anonymous Accounts? Here's What’s Going On]]></title>
+        <id>https://decrypt.co/?p=379228</id>
+        <link href="https://decrypt.co/379228/ai-can-now-doxx-your-anonymous-accounts-heres-whats-going-on"/>
+        <updated>2026-09-24T18:31:03.000Z</updated>
+        <summary type="html"><![CDATA[A February research paper showing AI can unmask pseudonymous internet users is freaking everyone out again this week. Here's what the paper actually says.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New York Wants to Ban Polymarket, Lawsuit Calls It 'Illegal Gambling Operation']]></title>
+        <id>https://decrypt.co/?p=379244</id>
+        <link href="https://decrypt.co/379244/new-york-ban-polymarket-lawsuit"/>
+        <updated>2026-09-24T17:51:31.000Z</updated>
+        <summary type="html"><![CDATA[Attorney General Letitia James and Governor Kathy Hochul allege the prediction market operates without a license and exposes New Yorkers to gambling harms.]]></summary>
+        <author>
+            <name>Decrypt Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In Her Final Weeks, SEC's Peirce Calls for Ending the KYC 'Panopticon']]></title>
+        <id>https://decrypt.co/?p=379217</id>
+        <link href="https://decrypt.co/379217/sec-peirce-end-kyc-panopticon-zero-knowledge-proofs"/>
+        <updated>2026-09-24T17:31:03.000Z</updated>
+        <summary type="html"><![CDATA[In one of her final speeches as commissioner, Peirce argued that regulators' "data haystacks" endanger the people they aim to protect—as recent KYC leaks expose crypto holders to phishing and physical attacks.]]></summary>
+        <author>
+            <name>Guillermo Jimenez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[US Aims to Turn Stablecoins Into a Weapon for Dollar Dominance]]></title>
+        <id>https://decrypt.co/?p=379219</id>
+        <link href="https://decrypt.co/379219/us-stablecoins-weapon-dollar-dominance"/>
+        <updated>2026-09-24T16:55:43.000Z</updated>
+        <summary type="html"><![CDATA[Washington may fund private stablecoin ventures abroad to protect the dollar's reserve status and prop up Treasury demand.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Breakout Cools as Fed Rate-Hike Bets Climb]]></title>
+        <id>https://decrypt.co/?p=379189</id>
+        <link href="https://decrypt.co/379189/bitcoins-breakout-cools-fed-rate-hike-bets-climb"/>
+        <updated>2026-09-24T16:01:01.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin has slipped back below $85,000 after tagging an eight-month high near $87,400 last week, with rising odds of an October Fed hike taking some air out of the rally.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[£10K Reward Offered After UK Couple Attacked in Crypto Home Invasion]]></title>
         <id>https://decrypt.co/?p=379186</id>
@@ -281,66 +341,6 @@
         <link href="https://decrypt.co/379004/cme-crypto-bitcoin-cash-uniswap-futures"/>
         <updated>2026-09-22T20:46:03.000Z</updated>
         <summary type="html"><![CDATA[The exchange operator is adding standard and micro contracts for BCH and UNI, extending a pattern of altcoin rollouts that already covers Cardano, Chainlink, Stellar, Avalanche, and Sui.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inside Coinbase’s $250 Billion Playbook for Post-Quantum Bitcoin Custody]]></title>
-        <id>https://decrypt.co/?p=379000</id>
-        <link href="https://decrypt.co/379000/coinbase-playbook-post-quantum-bitcoin-custody"/>
-        <updated>2026-09-22T20:01:03.000Z</updated>
-        <summary type="html"><![CDATA[Head of cryptography Yehuda Lindell says the exchange is designing custody that can adapt to whatever post-quantum signing scheme Bitcoin adopts.]]></summary>
-        <author>
-            <name>André Beganski</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[White-Hat Hackers Route Coldcard Exploit Bitcoin Into 'Recovery Trust']]></title>
-        <id>https://decrypt.co/?p=378978</id>
-        <link href="https://decrypt.co/378978/white-hat-hackers-coldcard-exploit-bitcoin-recovery-trust"/>
-        <updated>2026-09-22T19:31:03.000Z</updated>
-        <summary type="html"><![CDATA[Galaxy Research says white-hat actors consolidated coins tied to the exploit into a fresh address tagged for a "Crypto Recovery Trust," though the funds represent just 2.8% of the total haul.]]></summary>
-        <author>
-            <name>Decrypt Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI Launches GPT-6 Sol and Luna Minutes After Anthropic Drops Claude Opus 5.5]]></title>
-        <id>https://decrypt.co/?p=378986</id>
-        <link href="https://decrypt.co/378986/openai-launches-gpt-6-sol-luna-anthropic-claude-opus-5-5"/>
-        <updated>2026-09-22T19:00:38.000Z</updated>
-        <summary type="html"><![CDATA[OpenAI cut prices 50% on its mid-tier models the same day Anthropic shipped a cheaper flagship, escalating a rivalry now measured in minutes.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Breaks Out as Nasdaq Hits Records and Oil Slides on Iran Hopes]]></title>
-        <id>https://decrypt.co/?p=378972</id>
-        <link href="https://decrypt.co/378972/bitcoin-breaks-out-nasdaq-hits-records-oil-slides"/>
-        <updated>2026-09-22T18:46:03.000Z</updated>
-        <summary type="html"><![CDATA[A stretched but firmly bullish Bitcoin chart is riding the same tailwind lifting stocks: falling oil, a record Nasdaq, and a Fed that hiked rates while quietly pumping liquidity into the system.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bernstein Predicts $10 Trillion Prediction Market by 2035—10X Its Original Forecast]]></title>
-        <id>https://decrypt.co/?p=378963</id>
-        <link href="https://decrypt.co/378963/bernstein-10-trillion-prediction-markets"/>
-        <updated>2026-09-22T18:16:03.000Z</updated>
-        <summary type="html"><![CDATA[Bernstein now projects prediction markets will handle $10 trillion a year by 2035, up from its own $1 trillion by 2030 forecast made just five months ago.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthropic’s New Claude Opus 5.5 Matches Fable at 60% the Price]]></title>
-        <id>https://decrypt.co/?p=378947</id>
-        <link href="https://decrypt.co/378947/anthropic-claude-opus-5-5-fable-price-comparison"/>
-        <updated>2026-09-22T17:49:07.000Z</updated>
-        <summary type="html"><![CDATA[Anthropic's new flagship claims Fable 5.1-level performance at a fraction of the cost—but GPT-6 Astra still beats it on two published benchmarks.]]></summary>
         <author>
             <name>Jose Antonio Lanz</name>
         </author>
