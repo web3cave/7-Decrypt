@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-09-25T17:38:36.760Z</id>
+    <id>urn:2026-09-25T20:54:12.465Z</id>
     <title>web3::cave</title>
-    <updated>2026-09-25T17:38:36.760Z</updated>
+    <updated>2026-09-25T20:54:12.465Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[AI Agents Hacked Their Own Test Environment to Cheat, Cybersecurity Firm Finds]]></title>
+        <id>https://decrypt.co/?p=379369</id>
+        <link href="https://decrypt.co/379369/ai-agents-hacked-test-environment-cheat-darktrace"/>
+        <updated>2026-09-25T19:45:39.000Z</updated>
+        <summary type="html"><![CDATA[Darktrace's new Signal Labs found AI agents hacking their own evaluation environment to fake a perfect score—and tricking coding assistants into running unauthorized network attacks.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Built an AI That Hunts Its Own Security Bugs]]></title>
+        <id>https://decrypt.co/?p=379364</id>
+        <link href="https://decrypt.co/379364/google-built-ai-hunts-security-bugs"/>
+        <updated>2026-09-25T19:16:04.000Z</updated>
+        <summary type="html"><![CDATA[Google's PageBreak agent autonomously finds and verifies real vulnerabilities in its own web apps, cutting through the flood of noisy AI-generated security reports.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Circle and Tether Freeze Stablecoins Tied to Bitget Hack—But Most Funds Slip Away]]></title>
+        <id>https://decrypt.co/?p=379365</id>
+        <link href="https://decrypt.co/379365/circle-tether-freeze-stablecoins-bitget-hack"/>
+        <updated>2026-09-25T18:42:51.000Z</updated>
+        <summary type="html"><![CDATA[The two stablecoin issuers blacklisted a wallet labeled "Bitget Exploiter 8," locking about $318,000 in USDC and USDT—but the attacker swapped most funds into unfreezable ETH before they could act.]]></summary>
+        <author>
+            <name>Decrypt Agent</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI Is Building a $500 per Month ChatGPT Pro Max Plan, Leaks Suggest]]></title>
+        <id>https://decrypt.co/?p=379359</id>
+        <link href="https://decrypt.co/379359/openai-500-per-month-chatgpt-pro-max-plan"/>
+        <updated>2026-09-25T17:46:05.000Z</updated>
+        <summary type="html"><![CDATA[Leaked code strings and screenshots point to a new tier that would cost 25 times more than ChatGPT Plus, aimed at people who need the bot to work faster, not just longer.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitget Hack Losses Climb to $387M: Here’s What Happened, and Why North Korea Is a Suspect]]></title>
         <id>https://decrypt.co/?p=379350</id>
@@ -303,46 +343,6 @@
         <summary type="html"><![CDATA[A tech columnist declined to give Meta's new AI agent access to his messages. It read them anyway, then invented an explanation for how it knew.]]></summary>
         <author>
             <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zcash's Wall Street Moment Reaches Europe With Its First ETP Listing]]></title>
-        <id>https://decrypt.co/?p=379105</id>
-        <link href="https://decrypt.co/379105/zcash-wall-street-europe-first-etp"/>
-        <updated>2026-09-23T19:36:15.000Z</updated>
-        <summary type="html"><![CDATA[21Shares listed Europe's first Zcash exchange-traded product on Euronext Paris and Amsterdam this week as ZEC continues its banner year.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[$15.6 Billion in Bitcoin Options Expire Friday—Here's What It Means]]></title>
-        <id>https://decrypt.co/?p=379093</id>
-        <link href="https://decrypt.co/379093/15-6-billion-bitcoin-options-expire-friday-what-means"/>
-        <updated>2026-09-23T18:46:03.000Z</updated>
-        <summary type="html"><![CDATA[Deribit's strike-by-strike data shows a book stacked with calls, and one price level drawing hedging pressure from both sides at once.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Borrow Against Your Bitcoin at a Fixed Rate: Coinbase Expands Morpho Loans]]></title>
-        <id>https://decrypt.co/?p=379091</id>
-        <link href="https://decrypt.co/379091/borrow-against-bitcoin-fixed-rate-coinbase-morpho"/>
-        <updated>2026-09-23T18:15:06.000Z</updated>
-        <summary type="html"><![CDATA[The product lets users lock in their rate and repayment date when borrowing USDC against Bitcoin, marking the first enterprise-scale deployment of Morpho Midnight and a shift away from on-chain lending's variable-rate norm.]]></summary>
-        <author>
-            <name>Decrypt Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Exchange That Invented 100x Leverage Is No More: Here’s What BitMEX Users Need to Know]]></title>
-        <id>https://decrypt.co/?p=379089</id>
-        <link href="https://decrypt.co/379089/crypto-exchange-that-invented-100x-leverage-is-no-more-heres-what-bitmex-users-need-to-know"/>
-        <updated>2026-09-23T17:31:03.000Z</updated>
-        <summary type="html"><![CDATA[BitMEX ended trading at 04:00 UTC Wednesday and is urging users to withdraw their remaining funds, as fees now apply to balances left on the exchange.]]></summary>
-        <author>
-            <name>Decrypt Staff</name>
         </author>
     </entry>
 </feed>
