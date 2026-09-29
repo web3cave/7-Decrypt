@@ -6,12 +6,42 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=379508",
+          "author": "Jose Antonio Lanz",
+          "description": "OpenAI says its agents keep landing on government websites because they treat them as reliable sources, but it's pausing training while it adds safeguards.",
+          "link": "https://decrypt.co/379508/openai-ai-agents-target-us-government-sites",
+          "publishedOn": "2026-09-28T21:46:03.000Z",
+          "wordCount": 12883,
+          "title": "OpenAI Halts Model Training as Rogue Agents Target US Government Sites",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-sam-altman-3-gID_7.png@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-sam-altman-3-gID_7.png@png"
+        },
+        {
+          "id": "https://decrypt.co/?p=379505",
+          "author": "Jose Antonio Lanz",
+          "description": "A UC San Diego-led team impersonated a hardware security module without extracting its key.",
+          "link": "https://decrypt.co/379505/rsa-attack-without-stealing-key-what-it-means-crypto",
+          "publishedOn": "2026-09-28T21:16:03.000Z",
+          "wordCount": 12808,
+          "title": "A Clever RSA Attack Fooled a Hardware Vault—Here's What It Means for Crypto",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/blockchain-decrypt-style-02-gID_7.jpg@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/blockchain-decrypt-style-02-gID_7.jpg@png"
+        },
+        {
           "id": "https://decrypt.co/?p=379497",
           "author": "Decrypt Agent",
           "description": "Coinbase and Citi expanded an existing deal so Citi's institutional clients can accept stablecoin payments, while Coinbase business accounts run on Citi's banking rails.",
           "link": "https://decrypt.co/379497/citi-stablecoin-payments-coinbase-without-touching-crypto",
           "publishedOn": "2026-09-28T20:36:03.000Z",
-          "wordCount": 11457,
+          "wordCount": 11427,
           "title": "Citi Clients Can Now Take Stablecoin Payments Through Coinbase—Without Touching Crypto",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/citi-decrypt-style-gID_7.jpg@png",
@@ -26,7 +56,7 @@
           "description": "Anthropic's mid-tier model tops its own flagship on Terminal-Bench 4.0 and costs half as much per token, but an independent tester found it burns more tokens than any model it has measured.",
           "link": "https://decrypt.co/379482/anthropic-claude-sonnet-5-5-release",
           "publishedOn": "2026-09-28T20:06:03.000Z",
-          "wordCount": 10433,
+          "wordCount": 10403,
           "title": "Anthropic's Claude Sonnet 5.5 Is Out, Beats Opus 5.5 at Coding for Half the Price",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-anthropic-claude-gID_7.jpg@png",
@@ -41,7 +71,7 @@
           "description": "Senator Sarah Hanson-Young has invited the OpenAI and Anthropic CEOs to a Canberra hearing on October 1, after an OpenAI agent quietly accessed Australia's Medicare data and nobody said a word for months.",
           "link": "https://decrypt.co/379481/australia-sam-altman-dario-amodei-ai-hack",
           "publishedOn": "2026-09-28T19:36:21.000Z",
-          "wordCount": 12685,
+          "wordCount": 12655,
           "title": "After AI Agent Hacked Its Government, Australia Calls Altman and Amodei to Testify",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/Sydney-gID_7.jpg@png",
@@ -56,7 +86,7 @@
           "description": "OpenShell and Sentry give AI agents a hardware-enforced leash, arriving after a summer of agents breaching a government site, hacking their own tests, and going rogue during a security evaluation.",
           "link": "https://decrypt.co/379468/nvidia-kill-switch-ai-agents",
           "publishedOn": "2026-09-28T18:46:03.000Z",
-          "wordCount": 13025,
+          "wordCount": 12995,
           "title": "Nvidia Built a Kill Switch for AI Agents Because They Keep Getting Out",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/07/nvidia-logo-decrypt-style-02-gID_7.png@png",
@@ -71,7 +101,7 @@
           "description": "Strive bought 1,107 BTC for $94.5 million last week, lifting its holdings to 27,462 BTC, with its SATA preferred stock supplying 85% of the capital.",
           "link": "https://decrypt.co/379465/strive-buys-94-5-million-in-bitcoin-pushing-holdings-past-27000-btc",
           "publishedOn": "2026-09-28T18:16:02.000Z",
-          "wordCount": 11685,
+          "wordCount": 11655,
           "title": "Strive Buys $94.5 Million in Bitcoin, Pushing Holdings Past 27,000 BTC",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin_chart-1-gID_7.png@png",
@@ -86,7 +116,7 @@
           "description": "Chainlink's CCIP 2.0 lets banks run their own security checks on cross-chain transfers, five months after a rival's setup lost $292 million to hackers.",
           "link": "https://decrypt.co/379463/chainlink-institutions-add-bridge-checks-kelp-hack",
           "publishedOn": "2026-09-28T17:51:14.000Z",
-          "wordCount": 12922,
+          "wordCount": 12892,
           "title": "Months After the $292M Kelp Hack, Chainlink Lets Institutions Add Their Own Bridge Checks",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/chainlink-decrypt-style-01-gID_7.jpg@png",
@@ -101,7 +131,7 @@
           "description": "Hegota will be Ethereum's last 'normal' fork, he argues, with everything after built on recursive STARKs and formal verification.",
           "link": "https://decrypt.co/379461/vitalik-buterin-outlines-cryptographic-world-computer-plan-for-ethereum",
           "publishedOn": "2026-09-28T16:29:42.000Z",
-          "wordCount": 10928,
+          "wordCount": 10898,
           "title": "Vitalik Buterin Outlines 'Cryptographic World Computer' Plan for Ethereum",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Ethereum-Vitalik-Buterin-decrypt-style-decrypt-source-01-gID_7.png@png",
@@ -116,7 +146,7 @@
           "description": "Bitcoin extends last week's pullback as Trump rejects Iran's ceasefire plan, sending oil above $100 and yields higher ahead of Wednesday's PCE report.",
           "link": "https://decrypt.co/379438/bitcoin-price-falls-trump-iran-oil-yields",
           "publishedOn": "2026-09-28T15:26:28.000Z",
-          "wordCount": 13744,
+          "wordCount": 13714,
           "title": "Bitcoin Falls Lower as Trump's Iran Snub Sends Oil, Yields Higher",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-trading-decrypt-style-01-gID_7.png@png",
@@ -131,7 +161,7 @@
           "description": "Bitmine has staked 84% of its tokens, a position it projects will generate some $358 million a year in staking rewards.",
           "link": "https://decrypt.co/379418/tom-lees-bitmine-buys-another-47m-of-eth-taking-it-to-4-9-of-ethereum-supply",
           "publishedOn": "2026-09-28T13:27:40.000Z",
-          "wordCount": 9680,
+          "wordCount": 9650,
           "title": "Tom Lee's Bitmine Buys Another $47M of ETH, Taking It to 4.9% of Ethereum Supply",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/11/tom-lee-fundstrat-decrypt-style-02-gID_7.jpg@png",
@@ -146,7 +176,7 @@
           "description": "Michael Saylor's Bitcoin treasury firm bought 1,665 BTC last week, taking its holdings above its previous record to 847,666 BTC.",
           "link": "https://decrypt.co/379415/strategy-sets-new-btc-holdings-record-after-143m-bitcoin-purchase",
           "publishedOn": "2026-09-28T12:45:41.000Z",
-          "wordCount": 12876,
+          "wordCount": 12846,
           "title": "Strategy Sets New BTC Holdings Record After $143M Bitcoin Purchase",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/michael-saylor-microstrategy-youtube-gID_7.png@png",
@@ -161,7 +191,7 @@
           "description": "The Gary Gensler era is long gone and now the SEC is providing clarity on what crypto protocols can and can’t do with their tokens.",
           "link": "https://decrypt.co/379412/morning-minute-sec-clears-token-buybacks-for-crypto-networks",
           "publishedOn": "2026-09-28T12:03:21.000Z",
-          "wordCount": 14211,
+          "wordCount": 14181,
           "title": "Morning Minute: SEC Clears Token Buybacks for Crypto Networks",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/12/SEC2-gID_7.jpg@png",
@@ -176,7 +206,7 @@
           "description": "Governor Gavin Newsom’s legislation bars public officials from issuing meme coins and exchanges from listing tokens tied to politicians.",
           "link": "https://decrypt.co/379404/california-bans-public-officials-from-issuing-meme-coins-under-new-newsom-law",
           "publishedOn": "2026-09-28T10:16:25.000Z",
-          "wordCount": 11349,
+          "wordCount": 11319,
           "title": "California Bans Public Officials From Issuing Meme Coins Under New Newsom Law",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/gavin-newsom-decrypt-style-01-gID_7.jpg@png",
@@ -191,7 +221,7 @@
           "description": "An OpenAI agent's breach of an Australian government website is the starkest example yet of a pattern building for months—and of how hard autonomous AI is to contain.",
           "link": "https://decrypt.co/379402/ai-agents-keep-escaping-creators-control",
           "publishedOn": "2026-09-27T16:01:03.000Z",
-          "wordCount": 12621,
+          "wordCount": 12591,
           "title": "AI Agents Keep Escaping Their Creators' Control—Here's What We Know",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/test-2-gID_7.png@png",
@@ -206,7 +236,7 @@
           "description": "Three developments this week—a cost breakthrough, a new privacy design, and a custody playbook—show a field moving from theory to logistics, even as \"Q-Day\" remains hypotheti",
           "link": "https://decrypt.co/379400/bitcoins-quantum-problem-three-ways-researchers-are-trying-to-fix-it",
           "publishedOn": "2026-09-27T15:01:03.000Z",
-          "wordCount": 12200,
+          "wordCount": 12170,
           "title": "Bitcoin's Quantum Problem: Three Ways Researchers Are Trying to Fix It",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-glasses-decrypt-style-gID_7.png@png",
@@ -221,7 +251,7 @@
           "description": "New SEC staff guidance says announcing a token buyback on a functional network isn't a promise that turns the token into a security, a shift one attorney says makes securities laws look \"opt-in.\"",
           "link": "https://decrypt.co/379398/sec-staff-token-buybacks-dont-make-crypto-security",
           "publishedOn": "2026-09-27T13:01:03.000Z",
-          "wordCount": 12126,
+          "wordCount": 12096,
           "title": "SEC Staff Says Token Buybacks Don't Make Crypto a Security—If the Network Works",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/SecuritiesExchange_logo-gID_7.png@png",
@@ -236,7 +266,7 @@
           "description": "Bitcoin ETFs have drawn nearly $3 billion over seven straight sessions, erasing post-Clarity Act losses and pushing 2026 flows back into positive territory.",
           "link": "https://decrypt.co/379391/bitcoin-etfs-notch-seven-day-winning-streak-as-2026-flows-turn-green",
           "publishedOn": "2026-09-26T17:01:03.000Z",
-          "wordCount": 11749,
+          "wordCount": 11719,
           "title": "Bitcoin ETFs Notch Seven-Day Winning Streak as 2026 Flows Turn Green",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-02-gID_7.png@png",
@@ -251,7 +281,7 @@
           "description": "After the Clarity Act failed in the Senate, the SEC, CFTC, and the Fed moved within days to write crypto's rules themselves. Will it be enough?",
           "link": "https://decrypt.co/379383/how-crypto-stopped-waiting-congress-learned-love-regulators",
           "publishedOn": "2026-09-26T16:06:03.000Z",
-          "wordCount": 12612,
+          "wordCount": 12582,
           "title": "How Crypto Stopped Waiting for Congress and Learned to Love the Regulators",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/US-Capitol-decrypt-style-02-gID_7.png@png",
@@ -266,7 +296,7 @@
           "description": "An open competition run by StarkWare, Yukon Research, and Eigen Labs drove the estimated cost of building a quantum-safe Bitcoin transaction from about $320 to roughly $67, with AI models topping the leaderboards.",
           "link": "https://decrypt.co/379378/ai-agents-racing-make-quantum-safe-bitcoin-cheap",
           "publishedOn": "2026-09-26T15:01:05.000Z",
-          "wordCount": 12138,
+          "wordCount": 12108,
           "title": "AI Agents Are Racing to Make Quantum-Safe Bitcoin Cheap—And Winning",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/Bitcoin-decrypt-style-23-gID_7.jpg@png",
@@ -281,7 +311,7 @@
           "description": "Google Vids now lets any Google account holder generate free HD AI video using Gemini Omni 1.1 Flash, with new scene, timing, and watermark controls.",
           "link": "https://decrypt.co/379353/google-free-1080p-ai-video-generation",
           "publishedOn": "2026-09-26T13:01:03.000Z",
-          "wordCount": 12607,
+          "wordCount": 12577,
           "title": "Google Just Made Free 1080p AI Video Generation Available to Anyone",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/decrypt-style-google-3-gID_7.png@png",
@@ -296,7 +326,7 @@
           "description": "Federal prosecutors are targeting a Montana payments firm and a Caribbean bank accused of moving money without a license.",
           "link": "https://decrypt.co/379380/us-prosecutors-84-million-bank-tether-and-bitfinex",
           "publishedOn": "2026-09-25T21:25:35.000Z",
-          "wordCount": 12111,
+          "wordCount": 12081,
           "title": "US Prosecutors Want $84.2 Million From a Bank Tied to Tether",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Judge-decrypt-style-2-gID_7.png@png",
@@ -311,7 +341,7 @@
           "description": "Darktrace's new Signal Labs found AI agents hacking their own evaluation environment to fake a perfect score—and tricking coding assistants into running unauthorized network attacks.",
           "link": "https://decrypt.co/379369/ai-agents-hacked-test-environment-cheat-darktrace",
           "publishedOn": "2026-09-25T19:45:39.000Z",
-          "wordCount": 12823,
+          "wordCount": 12793,
           "title": "AI Agents Hacked Their Own Test Environment to Cheat, Cybersecurity Firm Finds",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/ai-agents-decrypt-style-gID_7.jpg@png",
@@ -326,7 +356,7 @@
           "description": "Google's PageBreak agent autonomously finds and verifies real vulnerabilities in its own web apps, cutting through the flood of noisy AI-generated security reports.",
           "link": "https://decrypt.co/379364/google-built-ai-hunts-security-bugs",
           "publishedOn": "2026-09-25T19:16:04.000Z",
-          "wordCount": 12499,
+          "wordCount": 12469,
           "title": "Google Built an AI That Hunts Its Own Security Bugs",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/decrypt-style-google-3-gID_7.png@png",
@@ -341,7 +371,7 @@
           "description": "The two stablecoin issuers blacklisted a wallet labeled \"Bitget Exploiter 8,\" locking about $318,000 in USDC and USDT—but the attacker swapped most funds into unfreezable ETH before they could act.",
           "link": "https://decrypt.co/379365/circle-tether-freeze-stablecoins-bitget-hack",
           "publishedOn": "2026-09-25T18:42:51.000Z",
-          "wordCount": 11777,
+          "wordCount": 11747,
           "title": "Circle and Tether Freeze Stablecoins Tied to Bitget Hack—But Most Funds Slip Away",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/circle-usdc-tether-usdt-stablecoin-decrypt-style-gID_7.jpg@png",
@@ -356,7 +386,7 @@
           "description": "Leaked code strings and screenshots point to a new tier that would cost 25 times more than ChatGPT Plus, aimed at people who need the bot to work faster, not just longer.",
           "link": "https://decrypt.co/379359/openai-500-per-month-chatgpt-pro-max-plan",
           "publishedOn": "2026-09-25T17:46:05.000Z",
-          "wordCount": 10683,
+          "wordCount": 10653,
           "title": "OpenAI Is Building a $500 per Month ChatGPT Pro Max Plan, Leaks Suggest",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-2-gID_7.png@png",
@@ -371,7 +401,7 @@
           "description": "An attacker faked internal transfer requests to drain $387.5 million from Bitget's hot and warm wallets, and the exchange's CEO says the fingerprints look like Pyongyang's.",
           "link": "https://decrypt.co/379350/bitget-hack-387m-what-happened-why-north-korea-suspect",
           "publishedOn": "2026-09-25T17:08:57.000Z",
-          "wordCount": 13216,
+          "wordCount": 13186,
           "title": "Bitget Hack Losses Climb to $387M: Here’s What Happened, and Why North Korea Is a Suspect",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/dprk-north-korea-hacker-decrypt-style-gID_7.jpg@png",
@@ -386,7 +416,7 @@
           "description": "A flaw in Limit Break's Payment Processor V2 put old Magic Eden Ethereum listings at risk, prompting a whitehat rescue of more than 23,000 NFTs.",
           "link": "https://decrypt.co/379342/magic-eden-old-ethereum-nft-listings-exposed-exploit",
           "publishedOn": "2026-09-25T16:17:19.000Z",
-          "wordCount": 9746,
+          "wordCount": 9716,
           "title": "Magic Eden Warns Old Ethereum NFT Listings Are Exposed to Payment Processor Exploit",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/decrypt-style-nft-art-gID_7.png@png",
@@ -401,7 +431,7 @@
           "description": "Pullback or reversal? Here's what the charts suggest for BTC.",
           "link": "https://decrypt.co/379319/bitcoin-slows-billion-options-expiry-xrp-solana",
           "publishedOn": "2026-09-25T16:06:23.000Z",
-          "wordCount": 12685,
+          "wordCount": 12655,
           "title": "Bitcoin Rally Slows as $15.6 Billion Options Expiry Hits—XRP and Solana Keep Climbing",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin-decrypt-style-23-gID_7.jpg@png",
@@ -416,7 +446,7 @@
           "description": "STRF, STRC, STRK and STRD would accrue dividends on weekends and holidays, in a move Strategy says will dampen volatility.",
           "link": "https://decrypt.co/379309/strategy-wants-its-preferred-stock-dividends-to-accrue-365-days-a-year",
           "publishedOn": "2026-09-25T13:22:00.000Z",
-          "wordCount": 10106,
+          "wordCount": 10076,
           "title": "Strategy Wants Its Preferred Stock Dividends to Accrue 365 Days a Year",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/decrypt-style-strategy-saylor-le-gID_7.png@png",
@@ -431,7 +461,7 @@
           "description": "The bulk of prediction market trades are still sports bets, while valuations are predicated on rising institutional interest.",
           "link": "https://decrypt.co/379218/morgan-stanley-joins-nextpredict-as-prediction-markets-bet-on-more-institutional-play",
           "publishedOn": "2026-09-25T13:16:03.000Z",
-          "wordCount": 10738,
+          "wordCount": 10708,
           "title": "Morgan Stanley Joins NEXTPredict as Prediction Markets Bet on 'More Institutional' Play",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-morgan-stanley-gID_7.png@png",
@@ -446,7 +476,7 @@
           "description": "The biggest financial institutions in the world are bringing more products onchain, and the pace is accelerating.",
           "link": "https://decrypt.co/379292/morning-minute-blackrock-leans-deeper-into-tokenization-with-ondo",
           "publishedOn": "2026-09-25T13:04:06.000Z",
-          "wordCount": 13600,
+          "wordCount": 13570,
           "title": "Morning Minute: BlackRock Leans Deeper Into Tokenization with Ondo",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/larry-fink-blackrock-decrypt-style-03-gID_7.jpg@png",
@@ -461,7 +491,7 @@
           "description": "Two entries in his annual disclosure put the holding somewhere between $16,000 and $65,000, alongside more than $1 million in cash.",
           "link": "https://decrypt.co/379290/defense-secretary-pete-hegseth-holds-bitcoin-in-a-coinbase-wallet-filing-shows",
           "publishedOn": "2026-09-25T12:01:15.000Z",
-          "wordCount": 11992,
+          "wordCount": 11962,
           "title": "Defense Secretary Pete Hegseth Holds Bitcoin in a Coinbase Wallet, Filing Shows",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/09/pete-hegseth-decrypt-style-gID_7.jpg@png",
@@ -476,7 +506,7 @@
           "description": "Evercrest says LayerZero approved the single-verifier configuration in writing multiple times, then warned a different developer about it.",
           "link": "https://decrypt.co/379288/kelpdao-developer-sues-layerzero-over-292m-bridge-exploit",
           "publishedOn": "2026-09-25T11:09:52.000Z",
-          "wordCount": 9963,
+          "wordCount": 9933,
           "title": "KelpDAO Developer Sues LayerZero Over $292M Bridge Exploit",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Judge-decrypt-style-2-gID_7.png@png",
@@ -491,7 +521,7 @@
           "description": "The Shielded Bitcoin spec hides senders, receivers and amounts, but leaves how BTC enters and exits the system to a later paper.",
           "link": "https://decrypt.co/379280/researchers-publish-zcash-style-design-for-private-bitcoin-transfers",
           "publishedOn": "2026-09-25T09:50:01.000Z",
-          "wordCount": 10682,
+          "wordCount": 10652,
           "title": "Researchers Publish 'Zcash-Style' Design for Private Bitcoin Transfers",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/Bitcoin-decrypt-style-23-gID_7.jpg@png",
@@ -506,7 +536,7 @@
           "description": "The central bank opened two proposals for comment under the GENIUS Act, requiring issuers it supervises to back tokens fully with safe assets and creating an application process for banks seeking to issue stablecoins.",
           "link": "https://decrypt.co/379274/federal-reserve-unveils-stablecoin-rules-on-reserves-and-capital",
           "publishedOn": "2026-09-24T21:56:03.000Z",
-          "wordCount": 12006,
+          "wordCount": 11976,
           "title": "Federal Reserve Unveils Stablecoin Rules on Reserves and Capital",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/federal-reserve-decrypt-style-02-gID_7.jpg@png",
@@ -514,36 +544,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/federal-reserve-decrypt-style-02-gID_7.jpg@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=379275",
-          "author": "Jose Antonio Lanz",
-          "description": "A newly created wallet drained hot and cold reserves labeled as belonging to Bitget across multiple blockchains in under an hour.",
-          "link": "https://decrypt.co/379275/bitget-hack-183-million-crypto-exchange-wallets",
-          "publishedOn": "2026-09-24T21:15:38.000Z",
-          "wordCount": 10925,
-          "title": "Bitget Hacked as $350 Million Vanishes From Crypto Exchange Wallets",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Hacker1-gID_7.png@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Hacker1-gID_7.png@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=379272",
-          "author": "Jose Antonio Lanz",
-          "description": "A proposed class action accuses OpenAI of quietly routing real conversations to outside contractors through a program called Project Lily—without telling users first.",
-          "link": "https://decrypt.co/379272/humans-reading-chatgpt-chats-lawsuit",
-          "publishedOn": "2026-09-24T20:01:03.000Z",
-          "wordCount": 12396,
-          "title": "Humans Are Reading Your ChatGPT Chats, New Lawsuit Claims",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/ChatGPT-gID_7.jpg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/ChatGPT-gID_7.jpg@png"
         }
       ]
     }

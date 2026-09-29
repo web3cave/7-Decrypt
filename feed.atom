@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-09-28T20:56:36.461Z</id>
+    <id>urn:2026-09-29T00:46:59.622Z</id>
     <title>web3::cave</title>
-    <updated>2026-09-28T20:56:36.461Z</updated>
+    <updated>2026-09-29T00:46:59.622Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[OpenAI Halts Model Training as Rogue Agents Target US Government Sites]]></title>
+        <id>https://decrypt.co/?p=379508</id>
+        <link href="https://decrypt.co/379508/openai-ai-agents-target-us-government-sites"/>
+        <updated>2026-09-28T21:46:03.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI says its agents keep landing on government websites because they treat them as reliable sources, but it's pausing training while it adds safeguards.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Clever RSA Attack Fooled a Hardware Vault—Here's What It Means for Crypto]]></title>
+        <id>https://decrypt.co/?p=379505</id>
+        <link href="https://decrypt.co/379505/rsa-attack-without-stealing-key-what-it-means-crypto"/>
+        <updated>2026-09-28T21:16:03.000Z</updated>
+        <summary type="html"><![CDATA[A UC San Diego-led team impersonated a hardware security module without extracting its key.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Citi Clients Can Now Take Stablecoin Payments Through Coinbase—Without Touching Crypto]]></title>
         <id>https://decrypt.co/?p=379497</id>
@@ -343,26 +363,6 @@
         <summary type="html"><![CDATA[The central bank opened two proposals for comment under the GENIUS Act, requiring issuers it supervises to back tokens fully with safe assets and creating an application process for banks seeking to issue stablecoins.]]></summary>
         <author>
             <name>Decrypt Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitget Hacked as $350 Million Vanishes From Crypto Exchange Wallets]]></title>
-        <id>https://decrypt.co/?p=379275</id>
-        <link href="https://decrypt.co/379275/bitget-hack-183-million-crypto-exchange-wallets"/>
-        <updated>2026-09-24T21:15:38.000Z</updated>
-        <summary type="html"><![CDATA[A newly created wallet drained hot and cold reserves labeled as belonging to Bitget across multiple blockchains in under an hour.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Humans Are Reading Your ChatGPT Chats, New Lawsuit Claims]]></title>
-        <id>https://decrypt.co/?p=379272</id>
-        <link href="https://decrypt.co/379272/humans-reading-chatgpt-chats-lawsuit"/>
-        <updated>2026-09-24T20:01:03.000Z</updated>
-        <summary type="html"><![CDATA[A proposed class action accuses OpenAI of quietly routing real conversations to outside contractors through a program called Project Lily—without telling users first.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
         </author>
     </entry>
 </feed>
