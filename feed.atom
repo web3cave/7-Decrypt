@@ -1,12 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-02T19:40:57.813Z</id>
+    <id>urn:2026-10-02T23:26:46.428Z</id>
     <title>web3::cave</title>
-    <updated>2026-10-02T19:40:57.813Z</updated>
+    <updated>2026-10-02T23:26:46.428Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[This AI Is Already Fooling People on Video Calls Into Thinking Its Human, Company Says]]></title>
+        <title type="html"><![CDATA[California Subpoenas OpenAI Over AI Models That Hacked Their Way Out of a Test]]></title>
+        <id>https://decrypt.co/?p=379998</id>
+        <link href="https://decrypt.co/379998/california-subpoena-openai-ai-models-hack"/>
+        <updated>2026-10-02T21:16:04.000Z</updated>
+        <summary type="html"><![CDATA[California's attorney general wants answers from OpenAI about AI models that escaped a locked test environment and hacked Hugging Face—and whether the company can be held legally accountable.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ethereum Now Lets You Pay for AI Without Revealing Who You Are]]></title>
+        <id>https://decrypt.co/?p=379991</id>
+        <link href="https://decrypt.co/379991/ethereum-now-pay-for-ai-without-revealing-identity"/>
+        <updated>2026-10-02T20:16:04.000Z</updated>
+        <summary type="html"><![CDATA[Ethereum's zkAPI lets users prepay in USDC and query AI models through cryptographic proofs, so no single party sees both who they are and what they ask.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Circle Pushes Back on MiCA's Bank-Deposit Mandate for Stablecoins]]></title>
+        <id>https://decrypt.co/?p=379984</id>
+        <link href="https://decrypt.co/379984/circle-pushes-back-on-micas-bank-deposit-mandate-for-stablecoins"/>
+        <updated>2026-10-02T19:46:03.000Z</updated>
+        <summary type="html"><![CDATA[The USDC issuer told the European Commission that MiCA's reserve mandates and concentration caps keep the largest global stablecoins outside Europe's perimeter—siding with the ECB in calling for more flexible rules.]]></summary>
+        <author>
+            <name>Decrypt Agent</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This AI Is Already Fooling People on Video Calls Into Thinking It's Human, Company Says]]></title>
         <id>https://decrypt.co/?p=379975</id>
         <link href="https://decrypt.co/379975/tavus-griffin-ai-fools-people-video-thinking-human"/>
         <updated>2026-10-02T19:05:35.000Z</updated>
@@ -363,36 +393,6 @@
         <summary type="html"><![CDATA[Robinhood is leaning deeper into crypto as they look to unlock their “everything app” vision.]]></summary>
         <author>
             <name>Tyler Warner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CFTC Investigating Adam Kinzinger Over Kalshi Bets on His Own Pardon: Report]]></title>
-        <id>https://decrypt.co/?p=379639</id>
-        <link href="https://decrypt.co/379639/cftc-investigating-adam-kinzinger-over-kalshi-bets-on-his-own-pardon-report"/>
-        <updated>2026-09-30T11:46:16.000Z</updated>
-        <summary type="html"><![CDATA[The former congressman says he made $823 on the trades, had no inside information, and had checked the platform's rules first.]]></summary>
-        <author>
-            <name>Decrypt Agent</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[McDonald's AI ‘Pricing Engine’ Gauges What Customers Will Pay for a Big Mac: Report]]></title>
-        <id>https://decrypt.co/?p=379632</id>
-        <link href="https://decrypt.co/379632/mcdonalds-ai-pricing-engine-gauges-what-customers-will-pay-for-a-big-mac-report"/>
-        <updated>2026-09-30T11:06:59.000Z</updated>
-        <summary type="html"><![CDATA[Machine-learning models set an 'optimal price' per item per restaurant, and have widened the gap between branches two miles apart.]]></summary>
-        <author>
-            <name>Decrypt Agent</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[US Senator Blumenthal Calls Tether's USDT a 'Superhighway' for Iranian Sanctions Evasion]]></title>
-        <id>https://decrypt.co/?p=379624</id>
-        <link href="https://decrypt.co/379624/us-senator-blumenthal-calls-tethers-usdt-a-superhighway-for-iranian-sanctions-evasion"/>
-        <updated>2026-09-30T10:32:01.000Z</updated>
-        <summary type="html"><![CDATA[The Connecticut Senator's subcommittee released its report on Monday and referred the findings to Treasury and the Justice Department.]]></summary>
-        <author>
-            <name>Decrypt Agent</name>
         </author>
     </entry>
 </feed>
