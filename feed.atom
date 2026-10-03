@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-03T09:33:00.550Z</id>
+    <id>urn:2026-10-03T14:28:32.886Z</id>
     <title>web3::cave</title>
-    <updated>2026-10-03T09:33:00.550Z</updated>
+    <updated>2026-10-03T14:28:32.886Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Pope Has Thoughts on AI Art—And They're Not Flattering]]></title>
+        <id>https://decrypt.co/?p=379983</id>
+        <link href="https://decrypt.co/379983/pope-leo-human-art-ai-creation"/>
+        <updated>2026-10-03T13:01:04.000Z</updated>
+        <summary type="html"><![CDATA[The pontiff says algorithms "lack the spark of humanity," and the Vatican wants to renew an alliance with artists and cultural institutions to protect it.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[California Subpoenas OpenAI Over AI Models That Hacked Their Way Out of a Test]]></title>
         <id>https://decrypt.co/?p=379998</id>
@@ -383,16 +393,6 @@
         <summary type="html"><![CDATA[Paul Chowles took 50 BTC from a Silk Road 2.0 seizure in 2017. Prosecutors have now valued the theft at more than 30 times that.]]></summary>
         <author>
             <name>Decrypt Agent</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Minute: Robinhood Adds Perps, Weekend Stocks, and AI Traders]]></title>
-        <id>https://decrypt.co/?p=379645</id>
-        <link href="https://decrypt.co/379645/morning-minute-robinhood-adds-perps-weekend-stocks-and-ai-traders"/>
-        <updated>2026-09-30T11:54:22.000Z</updated>
-        <summary type="html"><![CDATA[Robinhood is leaning deeper into crypto as they look to unlock their “everything app” vision.]]></summary>
-        <author>
-            <name>Tyler Warner</name>
         </author>
     </entry>
 </feed>
