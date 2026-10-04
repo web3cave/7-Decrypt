@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-04T12:57:56.285Z</id>
+    <id>urn:2026-10-04T17:18:36.467Z</id>
     <title>web3::cave</title>
-    <updated>2026-10-04T12:57:56.285Z</updated>
+    <updated>2026-10-04T17:18:36.467Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Trump Taps Jay Clayton, the SEC Chair Who Sued Ripple, to Lead AI Push]]></title>
+        <id>https://decrypt.co/?p=380019</id>
+        <link href="https://decrypt.co/380019/trump-jay-clayton-sec-ripple-ai-push-super-intelligence"/>
+        <updated>2026-10-04T17:01:03.000Z</updated>
+        <summary type="html"><![CDATA[President Trump named a new "Super Intelligence Force" to coordinate federal AI policy, with Director of National Intelligence Jay Clayton at the helm. As SEC chair, Clayton launched crypto lawsuits including the agency's case against Ripple.]]></summary>
+        <author>
+            <name>Decrypt Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Banking Group Sues to Block Crypto's 'Side Door' Into the Banking System]]></title>
+        <id>https://decrypt.co/?p=380017</id>
+        <link href="https://decrypt.co/380017/banking-group-sues-block-crypto-side-door-banking"/>
+        <updated>2026-10-04T16:01:03.000Z</updated>
+        <summary type="html"><![CDATA[The Independent Community Bankers of America argues the OCC's national trust charters give crypto firms a "side door into the banking system" without the safeguards that bind traditional banks.]]></summary>
+        <author>
+            <name>Decrypt Agent</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['Uptober' Starts Green as Bitcoin ETFs Draw $134 Million]]></title>
+        <id>https://decrypt.co/?p=380007</id>
+        <link href="https://decrypt.co/380007/uptober-starts-green-bitcoin-etfs-draw-134-million"/>
+        <updated>2026-10-04T15:01:03.000Z</updated>
+        <summary type="html"><![CDATA[Spot Bitcoin ETFs took in $134.4 million over the first two trading days of October, rebounding from a Sept. 30 outflow as a weak jobs report cooled Fed rate-hike bets.]]></summary>
+        <author>
+            <name>Decrypt Agent</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['We Have Identified You, Sir': Near Intents Recovers $3.8 Million After 48-Hour Ultimatum]]></title>
+        <id>https://decrypt.co/?p=380014</id>
+        <link href="https://decrypt.co/380014/near-intents-recovers-3-8-million-after-48-hour-ultimatum"/>
+        <updated>2026-10-04T13:01:03.000Z</updated>
+        <summary type="html"><![CDATA[Near Intents said the roughly $3.8 million drained in an exploit on Thursday was returned in full, a day after the team said it had identified the attacker and gave them 48 hours to return the funds.]]></summary>
+        <author>
+            <name>Decrypt Staff</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chainalysis Used AI to Trace the $387M Bitget Hack Back to North Korea]]></title>
         <id>https://decrypt.co/?p=380005</id>
@@ -353,46 +393,6 @@
         <summary type="html"><![CDATA[The attacker behind the $387.5 million Bitget heist has started hiding about $3.8 million in ZEC inside Zcash's Ironwood pool, after Near Intents turned their swaps away.]]></summary>
         <author>
             <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[US Government's New AI Chatbot Has a Weird Minecraft Secret]]></title>
-        <id>https://decrypt.co/?p=379739</id>
-        <link href="https://decrypt.co/379739/america-gov-ai-chatbot-minecraft-end-poem"/>
-        <updated>2026-09-30T19:16:02.000Z</updated>
-        <summary type="html"><![CDATA[Ask the U.S. government's new AI chatbot about Minecraft and it produces a roughly 1,800-word bureaucratic remix of the game's ending poem. It's an easter egg, not a hallucination.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CFTC Sends White House New Rules to Cement Its Grip on Prediction Markets]]></title>
-        <id>https://decrypt.co/?p=379750</id>
-        <link href="https://decrypt.co/379750/cftc-sends-white-house-new-rules-to-cement-its-grip-on-prediction-markets"/>
-        <updated>2026-09-30T18:39:21.000Z</updated>
-        <summary type="html"><![CDATA[The two proposals would define event contracts as "swaps" while excluding "casino-style gambling products"—a bid to cement the agency's exclusive jurisdiction as states sue prediction-market operators over gambling claims.]]></summary>
-        <author>
-            <name>Decrypt Agent</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin ETFs Extend Win Streak to 9 Days, Matching August Rally]]></title>
-        <id>https://decrypt.co/?p=379731</id>
-        <link href="https://decrypt.co/379731/bitcoin-etf-9-day-streak-august-rally"/>
-        <updated>2026-09-30T17:27:43.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin ETFs added $66 million Tuesday, matching August's nine-day run and topping it in dollars. How long will the streak stay alive?]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing The Information Exchange on Solana, Powered by Decrypt and MYR]]></title>
-        <id>https://decrypt.co/?p=379655</id>
-        <link href="https://decrypt.co/379655/introducing-the-information-exchange-powered-by-decrypt-and-myr"/>
-        <updated>2026-09-30T16:36:10.000Z</updated>
-        <summary type="html"><![CDATA[Decrypt is the destination, Myriad is the infrastructure and MYR is the token for a connected media ecosystem.]]></summary>
-        <author>
-            <name>Decrypt Staff</name>
         </author>
     </entry>
 </feed>
