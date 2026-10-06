@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-06T01:08:05.447Z</id>
+    <id>urn:2026-10-06T08:20:58.770Z</id>
     <title>web3::cave</title>
-    <updated>2026-10-06T01:08:05.447Z</updated>
+    <updated>2026-10-06T08:20:58.770Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Solana Debuts Institutional Settlement Standard With J.P. Morgan Input]]></title>
+        <id>https://decrypt.co/?p=380126</id>
+        <link href="https://decrypt.co/380126/solana-institutional-settlement-standard-jp-morgan"/>
+        <updated>2026-10-06T02:01:03.000Z</updated>
+        <summary type="html"><![CDATA[Built with input from J.P. Morgan, the open-source "DvP" program lets institutions settle trades atomically on Solana with finality in seconds instead of days.]]></summary>
+        <author>
+            <name>Decrypt Staff</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Strive Adds $169M Bitcoin in Its Biggest Buy in Four Months]]></title>
         <id>https://decrypt.co/?p=380129</id>
@@ -373,26 +383,6 @@
         <summary type="html"><![CDATA[The proposal would let advisers and funds use state trust companies as custodians and permit self-custody under certain conditions, aiming to replace years of ambiguity with a clear compliance path.]]></summary>
         <author>
             <name>Decrypt Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reddit Is Killing RSS Feeds and Public API Access to Fight AI Scrapers]]></title>
-        <id>https://decrypt.co/?p=379892</id>
-        <link href="https://decrypt.co/379892/reddit-killing-rss-feeds-public-api-access-ai-scrapers"/>
-        <updated>2026-10-01T20:31:03.000Z</updated>
-        <summary type="html"><![CDATA[Reddit RSS dies November 13 and outside apps lose their data pipeline by March 2027. Reddit blames scraping bots, though it licenses its own content to AI companies.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI Says People Linked to China's Moonshot Tried to Copy Its AI's Hidden Reasoning]]></title>
-        <id>https://decrypt.co/?p=379890</id>
-        <link href="https://decrypt.co/379890/openai-china-moonshot-copy-ai-hidden-reasoning"/>
-        <updated>2026-10-01T19:46:03.000Z</updated>
-        <summary type="html"><![CDATA[OpenAI says it disrupted a campaign involving 15,000+ users and ties a core cluster to people associated with Moonshot, the startup behind Kimi.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
         </author>
     </entry>
 </feed>
