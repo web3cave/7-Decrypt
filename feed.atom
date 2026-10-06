@@ -1,10 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-06T15:34:44.603Z</id>
+    <id>urn:2026-10-06T20:40:46.169Z</id>
     <title>web3::cave</title>
-    <updated>2026-10-06T15:34:44.603Z</updated>
+    <updated>2026-10-06T20:40:46.169Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Pudgy Penguins' Ethereum Layer-2 Abstract Is Shutting Down]]></title>
+        <id>https://decrypt.co/?p=380225</id>
+        <link href="https://decrypt.co/380225/pudgy-penguin-ethereum-layer-2-abstract-shutting-down"/>
+        <updated>2026-10-06T20:28:53.000Z</updated>
+        <summary type="html"><![CDATA[Abstract will shut down Dec. 15, saying a chain focused solely on consumer crypto proved unsustainable, and is urging users to bridge their assets off before then.]]></summary>
+        <author>
+            <name>Decrypt Agent</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tether Hit With Lawsuit Over $2.76 Million Stablecoin Freeze]]></title>
+        <id>https://decrypt.co/?p=380222</id>
+        <link href="https://decrypt.co/380222/tether-lawsuit-2-76-million-stablecoin-freeze"/>
+        <updated>2026-10-06T19:46:04.000Z</updated>
+        <summary type="html"><![CDATA[The payments firm alleges Tether froze its treasury wallet on its own initiative over a Brazilian investigation it has no connection to—and has profited from the reserves while refusing to release the funds for more than a year.]]></summary>
+        <author>
+            <name>Decrypt Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bryan Johnson Spent Millions to Reverse Aging. He Says a Filter Works Better]]></title>
+        <id>https://decrypt.co/?p=380211</id>
+        <link href="https://decrypt.co/380211/bryan-johnson-best-anti-aging-filters"/>
+        <updated>2026-10-06T19:15:04.000Z</updated>
+        <summary type="html"><![CDATA[The face of the "Don't Die" movement now says retouching beats therapy for looking young. His transformation over the summer may explain why.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Another Zcash ETF Is Coming: Winklevoss Twins File for 'WINK']]></title>
+        <id>https://decrypt.co/?p=380210</id>
+        <link href="https://decrypt.co/380210/another-zcash-etf-coming-winklevoss-twins-wink"/>
+        <updated>2026-10-06T18:42:34.000Z</updated>
+        <summary type="html"><![CDATA[The proposed fund would hold ZEC directly, trade on Nasdaq under "WINK" with Gemini as custodian, and add the Winklevoss twins to a wave of institutional interest in the privacy coin.]]></summary>
+        <author>
+            <name>Decrypt Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mistral AI Drops 'Le Chonk': A Massive AI Model Named After a Cat Meme]]></title>
+        <id>https://decrypt.co/?p=380192</id>
+        <link href="https://decrypt.co/380192/mistral-ai-drops-le-chonk-massive-ai-model-cat-meme"/>
+        <updated>2026-10-06T17:22:54.000Z</updated>
+        <summary type="html"><![CDATA[Paris-based Mistral launched Large 4, a model nicknamed after a June internet joke. It tops GPT-6 Astra on one finance test, but trails Claude on others.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Falls Asleep, But Privacy Coins Zcash and Monero Are Waking Up]]></title>
+        <id>https://decrypt.co/?p=380172</id>
+        <link href="https://decrypt.co/380172/bitcoin-asleep-privacy-coins-zcash-monero-waking-up"/>
+        <updated>2026-10-06T16:38:15.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin and Ethereum barely moved today, but Zcash and Monero are leading the largest coins over the last 24 hours.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Flash Loan Attacks Drained $1.2B From DeFi Between 2020 and 2024: Study]]></title>
         <id>https://decrypt.co/?p=380166</id>
@@ -311,66 +371,6 @@
         <link href="https://decrypt.co/379998/california-subpoena-openai-ai-models-hack"/>
         <updated>2026-10-02T21:16:04.000Z</updated>
         <summary type="html"><![CDATA[California's attorney general wants answers from OpenAI about AI models that escaped a locked test environment and hacked Hugging Face—and whether the company can be held legally accountable.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethereum Now Lets You Pay for AI Without Revealing Who You Are]]></title>
-        <id>https://decrypt.co/?p=379991</id>
-        <link href="https://decrypt.co/379991/ethereum-now-pay-for-ai-without-revealing-identity"/>
-        <updated>2026-10-02T20:16:04.000Z</updated>
-        <summary type="html"><![CDATA[Ethereum's zkAPI lets users prepay in USDC and query AI models through cryptographic proofs, so no single party sees both who they are and what they ask.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Circle Pushes Back on MiCA's Bank-Deposit Mandate for Stablecoins]]></title>
-        <id>https://decrypt.co/?p=379984</id>
-        <link href="https://decrypt.co/379984/circle-pushes-back-on-micas-bank-deposit-mandate-for-stablecoins"/>
-        <updated>2026-10-02T19:46:03.000Z</updated>
-        <summary type="html"><![CDATA[The USDC issuer told the European Commission that MiCA's reserve mandates and concentration caps keep the largest global stablecoins outside Europe's perimeter—siding with the ECB in calling for more flexible rules.]]></summary>
-        <author>
-            <name>Decrypt Agent</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This AI Is Already Fooling People on Video Calls Into Thinking It's Human, Company Says]]></title>
-        <id>https://decrypt.co/?p=379975</id>
-        <link href="https://decrypt.co/379975/tavus-griffin-ai-fools-people-video-thinking-human"/>
-        <updated>2026-10-02T19:05:35.000Z</updated>
-        <summary type="html"><![CDATA[Tavus says 26 of 54 people on a one-minute video call thought its new Griffin model was human. The results are the company's own, and the model isn't going to retail customers yet.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Once a $2.3 Billion Network, Ethereum Layer-2 Blast Is Shutting Down]]></title>
-        <id>https://decrypt.co/?p=379972</id>
-        <link href="https://decrypt.co/379972/ethereum-layer-2-blast-shutting-down"/>
-        <updated>2026-10-02T17:47:06.000Z</updated>
-        <summary type="html"><![CDATA[Blast said operating costs now exceed the revenue its Ethereum layer-2 generates and asked users to withdraw their assets to mainnet before Oct. 26.]]></summary>
-        <author>
-            <name>Decrypt Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nvidia Hits Record High as Market Value Reaches $5.7 Trillion]]></title>
-        <id>https://decrypt.co/?p=379959</id>
-        <link href="https://decrypt.co/379959/nvidia-hits-record-high-market-value-5-7-trillion"/>
-        <updated>2026-10-02T17:30:40.000Z</updated>
-        <summary type="html"><![CDATA[The AI chipmaker's stock topped its May peak on Friday, helped by a record $150 billion buyback and a weak jobs report that cooled bets on Fed rate hikes.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Heads Higher on Macro Moves: Where Does BTC Go Next?]]></title>
-        <id>https://decrypt.co/?p=379936</id>
-        <link href="https://decrypt.co/379936/bitcoin-heads-higher-fed-jobs-where-does-btc-go-next"/>
-        <updated>2026-10-02T16:45:52.000Z</updated>
-        <summary type="html"><![CDATA[A jobs report miss just erased the odds of an October rate hike, and BTC is now knocking on the door of its yearly ceiling.]]></summary>
         <author>
             <name>Jose Antonio Lanz</name>
         </author>
