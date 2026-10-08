@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-07T20:20:22.723Z</id>
+    <id>urn:2026-10-08T00:36:31.904Z</id>
     <title>web3::cave</title>
-    <updated>2026-10-07T20:20:22.723Z</updated>
+    <updated>2026-10-08T00:36:31.904Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[OpenAI Says a Secret AI Model Cracked Hundreds of Open Math Problems in One Prompt—Mathematicians Want Receipts]]></title>
+        <id>https://decrypt.co/?p=380366</id>
+        <link href="https://decrypt.co/380366/openai-secret-ai-model-cracked-hundreds-math-problems-one-prompt"/>
+        <updated>2026-10-07T21:46:03.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI posted 722 AI-written math manuscripts from an unreleased model, saying most came from a single prompt. Some mathematicians call the claims unverified.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ethereum Researcher Says AI May Break Encryption Before Quantum Does]]></title>
+        <id>https://decrypt.co/?p=380363</id>
+        <link href="https://decrypt.co/380363/ethereum-researcher-ai-break-encryption-before-quantum"/>
+        <updated>2026-10-07T21:16:03.000Z</updated>
+        <summary type="html"><![CDATA[Ethereum Foundation researcher Justin Drake urged holders to calmly move funds to unused addresses, warning that AI-driven math could break crypto signatures before quantum computers do.]]></summary>
+        <author>
+            <name>Decrypt Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anthropic Launches Haiku 5.5: Its Cheapest and Fastest Claude Model Yet]]></title>
+        <id>https://decrypt.co/?p=380351</id>
+        <link href="https://decrypt.co/380351/anthropic-launches-haiku-5-5-cheapest-fastest-claude-model"/>
+        <updated>2026-10-07T20:46:03.000Z</updated>
+        <summary type="html"><![CDATA[Claude Haiku 5.5 costs about 75% less to run than its predecessor and targets high-volume jobs like summaries and live customer support. It arrives 15 days after Opus 5.5.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SEC and CFTC Crypto Rules 'Fall Short' of Clarity, Says Rep. French Hill]]></title>
         <id>https://decrypt.co/?p=380349</id>
@@ -343,36 +373,6 @@
         <summary type="html"><![CDATA[The agency approved a Cboe rule letting six Volatility Shares funds that triple the daily moves of Bitcoin, Ethereum, gold, silver, oil, and natural gas list on a U.S. exchange.]]></summary>
         <author>
             <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CFTC Unveils Plan to Bring Crypto Exchanges Under Federal Oversight]]></title>
-        <id>https://decrypt.co/?p=380090</id>
-        <link href="https://decrypt.co/380090/cftc-plan-crypto-exchanges-federal-oversight-leverage"/>
-        <updated>2026-10-05T16:46:03.000Z</updated>
-        <summary type="html"><![CDATA[The CFTC is seeking public comment on a framework that would create a new federal license for crypto exchanges, with leverage offers as the trigger for oversight.]]></summary>
-        <author>
-            <name>Decrypt Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Just Flashed a Second, Stronger Golden Cross: Here's What That Means]]></title>
-        <id>https://decrypt.co/?p=380067</id>
-        <link href="https://decrypt.co/380067/bitcoin-price-golden-cross-fed-rate"/>
-        <updated>2026-10-05T16:10:00.000Z</updated>
-        <summary type="html"><![CDATA[The Bitcoin rally keeps bumping into the same wall, but a classic bullish signal suggests the trend is built to last.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NEXTPredict Founder: 'Nobody Was Serving' Prediction Markets' Enormous Audience]]></title>
-        <id>https://decrypt.co/?p=379935</id>
-        <link href="https://decrypt.co/379935/nextpredict-founder-nobody-was-serving-prediction-markets-enormous-audience"/>
-        <updated>2026-10-05T16:03:03.000Z</updated>
-        <summary type="html"><![CDATA[Reporters from CNBC and CNN are on the program beside the exchanges, two weeks before the midterms put the sector on air.]]></summary>
-        <author>
-            <name>Decrypt Staff</name>
         </author>
     </entry>
 </feed>
