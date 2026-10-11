@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-11T06:39:02.381Z</id>
+    <id>urn:2026-10-11T13:39:19.373Z</id>
     <title>web3::cave</title>
-    <updated>2026-10-11T06:39:02.381Z</updated>
+    <updated>2026-10-11T13:39:19.373Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How Zcash Plans to Hide Your Keys From AI and Quantum Attacks]]></title>
+        <id>https://decrypt.co/?p=380637</id>
+        <link href="https://decrypt.co/380637/zcash-plans-hide-keys-ai-quantum-attacks"/>
+        <updated>2026-10-11T13:00:03.000Z</updated>
+        <summary type="html"><![CDATA[Zakura, a Zcash full node developer, says it expects hash-based signatures to land in Zcash in January, and is rolling out a privacy tool for rotating transparent addresses this week.]]></summary>
+        <author>
+            <name>Decrypt Staff</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CFTC Draws the Line Between Prediction Markets and Gambling in New Rules]]></title>
         <id>https://decrypt.co/?p=380635</id>
@@ -373,16 +383,6 @@
         <summary type="html"><![CDATA[Ethereum Foundation researcher Justin Drake urged holders to calmly move funds to unused addresses, warning that AI-driven math could break crypto signatures before quantum computers do.]]></summary>
         <author>
             <name>Decrypt Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthropic Launches Haiku 5.5: Its Cheapest and Fastest Claude Model Yet]]></title>
-        <id>https://decrypt.co/?p=380351</id>
-        <link href="https://decrypt.co/380351/anthropic-launches-haiku-5-5-cheapest-fastest-claude-model"/>
-        <updated>2026-10-07T20:46:03.000Z</updated>
-        <summary type="html"><![CDATA[Claude Haiku 5.5 costs about 75% less to run than its predecessor and targets high-volume jobs like summaries and live customer support. It arrives 15 days after Opus 5.5.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
         </author>
     </entry>
 </feed>
