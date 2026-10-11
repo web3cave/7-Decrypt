@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-11T13:39:19.373Z</id>
+    <id>urn:2026-10-11T18:31:57.813Z</id>
     <title>web3::cave</title>
-    <updated>2026-10-11T13:39:19.373Z</updated>
+    <updated>2026-10-11T18:31:57.813Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Tokenized Stocks Show Real Demand But Remain Volatile and Illiquid, IMF Finds]]></title>
+        <id>https://decrypt.co/?p=380653</id>
+        <link href="https://decrypt.co/380653/tokenized-stocks-show-real-demand-but-remain-volatile-and-illiquid-imf-finds"/>
+        <updated>2026-10-11T17:11:03.000Z</updated>
+        <summary type="html"><![CDATA[An IMF analysis found that more than half of tokenized stock trading happens outside U.S. market hours, though the roughly $2.3 billion market remains more volatile and less liquid than traditional equities.]]></summary>
+        <author>
+            <name>Decrypt Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin, Ethereum and Solana ETFs All in the Red for October]]></title>
+        <id>https://decrypt.co/?p=380640</id>
+        <link href="https://decrypt.co/380640/bitcoin-ethereum-solana-etfs-red-october"/>
+        <updated>2026-10-11T16:01:03.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin ETFs have seen $386.3 million in net outflows through the first seven trading days of October, while Ethereum funds have now posted nine straight days of losses.]]></summary>
+        <author>
+            <name>Decrypt Agent</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Zcash Plans to Hide Your Keys From AI and Quantum Attacks]]></title>
         <id>https://decrypt.co/?p=380637</id>
@@ -363,26 +383,6 @@
         <summary type="html"><![CDATA[Users can send USDC across borders from late October, three months after Samsung teased stablecoin support without naming a blockchain.]]></summary>
         <author>
             <name>Decrypt Agent</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI Says a Secret AI Model Cracked Hundreds of Open Math Problems in One Prompt—Mathematicians Want Receipts]]></title>
-        <id>https://decrypt.co/?p=380366</id>
-        <link href="https://decrypt.co/380366/openai-secret-ai-model-cracked-hundreds-math-problems-one-prompt"/>
-        <updated>2026-10-07T21:46:03.000Z</updated>
-        <summary type="html"><![CDATA[OpenAI posted 722 AI-written math manuscripts from an unreleased model, saying most came from a single prompt. Some mathematicians call the claims unverified.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethereum Researcher Says AI May Break Encryption Before Quantum Does]]></title>
-        <id>https://decrypt.co/?p=380363</id>
-        <link href="https://decrypt.co/380363/ethereum-researcher-ai-break-encryption-before-quantum"/>
-        <updated>2026-10-07T21:16:03.000Z</updated>
-        <summary type="html"><![CDATA[Ethereum Foundation researcher Justin Drake urged holders to calmly move funds to unused addresses, warning that AI-driven math could break crypto signatures before quantum computers do.]]></summary>
-        <author>
-            <name>Decrypt Staff</name>
         </author>
     </entry>
 </feed>
