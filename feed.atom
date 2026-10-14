@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-13T21:38:50.994Z</id>
+    <id>urn:2026-10-14T00:45:01.810Z</id>
     <title>web3::cave</title>
-    <updated>2026-10-13T21:38:50.994Z</updated>
+    <updated>2026-10-14T00:45:01.810Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[OpenAI Engineer Arrested for Bugging Office, Company Says AI Caught Him]]></title>
+        <id>https://decrypt.co/?p=380896</id>
+        <link href="https://decrypt.co/380896/openai-engineer-arrested-bugging-office-ai-caught-him"/>
+        <updated>2026-10-13T21:46:04.000Z</updated>
+        <summary type="html"><![CDATA[A Saudi national working at OpenAI allegedly hid an encrypted audio recorder behind a TV in an executive meeting room. OpenAI says its own models helped trace it back to him.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Character.AI Files for Bankruptcy as Disney Bids $20 Million—And Users Get Grief Resources]]></title>
         <id>https://decrypt.co/?p=380894</id>
@@ -323,16 +333,6 @@
         <summary type="html"><![CDATA[The Bermuda-based insurer, which runs entirely on Bitcoin, drew the funding from existing backers led by Bain Capital Crypto after a record year driven by demand from wealthy families in Asia, Europe and the Middle East.]]></summary>
         <author>
             <name>Decrypt Agent</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Here’s a Way to Predict When AI Chatbots Will Turn Bad]]></title>
-        <id>https://decrypt.co/?p=380624</id>
-        <link href="https://decrypt.co/380624/formula-predicts-when-ai-chatbot-turn-bad"/>
-        <updated>2026-10-10T15:01:03.000Z</updated>
-        <summary type="html"><![CDATA[Physicists at George Washington University say a formula can estimate when an AI chatbot will flip from good answers to bad ones, and early tests on small models back it up.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
         </author>
     </entry>
 </feed>
