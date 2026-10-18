@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-18T16:14:37.430Z</id>
+    <id>urn:2026-10-18T19:06:33.209Z</id>
     <title>web3::cave</title>
-    <updated>2026-10-18T16:14:37.430Z</updated>
+    <updated>2026-10-18T19:06:33.209Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[MapQuest Now Shows Drivers Where Flock Cameras Are Watching]]></title>
+        <id>https://decrypt.co/?p=381255</id>
+        <link href="https://decrypt.co/381255/mapquest-shows-drivers-where-flock-cameras-watching"/>
+        <updated>2026-10-18T16:31:03.000Z</updated>
+        <summary type="html"><![CDATA[MapQuest’s app now offers an optional map layer that plots known license plate readers from Flock Safety and other vendors, as backlash against the cameras grows.]]></summary>
+        <author>
+            <name>Decrypt Staff</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoin ETFs Shed Nearly $1 Billion in Two Weeks as Uptober Stays Red]]></title>
         <id>https://decrypt.co/?p=381246</id>
@@ -363,16 +373,6 @@
         <summary type="html"><![CDATA[A new Chainalysis report found payments through Coinbase’s x402 protocol surged from about 1,500 in mid-2025 to more than 138 million by Q3 2026, with U.S. wallets dominating spending on AI models.]]></summary>
         <author>
             <name>Decrypt Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Russia's Biggest Bank Sberbank Wins Approval to Trade Bitcoin]]></title>
-        <id>https://decrypt.co/?p=380981</id>
-        <link href="https://decrypt.co/380981/sberbank-russia-bank-trade-crypto-bitcoin"/>
-        <updated>2026-10-14T19:46:03.000Z</updated>
-        <summary type="html"><![CDATA[Sberbank now holds both custody and exchange status under Russia's new crypto law, and plans to bring Bitcoin, Ethereum and USDT to apps used by 110 million retail clients.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
         </author>
     </entry>
 </feed>
