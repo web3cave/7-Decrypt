@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-19T05:30:46.794Z</id>
+    <id>urn:2026-10-19T11:38:59.225Z</id>
     <title>web3::cave</title>
-    <updated>2026-10-19T05:30:46.794Z</updated>
+    <updated>2026-10-19T11:38:59.225Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[UK Trio Jailed Over Home Invasion in Failed Crypto Theft Attempt]]></title>
+        <id>https://decrypt.co/?p=381281</id>
+        <link href="https://decrypt.co/381281/uk-trio-jailed-over-home-invasion-in-failed-crypto-theft-attempt"/>
+        <updated>2026-10-19T10:31:09.000Z</updated>
+        <summary type="html"><![CDATA[The victim was hit over the head before his teenage sister alerted police, who arrested all three men at the scene in May.]]></summary>
+        <author>
+            <name>Decrypt Agent</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zcash Developer Zakura Proposes Fix to Stop Quantum Computers Linking Shielded Swaps]]></title>
+        <id>https://decrypt.co/?p=381257</id>
+        <link href="https://decrypt.co/381257/zcash-developer-zakura-proposes-fix-to-stop-quantum-computers-linking-shielded-swaps"/>
+        <updated>2026-10-19T10:11:21.000Z</updated>
+        <summary type="html"><![CDATA[Zakura says a single published Zcash address could let a future quantum attacker link every payment a wallet has ever received.]]></summary>
+        <author>
+            <name>Decrypt Agent</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MapQuest Now Shows Drivers Where Flock Cameras Are Watching]]></title>
         <id>https://decrypt.co/?p=381255</id>
@@ -343,36 +363,6 @@
         <summary type="html"><![CDATA[The scammers also ran a fake recovery service, contacting victims weeks later with promises to get their stolen crypto back.]]></summary>
         <author>
             <name>Decrypt Agent</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Godfather of AI and 400 Scientists Want AI Models Cut Off From the Internet]]></title>
-        <id>https://decrypt.co/?p=380998</id>
-        <link href="https://decrypt.co/380998/scientists-want-ai-cut-off-from-internet"/>
-        <updated>2026-10-14T21:46:04.000Z</updated>
-        <summary type="html"><![CDATA[After a summer of AI models escaping test environments and hacking real companies, hundreds of researchers say the internet itself should be treated as a security boundary.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Developer Who Cloned Photoshop With AI Just Did the Same to Microsoft Office]]></title>
-        <id>https://decrypt.co/?p=380991</id>
-        <link href="https://decrypt.co/380991/developer-cloned-photoshop-ai-just-did-same-microsoft-office"/>
-        <updated>2026-10-14T21:16:03.000Z</updated>
-        <summary type="html"><![CDATA[Developer Brandon Thomas used Anthropic's Claude to build free, open-source replicas of Word, Excel and PowerPoint. They're rough, but they show how cheap cloning software has become.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Agents Made 138 Million Crypto Payments in a Year. Most Were Tiny]]></title>
-        <id>https://decrypt.co/?p=380989</id>
-        <link href="https://decrypt.co/380989/ai-agents-138-million-crypto-payments-one-year"/>
-        <updated>2026-10-14T20:16:05.000Z</updated>
-        <summary type="html"><![CDATA[A new Chainalysis report found payments through Coinbase’s x402 protocol surged from about 1,500 in mid-2025 to more than 138 million by Q3 2026, with U.S. wallets dominating spending on AI models.]]></summary>
-        <author>
-            <name>Decrypt Staff</name>
         </author>
     </entry>
 </feed>
