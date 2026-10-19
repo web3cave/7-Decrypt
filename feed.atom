@@ -1,10 +1,80 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-19T18:00:12.940Z</id>
+    <id>urn:2026-10-19T22:09:59.895Z</id>
     <title>web3::cave</title>
-    <updated>2026-10-19T18:00:12.940Z</updated>
+    <updated>2026-10-19T22:09:59.895Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Strive Buys $335 Million in Bitcoin After Investors Pour In $369 Million]]></title>
+        <id>https://decrypt.co/?p=381382</id>
+        <link href="https://decrypt.co/381382/strive-buys-335-million-bitcoin"/>
+        <updated>2026-10-19T21:46:05.000Z</updated>
+        <summary type="html"><![CDATA[The Nasdaq-listed bitcoin holder bought as warrant holders exercised, bringing in $369 million, and it now plans a $630 million sale of 15% preferred stock.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anthropic Gives 5% of Itself to the Public. Musk Answers by Giving Away SpaceX Shares]]></title>
+        <id>https://decrypt.co/?p=381371</id>
+        <link href="https://decrypt.co/381371/anthropic-gives-public-musk-answers-spacex-shares"/>
+        <updated>2026-10-19T21:15:04.000Z</updated>
+        <summary type="html"><![CDATA[Anthropic committed 5% of its shares to a public benefit fund, and within hours Elon Musk promised a SpaceX share to every American child.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XRP Ledger Repairs Its Lending Protocol Before It Goes Live]]></title>
+        <id>https://decrypt.co/?p=381358</id>
+        <link href="https://decrypt.co/381358/xrp-ledger-repairs-lending-protocol-before-live"/>
+        <updated>2026-10-19T20:46:05.000Z</updated>
+        <summary type="html"><![CDATA[XRP developers published a second amendment to repair the ledger’s new uncollateralized lending feature while the original still awaits validator approval.]]></summary>
+        <author>
+            <name>Decrypt Agent</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hackers Are Running Apple's iOS on Android Phones for the First Time]]></title>
+        <id>https://decrypt.co/?p=381351</id>
+        <link href="https://decrypt.co/381351/hackers-running-apple-ios-android-phones"/>
+        <updated>2026-10-19T19:46:04.000Z</updated>
+        <summary type="html"><![CDATA[Hobbyists are booting iOS 16 on Xiaomi and Nothing phones and posting the proof. It barely works, but it suggests Apple's software is no longer welded to Apple's hardware.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mastercard Brings Its Fraud-Fighting Tools to Stablecoin Payments]]></title>
+        <id>https://decrypt.co/?p=381365</id>
+        <link href="https://decrypt.co/381365/mastercard-brings-its-fraud-fighting-tools-to-stablecoin-payments"/>
+        <updated>2026-10-19T19:16:04.000Z</updated>
+        <summary type="html"><![CDATA[Unveiled at Money20/20, the API-based tool combines payment and blockchain intelligence to flag fraud, scams and sanctions exposure before funds move on-chain.]]></summary>
+        <author>
+            <name>Decrypt Agent</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Some of America’s Biggest Companies Are Objecting to Tokenized Shares]]></title>
+        <id>https://decrypt.co/?p=381349</id>
+        <link href="https://decrypt.co/381349/why-some-america-biggest-companies-objecting-tokenized-shares"/>
+        <updated>2026-10-19T18:46:05.000Z</updated>
+        <summary type="html"><![CDATA[Nine companies, including Verizon, Broadcom and UnitedHealth, have objected to having their shares traded on the planned OKX-ICE tokenized stock venue.]]></summary>
+        <author>
+            <name>Decrypt Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[US Orders Civilian Agencies to Rip DeepSeek Out of Government Systems]]></title>
+        <id>https://decrypt.co/?p=381347</id>
+        <link href="https://decrypt.co/381347/us-orders-civilian-agencies-rip-deepseek-out-government-systems"/>
+        <updated>2026-10-19T18:16:04.000Z</updated>
+        <summary type="html"><![CDATA[The Department of Homeland Security told civilian agencies to remove China's DeepSeek and any service built on it, and banned buying more, citing the risk of sensitive data reaching Beijing.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JPMorgan's JPM Coin Arrives on Ethereum, Putting Bank Dollars on a Public Blockchain]]></title>
         <id>https://decrypt.co/?p=381343</id>
@@ -311,56 +381,6 @@
         <link href="https://decrypt.co/381109/researchers-fleet-rouge-ai-agents-talk-alibaba"/>
         <updated>2026-10-15T22:16:03.000Z</updated>
         <summary type="html"><![CDATA[Researchers added hidden text to contact AI agents probing Alibaba’s map service, getting replies about their tasks as investigators traced activity to Tencent Cloud infrastructure.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Says It Just Cracked One of Quantum Computing's Biggest Bottlenecks]]></title>
-        <id>https://decrypt.co/?p=381102</id>
-        <link href="https://decrypt.co/381102/google-cracked-quantum-computing-biggest-bottlenecks"/>
-        <updated>2026-10-15T21:46:04.000Z</updated>
-        <summary type="html"><![CDATA[Google's Willow chip cut errors 40x on the scarce “magic states” quantum computers burn through, a step toward smaller, useful machines—and toward ones that could threaten today's encryption.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Russia Will Soon Ban Peer-to-Peer Bitcoin Trading, Central Bank Confirms]]></title>
-        <id>https://decrypt.co/?p=381079</id>
-        <link href="https://decrypt.co/381079/russia-ban-peer-to-peer-bitcoin-trading"/>
-        <updated>2026-10-15T20:31:04.000Z</updated>
-        <summary type="html"><![CDATA[Russians have until July 1, 2027 to buy and sell crypto directly with each other. After that, every trade runs through a broker or exchange approved by the Bank of Russia.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Boom or Bust, Bitcoin Wins the AI Trade, Bitwise CIO Says]]></title>
-        <id>https://decrypt.co/?p=381077</id>
-        <link href="https://decrypt.co/381077/bitwise-cio-bitcoin-wins-ai-boom-or-bust"/>
-        <updated>2026-10-15T19:16:04.000Z</updated>
-        <summary type="html"><![CDATA[In a note to investors, Matt Hougan used a “Choose Your Own Adventure” framework to argue that superabundance, an AI bust or a muddle-through economy all ultimately funnel to the same place: Bitcoin higher.]]></summary>
-        <author>
-            <name>Decrypt Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BlackRock’s Larry Fink Warns AI Data Center Halt Could Tip US Into Recession]]></title>
-        <id>https://decrypt.co/?p=381068</id>
-        <link href="https://decrypt.co/381068/blackrock-larry-fink-ai-data-center-halt-recession"/>
-        <updated>2026-10-15T18:16:04.000Z</updated>
-        <summary type="html"><![CDATA[Speaking after BlackRock’s Q3 earnings, Fink said AI infrastructure spending has become so central to growth that a construction halt would be dangerous—calling the backlash “misinformation” as data centers become a midterm flashpoint.]]></summary>
-        <author>
-            <name>Decrypt Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Says AI Isn't Building Itself Yet—Even Though It Writes 75% of the Code]]></title>
-        <id>https://decrypt.co/?p=381061</id>
-        <link href="https://decrypt.co/381061/google-deepmind-ai-isnt-building-itself-writes-most-code"/>
-        <updated>2026-10-15T17:36:05.000Z</updated>
-        <summary type="html"><![CDATA[Google DeepMind's first internal audit of AI-driven research finds no measurable speedup in AI progress.]]></summary>
         <author>
             <name>Jose Antonio Lanz</name>
         </author>
