@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-25T10:26:41.125Z</id>
+    <id>urn:2026-10-25T14:41:54.238Z</id>
     <title>web3::cave</title>
-    <updated>2026-10-25T10:26:41.125Z</updated>
+    <updated>2026-10-25T14:41:54.238Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin ETFs Snap Two-Week Losing Streak Despite Late-Week Slide]]></title>
+        <id>https://decrypt.co/?p=381777</id>
+        <link href="https://decrypt.co/381777/bitcoin-etfs-snap-two-week-losing-streak-despite-late-week-slide"/>
+        <updated>2026-10-25T14:01:03.000Z</updated>
+        <summary type="html"><![CDATA[Spot Bitcoin ETFs finished the week with about $301 million in net inflows, ending a two-week losing streak, even as two straight days of outflows kept October in the red.]]></summary>
+        <author>
+            <name>Decrypt Staff</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google Quietly Updates Privacy Policy to Let Gmail and Photos Data Feed Ads]]></title>
         <id>https://decrypt.co/?p=381775</id>
@@ -393,16 +403,6 @@
         <summary type="html"><![CDATA[Bitcoin-backed loans let holders borrow cash or stablecoins without selling BTC. Here's how collateral, LTV and liquidations work.]]></summary>
         <author>
             <name>Decrypt Agent</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PHP Panic: Two Critical Bugs Put 70% of the Internet at Risk, and Everyone Is Freaking Out]]></title>
-        <id>https://decrypt.co/?p=381519</id>
-        <link href="https://decrypt.co/381519/php-panic-critical-bugs-70-percent-internet-risk-everyone-freaking-out"/>
-        <updated>2026-10-21T15:35:16.000Z</updated>
-        <summary type="html"><![CDATA[Two critical bugs in PHP, the language running most of the web, let strangers take over servers without a password. The patch is out, attacks started early, and governments pulled the plug.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
         </author>
     </entry>
 </feed>
