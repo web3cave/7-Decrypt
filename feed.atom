@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-28T21:27:11.533Z</id>
+    <id>urn:2026-10-29T01:25:32.295Z</id>
     <title>web3::cave</title>
-    <updated>2026-10-28T21:27:11.533Z</updated>
+    <updated>2026-10-29T01:25:32.295Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Treasury Datavault AI Says It Can’t Access Its BTC, Stock Tanks]]></title>
+        <id>https://decrypt.co/?p=382116</id>
+        <link href="https://decrypt.co/382116/bitcoin-treasury-datavault-ai-stock-crashes-cant-access-btc"/>
+        <updated>2026-10-28T21:46:02.000Z</updated>
+        <summary type="html"><![CDATA[Datavault AI says it has been unable to withdraw its Bitcoin from Biconomy since June and will restate four financial reports tied to a $150 million Scilex deal.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chip Maker SK Hynix Posts Record Quarter as AI Memory Demand Overwhelms Supply]]></title>
         <id>https://decrypt.co/?p=382114</id>
@@ -333,16 +343,6 @@
         <summary type="html"><![CDATA[The federally supervised bank will manage RLUSD's reserves and offer custody, as banking groups fight crypto charters in court.]]></summary>
         <author>
             <name>Decrypt Agent</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Canada’s Draft Stablecoin Rules Cap Redemption Fees at 1% and Ban Yield]]></title>
-        <id>https://decrypt.co/?p=381889</id>
-        <link href="https://decrypt.co/381889/canada-draft-stablecoin-rules-redemption-fees-ban-yield"/>
-        <updated>2026-10-26T22:16:03.000Z</updated>
-        <summary type="html"><![CDATA[Ottawa opened a 60-day consultation on draft rules requiring one-to-one reserves and fast redemption from stablecoin issuers, while keeping the ban on paying holders interest.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
         </author>
     </entry>
 </feed>
