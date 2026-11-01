@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-11-01T15:37:01.131Z</id>
+    <id>urn:2026-11-01T19:59:07.916Z</id>
     <title>web3::cave</title>
-    <updated>2026-11-01T15:37:01.131Z</updated>
+    <updated>2026-11-01T19:59:07.916Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin ETF Investors Head for the Exits After Record Binance Hack]]></title>
+        <id>https://decrypt.co/?p=382309</id>
+        <link href="https://decrypt.co/382309/bitcoin-etf-investors-exits-record-binance-hack"/>
+        <updated>2026-11-01T16:01:02.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin ETFs saw $643.2 million in outflows Friday, the first full trading session after the $6.4 billion Binance hack, ending October with roughly $516 million in net outflows.]]></summary>
+        <author>
+            <name>Decrypt Staff</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Run an AI Model Locally—And Why You Might Want To]]></title>
         <id>https://decrypt.co/?p=382295</id>
@@ -383,16 +393,6 @@
         <summary type="html"><![CDATA[A survey conducted by Ipsos for the DeFi Education Fund found that 22% of Americans have ever owned or used crypto, up from 18%, while past-year use held flat at 13%.]]></summary>
         <author>
             <name>Decrypt Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI Plans to Buy Google's AI Chips as It Looks Beyond Nvidia: Report]]></title>
-        <id>https://decrypt.co/?p=382090</id>
-        <link href="https://decrypt.co/382090/openai-plans-buy-google-ai-chips-looks-beyond-nvidia"/>
-        <updated>2026-10-28T19:16:02.000Z</updated>
-        <summary type="html"><![CDATA[OpenAI, one of Nvidia's biggest customers, reportedly plans to buy Google's TPU chips. Neither company has confirmed the report, and the price and size of the order were not disclosed.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
         </author>
     </entry>
 </feed>
