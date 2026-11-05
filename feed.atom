@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-11-04T20:09:38.604Z</id>
+    <id>urn:2026-11-05T01:10:12.396Z</id>
     <title>web3::cave</title>
-    <updated>2026-11-04T20:09:38.604Z</updated>
+    <updated>2026-11-05T01:10:12.396Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Why Bitcoin's Next Soft Fork Could Feel Like a Practice Run]]></title>
+        <id>https://decrypt.co/?p=382568</id>
+        <link href="https://decrypt.co/382568/why-bitcoin-next-soft-fork-could-feel-like-practice-run"/>
+        <updated>2026-11-04T22:46:03.000Z</updated>
+        <summary type="html"><![CDATA[Matt Corallo explains why patching four legacy bugs is about rebuilding muscle memory, just as much as it’s about Bitcoin maintenance.]]></summary>
+        <author>
+            <name>André Beganski</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ChatGPT Is Getting a GIF Maker Powered by OpenAI's Unannounced Images 2.6 Model]]></title>
+        <id>https://decrypt.co/?p=382574</id>
+        <link href="https://decrypt.co/382574/chatgpt-gif-maker-openai-unannounced-images-2-6-model"/>
+        <updated>2026-11-04T22:16:05.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI is rolling out animated GIF creation in ChatGPT, with frame-by-frame editing and speed controls.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Tells Schools They Can Reject AI—But They'll Lose Search, Too]]></title>
+        <id>https://decrypt.co/?p=382572</id>
+        <link href="https://decrypt.co/382572/google-schools-reject-ai-but-lose-search"/>
+        <updated>2026-11-04T21:16:03.000Z</updated>
+        <summary type="html"><![CDATA[Google is giving schools more control over Gemini, but districts that want Search without AI are out of luck, fueling accusations that the company is pressuring educators into adopting AI.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coinbase Says 99% of Customer Crypto Is Offline and Out of Hackers’ Reach]]></title>
+        <id>https://decrypt.co/?p=382570</id>
+        <link href="https://decrypt.co/382570/coinbase-99-percent-customer-crypto-offline-binance-hack"/>
+        <updated>2026-11-04T20:46:03.000Z</updated>
+        <summary type="html"><![CDATA[Coinbase told customers it wasn’t affected by the $6.4 billion Binance hack and detailed its security controls, including offline storage for over 99% of assets, split private keys and kill switches.]]></summary>
+        <author>
+            <name>Decrypt Staff</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[US Bank Regulator Issues First AI Framework as Banks Battle Rogue Agents]]></title>
         <id>https://decrypt.co/?p=382560</id>
@@ -321,36 +361,6 @@
         <link href="https://decrypt.co/382385/bitcoin-firm-strive-treasury-ranks-another-big-buy"/>
         <updated>2026-11-02T22:16:02.000Z</updated>
         <summary type="html"><![CDATA[Strive added 124 Bitcoin for about $10 million and now trails Twenty One Capital by 390 BTC for third place among Treasury companies.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mystery $106 Million Crypto Theft Hits EU Entity Days After Binance Hack]]></title>
-        <id>https://decrypt.co/?p=382383</id>
-        <link href="https://decrypt.co/382383/mystery-106-million-crypto-theft-eu-entity-binance-hack"/>
-        <updated>2026-11-02T21:16:03.000Z</updated>
-        <summary type="html"><![CDATA[Onchain investigator ZachXBT says an unidentified EU entity lost more than $106 million from centralized exchange accounts on Sunday,.]]></summary>
-        <author>
-            <name>Decrypt Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Claude-Built Linux Exploit Targets Bug That Ubuntu Still Hasn't Patched]]></title>
-        <id>https://decrypt.co/?p=382375</id>
-        <link href="https://decrypt.co/382375/claude-built-linux-exploit-bug-ubuntu"/>
-        <updated>2026-11-02T20:36:03.000Z</updated>
-        <summary type="html"><![CDATA[Anthropic says Claude wrote an attack that can take over a Linux server with no password. Red Hat patched on Sunday, but Ubuntu still has no fix.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tom Lee Calls Bottom on AI Stock Selloff, Citing Tight Supply and Crypto Resilience]]></title>
-        <id>https://decrypt.co/?p=382357</id>
-        <link href="https://decrypt.co/382357/tom-lee-calls-bottom-ai-stock-selloff-crypto"/>
-        <updated>2026-11-02T19:46:02.000Z</updated>
-        <summary type="html"><![CDATA[The Fundstrat strategist says constraints on AI spending have slowed growth without ending the boom, while crypto’s response to the Binance hack suggests sellers may already be exhausted.]]></summary>
         <author>
             <name>Jose Antonio Lanz</name>
         </author>
