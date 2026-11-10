@@ -1,10 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-11-09T18:00:35.349Z</id>
+    <id>urn:2026-11-10T01:48:20.636Z</id>
     <title>web3::cave</title>
-    <updated>2026-11-09T18:00:35.349Z</updated>
+    <updated>2026-11-10T01:48:20.636Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Anthropic's Claude Fable 5.2 and Mythos 5.0 Are Impressive, But Be Prepared to Sell a Kidney to Afford Them]]></title>
+        <id>https://decrypt.co/?p=382897</id>
+        <link href="https://decrypt.co/382897/anthropic-claude-fable-5-2-and-mythos-5-2-impressive-and-expensive"/>
+        <updated>2026-11-09T22:36:02.000Z</updated>
+        <summary type="html"><![CDATA[Anthropic's latest AI can build complex software and even design physical objects. Users are producing impressive results, and estimated bills large enough to make developers wince.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Data Centers Are Buying Used Jet Engines as New Power Turbines Take Six Years]]></title>
+        <id>https://decrypt.co/?p=382890</id>
+        <link href="https://decrypt.co/382890/ai-data-centers-used-jet-engines-power-turbines"/>
+        <updated>2026-11-09T21:16:03.000Z</updated>
+        <summary type="html"><![CDATA[A shortage of new gas turbines is pushing AI developers toward refurbished power equipment and jet-engine-based generators, even as high prices, pollution concerns, and permitting delays threaten their expansion plans.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Takes Aim at Nvidia With New AI Chips Built for Privacy and Massive Memory]]></title>
+        <id>https://decrypt.co/?p=382874</id>
+        <link href="https://decrypt.co/382874/google-nvidia-new-ai-chips-privacy-massive-memory-ai"/>
+        <updated>2026-11-09T20:16:02.000Z</updated>
+        <summary type="html"><![CDATA[Google’s TPU 8tx protects sensitive AI workloads, while the dual-chip TPU 8i Max targets memory-hungry AI agents.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Binance Hack Launderers Mint Elon Musk and Animal Meme Coins to Move Stolen Crypto]]></title>
+        <id>https://decrypt.co/?p=382873</id>
+        <link href="https://decrypt.co/382873/binance-hack-elon-musk-animal-meme-coins-launder-stolen-crypto"/>
+        <updated>2026-11-09T19:36:02.000Z</updated>
+        <summary type="html"><![CDATA[Elliptic says the hackers are minting their own worthless tokens—complete with cartoon animal and Elon Musk logos—and routing stolen funds through liquidity pools to break the trail.]]></summary>
+        <author>
+            <name>Decrypt Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin in Limbo as Stocks Rebound Ahead of US Inflation Report]]></title>
+        <id>https://decrypt.co/?p=382861</id>
+        <link href="https://decrypt.co/382861/bitcoin-limbo-stocks-rebound-us-inflation"/>
+        <updated>2026-11-09T19:06:03.000Z</updated>
+        <summary type="html"><![CDATA[U.S. stocks rallied as oil fell, but Bitcoin hovered near $75,000 after a wave of liquidations, with Tuesday’s inflation report set to test bets on a December Fed rate hike.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nvidia's $350 Billion Scare: What Happens If Jensen Huang Leaves?]]></title>
+        <id>https://decrypt.co/?p=382838</id>
+        <link href="https://decrypt.co/382838/nvidias-350-billion-scare-what-happens-if-jensen-huang-leaves"/>
+        <updated>2026-11-09T18:31:03.000Z</updated>
+        <summary type="html"><![CDATA[Nvidia shares slid as much as 8% amid spy allegations. The stock was already weakening, and investors now face a bigger question: Who replaces Jensen Huang if he suddenly leaves?]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Solana Set for Another Tokenized Stock Venue as Formation Notifies the SEC]]></title>
         <id>https://decrypt.co/?p=382859</id>
@@ -333,66 +393,6 @@
         <summary type="html"><![CDATA[Zcash's latest upgrade promises faster transactions, but thousands of coins remain in an aging privacy system that will soon stop accepting withdrawals, potentially leaving their owners empty-handed.]]></summary>
         <author>
             <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI Found 948 Linux Security Flaws—And Figured Out How to Exploit Them]]></title>
-        <id>https://decrypt.co/?p=382632</id>
-        <link href="https://decrypt.co/382632/openai-linux-security-flaws-exploit"/>
-        <updated>2026-11-05T19:16:03.000Z</updated>
-        <summary type="html"><![CDATA[An automated OpenAI system produced working exploits and draft fixes at roughly $1,279 per flaw, raising new questions about how cheaply AI can find holes in critical software at scale.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trump-Backed American Bitcoin Turns a Profit as Bitcoin Rise Lifts Books]]></title>
-        <id>https://decrypt.co/?p=382633</id>
-        <link href="https://decrypt.co/382633/trump-american-bitcoin-q3-profit-bitcoin-lifts-books"/>
-        <updated>2026-11-05T18:25:31.000Z</updated>
-        <summary type="html"><![CDATA[The Hut 8-backed miner reversed a second-quarter loss, driven largely by a $197 million gain on its Bitcoin holdings.]]></summary>
-        <author>
-            <name>Decrypt Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[S&#038;P 500 Plunges, Wall Street Fears Circuit Breaker, Just One Day After Trump Celebrated Record Highs]]></title>
-        <id>https://decrypt.co/?p=382637</id>
-        <link href="https://decrypt.co/382637/sp-500-plunges-wall-street-circuit-breaker-trump-record-highs"/>
-        <updated>2026-11-05T18:05:21.000Z</updated>
-        <summary type="html"><![CDATA[A day after Trump celebrated stock market records, the S&P 500 sank 3.8%, putting emergency trading halts in focus as AI stocks dragged Wall Street sharply lower during Thursday trading.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hollywood Studios Quietly Ban Staff From Betting on Prediction Markets: Report]]></title>
-        <id>https://decrypt.co/?p=382626</id>
-        <link href="https://decrypt.co/382626/hollywood-studios-quietly-ban-staff-from-betting-on-prediction-markets-report"/>
-        <updated>2026-11-05T17:31:10.000Z</updated>
-        <summary type="html"><![CDATA[Employees are being told not to bet on casting news, release dates or earnings, though experts say the rules will be hard to enforce.]]></summary>
-        <author>
-            <name>Decrypt Agent</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solana Labs’ Leap Launches Mobile App for Trading Tokenized Stocks and Crypto]]></title>
-        <id>https://decrypt.co/?p=382609</id>
-        <link href="https://decrypt.co/382609/solana-labs-leap-launches-mobile-app-tokenized-stocks-crypto"/>
-        <updated>2026-11-05T17:01:03.000Z</updated>
-        <summary type="html"><![CDATA[Leap, built by the team behind Dialect, launched a beta iPhone app for trading tokenized stocks, ETFs, metals, currencies and crypto on Solana, pitching itself to traders looking beyond meme coins.]]></summary>
-        <author>
-            <name>Decrypt Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Democrats to Push Broader Crypto Market Structure Bill After Sweeping US Midterms: Report]]></title>
-        <id>https://decrypt.co/?p=382602</id>
-        <link href="https://decrypt.co/382602/democrats-to-push-broader-crypto-market-structure-bill-after-sweeping-us-midterms-report"/>
-        <updated>2026-11-05T16:37:20.000Z</updated>
-        <summary type="html"><![CDATA[Analysts said that the Clarity Act's path has become tougher, while advocacy group Stand With Crypto has endorsed 27 winning candidates so far.]]></summary>
-        <author>
-            <name>Ryan Gladwin</name>
         </author>
     </entry>
 </feed>
