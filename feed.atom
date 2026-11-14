@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-11-14T07:13:20.194Z</id>
+    <id>urn:2026-11-14T14:39:29.263Z</id>
     <title>web3::cave</title>
-    <updated>2026-11-14T07:13:20.194Z</updated>
+    <updated>2026-11-14T14:39:29.263Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[OpenAI Launches ChatGPT Wallet to Let AI Agents Shop—Without Crypto]]></title>
+        <id>https://decrypt.co/?p=383278</id>
+        <link href="https://decrypt.co/383278/openai-chatgpt-wallet-ai-agents-shop-without-crypto"/>
+        <updated>2026-11-14T14:01:02.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI’s new wallet lets AI agents buy products using ordinary cards, challenging crypto payment tools from Coinbase and Circle as companies compete to control everyday online shopping by autonomous software.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Could a Former Nvidia Executive Replace Jensen Huang? Arm’s Rene Haas Emerges as Candidate]]></title>
         <id>https://decrypt.co/?p=383276</id>
@@ -393,16 +403,6 @@
         <summary type="html"><![CDATA[Bitcoin is heading toward its first consecutive losing years, breaking an 18-year pattern. But there's some nuance in the data.]]></summary>
         <author>
             <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Are Solana Privacy Rings? Inside Helius’ Privacy Protocol for Solana]]></title>
-        <id>https://decrypt.co/?p=383034</id>
-        <link href="https://decrypt.co/resources/what-are-solana-privacy-rings-inside-helius-privacy-protocol-for-solana"/>
-        <updated>2026-11-11T17:09:18.000Z</updated>
-        <summary type="html"><![CDATA[Solana Privacy Rings encrypt balances and transfer amounts without leaving Solana. Here's how they work, and how they compare.]]></summary>
-        <author>
-            <name>Decrypt Agent</name>
         </author>
     </entry>
 </feed>
