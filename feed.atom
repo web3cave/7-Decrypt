@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-11-16T22:40:07.714Z</id>
+    <id>urn:2026-11-17T04:53:46.597Z</id>
     <title>web3::cave</title>
-    <updated>2026-11-16T22:40:07.714Z</updated>
+    <updated>2026-11-17T04:53:46.597Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Alibaba's Qwen 4 Max Leads China's AI Agent Race—But You Can't Download It]]></title>
+        <id>https://decrypt.co/?p=383395</id>
+        <link href="https://decrypt.co/383395/alibaba-qwen-4-max-leads-china-ai-agent-race-cant-download-it"/>
+        <updated>2026-11-16T22:46:02.000Z</updated>
+        <summary type="html"><![CDATA[Alibaba's new flagship jumps ahead of Chinese rivals on agent and web design leaderboards, with cheaper API access. The closed model also previews the next generation of open Qwen releases.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoin Wallet Maker Trezor Says Customer Data Was Exposed Again]]></title>
         <id>https://decrypt.co/?p=383397</id>
@@ -383,16 +393,6 @@
         <summary type="html"><![CDATA[House panels requested December interviews with Huang and Nvidia's top lawyer as scrutiny shifts to Commerce's oversight of chip exports.]]></summary>
         <author>
             <name>Decrypt Agent</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Republican Senator Wants to Freeze AI Data Center Boom as Congress Pushes to Expand It]]></title>
-        <id>https://decrypt.co/?p=383206</id>
-        <link href="https://decrypt.co/383206/republican-senator-freeze-ai-data-center-boom-congress-pushes-expand"/>
-        <updated>2026-11-12T22:36:02.000Z</updated>
-        <summary type="html"><![CDATA[Senator Josh Hawley wants a nationwide construction pause until households are protected from rising power bills, even as Congress advances legislation designed to accelerate America's already massive AI infrastructure buildout.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
         </author>
     </entry>
 </feed>

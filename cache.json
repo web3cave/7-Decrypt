@@ -6,12 +6,27 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=383395",
+          "author": "Jose Antonio Lanz",
+          "description": "Alibaba's new flagship jumps ahead of Chinese rivals on agent and web design leaderboards, with cheaper API access. The closed model also previews the next generation of open Qwen releases.",
+          "link": "https://decrypt.co/383395/alibaba-qwen-4-max-leads-china-ai-agent-race-cant-download-it",
+          "publishedOn": "2026-11-16T22:46:02.000Z",
+          "wordCount": 20461,
+          "title": "Alibaba's Qwen 4 Max Leads China's AI Agent Race—But You Can't Download It",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/decrypt-style-alibaba-qwen-gID_7.png@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/decrypt-style-alibaba-qwen-gID_7.png@png"
+        },
+        {
           "id": "https://decrypt.co/?p=383397",
           "author": "Jose Antonio Lanz",
           "description": "A second Trezor shipping partner was breached in three months, exposing buyers' addresses and order details.",
           "link": "https://decrypt.co/383397/bitcoin-wallet-trezor-third-party-breach-customer-data",
           "publishedOn": "2026-11-16T22:18:03.000Z",
-          "wordCount": 17811,
+          "wordCount": 17859,
           "title": "Bitcoin Wallet Maker Trezor Says Customer Data Was Exposed Again",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/trezor-safe-7-decrypt-style-gID_7.jpg@png",
@@ -26,7 +41,7 @@
           "description": "Bitcoin fell near $62,100 as forced liquidations swept crypto markets. ETF withdrawals and a crowded options trade offer a closer look at the damage left behind.",
           "link": "https://decrypt.co/383366/bitcoin-2-billion-liquidation-weekend-traders-watching-60000",
           "publishedOn": "2026-11-16T21:46:03.000Z",
-          "wordCount": 17078,
+          "wordCount": 17126,
           "title": "Bitcoin's $2 Billion Liquidation Weekend Leaves Traders Watching $60,000",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/bitcoin-dollar-decrypt-style-gID_7.jpg@png",
@@ -41,7 +56,7 @@
           "description": "Luxor said hackers redirected hashrate from just over a dozen client accounts through its Commander tool, and its CEO blamed a “sophisticated AI-enabled vector.”",
           "link": "https://decrypt.co/383392/hackers-redirected-bitcoin-miner-rewards-ai-attack-luxor",
           "publishedOn": "2026-11-16T21:16:03.000Z",
-          "wordCount": 16723,
+          "wordCount": 16771,
           "title": "Hackers Redirected Bitcoin Miner Rewards via AI Attack, Luxor CEO Says",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/crime_hacker-gID_7.png@png",
@@ -56,7 +71,7 @@
           "description": "The firm’s stash fell to $11.8 billion from $14.3 billion a week earlier as ETH slid 28% in two weeks, a “waterfall” drop chairman Tom Lee blames on Nvidia fallout and cash-raising ahead of Anthropic’s IPO.",
           "link": "https://decrypt.co/383364/tom-lee-blames-nvidia-anthropic-ipo-ethereum-plunge-bitmine-buys",
           "publishedOn": "2026-11-16T20:36:03.000Z",
-          "wordCount": 15583,
+          "wordCount": 15631,
           "title": "Tom Lee Blames Nvidia and Anthropic IPO for Ethereum Plunge as Bitmine Buys the Dip",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/11/tom-lee-fundstrat-decrypt-style-02-gID_7.jpg@png",
@@ -71,7 +86,7 @@
           "description": "Former White House crypto chief Patrick Witt said the Clarity Act \"lost against the clock,\" and regulators will now set the rules.",
           "link": "https://decrypt.co/383356/clarity-act-defeat-failure-of-american-leadership-trumps-former-crypto-chief",
           "publishedOn": "2026-11-16T19:36:03.000Z",
-          "wordCount": 12104,
+          "wordCount": 12152,
           "title": "Clarity Act Defeat ‘Failure of American Leadership’: Trump’s Former Crypto Chief",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/11/patrick-witt-decrypt-style-gID_7.jpg@png",
@@ -86,7 +101,7 @@
           "description": "Trump would welcome Nvidia’s co-founder back. Altman, who survived his own CEO ouster, sympathizes but stops short of endorsing Huang’s comeback.",
           "link": "https://decrypt.co/383351/trump-elon-musk-sam-altman-jensen-huang-nvidia",
           "publishedOn": "2026-11-16T19:05:02.000Z",
-          "wordCount": 17486,
+          "wordCount": 17534,
           "title": "Trump Backs Jensen Huang’s Return to Nvidia as Sam Altman Says 'Heroes Have Flaws'",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/decrypt-style-nvidia-jensen-huang-gID_7.png@png",
@@ -101,7 +116,7 @@
           "description": "Federal Reserve Chair Kevin Warsh says staff are studying three possible economic futures for AI, ranging from widespread productivity gains to higher unemployment and a painful correction in technology stocks.",
           "link": "https://decrypt.co/383354/fed-modeling-ai-super-intelligence-scenarios-job-losses-stock-market",
           "publishedOn": "2026-11-16T18:36:44.000Z",
-          "wordCount": 22669,
+          "wordCount": 22717,
           "title": "Fed Is Modeling AI 'Super Intelligence' Scenarios, Including Job Losses and a Stock Market Slump",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/federal-reserve-decrypt-style-02-gID_7.jpg@png",
@@ -116,7 +131,7 @@
           "description": "Nvidia shares tanked specularly last week amid the Jensen Huang scandal. Is it in for a major rebound? Here’s what the charts suggest.",
           "link": "https://decrypt.co/383334/nvidia-stock-rebound-in-sight-if-bulls-can-clear-hurdle",
           "publishedOn": "2026-11-16T18:06:03.000Z",
-          "wordCount": 18129,
+          "wordCount": 18177,
           "title": "Nvidia Stock Has a 20% Rebound in Sight—If Bulls Can Clear a Hurdle",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/nvidia-logo-decrypt-style-01-gID_7.png@png",
@@ -131,7 +146,7 @@
           "description": "The modest purchase lifted Strategy’s stash to 850,849 BTC as chairman Michael Saylor shrugged off a sharp downturn, posting that “this dip could use a little orange.”",
           "link": "https://decrypt.co/383347/saylor-strategy-buying-bitcoin-adding-little-orange-dip",
           "publishedOn": "2026-11-16T17:20:26.000Z",
-          "wordCount": 14525,
+          "wordCount": 14573,
           "title": "Saylor’s Strategy Keeps Buying Bitcoin, Adding 'A Little Orange' Through the Dip",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/strategy-logo-x-twitter-gID_7.png@png",
@@ -146,7 +161,7 @@
           "description": "The Solana trading platform unveiled a permissioned lending market, identity passport and issuer liquidity services at Breakpoint.",
           "link": "https://decrypt.co/383333/tokenization-is-not-the-finish-line-jupiter-to-let-users-borrow-against-bullish-shares",
           "publishedOn": "2026-11-16T17:09:28.000Z",
-          "wordCount": 11538,
+          "wordCount": 11586,
           "title": "'Tokenization Is Not the Finish Line': Jupiter to Let Users Borrow Against Bullish Shares",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/11/kash-dhanda-jupiter-gID_7.jpg@png",
@@ -161,7 +176,7 @@
           "description": "Solana's 1.0 designation gives developers a common way to track network rules. Here's what it means for users and builders.",
           "link": "https://decrypt.co/383322/solana-drops-mainnet-beta-after-six-years",
           "publishedOn": "2026-11-16T16:14:22.000Z",
-          "wordCount": 17397,
+          "wordCount": 17445,
           "title": "Solana Drops 'Mainnet Beta' After Six Years: Here's What 1.0 Is All About",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/solana-decrypt-style-01-gID_7.png@png",
@@ -176,7 +191,7 @@
           "description": "Executives from the U.S. settlement giant and Barclays told Solana's Breakpoint that adoption is early, but accelerating.",
           "link": "https://decrypt.co/383316/dtcc-barclays-say-tokenizations-real-prize-is-unlocking-idle-collateral",
           "publishedOn": "2026-11-16T16:11:31.000Z",
-          "wordCount": 11603,
+          "wordCount": 11651,
           "title": "DTCC, Barclays Say Tokenization's Real Prize Is Unlocking Idle Collateral",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/11/barclays-dtcc-breakpoint-gID_7.jpg@png",
@@ -191,7 +206,7 @@
           "description": "The former UK prime minister told a Solana conference he backs blockchain but still doubts Bitcoin, months after calling it a Ponzi.",
           "link": "https://decrypt.co/383307/nobody-knows-whos-in-charge-boris-johnson-stands-by-bitcoin-skepticism-at-breakpoint",
           "publishedOn": "2026-11-16T15:04:56.000Z",
-          "wordCount": 18402,
+          "wordCount": 18450,
           "title": "'Nobody Knows Who's in Charge': Boris Johnson Stands by Bitcoin Skepticism at Breakpoint",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/11/boris-johnson-decrypt-style-gID_7.jpg@png",
@@ -206,7 +221,7 @@
           "description": "Why is crypto selling off so hard over the past few weeks? CZ chimes in with his thoughts, while confirming he and Binance aren’t selling.",
           "link": "https://decrypt.co/383301/morning-minute-crypto-hits-extreme-fear-as-bitcoin-plunges",
           "publishedOn": "2026-11-16T13:23:17.000Z",
-          "wordCount": 17044,
+          "wordCount": 17092,
           "title": "Morning Minute: Crypto Hits Extreme Fear as Bitcoin Plunges",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-decrypt-style-27-gID_7.jpg@png",
@@ -221,7 +236,7 @@
           "description": "The hardware wallet manufacturer says users can now read what they're approving on nine Solana apps, as it pitches its Atom device.",
           "link": "https://decrypt.co/383302/ledger-brings-clear-signing-to-solana-ending-blind-signing-for-jupiter-swaps",
           "publishedOn": "2026-11-16T13:12:08.000Z",
-          "wordCount": 11477,
+          "wordCount": 11525,
           "title": "Ledger Brings Clear Signing to Solana, Ending 'Blind' Signing for Jupiter Swaps",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/ledger-flex-decrypt-style-01-gID_7.jpg@png",
@@ -236,7 +251,7 @@
           "description": "A new law lets Germany's customs agency freeze assets worth more than €100,000 without a criminal case if their origin is in doubt.",
           "link": "https://decrypt.co/383297/german-lawmakers-back-customs-powers-to-seize-crypto-of-unclear-origin",
           "publishedOn": "2026-11-16T10:25:15.000Z",
-          "wordCount": 17936,
+          "wordCount": 17984,
           "title": "German Lawmakers Back Customs Powers to Seize Crypto of 'Unclear Origin'",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Judge-decrypt-style-2-gID_7.png@png",
@@ -251,7 +266,7 @@
           "description": "The Ethereum co-founder says proof aggregation could deliver a \"cryptographic proof singularity\" much sooner than developers expected.",
           "link": "https://decrypt.co/383294/vitalik-buterin-now-a-total-bull-on-leanpcs-as-fast-track-to-quantum-safe-ethereum",
           "publishedOn": "2026-11-16T09:54:55.000Z",
-          "wordCount": 13203,
+          "wordCount": 13251,
           "title": "Vitalik Buterin Now ‘a Total Bull’ on leanPCS as Fast Track to Quantum-Safe Ethereum",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Vitalik-Buterin-DecryptStyle3-scaled-gID_7.jpg@png",
@@ -266,7 +281,7 @@
           "description": "Huang has reportedly discussed a comeback with confidants, but Treasury Secretary Scott Bessent says Nvidia needs a \"dramatic shake-up.\"",
           "link": "https://decrypt.co/383286/elon-musk-joins-160000-backing-petition-to-bring-jensen-huang-back-to-nvidia",
           "publishedOn": "2026-11-16T09:25:01.000Z",
-          "wordCount": 14186,
+          "wordCount": 14234,
           "title": "Elon Musk Joins 160,000 Backing Petition to Bring Jensen Huang Back to Nvidia",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/11/jensen-huang-nvidia-elon-musk-gID_7.jpg@png",
@@ -281,7 +296,7 @@
           "description": "From Goldman and Citi’s $270 million “Project Faro” to SoFi, Anchorage, Mastercard, Visa and Circle, traditional finance is racing to claim the onchain dollar once dominated by Tether and Circle.",
           "link": "https://decrypt.co/383284/how-wall-street-racing-onchain-dollar-stablecoins",
           "publishedOn": "2026-11-15T16:01:02.000Z",
-          "wordCount": 23056,
+          "wordCount": 23104,
           "title": "How Wall Street Is Racing to Claim the Onchain Dollar",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/decrypt-style-wall-street-gID_7.png@png",
@@ -296,7 +311,7 @@
           "description": "Spot Bitcoin ETFs shed $185.4 million on Friday, their seventh straight day of outflows, pushing November losses to about $2.1 billion as Bitcoin fell toward $64,000.",
           "link": "https://decrypt.co/383282/bitcoin-etfs-lose-2-1-billion-november-outflow-streak-seven-days",
           "publishedOn": "2026-11-15T14:01:02.000Z",
-          "wordCount": 16729,
+          "wordCount": 16777,
           "title": "Bitcoin ETFs Lose $2.1 Billion in November as Outflow Streak Hits Seven Days",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/bitcoin-etf-decrypt-style-01-gID_7.jpg@png",
@@ -311,7 +326,7 @@
           "description": "In a matter of days, the executive synonymous with the AI boom resigned after 33 years amid reports of affairs and suspected Chinese intelligence ties—sending Nvidia’s stock reeling and leaving the chipmaker leaderless.",
           "link": "https://decrypt.co/383280/the-week-jensen-huang-fell-how-spy-scandal-toppled-nvidia-ceo",
           "publishedOn": "2026-11-14T18:01:02.000Z",
-          "wordCount": 14692,
+          "wordCount": 14740,
           "title": "The Week Jensen Huang Fell: How a Spy Scandal Toppled Nvidia’s CEO",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/11/jensen-huang-nvidia-decrypt-style-05-gID_7.jpg@png",
@@ -326,7 +341,7 @@
           "description": "Four nonprofit advocacy groups want a California court to stop major AI developers from building stronger models, alleging their technology could cause catastrophic harm worldwide.",
           "link": "https://decrypt.co/383270/openai-anthropic-google-ai-giants-lawsuit-development-freeze",
           "publishedOn": "2026-11-14T17:01:02.000Z",
-          "wordCount": 23455,
+          "wordCount": 23503,
           "title": "OpenAI, Anthropic, Google and Other AI Giants Face Lawsuit Demanding Development Freeze",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Justice-gID_7.png@png",
@@ -341,7 +356,7 @@
           "description": "Canton Network is a privacy-enabled blockchain built for banks and tokenized assets. Here's how it works and what Canton Coin (CC) does.",
           "link": "https://decrypt.co/resources/what-is-canton-network-the-privacy-blockchain-built-for-wall-street",
           "publishedOn": "2026-11-14T16:01:02.000Z",
-          "wordCount": 15214,
+          "wordCount": 15262,
           "title": "What Is Canton Network? The Privacy Blockchain Built for Wall Street",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/11/canton-network-privacy-learn-gID_4-pID_6.png@png",
@@ -356,7 +371,7 @@
           "description": "OpenAI’s new wallet lets AI agents buy products using ordinary cards, challenging crypto payment tools from Coinbase and Circle as companies compete to control everyday online shopping by autonomous software.",
           "link": "https://decrypt.co/383278/openai-chatgpt-wallet-ai-agents-shop-without-crypto",
           "publishedOn": "2026-11-14T14:01:02.000Z",
-          "wordCount": 19819,
+          "wordCount": 19867,
           "title": "OpenAI Launches ChatGPT Wallet to Let AI Agents Shop—Without Crypto",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/ChatGPT-gID_7.jpg@png",
@@ -371,7 +386,7 @@
           "description": "Nvidia's board has reportedly approached Arm's chief executive as it searches for a replacement for Jensen Huang, while some employees are pushing to bring the chipmaker's founder back as CEO.",
           "link": "https://decrypt.co/383276/nvidia-arm-ceo-rene-haas-replace-jensen-huang",
           "publishedOn": "2026-11-13T22:16:03.000Z",
-          "wordCount": 17484,
+          "wordCount": 17532,
           "title": "Could a Former Nvidia Executive Replace Jensen Huang? Arm’s Rene Haas Emerges as Candidate",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/nvidia-logo-decrypt-style-1-gID_7.png@png",
@@ -386,7 +401,7 @@
           "description": "A House Oversight staff memorandum, citing suspicious trades by officials, military personnel and clearance holders, recommends Congress weigh new limits on federal personnel betting on platforms like Kalshi and Polymarket.",
           "link": "https://decrypt.co/383271/government-officials-banned-prediction-markets-house-oversight",
           "publishedOn": "2026-11-13T21:36:03.000Z",
-          "wordCount": 17856,
+          "wordCount": 17904,
           "title": "Should Government Officials Be Banned From Prediction Markets? House Oversight Says Maybe",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/US-Capitol-decrypt-style-02-gID_7.png@png",
@@ -401,7 +416,7 @@
           "description": "Chinese data center projects are still being designed around restricted Nvidia processors, even as Beijing pushes domestic alternatives.",
           "link": "https://decrypt.co/383266/china-ai-pipeline-nvidia-chips-washington-restricts",
           "publishedOn": "2026-11-13T20:45:03.000Z",
-          "wordCount": 13122,
+          "wordCount": 13170,
           "title": "China’s $3.2 Billion AI Pipeline Still Calls for Nvidia Chips Washington Restricts",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/11/China-USA-gID_7.jpg@png",
@@ -416,7 +431,7 @@
           "description": "The bank’s Q3 13F shows roughly $981 million across Bitcoin ETFs, Strategy and Coinbase—likely over $1 billion counting Robinhood and miners.",
           "link": "https://decrypt.co/383267/jpmorgan-bitcoin-crypto-linked-holdings-approach-1-billion",
           "publishedOn": "2026-11-13T20:16:03.000Z",
-          "wordCount": 17257,
+          "wordCount": 17305,
           "title": "JPMorgan’s Bitcoin and Crypto-Linked Holdings Approach $1 Billion",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/jp-morgan-jamie-dimon-decrypt-style-01-gID_7.png@png",
@@ -431,7 +446,7 @@
           "description": "Two Bitcoin mining rewards from September 2010 moved minutes apart. The coins are worth nearly 1.15 million times their original market value.",
           "link": "https://decrypt.co/383264/dormant-bitcoin-wallets-wake-up-after-16-years",
           "publishedOn": "2026-11-13T19:36:03.000Z",
-          "wordCount": 17483,
+          "wordCount": 17531,
           "title": "Dormant Bitcoin Wallets Wake Up After 16 Years, Moving $6.9 Million",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/bitcoin-miners-decrypt-style-01-gID_7.jpg@png",
@@ -446,7 +461,7 @@
           "description": "The Federal Reserve is examining whether AI will lower prices or keep inflation elevated, a question that could shape interest rates and the outlook for crypto.",
           "link": "https://decrypt.co/383259/fed-chair-warsh-wants-answers-ai-inflation-bitcoin",
           "publishedOn": "2026-11-13T18:36:02.000Z",
-          "wordCount": 23094,
+          "wordCount": 23142,
           "title": "Fed Chair Warsh Wants Answers on AI Inflation—and Bitcoin May Feel the Impact",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/Federal-Reserve-Bank-gID_7.jpg@png",
@@ -461,7 +476,7 @@
           "description": "The bipartisan slate—two Republicans and two Democrats, Trump’s first Democratic picks for either agency—would refill commissions that have driven crypto policy since the Clarity Act’s collapse.",
           "link": "https://decrypt.co/383260/trump-first-democratic-picks-sec-cftc-could-reshape-crypto",
           "publishedOn": "2026-11-13T17:56:03.000Z",
-          "wordCount": 15484,
+          "wordCount": 15532,
           "title": "Trump’s First Democratic Picks for SEC and CFTC Could Reshape Crypto’s Regulators",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/US-Capitol-decrypt-style-01-gID_7.png@png",
@@ -476,7 +491,7 @@
           "description": "Bitcoin is back near August levels as persistent inflation, growing expectations of another interest-rate hike and ETF withdrawals pressure prices.",
           "link": "https://decrypt.co/383231/bitcoin-hits-12-week-low-fed-rate-fears-undo-summer-rally",
           "publishedOn": "2026-11-13T17:22:54.000Z",
-          "wordCount": 14538,
+          "wordCount": 14586,
           "title": "Bitcoin Hits 12-Week Low as Fed Rate Fears Undo Most of Summer Rally",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/bitcoin-down-crash-decrypt-style-1-gID_7.jpg@png",
@@ -491,7 +506,7 @@
           "description": "Assessors visit in June 2027, months before full crypto rules take effect, leaving the UK to prove it can enforce against crypto laundering.",
           "link": "https://decrypt.co/383227/crypto-laundering-a-material-risk-for-uk-ahead-of-fatf-review-rusi",
           "publishedOn": "2026-11-13T13:55:25.000Z",
-          "wordCount": 14445,
+          "wordCount": 14493,
           "title": "Crypto Laundering a 'Material Risk' for UK Ahead of FATF Review: RUSI",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/rusi-royal-united-services-institute-decrypt-style-gID_7.jpg@png",
@@ -506,7 +521,7 @@
           "description": "Cardano's ADA token is down almost 95% from its all-time high, and investors don't seem to be happy that the roadmap is complete.",
           "link": "https://decrypt.co/383221/roadmap-is-complete-cardano-founder-charles-hoskinson-says",
           "publishedOn": "2026-11-13T13:36:29.000Z",
-          "wordCount": 12844,
+          "wordCount": 12892,
           "title": "‘Roadmap is Complete,' Cardano Founder Charles Hoskinson Says",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/07/cardano-decrypt-style-02-gID_7.png@png",
@@ -521,7 +536,7 @@
           "description": "Bitcoin fell all the way to $68,000 overnight and hit a new three-month low. But are there reasons for hope?",
           "link": "https://decrypt.co/383222/morning-minute-crypto-plummets-as-jensen-huang-exits-nvidia",
           "publishedOn": "2026-11-13T13:03:40.000Z",
-          "wordCount": 16847,
+          "wordCount": 16895,
           "title": "Morning Minute: Crypto Plummets as Jensen Huang Exits Nvidia",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/bitcoin-down-decrypt-style-gID_7.png@png",
@@ -536,7 +551,7 @@
           "description": "An internal post urging Nvidia's board to weigh staff sentiment has drawn more than 1,600 comments, including calls to reinstate Huang.",
           "link": "https://decrypt.co/383217/nvidia-employees-push-board-to-bring-back-jensen-huang-report",
           "publishedOn": "2026-11-13T11:58:47.000Z",
-          "wordCount": 14956,
+          "wordCount": 15004,
           "title": "Nvidia Employees Push Board to Bring Back Jensen Huang: Report",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/decrypt-style-nvidia-jensen-huang-gID_7.png@png",
@@ -551,7 +566,7 @@
           "description": "BTC dropped 5% on Friday, falling below $69,000. Experts say it was triggered by a \"concentrated liquidation\" and \"weakening\" demand.",
           "link": "https://decrypt.co/383214/bitcoin-drops-to-69k-on-concentrated-liquidation-and-weakening-demand",
           "publishedOn": "2026-11-13T11:20:44.000Z",
-          "wordCount": 14994,
+          "wordCount": 15042,
           "title": "Bitcoin Drops to $69K On 'Concentrated Liquidation' and 'Weakening' Demand",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/Bitcoin-decrypt-style-24-gID_7.png@png",
@@ -566,7 +581,7 @@
           "description": "House panels requested December interviews with Huang and Nvidia's top lawyer as scrutiny shifts to Commerce's oversight of chip exports.",
           "link": "https://decrypt.co/383211/congress-summons-ex-nvidia-ceo-jensen-huang-lutnick-over-chip-exports-to-china",
           "publishedOn": "2026-11-13T10:55:54.000Z",
-          "wordCount": 15005,
+          "wordCount": 15053,
           "title": "Congress Summons Ex-Nvidia CEO Jensen Huang, Lutnick Over Chip Exports to China",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/11/jensen-huang-nvidia-decrypt-style-05-gID_7.jpg@png",
@@ -574,21 +589,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/11/jensen-huang-nvidia-decrypt-style-05-gID_7.jpg@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=383206",
-          "author": "Jose Antonio Lanz",
-          "description": "Senator Josh Hawley wants a nationwide construction pause until households are protected from rising power bills, even as Congress advances legislation designed to accelerate America's already massive AI infrastructure buildout.",
-          "link": "https://decrypt.co/383206/republican-senator-freeze-ai-data-center-boom-congress-pushes-expand",
-          "publishedOn": "2026-11-12T22:36:02.000Z",
-          "wordCount": 17872,
-          "title": "Republican Senator Wants to Freeze AI Data Center Boom as Congress Pushes to Expand It",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-11-gID_7.png@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ai-decrypt-style-11-gID_7.png@png"
         }
       ]
     }
