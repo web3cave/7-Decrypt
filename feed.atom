@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-11-19T02:53:07.420Z</id>
+    <id>urn:2026-11-19T10:57:01.178Z</id>
     <title>web3::cave</title>
-    <updated>2026-11-19T02:53:07.420Z</updated>
+    <updated>2026-11-19T10:57:01.178Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin Struggles to Hold $64,000 as ETF Outflows Hit $2.9B in November]]></title>
+        <id>https://decrypt.co/?p=383597</id>
+        <link href="https://decrypt.co/383597/bitcoin-struggles-to-hold-64000-as-etf-outflows-hit-2-9b-in-november"/>
+        <updated>2026-11-19T10:25:05.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin is down 13% in a week as investors pull money from spot ETFs and brace for another Federal Reserve rate hike.]]></summary>
+        <author>
+            <name>Decrypt Agent</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ledger Confirms Tampered Bitcoin Wallets in Berlin as Spy Implant Probe Spreads Beyond Asia]]></title>
         <id>https://decrypt.co/?p=383586</id>
@@ -353,26 +363,6 @@
         <summary type="html"><![CDATA[A second Trezor shipping partner was breached in three months, exposing buyers' addresses and order details.]]></summary>
         <author>
             <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin's $2 Billion Liquidation Weekend Leaves Traders Watching $60,000]]></title>
-        <id>https://decrypt.co/?p=383366</id>
-        <link href="https://decrypt.co/383366/bitcoin-2-billion-liquidation-weekend-traders-watching-60000"/>
-        <updated>2026-11-16T21:46:03.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin fell near $62,100 as forced liquidations swept crypto markets. ETF withdrawals and a crowded options trade offer a closer look at the damage left behind.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hackers Redirected Bitcoin Miner Rewards via AI Attack, Luxor CEO Says]]></title>
-        <id>https://decrypt.co/?p=383392</id>
-        <link href="https://decrypt.co/383392/hackers-redirected-bitcoin-miner-rewards-ai-attack-luxor"/>
-        <updated>2026-11-16T21:16:03.000Z</updated>
-        <summary type="html"><![CDATA[Luxor said hackers redirected hashrate from just over a dozen client accounts through its Commander tool, and its CEO blamed a “sophisticated AI-enabled vector.”]]></summary>
-        <author>
-            <name>Decrypt Staff</name>
         </author>
     </entry>
 </feed>
