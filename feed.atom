@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-11-19T19:18:57.151Z</id>
+    <id>urn:2026-11-20T01:32:54.086Z</id>
     <title>web3::cave</title>
-    <updated>2026-11-19T19:18:57.151Z</updated>
+    <updated>2026-11-20T01:32:54.086Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Citi Says Customers Are Responsible When AI Banking Agents Go Rogue—Even After a Hack]]></title>
+        <id>https://decrypt.co/?p=383677</id>
+        <link href="https://decrypt.co/383677/citi-customers-responsible-ai-banking-agents-rogue-hack"/>
+        <updated>2026-11-19T22:36:02.000Z</updated>
+        <summary type="html"><![CDATA[Citibank’s updated terms put customers on the hook for outside AI agents, including leaked logins.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nvidia, AMD, Micron Sink as Anthropic Closes 17% Above IPO Price]]></title>
+        <id>https://decrypt.co/?p=383669</id>
+        <link href="https://decrypt.co/383669/nvidia-amd-micron-ai-stocks-sink-anthropic-ipo-price"/>
+        <updated>2026-11-19T21:12:06.000Z</updated>
+        <summary type="html"><![CDATA[Anthropic shares opened 34% above their $83 IPO price before giving up much of the gain, while Nvidia, AMD and other AI stocks slid across Wall Street.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meet SHRINCS: Bitcoin's Emerging Frontrunner for a Post-Quantum Signature]]></title>
+        <id>https://decrypt.co/?p=383666</id>
+        <link href="https://decrypt.co/383666/meet-shrincs-bitcoin-emerging-frontrunner-post-quantum-signature"/>
+        <updated>2026-11-19T20:46:02.000Z</updated>
+        <summary type="html"><![CDATA[A new post-quantum signature proposal aims to secure Bitcoin’s future, but balancing user safety and efficiency comes with hurdles.]]></summary>
+        <author>
+            <name>André Beganski</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hackers Leak Visa, Mastercard and JPMorgan Customer Data]]></title>
+        <id>https://decrypt.co/?p=383663</id>
+        <link href="https://decrypt.co/383663/hackers-leak-visa-mastercard-jpmorgan-data"/>
+        <updated>2026-11-19T20:15:32.000Z</updated>
+        <summary type="html"><![CDATA[A ransomware group breached third-party vendors, not the companies’ own systems. Visa said no card data was affected while Mastercard cited a limited cardholder subset.]]></summary>
+        <author>
+            <name>Decrypt Staff</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitcoin Enters Death Cross as Anthropic IPO Fails to Lift Wall Street]]></title>
         <id>https://decrypt.co/?p=383655</id>
@@ -331,46 +371,6 @@
         <link href="https://decrypt.co/383463/cathie-wood-ark-sells-85-million-nvidia-buys-crypto-stocks"/>
         <updated>2026-11-17T19:46:03.000Z</updated>
         <summary type="html"><![CDATA[Cathie Wood's funds trimmed Nvidia ahead of earnings while buying Block, Circle and Coinbase during Monday's selloff.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethereum Devs Weigh a Scaling Upgrade That Could Break 15,000 Apps]]></title>
-        <id>https://decrypt.co/?p=383462</id>
-        <link href="https://decrypt.co/383462/ethereum-devs-scaling-upgrade-could-break-15000-apps"/>
-        <updated>2026-11-17T19:26:02.000Z</updated>
-        <summary type="html"><![CDATA[Developers warned on a core dev call that two scaling changes in the Glamsterdam upgrade break assumptions some contracts rely on—pitting a 3.3x capacity boost against the risk of disrupting thousands of apps.]]></summary>
-        <author>
-            <name>Decrypt Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jensen Huang Says He'd Be 'Honored' to Return as Nvidia CEO, Despite Board's Resistance]]></title>
-        <id>https://decrypt.co/?p=383454</id>
-        <link href="https://decrypt.co/383454/jensen-huang-honored-return-nvidia-ceo-board-resistance"/>
-        <updated>2026-11-17T18:23:43.000Z</updated>
-        <summary type="html"><![CDATA[The ousted Nvidia founder apologized for his conduct, offered to return if directors ask, and addressed supporters as the chipmaker presses ahead with its search for new leadership this week.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Binance Hack Wallets Move $137 Million in Ethereum After Two Weeks of Silence]]></title>
-        <id>https://decrypt.co/?p=383446</id>
-        <link href="https://decrypt.co/383446/binance-hack-wallets-move-ethereum-after-two-weeks"/>
-        <updated>2026-11-17T17:18:41.000Z</updated>
-        <summary type="html"><![CDATA[A wallet linked to October’s record Binance theft moved $63 million in ether, before analysts flagged a larger wave of transfers and reported Bitcoin swaps amid ongoing U.S. recovery efforts.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Former Robinhood Engineer Pleads Guilty to Crypto Insider Trading Scheme]]></title>
-        <id>https://decrypt.co/?p=383443</id>
-        <link href="https://decrypt.co/383443/former-robinhood-engineer-pleads-guilty-crypto-insider-trading"/>
-        <updated>2026-11-17T16:41:38.000Z</updated>
-        <summary type="html"><![CDATA[Huaisong Xiang admitted repeatedly trading perpetual futures on Hyperliquid using confidential Robinhood listing plans, pocketing $125,523.]]></summary>
         <author>
             <name>Jose Antonio Lanz</name>
         </author>
