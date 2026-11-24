@@ -6,12 +6,222 @@
       "siteUrl": "https://decrypt.co/feed",
       "articles": [
         {
+          "id": "https://decrypt.co/?p=383930",
+          "author": "Decrypt Staff",
+          "description": "Coinkite’s postmortem reveals a software random-number generator shipped in place of the hardware one for over five years, slipping past at least 15 reviews.",
+          "link": "https://decrypt.co/383930/coldcard-bitcoin-exploit-how-hidden-flaw-survived-years-audits",
+          "publishedOn": "2026-11-24T21:16:02.000Z",
+          "wordCount": 17214,
+          "title": "Coldcard Bitcoin Exploit, Revisited: How a Hidden Flaw Survived Years of Audits",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/07/coldcard-mk3-decrypt-style-1-2-gID_7.jpg@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/07/coldcard-mk3-decrypt-style-1-2-gID_7.jpg@png"
+        },
+        {
+          "id": "https://decrypt.co/?p=383927",
+          "author": "Jose Antonio Lanz",
+          "description": "The Ethereum Foundation has doubled its protocol security team and is prioritizing a cryptographic overhaul as advances in AI threaten the mathematical assumptions that keep billions in crypto safe.",
+          "link": "https://decrypt.co/383927/ethereum-foundation-ai-more-urgent-threat-quantum-computing",
+          "publishedOn": "2026-11-24T20:36:02.000Z",
+          "wordCount": 16352,
+          "title": "Ethereum Foundation Says AI Is a More Urgent Threat Than Quantum Computing",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Ethereum-decrypt-style-04-gID_7.png@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Ethereum-decrypt-style-04-gID_7.png@png"
+        },
+        {
+          "id": "https://decrypt.co/?p=383909",
+          "author": "Jose Antonio Lanz",
+          "description": "Bitcoin slipped below $60,000 as realized losses nearly doubled in a week. Glassnode says the sell-off resembles past market bottoms, but another drop to $53,200 could be in the cards.",
+          "link": "https://decrypt.co/383909/bitcoin-losses-worst-since-ftx-is-bottom-near",
+          "publishedOn": "2026-11-24T19:35:32.000Z",
+          "wordCount": 14128,
+          "title": "Bitcoin Losses Are the Worst Since FTX. Is the Bottom Near?",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-decrypt-style-27-gID_7.jpg@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-decrypt-style-27-gID_7.jpg@png"
+        },
+        {
+          "id": "https://decrypt.co/?p=383906",
+          "author": "Decrypt Staff",
+          "description": "Staff guidance lets swap venues and clearinghouses count Bitcoin, Ethereum, and stablecoins toward their 12-month operating-cost buffer. Here's the catch.",
+          "link": "https://decrypt.co/383906/cftc-new-crypto-reserves-guidance-actually-allows-what-it-doesnt",
+          "publishedOn": "2026-11-24T18:55:27.000Z",
+          "wordCount": 17321,
+          "title": "What the CFTC’s New Crypto Reserves Guidance Actually Allows—And What It Doesn’t",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/cftc-decrypt-style-01-gID_7.jpg@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/cftc-decrypt-style-01-gID_7.jpg@png"
+        },
+        {
+          "id": "https://decrypt.co/?p=383905",
+          "author": "Decrypt Staff",
+          "description": "The Financial Services Commission’s draft Digital Asset Act would let domestic projects sell tokens again under IPO-style disclosure rules, reversing a 2017 ban that mostly pushed Korean issuers offshore.",
+          "link": "https://decrypt.co/383905/south-korea-moves-lift-ico-ban-after-nearly-decade",
+          "publishedOn": "2026-11-24T18:36:03.000Z",
+          "wordCount": 12049,
+          "title": "South Korea Moves to Lift Its ICO Ban After Nearly a Decade",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/bitcoin-south-korea-won-decrypt-style-gID_7.jpg@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/bitcoin-south-korea-won-decrypt-style-gID_7.jpg@png"
+        },
+        {
+          "id": "https://decrypt.co/?p=383898",
+          "author": "Jose Antonio Lanz",
+          "description": "Fear and Greed indexes are flashing extreme fear across stocks and crypto as Nvidia’s relief rally fades, Bitcoin falls below $60,000, and investors brace for higher interest rates",
+          "link": "https://decrypt.co/383898/wall-street-crypto-extreme-whats-spooking-investors",
+          "publishedOn": "2026-11-24T18:16:02.000Z",
+          "wordCount": 24027,
+          "title": "Wall Street and Crypto Are in 'Extreme Fear'. What's Spooking Investors?",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Chart4_red-gID_7.png@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Chart4_red-gID_7.png@png"
+        },
+        {
+          "id": "https://decrypt.co/?p=383730",
+          "author": "Decrypt Agent",
+          "description": "Pons lets anyone launch a fixed-supply token on Robinhood Chain in one transaction. Here's how it works, and what its PONS token does.",
+          "link": "https://decrypt.co/resources/what-is-pons-the-robinhood-chain-meme-coin-launchpad-explained",
+          "publishedOn": "2026-11-24T17:45:22.000Z",
+          "wordCount": 15763,
+          "title": "What Is Pons? The Robinhood Chain Meme Coin Launchpad Explained",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/11/pons-meme-coin-gID_4-pID_1.png@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/11/pons-meme-coin-gID_4-pID_1.png@png"
+        },
+        {
+          "id": "https://decrypt.co/?p=383889",
+          "author": "Jose Antonio Lanz",
+          "description": "Bullpen identified unauthorized transfers from as many as 19 early accounts after millions moved from wallets linked to Ansem.",
+          "link": "https://decrypt.co/383889/ansem-meme-coin-crashes-wallet-drain-bullpen-security-breach",
+          "publishedOn": "2026-11-24T17:43:03.000Z",
+          "wordCount": 16313,
+          "title": "Ansem Meme Coin Crashes After $2.57 Million Wallet Drain, Bullpen Confirms Security Breach",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-trading-decrypt-style-01-gID_7.png@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-trading-decrypt-style-01-gID_7.png@png"
+        },
+        {
+          "id": "https://decrypt.co/?p=383877",
+          "author": "Decrypt Agent",
+          "description": "Police from 11 countries worked with Binance, Coinbase and Chainalysis to follow crypto payments made to pirate TV services.",
+          "link": "https://decrypt.co/383877/europol-traces-28m-in-crypto-behind-europes-illegal-streaming-industry",
+          "publishedOn": "2026-11-24T16:00:44.000Z",
+          "wordCount": 19847,
+          "title": "Europol Traces $28M in Crypto Behind Europe's Illegal Streaming Industry",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/11/europol-decrypt-style-gID_7.jpg@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/11/europol-decrypt-style-gID_7.jpg@png"
+        },
+        {
+          "id": "https://decrypt.co/?p=383874",
+          "author": "Decrypt Agent",
+          "description": "U.S. authorities say they've now helped freeze, seize or return more than $2.9 billion of the crypto stolen from Binance in October.",
+          "link": "https://decrypt.co/383874/justice-department-moves-to-forfeit-1-1b-in-usdc-from-north-koreas-binance-hack",
+          "publishedOn": "2026-11-24T14:13:03.000Z",
+          "wordCount": 12287,
+          "title": "Justice Department Moves to Forfeit $1.1B in USDC From North Korea's Binance Hack",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/department-of-justice-doj-decrypt-style-scaled-gID_7.jpg@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/department-of-justice-doj-decrypt-style-scaled-gID_7.jpg@png"
+        },
+        {
+          "id": "https://decrypt.co/?p=383857",
+          "author": "Decrypt Agent",
+          "description": "The blockchain security firm walked officers from across Asia and the South Pacific through a real wallet-theft case at a workshop in Hanoi.",
+          "link": "https://decrypt.co/383857/certik-trains-interpol-investigators-to-trace-and-freeze-stolen-crypto",
+          "publishedOn": "2026-11-24T13:46:03.000Z",
+          "wordCount": 15267,
+          "title": "CertiK Trains Interpol Investigators to Trace and Freeze Stolen Crypto",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/11/Interpol-gID_7.jpg@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/11/Interpol-gID_7.jpg@png"
+        },
+        {
+          "id": "https://decrypt.co/?p=383868",
+          "author": "Tyler Warner",
+          "description": "It was a very green Monday for most markets, but crypto couldn’t hold the pump as ETF sellers race for the exits.",
+          "link": "https://decrypt.co/383868/morning-minute-jensen-returns-markets-soar-except-crypto",
+          "publishedOn": "2026-11-24T13:07:49.000Z",
+          "wordCount": 17501,
+          "title": "Morning Minute: Jensen Returns, Markets Soar (Except Crypto)",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/11/jensen-huang-nvidia-decrypt-style-04-gID_7.jpg@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/11/jensen-huang-nvidia-decrypt-style-04-gID_7.jpg@png"
+        },
+        {
+          "id": "https://decrypt.co/?p=383860",
+          "author": "Ryan Gladwin",
+          "description": "Leonida and GTA6Modding went dark a day after Cyberleek released the executable file that porters had been waiting for.",
+          "link": "https://decrypt.co/383860/gta-6-pc-ports-nuked-just-days-before-devs-expected-it-to-be-playable",
+          "publishedOn": "2026-11-24T13:01:30.000Z",
+          "wordCount": 13524,
+          "title": "GTA 6 PC Ports ‘Nuked’ Just Days Before Devs Expected It to Be Playable",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/11/grand-theft-auto-vi-gta-vi-gta-6-decrypt-style-02-gID_7.jpg@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/11/grand-theft-auto-vi-gta-vi-gta-6-decrypt-style-02-gID_7.jpg@png"
+        },
+        {
+          "id": "https://decrypt.co/?p=383854",
+          "author": "Ryan Gladwin",
+          "description": "Roughly 245,000 BTC has left almost 10,000 wallets presumed lost, undercutting a lawsuit that argues silence means abandonment.",
+          "link": "https://decrypt.co/383854/14-7b-in-lost-bitcoin-has-moved-since-2018-report",
+          "publishedOn": "2026-11-24T12:40:47.000Z",
+          "wordCount": 16877,
+          "title": "$14.7B in ‘Lost’ Bitcoin Has Moved Since 2018: Report",
+          "enclosure": {
+            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-20-gID_7.png@png",
+            "length": "1000000",
+            "type": "image/png"
+          },
+          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-20-gID_7.png@png"
+        },
+        {
           "id": "https://decrypt.co/?p=383853",
           "author": "Decrypt Agent",
           "description": "Lawmakers from both parties want to know what national security assurances the White House gave Nvidia's board before it brought Huang back.",
           "link": "https://decrypt.co/383853/trump-says-he-made-the-deal-to-reinstate-jensen-huang-sparking-bipartisan-backlash",
           "publishedOn": "2026-11-24T11:35:13.000Z",
-          "wordCount": 15776,
+          "wordCount": 15746,
           "title": "Trump Says He 'Made the Deal' to Reinstate Jensen Huang, Sparking Bipartisan Backlash",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Trump-decrypt-style-06-gID_7.png@png",
@@ -26,7 +236,7 @@
           "description": "GLM-5.4 uses a looping architecture to squeeze more reasoning power from fewer parameters, challenging the expensive approach favored by American AI giants.",
           "link": "https://decrypt.co/383851/chinas-zai-new-ai-model-glm-think-like-four-times-size",
           "publishedOn": "2026-11-23T23:06:02.000Z",
-          "wordCount": 20276,
+          "wordCount": 20245,
           "title": "China's Z.ai Says Its New AI Model Can Think Like One Four Times Its Size",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-brain-hand-gID_7.png@png",
@@ -41,7 +251,7 @@
           "description": "OpenAI wants local AI evangelists to bring ChatGPT to Main Street. Its new OpenWorks program pays up to $8,000 monthly, provided you can actually help businesses get things done locally.",
           "link": "https://decrypt.co/383848/openai-will-pay-8k-preach-ai-gospel-small-businesses",
           "publishedOn": "2026-11-23T21:46:03.000Z",
-          "wordCount": 23194,
+          "wordCount": 23163,
           "title": "OpenAI Will Pay You Up to $8K to Preach the AI Gospel to Small Businesses",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/openai-decrypt-style-02-gID_7.jpg@png",
@@ -56,7 +266,7 @@
           "description": "Alexandr Wang says Claude’s role in a verified Riemann Hypothesis proof signals a turning point, warning that powerful self-improving AI systems could advance faster than people can supervise them.",
           "link": "https://decrypt.co/383846/why-one-math-proof-ai-experts-warning-humans-lose-control",
           "publishedOn": "2026-11-23T21:16:03.000Z",
-          "wordCount": 19798,
+          "wordCount": 19767,
           "title": "Why One Math Proof Has AI Experts Warning Humans Might Soon Lose Control",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/ai-artificial-intelligence-decrypt-style-1-scaled-gID_7.jpg@png",
@@ -71,7 +281,7 @@
           "description": "Roughly a month after the $6.4 billion hack, Elliptic says nearly all of the coinjoin mixing was coordinated by one person who “refuses to block funds such as these.\"",
           "link": "https://decrypt.co/383844/north-korea-247-million-binance-hack-bitcoin-mixers",
           "publishedOn": "2026-11-23T20:36:02.000Z",
-          "wordCount": 15676,
+          "wordCount": 15646,
           "title": "North Korea Moves $247 Million of Binance Hack Loot Through Bitcoin Mixers",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/11/north-korea-lazarus-group-dprk-hacker-decrypt-style-02-gID_7.jpg@png",
@@ -86,7 +296,7 @@
           "description": "Huang's 11-day absence exposed the importance of his customer ties, influence in Washington and hold on Silicon Valley. The stock is soaring, but the comeback brings risks of its own.",
           "link": "https://decrypt.co/383841/why-nvidia-needed-jensen-huang-back-what-return-changes",
           "publishedOn": "2026-11-23T19:57:21.000Z",
-          "wordCount": 19312,
+          "wordCount": 19282,
           "title": "Why Nvidia Needed Jensen Huang Back—And What His Return Really Changes",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/11/jensen-huang-nvidia-decrypt-style-05-gID_7.jpg@png",
@@ -101,7 +311,7 @@
           "description": "Hollywood, WWE and GPU Jesus joined the celebration after Nvidia reinstated Jensen Huang on Monday, while viral AI memes cast Anthropic's Dario Amodei as the unlikely villain of the comeback.",
           "link": "https://decrypt.co/383820/jensen-huang-returns-nvidia-memes-gpu-jesus",
           "publishedOn": "2026-11-23T18:45:21.000Z",
-          "wordCount": 12271,
+          "wordCount": 12241,
           "title": "GPU Jesus Has Risen: Jensen Huang’s Nvidia Comeback Gets a Meme Parade",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/11/Profeta-do-Hardware-Celestial-gID_7.png@png",
@@ -116,7 +326,7 @@
           "description": "The lone miner solved block 977057 through Solo CKPool, pocketing 3.13 BTC (worth about $191,000) in a lottery-like feat that normally only industrial-scale mining farms pull off.",
           "link": "https://decrypt.co/383818/solo-bitcoin-miner-scores-again-191000-jackpot",
           "publishedOn": "2026-11-23T18:16:25.000Z",
-          "wordCount": 17128,
+          "wordCount": 17098,
           "title": "Solo Bitcoin Miner Scores Again, Hitting $191,000 Jackpot Against the Odds",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/bitcoin-mining-decrypt-style-04-gID_7.png@png",
@@ -131,7 +341,7 @@
           "description": "Decrypt readers can now swap tokens and trade perpetual futures from a single Money Account. Here's how The Information Exchange works.",
           "link": "https://decrypt.co/resources/perps-and-swaps-how-to-trade-the-news-on-decrypt",
           "publishedOn": "2026-11-23T18:15:45.000Z",
-          "wordCount": 14430,
+          "wordCount": 14400,
           "title": "Perps and Swaps: How to Trade the News on Decrypt",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/11/decrypt-trade-the-news-learn-gID_1-pID_2.png@png",
@@ -146,7 +356,7 @@
           "description": "Nvidia shares jumped more than 33% after the board reinstated Huang 11 days post-resignation, adding over $36 billion to his fortune while dealing short sellers their worst single-day loss since at least 2019.",
           "link": "https://decrypt.co/383815/jensen-huang-fortune-37-billion-nvidia-soars-short-sellers-rekt",
           "publishedOn": "2026-11-23T17:28:08.000Z",
-          "wordCount": 17160,
+          "wordCount": 17130,
           "title": "Jensen Huang’s Wealth Rises $36 Billion as Nvidia Surge Burns Short Sellers for $12 Billion",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/11/jensen-huang-nvidia-decrypt-style-04-gID_7.jpg@png",
@@ -161,7 +371,7 @@
           "description": "Chairman Tom Lee argued ETH’s supply has grown just 0.90% annually since mid-2025—roughly matching Bitcoin’s 0.82% and far below Solana, XRP and Cardano.",
           "link": "https://decrypt.co/383800/tom-lee-ethereum-scarce-bitcoin-bitmine-buys-more",
           "publishedOn": "2026-11-23T16:46:03.000Z",
-          "wordCount": 15580,
+          "wordCount": 15550,
           "title": "Tom Lee Says Ethereum Is as Scarce as Bitcoin—And Bitmine Just Bought More",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/10/tom-lee-decrypt-style-04-gID_7.jpg@png",
@@ -176,7 +386,7 @@
           "description": "Nvidia’s comeback sent chip shares soaring and gave Bitcoin a lift after a punishing selloff. Anthropic, fresh from its record IPO, missed the party.",
           "link": "https://decrypt.co/383801/bitcoin-rallies-anthropic-sinks-as-nvidia-surges-35-on-jensen-huangs-return",
           "publishedOn": "2026-11-23T16:32:04.000Z",
-          "wordCount": 15599,
+          "wordCount": 15569,
           "title": "Bitcoin Rallies, Anthropic Sinks as Nvidia Surges 35% on Jensen Huang’s Return",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/11/jensen-huang-nvidia-decrypt-style-03-e1794217137922-gID_7.jpg@png",
@@ -191,7 +401,7 @@
           "description": "The board said senior U.S. officials' input left it confident Huang's return poses no national security risk. Shares jumped 26% premarket.",
           "link": "https://decrypt.co/383797/nvidia-reinstates-jensen-huang-as-ceo-days-after-board-ruled-out-his-return",
           "publishedOn": "2026-11-23T14:07:21.000Z",
-          "wordCount": 14277,
+          "wordCount": 14247,
           "title": "Nvidia Reinstates Jensen Huang as CEO Days After Board Ruled Out His Return",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/decrypt-style-nvidia-jensen-huang-gID_7.png@png",
@@ -206,7 +416,7 @@
           "description": "The Nasdaq dropped 10% last week. Bitcoin lost 10% in a single day on Friday amidst cascading selloffs, though a relief rally is underway.",
           "link": "https://decrypt.co/383778/morning-minute-crypto-rebounds-after-nvda-drives-friday-selloff",
           "publishedOn": "2026-11-23T13:34:13.000Z",
-          "wordCount": 16619,
+          "wordCount": 16595,
           "title": "Morning Minute: Crypto Rebounds after NVDA Drives Friday Selloff",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/07/nvidia-logo-decrypt-style-02-gID_7.png@png",
@@ -221,7 +431,7 @@
           "description": "Michael Saylor's firm raised its preferred stock buyback program to $4 billion after repurchasing another $212 million of STRC last week.",
           "link": "https://decrypt.co/383779/strategy-buys-30m-in-bitcoin-moves-1b-from-usd-reserve-to-cash-pot",
           "publishedOn": "2026-11-23T13:25:35.000Z",
-          "wordCount": 14937,
+          "wordCount": 14907,
           "title": "Strategy Buys $30M in Bitcoin, Moves $1B From USD Reserve to Cash Pot",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/strategy-logo-x-twitter-2-gID_7.png@png",
@@ -236,7 +446,7 @@
           "description": "Investigators say \"decentralized\" casino BETFIN was run centrally, inflated its player numbers with bots and made $12 million illegally.",
           "link": "https://decrypt.co/383775/czech-authorities-charge-15-over-12m-unlicensed-crypto-casino",
           "publishedOn": "2026-11-23T13:08:23.000Z",
-          "wordCount": 13666,
+          "wordCount": 13636,
           "title": "Czech Authorities Charge 15 Over $12M Unlicensed Crypto Casino",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/crime_jail-handcuffs-gID_7.png@png",
@@ -251,7 +461,7 @@
           "description": "A meme coin honoring the Cincinnati Zoo's late pygmy hippo has sent its creator rewards to the zoo's nonprofit.",
           "link": "https://decrypt.co/383762/solana-meme-coin-for-fiona-the-hippo-sends-100k-to-cincinnati-zoo-charity",
           "publishedOn": "2026-11-23T12:43:30.000Z",
-          "wordCount": 12073,
+          "wordCount": 12043,
           "title": "Solana Meme Coin for Fiona the Hippo Raises $100K for Cincinnati Zoo Charity",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/11/fiona-hippo-decrypt-style-gID_7.jpg@png",
@@ -266,7 +476,7 @@
           "description": "Bitcoin swung by more than $6,000 over the weekend as tech stocks slid and spot ETFs logged their biggest daily outflow since June.",
           "link": "https://decrypt.co/383758/bitcoin-rebounds-to-61k-after-weekend-plunge-to-two-year-low",
           "publishedOn": "2026-11-23T11:14:22.000Z",
-          "wordCount": 21483,
+          "wordCount": 21453,
           "title": "Bitcoin Rebounds to $61K After Weekend Plunge to Two-Year Low",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin-chart-decrypt-style-01-gID_7.png@png",
@@ -281,7 +491,7 @@
           "description": "Google’s Willow quantum processor beat the classical ceiling in a four-qubit coordination game, revealing a promising hardware test rather than commercial quantum computing.",
           "link": "https://decrypt.co/383743/googles-quantum-chip-beats-classical-limits-in-impossible-game-tests-105-qubits",
           "publishedOn": "2026-11-22T14:01:02.000Z",
-          "wordCount": 19132,
+          "wordCount": 19101,
           "title": "Google's Quantum Chip Beats Classical Limits in 'Impossible' Game",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/quantum-decrypt-style-gID_7.jpg@png",
@@ -296,7 +506,7 @@
           "description": "The anonymous leaker, Cyberleek, released a 209 GB Xbox build but is withholding the executable that could enable a PC port until its CYBERLEEK token hits $15 million.",
           "link": "https://decrypt.co/383756/gta-6-leaker-dangles-pc-port-15-million-crypto-pump",
           "publishedOn": "2026-11-21T18:01:02.000Z",
-          "wordCount": 15736,
+          "wordCount": 15706,
           "title": "GTA 6 Leaker Dangles a PC Port Behind a $15 Million Crypto Pump",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/11/grand-theft-auto-6-gta-vi-decrypt-style-gID_7.jpg@png",
@@ -311,7 +521,7 @@
           "description": "The agency says eight Colorado-registered entities, likely run from overseas, posed as legitimate advisers and crypto platforms—even faking SEC certificates and filings—to defraud U.S. investors of more than $37 million.",
           "link": "https://decrypt.co/383752/fraudsters-fake-crypto-exchanges-steal-37-million-sec",
           "publishedOn": "2026-11-21T17:01:02.000Z",
-          "wordCount": 16898,
+          "wordCount": 16868,
           "title": "Fraudsters Used Fake Crypto Exchanges to Steal $37 Million, SEC Alleges",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/SecuritiesExchange_logo-gID_7.png@png",
@@ -326,7 +536,7 @@
           "description": "The encrypted-messaging app will restrict screenshots on iOS 27 and auto-enable screen security on Android when it detects an AI assistant reading a chat.",
           "link": "https://decrypt.co/383750/signal-os-level-ai-existential-threat-blocks-screenshots",
           "publishedOn": "2026-11-21T16:01:02.000Z",
-          "wordCount": 20197,
+          "wordCount": 20167,
           "title": "Signal Calls OS-Level AI an 'Existential Threat' and Blocks Screenshots to Fight It",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2021/01/signal-app-ios-android-gID_7.jpg@png",
@@ -341,7 +551,7 @@
           "description": "Tech stocks are buckling after Anthropic’s historic IPO and Nvidia’s leadership crisis, while Bitcoin has slipped below $60,000. Experts disagree on whether AI faces a correction or a dot-com-style bust.",
           "link": "https://decrypt.co/383754/ai-bubble-finally-popping-nvidia-crashes-48-wall-street-alarm",
           "publishedOn": "2026-11-21T14:01:06.000Z",
-          "wordCount": 20444,
+          "wordCount": 20414,
           "title": "Is the AI Bubble Finally Popping? Nvidia Crashes 48% as Wall Street Experts Sound the Alarm",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/stocks-gID_7.jpg@png",
@@ -356,7 +566,7 @@
           "description": "Levent Alpöge claims Claude helped prove a 167-year-old math conjecture, but independent checks remain pending, and the release just after Anthropic’s IPO has prompted questions about its unusual publication timing.",
           "link": "https://decrypt.co/383747/claude-historic-math-breakthrough-anthropic-ipo",
           "publishedOn": "2026-11-20T21:36:02.000Z",
-          "wordCount": 11221,
+          "wordCount": 11191,
           "title": "Claude Claims Historic Math Breakthrough One Day After Anthropic IPO",
           "enclosure": {
             "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/09/math-problems-AI-gID_1.jpg@png",
@@ -364,201 +574,6 @@
             "type": "image/png"
           },
           "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/09/math-problems-AI-gID_1.jpg@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=383744",
-          "author": "Decrypt Staff",
-          "description": "Nvidia shares fell about 13% to a 52-week low after reports that SEC enforcement staff are examining potential accounting issues, adding to pressure on the chipmaker after Jensen Huang’s resignation.",
-          "link": "https://decrypt.co/383744/nvidia-shares-sink-52-week-low-sec-probing-accounting",
-          "publishedOn": "2026-11-20T20:36:54.000Z",
-          "wordCount": 16801,
-          "title": "Nvidia Shares Sink to 52-Week Low After Report SEC Is Probing Accounting",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/07/nvidia-logo-decrypt-style-02-gID_7.png@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/07/nvidia-logo-decrypt-style-02-gID_7.png@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=383739",
-          "author": "Jose Antonio Lanz",
-          "description": "Anthropic’s IPO made FTX’s liquidated AI bet a $43 billion what-if, just as Netflix premiered its Sam Bankman-Fried drama.",
-          "link": "https://decrypt.co/383739/sbf-altruists-ftx-anthropic-shares-worth-43-billion",
-          "publishedOn": "2026-11-20T19:36:03.000Z",
-          "wordCount": 18780,
-          "title": "SBF’s 'The Altruists' Plot Twist: FTX’s Anthropic Shares Would Be Worth $43 Billion",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/sam-bankman-fried-ftx-sbf-decrypt-style-gID_7.jpg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/sam-bankman-fried-ftx-sbf-decrypt-style-gID_7.jpg@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=383737",
-          "author": "Decrypt Staff",
-          "description": "The firm bought 934,968 Anthropic shares across six ETFs on the Claude maker’s Nasdaq debut while trimming a combined $4.1 million from its Ethereum and Solana staking ETFs.",
-          "link": "https://decrypt.co/383737/cathie-wood-bets-91m-anthropic-ipo-paring-crypto-exposure",
-          "publishedOn": "2026-11-20T18:46:03.000Z",
-          "wordCount": 22698,
-          "title": "Cathie Wood Bets $91M on Anthropic IPO While Paring Crypto Exposure",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/11/cathie-wood-ark-invest-decrypt-style-gID_7.jpg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/11/cathie-wood-ark-invest-decrypt-style-gID_7.jpg@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=383733",
-          "author": "Jose Antonio Lanz",
-          "description": "Gemini's new Mac computer-use feature navigates apps, files, and websites in a separate window, but Google's own documentation warns about prompt injection.",
-          "link": "https://decrypt.co/383733/google-gives-gemini-control-mac-apps-ai-agent",
-          "publishedOn": "2026-11-20T18:16:02.000Z",
-          "wordCount": 17765,
-          "title": "Google Gives Gemini Control of Mac Apps, But Its New AI Agent Comes With Risks",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/google-decrypt-style-2-gID_7.png@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/google-decrypt-style-2-gID_7.png@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=383732",
-          "author": "Decrypt Staff",
-          "description": "Wagyu’s XMR1 token fell more than 99% after an attacker moved 5.2 million tokens out of its deployer account and sold a fraction of them for $13.5 million.",
-          "link": "https://decrypt.co/383732/wrapped-monero-token-collapses-99-after-13-million-hack-blamed-on-web-host",
-          "publishedOn": "2026-11-20T17:41:45.000Z",
-          "wordCount": 17446,
-          "title": "Wrapped Monero Token Collapses 99% After $13 Million Hack Blamed on Web Host",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/crime_hacker-gID_7.png@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/crime_hacker-gID_7.png@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=383702",
-          "author": "Jose Antonio Lanz",
-          "description": "Bitcoin broke below $60,000 Friday as crypto sentiment collapsed and AI-linked stocks sank after Anthropic’s IPO.",
-          "link": "https://decrypt.co/383702/bitcoin-breaks-below-60k-crypto-fear-greed-index-lowest",
-          "publishedOn": "2026-11-20T16:35:59.000Z",
-          "wordCount": 12105,
-          "title": "Bitcoin Breaks Below $60K as Crypto Fear Index Hits Worst Level Since February",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/bitcoin-down-crash-decrypt-style-1-gID_7.jpg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/bitcoin-down-crash-decrypt-style-1-gID_7.jpg@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=383700",
-          "author": "Decrypt Agent",
-          "description": "Sen. Adam Schiff's DEATH BETS Act would bar U.S.-regulated exchanges from listing contracts tied to war, assassinations or deaths.",
-          "link": "https://decrypt.co/383700/senate-passes-bill-banning-prediction-market-bets-on-war-terrorism-and-death",
-          "publishedOn": "2026-11-20T15:42:51.000Z",
-          "wordCount": 14870,
-          "title": "Senate Passes Bill Banning Prediction Market Bets on War, Terrorism and Death",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/us-capitol-decrypt-style-01-gID_7.jpg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/us-capitol-decrypt-style-01-gID_7.jpg@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=383691",
-          "author": "Tyler Warner",
-          "description": "A (brief) win for Anthropic's ANT stock on IPO day meant a loss for just about every other major asset class.",
-          "link": "https://decrypt.co/383691/morning-minute-anthropic-ipo-pops-sinks-markets",
-          "publishedOn": "2026-11-20T13:23:01.000Z",
-          "wordCount": 16875,
-          "title": "Morning Minute: Anthropic IPO Pops, Sinks Markets",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-anthropic-2-gID_7.png@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-anthropic-2-gID_7.png@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=383688",
-          "author": "Decrypt Agent",
-          "description": "The crypto payments firm joins a rush of crypto companies seeking federal trust charters, which face growing political scrutiny.",
-          "link": "https://decrypt.co/383688/moonpay-applies-for-national-trust-bank-charter-to-grow-custody-and-stablecoin-business",
-          "publishedOn": "2026-11-20T12:10:14.000Z",
-          "wordCount": 12355,
-          "title": "MoonPay Applies for National Trust Bank Charter to Grow Custody and Stablecoin Business",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-moonpay-gID_7.png@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-moonpay-gID_7.png@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=383685",
-          "author": "Decrypt Agent",
-          "description": "Thursday's ETF outflow was the funds' biggest in three weeks, as rising Treasury yields and Fed rate hike bets weigh on crypto.",
-          "link": "https://decrypt.co/383685/bitcoin-etfs-shed-582m-in-a-day-as-btc-drops-below-62k",
-          "publishedOn": "2026-11-20T11:50:51.000Z",
-          "wordCount": 17770,
-          "title": "Bitcoin ETFs Shed $582M in a Day as BTC Drops Below $62K",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/bitcoin-down-crash-decrypt-style-1-gID_7.jpg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/bitcoin-down-crash-decrypt-style-1-gID_7.jpg@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=383682",
-          "author": "Decrypt Agent",
-          "description": "The exchange offers event contracts through Kalshi, but running its own would give it more control and a bigger share of trading revenue.",
-          "link": "https://decrypt.co/383682/coinbase-targets-in-house-prediction-markets-by-first-half-of-2027-report",
-          "publishedOn": "2026-11-20T11:23:00.000Z",
-          "wordCount": 14226,
-          "title": "Coinbase Targets In-House Prediction Markets by First Half of 2027: Report",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Coinbase_logo-nft-nyc-decrypt-style-scaled-gID_7.jpg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Coinbase_logo-nft-nyc-decrypt-style-scaled-gID_7.jpg@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=383679",
-          "author": "Decrypt Agent",
-          "description": "The UK crypto trade group broadly backed the regulator's proposed perimeter guidance, but warned that parts of it go further than the law.",
-          "link": "https://decrypt.co/383679/cryptouk-urges-fca-not-to-treat-defi-devs-as-regulated-by-default",
-          "publishedOn": "2026-11-20T10:07:46.000Z",
-          "wordCount": 12843,
-          "title": "CryptoUK Urges FCA Not to Treat DeFi Devs as Regulated by Default",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/uk-fca-financial-conduct-authority-decrypt-style-gID_7.jpg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/uk-fca-financial-conduct-authority-decrypt-style-gID_7.jpg@png"
-        },
-        {
-          "id": "https://decrypt.co/?p=383677",
-          "author": "Jose Antonio Lanz",
-          "description": "Citibank’s updated terms put customers on the hook for outside AI agents, including leaked logins.",
-          "link": "https://decrypt.co/383677/citi-customers-responsible-ai-banking-agents-rogue-hack",
-          "publishedOn": "2026-11-19T22:36:02.000Z",
-          "wordCount": 17077,
-          "title": "Citi Says Customers Are Responsible When AI Banking Agents Go Rogue—Even After a Hack",
-          "enclosure": {
-            "url": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/citi-decrypt-style-gID_7.jpg@png",
-            "length": "1000000",
-            "type": "image/png"
-          },
-          "imageUrl": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/citi-decrypt-style-gID_7.jpg@png"
         }
       ]
     }
