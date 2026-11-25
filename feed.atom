@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-11-24T21:45:33.929Z</id>
+    <id>urn:2026-11-25T04:42:26.726Z</id>
     <title>web3::cave</title>
-    <updated>2026-11-24T21:45:33.929Z</updated>
+    <updated>2026-11-25T04:42:26.726Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[OpenAI and Anthropic Insiders Fear Their Next AI Models Are Too Dangerous to Release]]></title>
+        <id>https://decrypt.co/?p=383933</id>
+        <link href="https://decrypt.co/383933/openai-and-anthropic-insiders-fear-next-ai-models-too-dangerous"/>
+        <updated>2026-11-24T22:36:02.000Z</updated>
+        <summary type="html"><![CDATA[Employees at both AI labs reportedly question whether their strongest models should ever reach the public, as researchers struggle to keep increasingly capable systems under control during training and testing.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anthropic’s Claude Ship Lets AI Write, Review and Approve Its Own Code]]></title>
+        <id>https://decrypt.co/?p=383929</id>
+        <link href="https://decrypt.co/383929/anthropic-claude-ship-ai-write-review-approve-own-code"/>
+        <updated>2026-11-24T21:46:02.000Z</updated>
+        <summary type="html"><![CDATA[Anthropic’s new coding tools can review and repair software changes before approving them for release, leaving development teams to decide when a human still needs to check the AI’s work.]]></summary>
+        <author>
+            <name>Jose Antonio Lanz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Coldcard Bitcoin Exploit, Revisited: How a Hidden Flaw Survived Years of Audits]]></title>
         <id>https://decrypt.co/?p=383930</id>
@@ -363,26 +383,6 @@
         <summary type="html"><![CDATA[The encrypted-messaging app will restrict screenshots on iOS 27 and auto-enable screen security on Android when it detects an AI assistant reading a chat.]]></summary>
         <author>
             <name>Decrypt Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is the AI Bubble Finally Popping? Nvidia Crashes 48% as Wall Street Experts Sound the Alarm]]></title>
-        <id>https://decrypt.co/?p=383754</id>
-        <link href="https://decrypt.co/383754/ai-bubble-finally-popping-nvidia-crashes-48-wall-street-alarm"/>
-        <updated>2026-11-21T14:01:06.000Z</updated>
-        <summary type="html"><![CDATA[Tech stocks are buckling after Anthropic’s historic IPO and Nvidia’s leadership crisis, while Bitcoin has slipped below $60,000. Experts disagree on whether AI faces a correction or a dot-com-style bust.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Claude Claims Historic Math Breakthrough One Day After Anthropic IPO]]></title>
-        <id>https://decrypt.co/?p=383747</id>
-        <link href="https://decrypt.co/383747/claude-historic-math-breakthrough-anthropic-ipo"/>
-        <updated>2026-11-20T21:36:02.000Z</updated>
-        <summary type="html"><![CDATA[Levent Alpöge claims Claude helped prove a 167-year-old math conjecture, but independent checks remain pending, and the release just after Anthropic’s IPO has prompted questions about its unusual publication timing.]]></summary>
-        <author>
-            <name>Jose Antonio Lanz</name>
         </author>
     </entry>
 </feed>
